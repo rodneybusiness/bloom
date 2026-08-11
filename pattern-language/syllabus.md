@@ -17,11 +17,11 @@ After completing this course, you will be able to:
 - [x] Able to explain what makes 253 patterns a *language* rather than a checklist: the network of upward/downward links and the ordering from large scale to small
 - [x] Able to select and sequence a handful of patterns into a coherent mini-language for a concrete design problem (e.g., a home office, a neighborhood café)
 - [x] Able to explain generative unfolding: why applying patterns in order "grows" a design the way grammar generates sentences, and how this differs from assembling parts
-- [ ] Able to explain piecemeal growth and why Alexander opposed master planning
+- [x] Able to explain piecemeal growth and why Alexander opposed master planning
 
 ### 3. The Deeper Theory: Life, Wholeness, and Evidence
-- [ ] Able to articulate the "quality without a name" (QWAN) and Alexander's claim that aliveness in places is objective, not mere taste
-- [ ] Able to explain the relationship between *A Pattern Language* and *The Timeless Way of Building* (the language itself vs. the theory behind it)
+- [x] Able to articulate the "quality without a name" (QWAN) and Alexander's claim that aliveness in places is objective, not mere taste
+- [x] Able to explain the relationship between *A Pattern Language* and *The Timeless Way of Building* (the language itself vs. the theory behind it)
 - [ ] Able to critique a pattern: describe what evidence would show that a given pattern is wrong, or bound to a culture/context
 
 ### 4. Legacy and Practice: Pattern Languages Beyond Architecture
@@ -42,3 +42,4 @@ After completing this course, you will be able to:
 |----------|----------------------|------|
 | 01.md | 1-1, 1-2, 2-1 | 2026-08-11 |
 | 02.md | 1-3, 2-2, 2-3 | 2026-08-11 |
+| 03.md | 2-4, 3-1, 3-2 | 2026-08-11 |
