@@ -1,0 +1,278 @@
+- ## Communication Fundamentals
+    - Active Listening — the RASA Model
+        - RASA listening model — the four steps in order::1) Receive, 2) Appreciate, 3) Summarize, 4) Ask
+        - RASA listening — Receive::Give {{full attention}} — eye contact, open body language
+        - RASA listening — Appreciate::Show engagement with {{nods, "mm-hmm," and facial expressions}}
+        - RASA listening — Summarize::{{Paraphrase back}} what you heard before adding anything of your own
+        - RASA listening — Ask::Ask {{clarifying questions}} to understand fully
+    - Named Listening Failure Modes
+        - Listening failure mode "solution jumping"::Offering advice before {{fully understanding the problem}}
+        - Listening failure mode "story matching"::Redirecting the conversation to {{your own similar experience}}
+        - Listening failure mode "mental rehearsal"::Planning your response {{instead of listening}}
+        - Listening failure mode "judgment forming"::Reaching conclusions before {{hearing everything}}
+    - Difficult Conversations — Preparation
+        - Difficult conversation prep — objective::Know the {{specific outcome}} you want before you open your mouth
+        - Difficult conversation prep — emotional state::Have the conversation when {{calm, not triggered}} — heat destroys the capacity the conversation demands
+        - Difficult conversation prep — facts vs stories::Separate {{observable facts}} from {{your interpretations}} of them
+        - Difficult conversation prep — intent::Assume positive intent — they probably {{aren't trying to hurt you}}
+    - Difficult Conversations — Execution (scripts are memorized verbatim, never paraphrased)
+        - Difficult conversation opener (verbatim)::"I need to discuss something important. Is now good?" #high-frequency
+        - Difficult conversation — stating facts::"When X happened…" — never "You always…" (a specific event, not a character verdict)
+        - Difficult conversation — sharing impact::"I felt…" or "The impact was…" — never "You made me…"
+        - Difficult conversation — the listening turn::Let them share their perspective completely before you respond
+        - Difficult conversation — moving to solutions::"How can we…" — never "You should…"
+    - Difficult Conversations — Named Failure Modes
+        - Conflict failure mode "kitchen sinking"::Bringing up {{multiple issues at once}} — one issue per conversation
+        - Conflict failure mode "character attack"::Criticizing {{who they are}} instead of the {{specific behavior}}
+        - Conflict failure mode "mind reading"::Assuming you know {{their intentions}} instead of asking
+        - Conflict failure mode "ultimatum"::Issuing one you are not truly {{prepared to follow through}} on
+- ## Boundary Setting and Maintenance
+    - Types of Boundaries
+        - The three boundary types::1) Physical, 2) Emotional, 3) Time
+        - Physical boundary — personal space::Everyone's {{comfort zone}} is different — don't assume yours is the norm
+        - Physical boundary — touch::{{Ask before}} hugging or other physical contact
+        - Physical boundary — property::Covers {{borrowing items, using someone's space, accessing belongings}}
+        - Emotional boundary — emotional labor::You are not responsible for {{other people's emotions}}
+        - Emotional boundary — venting limit (verbatim script)::"I don't have capacity for this now." — you are allowed to say it, even to close friends
+        - Emotional boundary — privacy::You don't have to {{share everything}}, even in close relationships
+        - Time boundary — availability::You are not required to be {{always accessible}}
+        - Time boundary — response time::You can take {{time to respond}} to anything non-urgent
+        - Time boundary — commitment capacity::Saying {{no to preserve energy}} is a legitimate reason, not an excuse
+    - The Boundary Formula
+        - Boundary Formula — the four steps in order::1) State the boundary, 2) explain briefly (optional), 3) offer an alternative if appropriate, 4) enforce the consequence if violated
+        - Boundary Formula step 1::State the boundary ("I need…" / "I'm not comfortable with…")
+        - Boundary Formula step 2::Explain briefly — {{one sentence}} of reason, and even that is optional
+        - Boundary Formula step 3::Offer an alternative — suggest a {{compromise}} if appropriate
+        - Boundary Formula step 4::Enforce the consequence — if the boundary is violated, {{follow through}}
+    - Enforcement Without Guilt
+        - Boundary guilt — your rights::You have the right to {{protect your wellbeing}}
+        - Boundaries vs meanness::Boundaries are {{self-care, not punishment}}
+        - Boundary enforcement — their reaction::You are not responsible for {{their emotional response}} to a boundary
+        - Boundary enforcement — consistency::Inconsistent enforcement {{teaches people that violating it is okay}}
+- ## Building and Maintaining Friendships
+    - Adult Friendship Mechanics
+        - The friendship equation::{{Proximity + repeated interaction + vulnerability}}
+        - Hours-to-friendship thresholds::About {{50 hours}} for casual friend, {{90 hours}} for friend, {{200+ hours}} for close friend
+        - Friendship maintenance interval::Contact every {{2-4 weeks}} to maintain closeness
+        - Best environments for making adult friends::{{Repeated scheduled activities}} — classes, clubs, leagues
+        - Adult friendship initiative rule::You must {{make the first moves}} — adulthood supplies no automatic repeated contact
+        - New-connection follow-up window::Reach out within {{48 hours}} of meeting someone you clicked with
+        - The vulnerability ladder::Share increasingly {{personal information gradually}} — closeness is built in steps, not leaps
+    - The Friendship Audit
+        - Friendship audit — energy question::Does this person {{energize or drain}} you?
+        - Friendship audit — reciprocity question::Is effort {{roughly equal}} over time?
+        - Friendship audit — growth question::Do you {{support each other's growth}}?
+        - Friendship audit — values question::Do your core values {{still align}}?
+    - Long-Distance Friendships
+        - Long-distance friendship — connection format::{{Scheduled regular video calls}} beat random texts
+        - Long-distance friendship — shared experiences::Watch shows together, book clubs, online games — shared activity, not just catch-up calls
+        - Long-distance friendship — voice messages::More personal than text, {{more convenient than calls}}
+        - Long-distance friendship — visit planning::Alternate who travels; plan {{about 6 months}} ahead
+- ## Romantic Relationships
+    - Chemistry vs Compatibility
+        - Chemistry (romantic)::The initial {{attraction, excitement, passion}}
+        - How long early romantic chemistry lasts::Theory: the intense early-passion phase typically fades within {{6-24 months}} — a rough pattern from passionate-love research, not a law #theory
+        - Compatibility (romantic)::Shared {{values, life goals, communication styles, lifestyle preferences}}
+        - What predicts long-term relationship success better than chemistry::{{Compatibility}}. Chemistry starts relationships; shared values, life goals, and conflict style sustain them
+    - The Big Five Compatibility Areas
+        - Big Five compatibility areas — the list::1) Money, 2) Children, 3) Religion/Spirituality, 4) Family, 5) Lifestyle
+        - Big Five compatibility — Money::{{Spending and saving habits, financial goals, debt tolerance}}
+        - Big Five compatibility — Children::{{Whether to have them, how many, parenting philosophy}}
+        - Big Five compatibility — Religion and Spirituality::{{Beliefs, practice level, how children will be raised}}
+        - Big Five compatibility — Family::{{Involvement level, boundaries, holiday traditions}}
+        - Big Five compatibility — Lifestyle::{{Social needs, cleanliness, work-life balance}}
+    - The Magic Ratio (Gottman)
+        - Gottman's magic ratio::{{5 positive interactions}} for every {{1 negative}} during conflict — the balance that distinguishes stable couples
+        - The 5:1 rule — what domain it belongs to::Relationship conflict — Gottman's positive-to-negative interaction ratio in stable couples
+        - Gottman's magic ratio — evidence status::Well-supported observational research — Gottman and Levenson's longitudinal studies of couples predicted divorce with high accuracy from this balance; correlational, but among the best-replicated findings in relationship science
+        - Magic ratio — what counts as positive::{{Appreciation, affection, humor, interest, agreement}}
+        - Magic ratio — what counts as negative::{{Criticism, defensiveness, contempt, stonewalling}}
+    - Love Languages
+        - Love languages — evidence status::Contested: popular framework, weak empirical support — a 2024 research review found none of its three core claims (one primary language, five distinct languages, matching predicts satisfaction) holds up; useful as a conversation tool
+        - Love languages — the five categories::In the contested framework: 1) words of affirmation, 2) quality time, 3) physical touch, 4) acts of service, 5) gifts
+        - Love languages — the usable insight::Express care in the form {{your partner actually values}}, not the form you prefer — the research-backed version of this is responsiveness to your partner's needs
+    - Fair Fighting Rules
+        - Fair fighting — topic rule::{{One issue}} at a time
+        - Fair fighting — below the belt::Never use {{known vulnerabilities as weapons}}
+        - Fair fighting — time limit::Take a break if the conflict exceeds {{20 minutes without progress}} — flooded people can't process
+        - Fair fighting — repair attempts::Recognize and accept {{efforts to de-escalate}}, even mid-argument
+    - The Repair Conversation (after a fight with shared fault)
+        - Repair conversation — sharing step::Each person shares {{feelings, needs, perspective}} — without blame
+        - Repair conversation — understanding step::You don't have to {{agree}} to understand
+        - Repair conversation — prevention step::Plan how to {{handle it differently}} next time
+        - Repair conversation — reconnect step::{{Physical touch, appreciation, lightness}}
+- ## Apology and Repair When You Were Wrong
+    - Scope note (not a card) — the repair conversation above assumes shared fault; when the fault is yours, you owe an apology, and a real apology is a specific skill.
+    - Real apology — the five parts in order::1) Name specifically what you did, 2) state the impact it had, 3) no "but" and no "if you felt", 4) offer to repair the damage, 5) state what you will do differently
+    - Real apology part 1 — name it::Say {{specifically what you did}} — "I'm sorry I repeated what you told me in confidence," not "I'm sorry about yesterday"
+    - Real apology part 2 — impact::State {{the effect on them}}, not your intent — "That embarrassed you in front of people you work with"
+    - Real apology part 3 — banned words::"but" and "if you felt" — "but" cancels everything before it; "if you felt" disputes that the injury happened
+    - Real apology part 4 — repair::Ask what would {{make it right}}, or propose a concrete fix yourself
+    - Real apology part 5 — changed behavior::Name {{what you will do differently}} — an apology without behavior change is a request for forgiveness on credit
+    - Apology anti-pattern "the conditional apology"::"I'm sorry if you were offended" — it disputes the injury instead of owning the act
+- ## Endings — Friendships, Breakups, No-Contact
+    - Ending Friendships
+        - Ending a friendship — fadeout vs direct close::Fadeout for {{casual or naturally drifting}} friendships; a direct close when the friendship was close, when they ask what's wrong, or when the fadeout isn't taking
+        - Friendship fadeout — how::Slow your {{initiation and response}} rate and decline politely without proposing new plans — most adult friendships end this way, and that's normal
+        - Friendship direct close — how::Brief, kind, and final — name the reason or the drift, {{thank them}} for the good years, and don't litigate history
+    - Breakup Basics
+        - Breakup — delivery::{{In person}} for any substantial relationship; a call only when distance makes in-person impossible — never by text
+        - Breakup — clarity rule::Be {{clear that it is over}} — ambiguity meant as kindness just extends the hurt
+        - Breakup — the decision is not a debate::State it; {{don't negotiate}} it — discussing logistics is fine, but debating the decision invites a counter-offer to something you have already decided
+        - Breakup — false hope rule::No "maybe someday," and no couple-like contact afterward — false hope converts one clean hurt into months of small ones
+    - Going No-Contact
+        - Going no-contact — what it is::Cutting off {{all channels}} — calls, texts, social media — with a person, completely
+        - Going no-contact — when it is warranted::After {{abuse, manipulation, or repeated boundary violations}}, or when every contact restarts a cycle you have decided to leave — it is protection, not punishment
+        - No-contact after an ordinary breakup::Common practice: a no-contact period of {{at least 30-60 days}} so attachment can fade; attempt friendship later only if you genuinely want it, not as a door left open
+- ## Workplace Relationship Basics
+    - Manager One-on-Ones
+        - Manager one-on-one — whose meeting it is::{{Yours}} — you bring the agenda; it is not a status report, it is your channel for decisions, blockers, and growth
+        - Manager one-on-one — agenda contents::{{Progress, decisions you need, blockers, one longer-term topic}} (growth, feedback)
+        - Manager one-on-one — blocker timing::Surface blockers {{early, while they are cheap}} — a blocker your manager first hears about at the deadline has become your failure
+    - Giving Feedback — the SBI Model
+        - SBI feedback model — the three letters::{{Situation, Behavior, Impact}}
+        - SBI feedback — Situation step::Anchor to a {{specific time and place}} ("In Tuesday's planning meeting…")
+        - SBI feedback — Behavior step::Describe the {{observable behavior}}, not your interpretation ("interrupted the client twice," not "was disrespectful")
+        - SBI feedback — Impact step::State the {{effect it had}} ("the client stopped raising concerns")
+    - Receiving Feedback
+        - Receiving feedback — in the moment::{{Don't defend, don't explain}} — ask clarifying questions, say thank you, decide later what to use
+        - Receiving feedback — why not defend::Defending {{teaches people to stop telling you things}} — you can discard bad feedback later, but only if it keeps arriving
+- ## Supporting Someone in Crisis
+    - Crisis support — the first move::{{Listen without fixing}} — the urge to solve is your discomfort talking, not their need
+    - Crisis support — ask what they need (verbatim script)::"Do you want help thinking this through, or do you want me to just listen?"
+    - Crisis support — disclosure rule::Take every disclosure of suicidal thoughts {{seriously}} — never as drama, attention-seeking, or exaggeration #safety
+    - Crisis support — asking about suicide directly::It {{does not plant the idea}} — reviews of the research find that asking does not increase suicidal ideation and may reduce it; asking opens the door to help #safety
+    - The US mental-health crisis line — number and channels::Call or text {{988}} (the Suicide & Crisis Lifeline), or chat at 988lifeline.org — free, confidential, 24/7, for people in crisis and for people supporting someone in crisis #safety #us
+    - Crisis handoff script (verbatim)::"You don't have to figure this out alone. Can we call 988 together right now?" #safety
+    - When to call 911 instead of 988::When there is {{immediate physical danger}} — an attempt in progress or a medical emergency; 988 handles mental-health crisis support without imminent danger #safety #us
+    - Crisis support — your limits::You are a {{bridge to professional help}}, not the treatment — connect them, then keep showing up
+- ## Social Event Navigation
+    - RSVP Etiquette
+        - RSVP response window::Within {{48 hours}} of receiving the invitation
+        - RSVP "maybe means no" rule::If genuinely uncertain, {{decline rather than flake}} — a reliable no beats an unreliable yes
+        - Plus-one rule::Bring a guest only if the invitation explicitly includes {{"and guest"}}
+        - Dietary restrictions timing::Share them {{when you RSVP}} if a meal is involved, not on arrival
+    - Arrival and Departure
+        - Event arrival timing::{{On time}} for dinner parties; {{15-30 minutes late}} is fine for open-house-style parties
+        - Leaving a party — graceful departure signals::{{Thank the host}}, mention the early morning, offer to help clean up
+        - Irish goodbye — when acceptable::At {{large parties}} where you're not close to the host
+    - Small Talk
+        - Small-talk starter — environmental::Comment on the {{venue, food, music, or decor}}
+        - Small-talk starter — relational (verbatim)::"How do you know [host]?"
+        - Safe small-talk topics::{{Local events, weather, sports}} — safer than politics
+        - Small-talk compliments::Genuine appreciation for {{clothing or accessories}} — things they chose, not things they are
+        - The FORD method (small talk)::{{Family, Occupation, Recreation, Dreams}} — four topics that always have material
+        - Small-talk open questions (verbatim)::"What's that like?" and "How did you get into that?"
+        - The small-talk pivot::Acknowledge what they said, then {{transition to a related topic}}
+        - Small-talk exit script (verbatim)::"Excuse me, I need to [bathroom/drink/find someone]. Great talking!"
+    - Gift Giving
+        - Wedding gift — typical amount::{{$75-150}}, depending on relationship and location (common US norm) #us
+        - Baby shower gift — typical amount::{{$25-75}}, from the registry preferred (common US norm) #us
+        - Housewarming gift — typical amount::{{$25-50}} — wine, plant, or candle are safe choices (common US norm) #us
+        - Adult friend birthday gift — typical amount::{{$20-50}}, unless your group has an established different norm (common US norm) #us
+        - Gift registry rule::If a registry exists, {{use it}} — they are telling you exactly what they want
+        - Uncertain-gift fallback::Consumables — {{wine, chocolate, coffee, candles}} — appreciated if right, gone gracefully if wrong
+        - Experience gifts::Often more appreciated than {{objects}}
+        - Group gifts — when to use::For {{expensive items}} or close-knit groups
+- ## Personal Productivity Systems
+    - Choosing a System
+        - GTD (Getting Things Done) — best for::{{Complex projects, many inputs, knowledge workers}}
+        - GTD core components::{{Capture everything, clarify actions, organize by context, review weekly}}
+        - GTD maintenance cost::{{High}} — daily processing plus a weekly review; skip the weekly review and the system quietly dies
+        - Time blocking — best for::{{Deep work, maker schedules, focus problems}}
+        - Time blocking — implementation::Assign {{specific time slots}} to tasks and {{batch similar work}}
+        - Time blocking — success requirements::{{Control over your schedule}} and {{realistic estimates}} — distrust your estimates until you've checked them against the planning fallacy
+        - Simple lists — best for::{{Routine tasks, low complexity, beginners}}
+        - Simple lists — maximum effectiveness::{{6-9 items}} a day, most important tasks first
+        - MIT (Most Important Tasks) rule::Do the {{most important tasks first}}, before reactive work claims the day
+    - Rolling Out a System
+        - System rollout weeks 1-2::{{Capture}} — just write everything down, don't organize yet
+        - System rollout weeks 3-4::{{Process}} — organize into categories, find the patterns
+        - System rollout weeks 5-6::{{Refine}} — eliminate the unnecessary, automate the repeatable
+        - System rollout weeks 7-8::{{Maintain}} — establish a review rhythm, adjust as needed
+        - Productivity system success indicator::The system feels {{automatic after about 8 weeks}}
+- ## Habit Formation Science
+    - The Habit Loop
+        - The habit loop — three parts in order::1) Cue, 2) Routine, 3) Reward
+        - Habit loop — cue::The {{environmental or internal signal}} that starts the routine
+        - Habit cue types::{{Time, location, preceding action, emotional state, other people}}
+        - Habit loop — routine::The {{actual behavior}} you are building
+        - Habit loop — reward::The {{positive reinforcement}} that makes the loop repeat
+        - Habit rewards — timing::{{Immediate}} beats delayed — the loop learns from what happens now, not from benefits months away
+    - Building Strategies
+        - The 2-minute rule (habits)::Start any new habit at 2 minutes or less — build the consistency first, scale the size later
+        - Habit growth rate::Once consistent, increase by about {{10% per week}} — never 100% at once
+        - Habit stacking::Attach the new habit to an {{existing strong habit}}
+        - Habit stacking formula (verbatim template)::"After [existing habit], I will [new habit]."
+        - Habit stacking example::After morning coffee, write for 2 minutes
+        - Environment design (habits)::Make good habits {{obvious and easy}}; make bad habits {{invisible and hard}}
+        - Environment design examples::{{Gym clothes visible, healthy food at eye level, phone in another room}}
+        - Habit tracking — why it works::Visual progress is an {{extra reward plus accountability}}
+        - Habit tracking options::{{Calendar X's, habit app, journal, accountability partner}}
+    - Named Failure Modes
+        - Habit failure mode "all-or-nothing thinking"::Believing one missed day {{breaks the habit}} — it doesn't; the miss that matters is the second
+        - The two-day rule::Never miss twice in a row — one miss is an accident, two is the start of a new (bad) habit
+        - Habit failure mode "too big too fast"::Scaling 100% at once instead of {{about 10% weekly}}
+        - Habit failure mode "no systems"::Relying on {{motivation instead of environment}} — motivation is weather; environment is climate
+        - Habit timing within the day::Put new habits {{earlier in the day}} when possible — earlier slots face fewer competing demands and less decision fatigue; the "77% morning vs 42% evening" success stat that circulates is unsourced, so treat it as folklore
+- ## Procrastination
+    - What Procrastination Is
+        - What procrastination actually is::A failure of {{emotion regulation}}, not laziness — trading your future self's goals for short-term mood repair (Sirois & Pychyl)
+        - Procrastination — what you are actually avoiding::{{The feeling}} the task creates (boredom, anxiety, self-doubt, confusion) — not the work itself; that's why willpower lectures miss the mechanism
+    - Getting Started
+        - Anti-procrastination — shrink the first action::Cut the first action down until it is {{below the resistance threshold}} — "open the document," not "write the report"
+        - Procrastination — the 2-minute entry::Commit to just {{2 minutes}} of the task — starting changes the emotional state that caused the avoidance, and momentum does the rest
+        - Implementation intention — the template (verbatim)::"At [TIME] in [PLACE], I will [ACTION]."
+        - Implementation intentions — evidence::A 94-study meta-analysis found a {{medium-to-large effect (d = 0.65)}} on goal attainment (Gollwitzer & Sheeran 2006)
+        - Implementation intentions — why they work::They move the start decision from {{the moment of resistance}} to a pre-committed cue — decide while calm, execute on autopilot
+        - Anti-procrastination — deadlines and stakes::Tasks without deadlines always lose to tasks with them — {{create a deadline}} and add stakes: tell someone, book the review, put money on it
+    - After a Slip
+        - After a procrastination slip::{{Forgive yourself}} and restart — students who forgave themselves for procrastinating on one exam procrastinated less on the next (Wohl, Pychyl & Bennett 2010)
+        - Procrastination failure mode "shame spiral"::Rumination after a slip {{fuels the next avoidance}} — beating yourself up is not the cure for the cycle, it is the fuel
+- ## Planning and Estimation
+    - The planning fallacy::The systematic tendency to {{underestimate}} how long tasks will take — even when you know your past estimates ran over
+    - Planning fallacy — the thesis study::Students predicted {{34 days}} to finish their theses; reality averaged {{55 days}} — and most blew past their own worst-case estimates too (Buehler, Griffin & Ross 1994)
+    - Reference-class forecasting::Estimate from {{how long similar tasks actually took}} (the outside view), not by imagining this task's steps (the inside view)
+    - Planning fallacy — why awareness isn't enough::Knowing about the bias doesn't debias you — you must actually {{use past durations}} as the estimate; students merely reminded of their track record predicted just as optimistically
+- ## Digital Organization Systems
+    - Email Management
+        - Inbox processing rule::Touch each email {{once}} and decide immediately
+        - Inbox Zero — the five decisions::{{Delete, delegate, respond (under 2 minutes), defer, do}}
+        - Email and message checking schedule::{{2-3 set times}} a day — batch it; constant checking is a focus tax
+        - Newsletter unsubscribe trigger::Skipped it {{3 times}}? Unsubscribe
+        - Email templates — what to can::{{Meeting requests, FAQs, thank-yous, follow-ups}} — worth building for any reply you write more than twice
+        - Email subject line rule::State the {{action needed and the deadline}} in the subject
+        - Email send timing::Send during {{business hours}} for better response rates
+    - File Organization (one system — search-first, folders as fallback)
+        - Digital filing — the master rule::If the tool has good search, {{search first and keep folders minimal}}; build a folder tree only where search is weak
+        - Folder count (when folders are needed)::About {{5-7}} top-level folders — few enough to scan at a glance
+        - Folder depth limit::No more than {{3 levels}} deep
+        - File naming — date format::{{YYYY-MM-DD}} at the start of the filename, so files sort chronologically by name
+        - File naming — version convention::Zero-padded version numbers — {{v01, v02, v03}} — never "FINAL": there is always a FINAL-FINAL, and version numbers don't lie
+        - File naming — characters::Letters, numbers, hyphens — avoid slashes, colons, asterisks, question marks, angle brackets, pipes, and quote marks, which break across systems
+        - File naming — structure::{{ProjectName-DocumentType-Date}} — descriptive but concise
+        - File archive strategy::Move completed projects into {{annual archive folders}} so the active space stays scannable
+- ## Focus and Deep Work
+    - Phone Management
+        - Phone notification audit::Keep only {{calls, calendar, and truly critical apps}} — everything else is someone else's agenda for your attention
+        - Phone placement during focus::{{A different room}} or a locked drawer — distance beats discipline
+        - Grayscale mode::Makes the screen {{less rewarding}}, which reduces pickups and usage
+        - App limits::Set {{daily limits}} on your known problem apps
+    - Computer Environment
+        - Browser discipline during focus work::{{One tab}} open — every extra tab is a queued interruption
+        - Website blockers::Block {{social, news, shopping}} during work hours — remove the decision instead of winning it repeatedly
+        - Desktop cleanliness::An {{empty desktop}} reduces visual distraction
+        - Full-screen mode::Eliminates {{all other visual inputs}}
+    - Time Protection
+        - Office hours concept::Publish {{specific availability times}} — interruptions batch themselves once people know when you're reachable
+        - Maker-time protection::{{No-meeting days}}, or meetings confined to afternoons — contiguous hours are where the hard work happens
+- ## Meeting Hygiene
+    - Meeting hygiene — the agenda rule::No agenda, {{no meeting}} — an agenda is the price of other people's hours
+    - Meeting decline script (verbatim)::"Thanks for including me — I don't think I can add much here. Could we handle my part async, or could you send me the notes?"
+    - Meeting hygiene — default length::Default {{shorter}} — 15-25 minutes instead of 30, 50 instead of 60; meetings expand to fill whatever you schedule
+    - Meeting hygiene — how to end::With {{owners and dates}} — every action item gets a name and a deadline, or the meeting decided nothing
+- ## Energy Management
+    - Adult sleep target::{{7-9 hours}} per night; the American Academy of Sleep Medicine's floor for adults is {{7 or more}}
+    - Why sleep is the keystone productivity habit::Everything else — focus, mood, willpower, habit adherence — {{degrades when underslept}}; fix sleep before optimizing anything downstream
+    - Focus block length::Roughly {{90 minutes}} of focused work, then a real break. Theory: patterned on the body's ultradian rest-activity cycle — treat the number as a planning default, not a law of biology #theory
+    - Peak-hours rule::Schedule your {{hardest cognitive work}} in your personal peak-alertness hours; put admin and shallow work in the troughs

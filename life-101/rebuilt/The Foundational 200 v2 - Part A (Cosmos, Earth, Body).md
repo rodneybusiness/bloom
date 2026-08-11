@@ -1,0 +1,130 @@
+- ## I The Cosmos and Physical Laws
+    - The Big Bang and Cosmic Scale
+        - Big Bang::The event that began our universe: all of space, time, matter, and energy expanding outward from an unimaginably hot, dense state. The expansion continues today.
+            - Follow-up — what came before the Big Bang?::Unknown, and possibly not even a meaningful question: if time itself began with the Big Bang, "before" may not exist. This remains an open problem in physics.
+        - Big Bang — the folk belief to negate::It was not an explosion of stuff INTO empty space. Space itself expanded; there is no "outside" it burst into and no center — the expansion happened everywhere at once.
+        - Age of the universe::About {{13.8 billion}} years, measured from the cosmic microwave background and the expansion rate.
+        - Big Bang — the three classic lines of evidence::1) The universe is still expanding (distant galaxies recede faster the farther away they are) 2) the cosmic microwave background, the leftover heat of the early universe 3) the abundances of hydrogen and helium match what a hot early universe predicts.
+        - Cosmic Microwave Background (CMB)::The oldest light in the universe — the afterglow of the hot early cosmos, released about 380,000 years after the Big Bang and now cooled to about {{2.7}} kelvin. It fills the sky in every direction.
+        - Light-year::The distance light travels in one year — about {{9.5 trillion}} km. A unit of distance, not time.
+        - Cosmic scale — the three anchor distances::1) Sunlight takes about 8 minutes to reach Earth 2) the nearest star beyond the Sun (Proxima Centauri) is about 4.2 light-years away 3) the Milky Way is about 100,000 light-years across.
+        - Cosmic scale — how much is out there::The Milky Way holds on the order of {{100 billion}} stars, and the observable universe holds hundreds of billions to perhaps two trillion galaxies (estimates vary with method). Our whole planet is a rounding error in the inventory.
+        - Why is looking far into space also looking back in time?::Because light takes time to travel: you see the Sun as it was about 8 minutes ago and distant galaxies as they were billions of years ago. There is no live feed of the universe.
+        - Star::A ball of plasma held together by its own gravity, hot and dense enough at the core to sustain nuclear fusion. The Sun is an ordinary mid-sized one.
+        - Galaxy::A gravitationally bound island of stars, gas, dust, and dark matter — millions to trillions of stars. Ours is the Milky Way.
+        - Dark matter::Unseen mass detected only through its gravity — galaxies rotate too fast for their visible matter alone to hold them together. Theory: most physicists expect an undiscovered particle; there is roughly five times more of it than ordinary matter, and its identity is unknown. #theory
+        - Dark energy::The name for whatever is causing the expansion of the universe to accelerate. Theory: it behaves like an energy of empty space itself; its nature is one of the biggest open questions in physics. #theory
+    - Light and Energy
+        - Speed of light::{{299,792,458}} m/s in a vacuum — about 300,000 km/s. The value is exact by definition, because the meter is now defined from it.
+        - Speed of light — why is it a universal limit?::As anything with mass approaches light speed, the energy needed to accelerate it further grows without bound. It is really the speed of causality: no matter, energy, or information can cross space faster.
+        - E = mc²::Mass and energy are two forms of the same thing. Because c² is enormous, a tiny amount of mass equals a staggering amount of energy — this is the budget stars spend.
+        - Electromagnetic spectrum::Visible light is one narrow band of a continuous spectrum of electromagnetic waves — radio, microwave, infrared, visible, ultraviolet, X-ray, gamma. Same phenomenon, different wavelength.
+    - Matter: Atoms to Chemistry
+        - Atom::The basic building block of all ordinary matter, composed of protons, neutrons, and electrons.
+            - Follow-up — the atom's actual layout::Nearly all the mass sits in a tiny, dense nucleus of protons and neutrons; electrons occupy the vast space around it. An atom is mostly empty space.
+        - Chemical element::A substance made of only one kind of atom, defined by its proton count — 6 protons is always carbon, 79 is always gold.
+        - Periodic Table::It organizes all known chemical elements by their atomic structure and recurring properties, providing a framework for chemistry.
+        - Heavy elements — where do the heavy elements (carbon, oxygen, gold) that make up our world come from?::They were forged in the nuclear furnaces of stars and dispersed through supernova explosions.
+        - Nuclear fusion::Light atomic nuclei merging into heavier ones, releasing energy because a little mass is converted into a lot of energy. Fusion is what powers stars — and what forged every element heavier than hydrogen and helium.
+        - States of matter::Solid, liquid, gas, and plasma (ionized gas). Plasma is the most common state of visible matter in the universe, because stars are made of it.
+        - What actually changes between states of matter?::Not the particles — their freedom. Adding energy lets particles vibrate loose from fixed positions (melting), then escape one another entirely (boiling). Same stuff, different motion.
+        - Temperature::A measure of the average kinetic energy of a substance's particles. "Hot" means the particles are moving faster — heat is motion.
+        - Absolute zero::{{-273.15}} degrees C (0 kelvin), where particle motion reaches its quantum minimum. Nothing can be colder; it can be approached but never reached.
+        - Chemical bond::An attraction between atoms formed by sharing or transferring their outer electrons. Bonds are why atoms assemble into molecules instead of drifting alone.
+        - Why does chemistry exist at all?::Because atoms with incomplete outer electron shells can reach a lower-energy state by sharing or transferring electrons. Nearly all of chemistry is outer electrons rearranging toward lower energy.
+        - Molecule::Two or more atoms held together by chemical bonds — water, oxygen gas, DNA. The scale at which "stuff" gets its everyday properties.
+    - The Four Fundamental Forces
+        - Four fundamental forces::1) Gravity 2) electromagnetism 3) the strong nuclear force 4) the weak nuclear force. Every interaction ever observed reduces to these four.
+        - Electromagnetism::The fundamental force responsible for light, electricity, and chemical bonds.
+            - Follow-up — why don't solid objects pass through each other?::Electromagnetism: the electrons of your hand and of the table repel each other. "Solidity" is force, not filled space — atoms are mostly empty.
+        - Strong nuclear force::Binds protons and neutrons into the atomic nucleus, overpowering the electric repulsion between protons. Strongest of the four forces, but its range is only about a nucleus wide.
+        - Weak nuclear force::Drives radioactive decay by changing one kind of particle into another. It runs the Sun's first fusion step — no weak force, no sunlight.
+        - Gravity — its rank among the four forces::By far the weakest, but it is always attractive and has infinite range, so at planetary and galactic scale it wins. Which force dominates depends on scale.
+        - Radioactive half-life::The time for half of a radioactive sample to decay. It is fixed and statistical, which makes decay a natural clock — the basis of carbon dating and of how we know the age of the Earth.
+    - Gravity and Relativity
+        - Gravity (per general relativity)::It is not just a force, but a curvature of spacetime caused by mass and energy.
+            - Dig Deeper — the trampoline picture of curved spacetime::A bowling ball on a trampoline curves the surface, so marbles roll toward it. Mass curves spacetime the same way, and planets "fall" along the curves. Imperfect, but the right intuition.
+        - General Relativity::Einstein's 1915 theory of gravity: mass and energy tell spacetime how to curve, and curved spacetime tells matter how to move. It replaced Newton's force-at-a-distance and predicted black holes, gravitational waves, and gravitational time dilation.
+            - Follow-up — how has General Relativity been confirmed?::1) Starlight bending past the Sun, measured in the 1919 eclipse 2) gravitational waves, first detected in 2015 3) GPS, whose satellite clocks must be corrected for the time dilation it predicts.
+    - Thermodynamics and Conservation
+        - First Law of Thermodynamics::The Law of Conservation of Energy: energy cannot be created or destroyed, only transformed from one form to another.
+        - Second Law of Thermodynamics::The Law of Entropy: in an isolated system, total entropy (disorder) never decreases over time.
+            - Follow-up — why "never decreases" instead of "always increases"?::Because entropy can hold constant in an idealized reversible process, and it can fall locally if it rises more somewhere else. The law only forbids the total, in an isolated system, from going down.
+        - Entropy::A measure of disorder — roughly, how many ways a system's parts could be rearranged without changing its overall appearance. Disorder wins by default because there are astronomically more messy arrangements than ordered ones.
+            - Dig Deeper — the arrow of time::Entropy is the only fundamental physics that distinguishes past from future; the other laws run equally well backwards. "Time flows forward" means "total disorder goes up."
+        - Entropy — why does creating order (like a building or a life form) require constant energy input?::Because the universe naturally tends toward disorder. Energy is required to fight this tendency.
+        - Entropy — the life maxim hiding in the Second Law::Nothing ordered is self-sustaining. Buildings, bodies, relationships, and skills all decay by default; maintenance is not overhead, it is the price of existence.
+        - Conservation of momentum::The total momentum of an isolated system never changes. It is why rockets work — throw mass backward and you must move forward — and why every recoil exists.
+            - Dig Deeper — why do conservation laws exist?::Noether's theorem: every conservation law comes from a symmetry of nature. Energy is conserved because the laws of physics do not change over time; momentum, because they do not change from place to place.
+        - Newton's three laws of motion::1) Objects keep their velocity unless a force acts on them (inertia) 2) force equals mass times acceleration 3) every action has an equal and opposite reaction.
+    - The Quantum World
+        - Quantum Mechanics::The field of physics that describes the behavior of matter and energy at the subatomic level.
+        - Reality at the quantum level — key characteristic::It is probabilistic — outcomes come as odds, not certainties, and this is a property of nature rather than a gap in our instruments.
+        - Wave-particle duality::Particles such as electrons and photons behave as both particles and waves depending on how they are measured; neither picture alone is complete.
+        - Quantum mechanics — what it does NOT license::Nothing about quantum randomness lets minds control reality, and "quantum" wellness claims borrow the word, not the physics. The weirdness is real, confined to tiny scales, and averages out into the ordinary world.
+- ## II Earth and Biology
+    - Deep Time and the Planet
+        - Age of the Earth::Approximately {{4.5 billion}} years old.
+            - Follow-up — how do we actually know the Earth's age?::Radiometric dating: radioactive elements in the oldest rocks and meteorites decay at fixed half-lives, giving a clock. Multiple independent isotope systems converge on the same answer.
+        - Plate Tectonics::The Earth's crust is divided into plates moving over the mantle.
+        - Plate Tectonics — what phenomena does the theory explain?::Movement of continents, earthquakes, and the formation of mountains.
+        - Water Cycle::The continuous loop of water — evaporation from the oceans, condensation into clouds, precipitation, and flow back to the sea. The same water has been cycling for billions of years.
+        - Life's timeline — how recent are humans?::1) Life appears within roughly Earth's first billion years 2) complex animals about 540 million years ago 3) Homo sapiens only about 300,000 years ago. On a 24-hour Earth clock, we arrive seconds before midnight.
+        - Extinction — the base rate::More than 99% of all species that have ever lived are extinct. Extinction is the norm; persistence is the exception that needs explaining.
+    - Life's Machinery
+        - Cell (biology)::The basic structural and functional unit of all known living organisms.
+        - Central organizing principle of biology::Evolution by Natural Selection.
+        - Natural Selection::Organisms better adapted to their environment tend to survive and produce more offspring, passing on their advantageous traits.
+            - Follow-up — the three ingredients Natural Selection requires::1) Variation between individuals 2) heritability of that variation 3) differential reproduction. Wherever all three exist — genes, firms, ideas, habits — selection operates.
+        - Natural Selection — does evolution aim at anything?::No. It has no goals and no foresight; "better adapted" is always relative to the current environment, and a trait that wins today can be fatal when the environment shifts.
+        - DNA::The molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all organisms.
+            - Dig Deeper — DNA as an information technology::Genes are durable, copyable, encoded information — the same trick civilization later reinvented as writing, money, and code. Life is the original information storage.
+        - Genetic code — what does its universality (A, T, C, G) suggest about all life on Earth?::All life on Earth shares a common ancestor.
+    - Energy Through Living Systems
+        - Photosynthesis::The process used by plants and other organisms to convert light energy into chemical energy (sugars), releasing oxygen as a byproduct.
+        - Cellular respiration::The reverse trade of photosynthesis: cells burn sugars with oxygen to release stored energy for use. Photosynthesis charges the battery; respiration spends it.
+        - Where does almost all biological energy ultimately come from?::The Sun. Photosynthesis captures sunlight into sugars, and nearly every food chain — including yours — is spending that captured sunlight.
+        - The 10% rule (trophic levels)::Only about 10% of energy passes from one level of a food chain to the next; the rest is spent on staying alive. It is why top predators are rare and why a field of plants feeds more people than the cattle grazing it.
+        - Earth's atmospheric oxygen — where did it come from?::Photosynthetic life. Early Earth's air had essentially no free oxygen; billions of years of photosynthesis put it there. The air you breathe is a biological product.
+    - Ecosystems and Climate
+        - Ecosystem::A community of living organisms interacting with their physical environment.
+        - Ecosystem — what does the concept emphasize?::The interdependence of life.
+        - Biodiversity — why is it important?::1) It increases the resilience of ecosystems 2) it provides essential resources (food, medicine) 3) it supports ecosystem services (pollination, climate regulation).
+        - Carbon Cycle::The process by which carbon atoms are continuously traveling between the atmosphere, oceans, land, and living organisms.
+        - Greenhouse Effect::The process where certain gases (like CO2 and methane) in the atmosphere trap the sun's heat, warming the planet.
+            - Follow-up — is the Greenhouse Effect bad in itself?::No — without it, Earth's surface would average well below freezing. The problem is the rate: humans are rapidly intensifying a system all life depends on.
+        - Climate change — how are human activities causing it?::By burning fossil fuels, we rapidly release stored carbon, intensifying the Greenhouse Effect and altering the global climate.
+- ## III Human Physiology and Health
+    - Homeostasis — the Deck's Spine
+        - Homeostasis::The ability of a biological system to maintain internal stability (e.g., temperature, blood sugar) despite changing external conditions.
+        - Homeostasis — its place in the Second Law::You are a local, temporary pocket of order in a universe sliding toward disorder. Homeostasis is entropy-resistance, funded continuously by food and oxygen — stop paying, and disorder wins immediately.
+        - Homeostasis — what kind of control system is it?::A negative feedback loop: sensors detect drift from a set point, and responses push the variable back. Homeostasis IS negative feedback — the same architecture as a thermostat, cruise control, and a well-run budget.
+        - Homeostasis — two concrete loops you run all day::1) Temperature: sweat when hot, shiver when cold, defending roughly 37 degrees C 2) blood sugar: insulin stores glucose after meals, glucagon releases it between them.
+        - Fever — a set point, not a malfunction::The folk belief is that the fever is the illness. Actually the body deliberately raises its own thermostat: higher temperature slows many pathogens and speeds up immune cells. A costly, calculated defense.
+    - Germs and Immunity
+        - Germ Theory of Disease::The theory that many diseases are caused by the presence and actions of specific microorganisms (bacteria, viruses, fungi).
+        - Germ Theory — the most effective public health intervention it implies::Hand washing — cheap, boring, and the number-one way to prevent the spread of infection.
+        - Virus::Genetic instructions in a protein coat, with no metabolism of its own. It hijacks your cells' machinery to copy itself — which is why it sits on the blurry border of "alive."
+        - Why don't antibiotics work on viruses?::Antibiotics attack bacterial machinery (cell walls, bacterial ribosomes). Viruses have no machinery of their own — they use YOUR cells — so there is nothing for the antibiotic to hit.
+        - Immune system — how does it "remember" pathogens?::Through adaptive immunity: after an infection, memory cells specific to that pathogen persist for years.
+        - Adaptive immunity — what does the memory buy you?::A faster, stronger response the next time the same pathogen appears — often fast enough that you never feel sick at all.
+        - Vaccine — how do vaccines work?::They introduce a harmless form of a pathogen to the immune system, training it to recognize and fight the actual disease without causing illness.
+        - Herd Immunity::When a large enough portion of a community is immune to a disease (through vaccination or prior infection), making the spread unlikely and protecting the vulnerable.
+        - Antibiotic resistance — what causes it?::Bacteria evolve to resist antibiotics, often due to overuse.
+        - Antibiotic resistance — why is it a threat?::It makes common infections increasingly difficult and dangerous to treat.
+        - Antibiotic resistance — which foundational mechanism is it?::Natural selection running in fast-forward: the antibiotic kills the susceptible bacteria, and the resistant few inherit the future. Overuse is selection pressure.
+    - Body Systems and Signals
+        - Hormone::Chemical messengers produced by the endocrine system that regulate mood, growth, metabolism, and the stress response (e.g., cortisol, insulin).
+        - Stress response — acute vs chronic::Acute stress (cortisol, adrenaline) is a feature: mobilize energy now, repair later. Chronic stress is the same alarm stuck on — suppressed immunity, disrupted sleep, degraded health. The system was built for sprints, not decades.
+        - Microbiome::The community of trillions of microorganisms living in the human body, primarily the gut.
+        - Gut microbiome — why is it important?::It plays crucial roles in digestion, immune function, and even mental health.
+        - Brain — the energy bill::About {{2}}% of body weight but roughly {{20}}% of the body's energy use — and most of that is spent on background maintenance, not effortful thinking.
+        - Use it or lose it — the body's accounting::Muscle and bone are expensive, so the body dismantles capacity it is not using (astronauts lose bone in weightlessness). Fitness is not stored; it is a subscription.
+        - Why does exercise work at all?::Controlled stress plus recovery: effort slightly damages and challenges tissue, and the body rebuilds it stronger than before. The adaptation happens during recovery — training without rest is just damage.
+    - Fuel and Maintenance
+        - Macronutrients — the three essential ones::{{Proteins}} (building blocks), {{carbohydrates}} (primary energy), {{fats}} (energy storage, hormone function).
+        - Physical health — the four pillars::1) Nutrition (balanced, whole foods) 2) exercise (cardio and strength) 3) sleep (quality and consistency) 4) stress management.
+        - Body weight — the thermodynamic frame::Stored fat obeys the First Law of Thermodynamics: it changes only with the balance of energy in versus energy out. Hormones, sleep, and food environment decide how hungry "in" feels — which is why environment design beats willpower.
+        - The dose makes the poison::Toxicity is a function of dose, not substance: water, oxygen, and vitamins all harm at high doses, and many feared "toxins" are harmless in traces. Ask "how much?" before "is it toxic?"
+        - Sleep — why is it crucial for cognitive function?::It is essential for memory consolidation, learning, emotional regulation, and clearing metabolic waste from the brain.
+        - Sleep — how much do adults actually need?::Most adults need {{7 to 9}} hours per night; the medical consensus floor is 7 or more. Chronic shortfalls raise the risks of accidents, depression, obesity, heart disease, and diabetes.
