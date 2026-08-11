@@ -1,0 +1,8 @@
+- Filter replacement frequency::{{Every 30 days for 1” filters}}, {{90 days for 4” filters}}, {{monthly during heavy use}}
+    - Why it matters::Dirty filter causes {{system strain}}, {{higher bills}}, {{premature failure}}
+    - Filter MERV ratings::{{MERV 8 for basic}}, {{MERV 11 for allergies}}, {{MERV 13 maximum for residential}}
+- Professional service schedule::{{Annually minimum}}, ideally {{spring for AC, fall for heat}}
+    - What service includes::{{Clean coils, check refrigerant, test capacitors, verify airflow, check electrical}}
+- DIY maintenance tasks::{{Keep 2-foot clearance around outdoor unit}}, {{clean drain line quarterly}}, {{check thermostat batteries}}
+- System lifespan::{{15-20 years average}}, {{longer with maintenance}}, {{shorter in extreme climates}}
+- Replacement indicators::{{Repairs exceed $5,000}}, {{over 15 years old}}, {{uses R-22 refrigerant}}, {{frequent breakdowns}}

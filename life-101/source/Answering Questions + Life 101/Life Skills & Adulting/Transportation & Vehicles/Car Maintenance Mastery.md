@@ -1,0 +1,60 @@
+- Understanding Maintenance Schedules
+    - Severe vs Normal Driving
+        - Severe driving conditions::{{Stop-and-go traffic}}, {{short trips <5 miles}}, {{dusty conditions}}, {{towing}}, {{extreme temperatures}}
+        - Schedule impact::Severe driving requires {{maintenance at half the normal interval}}
+        - Most people reality::{{90% of drivers}} actually fall under {{severe driving conditions}}
+    - Oil Change Deep Dive
+        - Modern oil change intervals::Conventional: 3,000-5,000 miles; Synthetic blend: 5,000-7,500 miles; Full synthetic: 7,500-15,000+ miles. Always consult your owner's manual or oil life monitor for specific recommendations.
+        - Oil life monitors::Generally accurate but {{conservative is safer for engine longevity}}
+        - Oil check procedure↔{{Engine warm but off 5 minutes}}::{{ Pull dipstick }}↔{{ Wipe }}↔{{ Reinsert fully }}↔{{ Check level between min/max}}
+        - Oil color meaning::{{Amber = new}}, {{Brown = normal}}, {{Black = okay for diesel}}, {{Milky = coolant leak problem}}
+        - Synthetic vs conventional::Synthetic costs {{2x more}} but lasts {{2-3x longer}} and {{protects better}}
+    - Tire Maintenance and Safety
+        - Tire pressure criticality
+            - Check frequency::{{Monthly minimum}} and {{before long trips}}
+            - Proper pressure location::{{Driver door jamb sticker}}, NOT {{tire sidewall (that’s maximum)}}
+            - Temperature impact::Pressure drops {{1 PSI per 10°F temperature drop}}
+            - Fuel economy impact::Under-inflated by 10 PSI costs {{3-5% fuel economy}}
+        - Tire rotation importance::Every {{5,000-7,500 miles}} to ensure {{even wear}}
+            - Rotation patterns::{{Front-to-back for same size}}, {{X-pattern for non-directional}}, {{side-to-side for directional}}
+        - Tread depth monitoring
+            - Penny test::Insert penny with {{Lincoln’s head down}}, if you see {{entire head, replace tire}}
+            - Actual measurements::{{New 10/32”}}, {{Replace at 2/32”}}, {{Consider replacement at 4/32” for rain/snow}}
+            - Uneven wear causes::{{Alignment issues}}, {{improper inflation}}, {{suspension problems}}
+        - Tire age limit::Replace at {{6 years regardless of tread}} due to {{rubber degradation}}
+            - How to check age::{{Last 4 digits of DOT code = week and year (e.g., 2419 = week 24 of 2019)}}
+    - Fluid Maintenance Schedule
+        - Transmission fluid::{{30,000-60,000 miles}} for most, {{never for some “lifetime” fills}} (but 100k is safer)
+            - Color indicators::{{Red/pink = good}}, {{Brown = time to change}}, {{Black/burnt smell = damage}}
+        - Coolant/antifreeze::{{30,000 miles or 2 years}}, prevents {{corrosion and freezing/boiling}}
+            - 50/50 mix importance::Pure antifreeze {{doesn’t cool as well}}, pure water {{corrodes and freezes}}
+        - Brake fluid::{{Every 2 years}} regardless of miles - it’s {{hygroscopic (absorbs water)}}
+            - Why water matters::Water in brake fluid {{lowers boiling point}} causing {{brake fade}}
+        - Power steering fluid::{{50,000-75,000 miles}} or when {{dark or contaminated}}
+        - Differential fluid::{{30,000-60,000 miles}}, often {{forgotten but critical}}
+- Troubleshooting Common Problems
+    - Warning Lights Priority
+        - Red lights (stop immediately)::{{Oil pressure}}, {{temperature}}, {{brake system}}, {{battery/charging}}
+            - Oil pressure light::Stop immediately - {{engine damage in minutes}} without oil pressure
+            - Temperature light::Stop immediately - {{warped heads/blown gasket}} from overheating
+        - Yellow lights (service soon)::{{Check engine}}, {{ABS}}, {{tire pressure}}, {{service required}}
+            - Check engine light::Steady = {{drive but diagnose soon}}, Flashing = {{stop driving, misfiring}}
+        - Reading codes::Auto parts stores {{read codes free}}, but codes {{indicate symptoms not always cause}}
+    - Sounds and Their Meanings
+        - Brake sounds
+            - Squeaking::{{Wear indicators touching rotor}} - replace {{within 1,000 miles}}
+            - Grinding::{{Metal on metal}} - stop driving immediately, {{rotors likely damaged}}
+            - Pulsing pedal::{{Warped rotors}} - replacement needed, {{temporary from hard braking}}
+        - Engine sounds
+            - Knocking/pinging::{{Pre-ignition}} - try {{higher octane gas}}, could indicate {{serious problem}}
+            - Ticking::Often {{valve train}} - check {{oil level first}}, may need {{adjustment}}
+            - Squealing belt::{{Loose or worn belt}} - {{$20 belt}} prevents {{$500 alternator}}
+        - Suspension sounds
+            - Clunking over bumps::{{Worn struts/shocks}}, {{ball joints}}, or {{bushings}}
+            - Pulling while driving::{{Alignment needed}} or {{uneven tire pressure}}
+    - Preventable Expensive Repairs
+        - Timing belt replacement::{{$500-1,000 prevention}} vs {{$3,000+ engine damage}} if breaks
+            - Interference engines::Belt failure causes {{valves to hit pistons}} destroying engine
+            - Replacement interval::{{60,000-100,000 miles}} - check manual, don’t exceed
+        - Cooling system maintenance::{{$150 coolant flush}} prevents {{$3,000+ head gasket}} failure
+        - Transmission service::{{$200 service}} prevents {{$3,000-5,000 rebuild/replacement}}

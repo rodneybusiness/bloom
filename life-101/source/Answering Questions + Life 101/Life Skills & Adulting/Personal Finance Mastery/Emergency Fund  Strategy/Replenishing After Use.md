@@ -1,0 +1,3 @@
+- Priority level::Rebuilding emergency fund is {{highest priority after minimum debt payments}}
+- Rebuild timeline target::{{Within 6-12 months}} to restore protection
+- Psychological impact::Using fund can feel like {{failure but it’s success}} - the fund {{did its job}}

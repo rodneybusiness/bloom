@@ -1,0 +1,206 @@
+- ### Home Maintenance and Systems 
+    - Preventive Maintenance Schedules 
+        - HVAC System Maintenance 
+            - Filter replacement frequency::{{Every 30 days for 1” filters}}, {{90 days for 4” filters}}, {{monthly during heavy use}}
+                - Why it matters::Dirty filter causes {{system strain}}, {{higher bills}}, {{premature failure}}
+                - Filter MERV ratings::{{MERV 8 for basic}}, {{MERV 11 for allergies}}, {{MERV 13 maximum for residential}}
+            - Professional service schedule::{{Annually minimum}}, ideally {{spring for AC, fall for heat}}
+                - What service includes::{{Clean coils, check refrigerant, test capacitors, verify airflow, check electrical}}
+            - DIY maintenance tasks::{{Keep 2-foot clearance around outdoor unit}}, {{clean drain line quarterly}}, {{check thermostat batteries}}
+            - System lifespan::{{15-20 years average}}, {{longer with maintenance}}, {{shorter in extreme climates}}
+            - Replacement indicators::{{Repairs exceed $5,000}}, {{over 15 years old}}, {{uses R-22 refrigerant}}, {{frequent breakdowns}}
+        - Plumbing System Maintenance 
+            - Water heater maintenance
+                - Annual flush procedure::{{Attach hose to drain valve → Turn off power/gas → Drain tank → Flush until clear}}
+                    - Why flush::Removes {{sediment buildup}} that {{reduces efficiency}} and {{shortens lifespan}}
+                - Temperature setting::{{120°F optimal}} for {{safety and efficiency}}
+                - Anode rod replacement::Every {{3-5 years}} to prevent {{tank corrosion}}
+                - Lifespan expectations::{{Tank 8-12 years}}, {{tankless 20+ years}}
+            - Drain maintenance::{{Monthly enzyme treatment}}, {{annual snake for prevention}}, {{avoid chemical cleaners}}
+            - Toilet maintenance::{{Replace flapper every 2-3 years}}, {{check fill valve annually}}, {{tighten connections}}
+            - Water pressure monitoring::Should be {{40-80 PSI}}, install {{pressure reducer if >80}}
+            - Winterization tasks::{{Disconnect hoses}}, {{insulate exposed pipes}}, {{drip faucets in freezing weather}}
+            - Leak detection::{{Monitor water bill for increases}}, {{check meter with everything off}}, {{food coloring in toilet tank}}
+        - Roof and Gutter System 
+            - Gutter cleaning schedule::{{Twice yearly minimum (spring/fall)}}, {{quarterly with many trees}}
+                - Why critical::Clogged gutters cause {{foundation damage}}, {{roof leaks}}, {{fascia rot}}, {{ice dams}}
+                - DIY vs professional::DIY saves {{$150-300}} but {{dangerous without proper equipment}}
+            - Roof inspection checklist::{{Missing/damaged shingles}}, {{flashing integrity}}, {{moss/algae growth}}, {{attic water stains}}
+            - Shingle lifespan by type::{{Asphalt 20-30 years}}, {{metal 40-70 years}}, {{tile 50+ years}}, {{slate 100+ years}}
+            - When to repair vs replace::Replace if {{>20 years old}}, {{multiple leaks}}, {{sagging}}, or {{repair cost >$5,000}}
+        - Electrical System Safety 
+            - GFCI testing::Test {{monthly}} using test/reset buttons on {{bathroom, kitchen, outdoor outlets}}
+            - Circuit breaker maintenance::{{Exercise breakers annually}} by flipping off/on, replace if {{won’t reset or trips frequently}}
+                - Circuit Breakers 
+                    - --------------------- Portal ---------------------
+                        - Answering Questions + Life 101
+                    - **Circuit Breaker**↔A safety device that automatically shuts off electrical current when there's too much flow, preventing wires from overheating and potentially starting fires
+                        - What problem can develop in the internal mechanisms from sitting in one position for years?→They can become "sticky" from corrosion or seizing up
+                        - What are the two potential failures that can occur with a sticky breaker during an actual overload?→It might fail to trip, or it might not reset properly afterward
+                        - What simple maintenance ritual should be performed annually?→Flip each breaker off and then back on
+                        - Why does the annual exercise ritual work to maintain breakers?→The mechanical action keeps internal contacts clean and spring mechanisms limber
+                        - What are two signs that indicate a breaker needs immediate replacement?→It won't stay reset (keeps popping back to "off"), or it trips frequently without an obvious overload
+                        - A faulty breaker that won't trip when needed is like having what?→A fire extinguisher that doesn't work
+                        - What is the typical cost range to replace a faulty breaker?→$50-150
+                        - What additional task should you do while at the electrical panel during annual maintenance?→Take a photo of the breaker labels and label any unmarked breakers
+                        - 
+                        - Warning signs::{{Flickering lights}}, {{warm outlets}}, {{burning smell}}, {{frequent breaker trips}}, {{buzzing sounds}}
+                        - When to call electrician::{{Any of above warning signs}}, {{adding circuits}}, {{aluminum wiring}}, {{knob-and-tube wiring}}
+                        - Electrical panel lifespan::{{25-40 years}}, replace if {{Federal Pacific or Zinsco brand}}, {{rust or burn marks}}
+    - Seasonal Home Maintenance
+        - Spring Maintenance Checklist
+            - Exterior tasks::{{Inspect roof, clean gutters, power wash siding, check foundation for cracks, service AC}}
+            - Interior tasks::{{Replace HVAC filters, test smoke/CO detectors, deep clean, check attic for pests/leaks}}
+            - Landscaping::{{Fertilize lawn, prune trees/shrubs, mulch beds, start irrigation system}}
+        - Summer Maintenance
+            - Cooling optimization::{{Clean AC coils, check refrigerant, seal air leaks, add attic insulation}}
+            - Pest prevention::{{Seal entry points, trim vegetation from house, eliminate standing water}}
+            - Paint and seal::{{Touch up exterior paint, seal deck/fence, caulk gaps}}
+        - Fall Maintenance Checklist
+            - Winterization tasks::{{Drain irrigation, store hoses, clean gutters again, service heating system}}
+            - Safety checks::{{Clean chimney, test heating system, replace detector batteries, check fire extinguisher}}
+            - Weather sealing::{{Add weatherstripping, insulate pipes, seal drafts, check attic insulation}}
+        - Winter Maintenance
+            - Freeze prevention::{{Keep heat at 55°F minimum, open cabinet doors, know water shutoff location}}
+            - Snow and ice::{{Stock ice melt, check snow removal equipment, prevent ice dams}}
+            - Indoor air quality::{{Humidity 30-50%, change filters more frequently, clean humidifier}}
+    - Home Repair vs Replace Decisions
+        - The 50% Rule::If repair costs {{>50% of replacement cost}}, usually {{better to replace}}
+        - Age-based decisions
+            - Appliances::Replace if {{repair cost >50% new}} AND {{>75% of expected lifespan}}
+            - HVAC::Replace if {{major repair needed}} AND {{>15 years old}}
+            - Water heater::Replace if {{leaking tank}} or {{>10 years with issues}}
+            - Roof::Replace if {{multiple leaks}} or {{>80% of lifespan}}
+        - Energy efficiency consideration::New appliances often {{pay for themselves in 5-10 years}} through energy savings
+        - DIY vs Professional Framework
+            - DIY appropriate::{{Painting, basic plumbing, filter changes, caulking, basic electrical (outlets/switches)}}
+            - Always hire professional::{{Electrical panel, gas lines, structural, roofing, HVAC refrigerant}}
+            - Cost-benefit calculation::If DIY saves {{<$500}} and risk is {{high}}, hire professional
+            - 
+- 
+- ### Home Buying Comprehensive Guide 
+    - Determining If You’re Ready to Buy
+        - Financial readiness checklist
+            - Emergency fund intact::{{3-6 months expenses}} AFTER down payment and closing costs
+            - Stable income::{{2+ years employment history}} in same field preferred
+            - Debt-to-income ratio::Total debt payments {{<36% of gross income}} including future mortgage
+            - Down payment saved::Ideally {{20% to avoid PMI}}, minimum {{3.5% for FHA}}, {{5% conventional}}
+            - Closing costs ready::Additional {{2-5% of purchase price}} for various fees
+            - Credit score optimized::{{740+ for best rates}}, minimum {{580 FHA, 620 conventional}}
+        - Rent vs Buy Calculation
+            - The 5% rule quick test::If annual rent {{< 5% of home price}}, generally {{better to rent}}
+            - Break-even timeline::Typically need to stay {{5-7 years}} to overcome {{transaction costs}}
+            - Hidden costs of ownership::{{Maintenance (1% home value/year), property tax (1-2%), insurance (0.5-1%), HOA, utilities increase}}  #high-frequency
+            - Opportunity cost consideration::Down payment could earn {{7-10% in market}} vs {{3-4% home appreciation}}
+            - Non-financial factors::{{Stability, customization, forced savings, community, schools}}
+    - The Home Buying Process Step-by-Step
+        - Step 1: Mortgage Pre-Approval
+            - Pre-qualification vs pre-approval::Pre-qual is {{estimate}}, pre-approval is {{verified commitment}}
+            - Documents needed::{{2 years tax returns, 2 months pay stubs, 2 months bank statements, employment verification, ID}}
+            - Credit pull impact::Multiple mortgage inquiries within {{14-45 days}} count as {{single inquiry}}
+            - Rate shopping window::Get {{3-5 quotes}} within {{2 weeks}} to minimize credit impact
+            - Pre-approval duration::Valid for {{60-90 days}}, may need {{refresh if expires}}
+        - Step 2: Finding the Right Home
+            - Needs vs wants framework::List {{must-haves}} vs {{nice-to-haves}}, stick to {{80% needs minimum}}
+            - Location factors to research::{{Schools (even if no kids for resale), crime rates, commute times, future development, flood zones}}
+            - The 10-year rule::Buy assuming you’ll {{be there 10 years}} even if planning less
+            - Multiple offer strategies::{{Escalation clause, waive contingencies (risky), larger earnest money, cash offer, personal letter}}
+        - Step 3: Making an Offer
+            - Earnest money::Typically {{1-3% of offer price}}, shows {{serious intent}}, applied to {{down payment or closing}}
+            - Contingencies to include
+                - Inspection contingency::Allows {{professional inspection}} and {{negotiation or exit based on findings}}
+                - Financing contingency::Can {{back out if mortgage denied}} without losing earnest money
+                - Appraisal contingency::Can {{renegotiate if appraisal below offer}} or walk away
+                - Sale contingency::Only if {{must sell current home first}} but weakens offer
+            - Negotiation beyond price::{{Closing date, repairs, closing costs, appliances, fixtures}}
+        - Step 4: Home Inspection Critical Points
+            - Major issues to watch for::{{Foundation problems, roof age/damage, HVAC age, electrical issues, plumbing problems, water damage/mold}}
+            - Age-based replacement timeline::{{Roof 20-30 years, HVAC 15-20 years, water heater 8-12 years, appliances 10-15 years}}
+            - Inspection negotiation options::{{Seller repairs, credit at closing, price reduction, walk away}}
+            - Additional inspections to consider::{{Termite, radon, sewer scope, chimney, pool/spa}}
+        - Step 5: Closing Process
+            - Final walk-through purpose::Verify {{repairs completed}}, {{no new damage}}, {{agreed items remain}}
+            - Closing costs breakdown::{{Lender fees (1-2%), title insurance (0.5-1%), escrow/attorney (1%), transfer taxes (varies), recording fees}}
+            - Documents you’ll sign::{{Promissory note, deed of trust/mortgage, closing disclosure, deed, various affidavits}}
+            - Wire fraud prevention::{{Never wire based on email}}, {{call to verify using known number}}, {{verify account details}}
+    - Mortgage Deep Dive
+        - Types of Mortgages
+            - Conventional loans::{{20% down avoids PMI}}, need {{620+ credit}}, best {{rates for excellent credit}}
+            - FHA loans::Only {{3.5% down}}, {{580+ credit}}, but {{PMI for life of loan}}
+            - VA loans::{{0% down}}, {{no PMI}}, for {{veterans/active military}}, best deal if eligible
+            - USDA loans::{{0% down}} for {{rural areas}}, income limits apply
+            - Jumbo loans::For amounts over {{$766,550 (2024)}}, require {{excellent credit and larger down payment}}
+        - Fixed vs Adjustable Rate (ARM)
+            - 30-year fixed::{{Stable payment}}, {{higher initial rate}}, best for {{long-term stay}}
+            - 15-year fixed::{{Half the interest paid}}, {{25% higher payment}}, builds {{equity faster}}
+            - 5/1 ARM::Fixed for {{5 years then adjusts annually}}, lower initial rate, {{risky if staying long}}
+            - When ARMs make sense::{{Plan to move in <7 years}}, can {{afford payment increase}}, {{expect income growth}}
+        - Mortgage Points Decision
+            - What are points::{{Prepaid interest}}, {{1 point = 1% of loan}}, typically buys {{0.25% rate reduction}}
+            - Break-even calculation::{{Point cost ÷ monthly savings = months to break even}}
+            - When to buy points::If staying {{longer than break-even}} and have {{extra cash after emergency fund}}
+        - PMI (Private Mortgage Insurance)
+            - When required::Conventional loans with {{<20% down payment}}
+            - Cost range::{{0.5-1.5% of loan amount annually}}
+            - Removal at 20% equity::Can request removal at {{20% equity}}, automatic at {{22% equity}}
+            - FHA MIP difference::Remains for {{life of loan if <10% down}}, {{11 years if >10% down}}
+            - 
+- 
+- ### Home Renting 
+    - Renting Like a Professional
+        - Finding the Right Rental
+            - The 30% Rule and Its Limitations
+                - Traditional rule::Spend no more than {{30% of gross income}} on rent
+                - Modern reality::In high-cost areas, {{up to 40-50%}} may be necessary but {{requires budget adjustments elsewhere}}
+                - True affordability calculation::{{Rent + utilities + parking + required insurance}} should be {{<30% of net income}}
+                - Hidden costs to factor::{{Moving costs, deposits, utility setup fees, parking, pet fees, required insurance}}
+            - Rental Application Preparation
+                - Documents to prepare in advance::{{Photo ID, proof of income (3 months pay stubs), bank statements (2-3 months), employment verification letter, references (3), previous landlord contact}}
+                - Credit check preparation::Know your score, {{explain any issues upfront}}, provide {{context for negative marks}}
+                - Making your application stand out::{{Cover letter, extra references, offer larger deposit, proof of rental insurance}}
+                - Income verification for self-employed::{{Tax returns (2 years), bank statements (6 months), client contracts, accountant letter}}
+                - Co-signer requirements::Usually needs {{income 3x rent}} and {{credit score 700+}}
+            - Reading and Understanding Lease Agreements
+                - Critical clauses to examine
+                    - Rent details::{{Amount, due date, grace period, late fees, acceptable payment methods}}
+                    - Lease term and renewal::{{Start/end dates, renewal terms, month-to-month conversion, rent increase limits}}
+                    - Security deposit terms::{{Amount, conditions for deductions, return timeline, walk-through requirement}}
+                    - Maintenance responsibilities::{{Who handles what repairs, response time requirements, emergency procedures}}
+                    - Pet policy::{{Allowed types, deposits, monthly fees, breed restrictions, number limits}}
+                    - Subletting and guests::{{Permission requirements, guest duration limits, subletting process}}
+                    - Breaking lease terms::{{Penalty amount, notice required, conditions for penalty-free break}}
+                - Red flags in leases::{{Waiving legal rights, automatic renewal without notice, excessive fees, no maintenance obligations, illegal clauses}}
+                - Negotiable items::{{Rent amount, move-in date, pet policy, parking, storage, painting permission, lease length}}
+            - Move-in Documentation Process
+                - The critical walk-through::Document {{every existing damage}} with {{photos and video}} before moving anything in
+                    - What to document::{{Walls, floors, appliances, fixtures, windows, doors, existing stains/damage}}
+                    - How to document::{{Date-stamped photos, video walkthrough with narration, written list signed by landlord}}
+                - Testing everything::{{All appliances, HVAC, plumbing, electrical outlets, locks, smoke detectors}}
+                - Utility setup and readings::{{Take meter readings, photograph them, set up all utilities immediately}}
+    - Tenant Rights and Responsibilities
+        - Universal Tenant Rights (Federal Level)
+            - Fair Housing Act protections::Cannot discriminate based on {{race, color, religion, sex, national origin, disability, familial status}}
+            - Disability accommodations::Landlord must allow {{reasonable accommodations}} like {{service animals, grab bars, ramps}}
+            - Right to habitable premises::Includes {{working plumbing, heat, electricity, weatherproofing, safe structure}}
+            - Right to privacy::Landlord needs {{24-48 hours notice}} except {{emergencies}}
+        - Security Deposit Protection
+            - Legal limits::Most states cap at {{1-2 months rent}}, some {{no limit}}
+            - Separate account requirement::Many states require deposits in {{separate account}} earning {{interest for tenant}}
+            - Return timeline::{{14-60 days depending on state}}, must provide {{itemized deduction list}}
+            - Disputing deductions::{{Send written dispute certified mail}}, can sue in {{small claims court}}, landlord must {{prove damages}}
+            - Normal wear and tear examples::{{Faded paint, worn carpet, minor scuffs, loose doorknobs}}
+            - Damage you’re liable for::{{Holes in walls, stains, broken fixtures, missing items, pet damage}}
+        - Repair and Maintenance Rights
+            - Landlord repair obligations::Must fix {{issues affecting habitability}} within {{reasonable time (typically 14-30 days)}}
+            - Emergency repair timeline::{{24-48 hours}} for issues like {{no heat, no water, gas leak, security}}
+            - Repair request process::{{Submit in writing (email/text okay), keep copies, follow up if no response}}
+            - Repair and deduct remedy::If landlord doesn’t fix, some states allow {{tenant to repair and deduct from rent}}
+                - Requirements for repair and deduct::{{Written notice, reasonable wait time, habitability issue, cost under limit (often 1 month rent)}}
+            - Withholding rent option::Some states allow {{rent withholding for serious issues}} but {{must follow exact legal process}}
+        - Eviction Process and Protection
+            - Legal reasons for eviction::{{Non-payment, lease violation, illegal activity, owner move-in, renovation}}
+            - Illegal eviction tactics::{{Changing locks, shutting off utilities, removing belongings, harassment}}
+            - Eviction process timeline::{{3-day pay or quit → 30-day notice → court filing → hearing → sheriff enforcement}}
+            - Your rights in eviction::{{Right to cure (fix issue), right to court hearing, right to remain until court order}}
+            - Eviction on your record::Stays for {{7 years}}, makes renting {{extremely difficult}}, may require {{co-signer or larger deposits}}
+            - 

@@ -1,0 +1,29 @@
+- The Basic Estate Planning Documents
+    - Last Will and Testament
+        - What it controls::{{Property distribution, guardian for minors, executor appointment}}
+        - What it doesn’t control::{{Joint property, beneficiary accounts, trust assets}}
+        - Requirements for validity::{{In writing, signed, 2 witnesses (non-beneficiaries), testator 18+ and competent}}
+        - Updating triggers::{{Marriage, divorce, birth, death, major asset change, move to different state}}
+        - Self-proving affidavit::Witnesses sign {{notarized statement}} to avoid {{court appearance}}
+    - Power of Attorney Types
+        - Financial POA::Allows agent to {{manage finances, pay bills, file taxes, manage investments}}
+            - Durable vs non-durable::Durable {{continues if incapacitated}}, non-durable {{ends at incapacity}}
+            - Springing POA::Only activates upon {{specific event (usually incapacity)}}
+            - Powers to consider::{{Banking, real estate, investments, business, gifts, trusts}}
+        - Healthcare POA::Agent makes {{medical decisions if you can’t}}
+            - When it activates::{{Doctor certifies you can’t make decisions}}
+            - Scope of authority::{{Treatment decisions, facility choice, access to records}}
+            - Limitations::Can’t override {{your known wishes}} or {{living will}}
+    - Advance Healthcare Directives
+        - Living Will components
+            - Life-sustaining treatment::Specify wishes for {{ventilators, feeding tubes, CPR, dialysis}}
+            - Pain management::Usually request {{comfort care even if refusing treatment}}
+            - Organ donation::Specify {{yes/no and any limitations}}
+        - HIPAA authorization::Allows {{specified people}} to access {{medical information}}
+        - DNR/POLST::More specific than living will, {{followed by EMTs}}, requires {{doctor signature}}
+    - Trust Basics
+        - Revocable Living Trust
+            - Benefits::{{Avoids probate, privacy, incapacity planning, harder to contest}}
+            - Drawbacks::{{Cost to create ($1,000-3,000), maintenance required, no tax benefits}}
+            - Funding requirement::Must {{transfer assets into trust}} or doesn’t work
+        - When trusts make sense::{{Own real estate in multiple states}}, {{privacy important}}, {{complex family}}, {{high net worth}}

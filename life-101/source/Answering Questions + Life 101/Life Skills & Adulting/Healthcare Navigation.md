@@ -1,0 +1,70 @@
+- ### Health Insurance Mastery 
+    - Choosing the Right Plan
+        - Total Cost Analysis
+            - True cost calculation::{{Annual premium + deductible + expected copays + max OOP}}
+            - High utilizer math::If expect {{>$5,000 in care}}, usually {{low deductible better}}
+            - Low utilizer math::If expect {{<$1,000 in care}}, usually {{HDHP+HSA better}}
+            - Break-even analysis::Compare {{premium difference × 12}} to {{deductible difference}}
+        - Network Considerations
+            - In vs out-of-network::Out-of-network can cost {{2-10x more}} with {{separate, higher deductible}}
+            - Balance billing risk::Out-of-network can bill {{difference between charge and allowed amount}}
+            - Emergency exception::{{In-network rates required}} for true emergencies
+            - Continuity of care::If doctor leaves network, can sometimes {{continue at in-network rates temporarily}}
+        - Prior Authorization Navigation
+            - What requires authorization::{{Expensive drugs, specialists, procedures, medical equipment}}
+            - Approval timeframes::{{72 hours urgent}}, {{14 days standard}}, {{can expedite if medically necessary}}
+            - Appeal process::{{Internal appeal → external review → state insurance commission}}
+            - Success rates::First appeal succeeds {{40% of time}}, external review {{45% of overturns}}
+            - 
+- ### Medical Care Optimization 
+    - Preventive Care Maximization
+        - No-Cost Preventive Services
+            - Annual screenings covered::{{Physical, blood pressure, cholesterol, diabetes, depression, STIs}}
+            - Cancer screenings::{{Mammogram (40+), colonoscopy (45+), cervical (21+), lung (50+ smokers)}}
+            - Immunizations covered::{{All CDC-recommended vaccines}} including flu, COVID, shingles (50+)
+            - Women’s health::{{Birth control, well-woman visits, breastfeeding support}}
+            - Key to coverage::Must be {{coded as preventive}} not diagnostic
+        - Age-Based Screening Schedule
+            - 20s::{{Annual physical, cholesterol check, blood pressure, STI screening, skin check}}
+            - 30s::Add {{diabetes screening if overweight, baseline EKG}}
+            - 40s::Add {{mammogram, comprehensive eye exam, hearing test}}
+            - 50s::Add {{colonoscopy, bone density (women), prostate discussion (men), shingles vaccine}}
+            - 60s+::Add {{AAA screening (men), cognitive assessment, fall risk assessment}}
+    - Healthcare Cost Reduction
+        - Prescription Savings Strategies
+            - Generic substitution::Saves {{80-85%}} with {{identical active ingredient}}
+            - Pharmacy shopping::Prices vary {{up to 10x}} between pharmacies
+            - Discount programs::{{GoodRx, pharmacy clubs, manufacturer coupons}}
+            - 90-day supplies::Often {{cheaper per dose}} and {{one copay vs three}}
+            - Mail order::Usually {{20-30% cheaper}} for maintenance medications
+            - Therapeutic alternatives::Ask doctor for {{cheaper drugs in same class}}
+        - Medical Bill Management
+            - Bill review process
+            - 1. Request itemized bill::Often reveals {{duplicate charges, errors, upcoding}}
+            - 1. Verify EOB match::Ensure {{insurance processed correctly}}
+            - 1. Check CPT codes::Verify {{services actually received}}
+            - 1. Appeal errors::{{85% of medical bills contain errors}}
+            - Negotiation tactics
+                - Cash discount::Offer {{immediate payment for 20-50% discount}}
+                - Payment plan::Most providers offer {{0% interest payment plans}}
+                - Financial assistance::Hospitals required to offer {{charity care up to 250% poverty level}}
+                - Settlement offer::For old debt, offer {{30-50% lump sum}}
+                - 
+- ### Mental Health and Wellness 
+    - Accessing Mental Health Care
+        - Finding Providers
+            - Insurance directory limitations::{{Often outdated}}, verify {{accepting new patients and insurance}}
+            - Psychology Today search::Better for {{finding specialists and reading approaches}}
+            - Waitlist strategies::Get on {{multiple waitlists}}, ask about {{cancellation list}}
+            - Telehealth expansion::Often {{easier access}} and {{more affordable}}
+        - Types of Mental Health Professionals
+            - Psychiatrist (MD/DO)::Can {{prescribe medication}}, focuses on {{medication management}}
+            - Psychologist (PhD/PsyD)::{{Therapy and testing}}, cannot prescribe (except few states)
+            - LCSW/LMFT/LPC::{{Master’s level therapists}}, most common providers
+            - Psychiatric NP::Can {{prescribe medication}}, often {{more available than psychiatrists}}
+        - Therapy Effectiveness
+            - Evidence-based approaches::{{CBT for anxiety/depression}}, {{DBT for emotional regulation}}, {{EMDR for trauma}}
+            - Session frequency::{{Weekly initially}}, then {{biweekly}}, then {{monthly maintenance}}
+            - Progress timeline::Give it {{6-8 sessions}} before evaluating fit
+            - When to switch therapists::{{No progress after 3 months}}, {{don’t feel heard}}, {{boundary issues}}
+            - 

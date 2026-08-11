@@ -1,0 +1,6 @@
+- Gutter cleaning schedule::{{Twice yearly minimum (spring/fall)}}, {{quarterly with many trees}}
+    - Why critical::Clogged gutters cause {{foundation damage}}, {{roof leaks}}, {{fascia rot}}, {{ice dams}}
+    - DIY vs professional::DIY saves {{$150-300}} but {{dangerous without proper equipment}}
+- Roof inspection checklist::{{Missing/damaged shingles}}, {{flashing integrity}}, {{moss/algae growth}}, {{attic water stains}}
+- Shingle lifespan by type::{{Asphalt 20-30 years}}, {{metal 40-70 years}}, {{tile 50+ years}}, {{slate 100+ years}}
+- When to repair vs replace::Replace if {{>20 years old}}, {{multiple leaks}}, {{sagging}}, or {{repair cost >$5,000}}

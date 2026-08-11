@@ -1,0 +1,34 @@
+- Relationship Foundations
+    - Compatibility vs Chemistry
+        - Chemistry::Initial attraction, excitement, passion - often {{fades in 6-24 months}}
+        - Compatibility::Shared {{values, life goals, communication styles, lifestyle preferences}}
+        - Both needed but::{{Compatibility determines long-term success}}
+    - The Big Five Compatibility Areas
+    - 1. Money::Spending/saving habits, financial goals, debt tolerance
+    - 1. Children::Want them or not, how many, parenting philosophy
+    - 1. Religion/Spirituality::Beliefs, practice level, raising children
+    - 1. Family::Involvement level, boundaries, holiday traditions
+    - 1. Lifestyle::Social needs, cleanliness, work-life balance
+- Relationship Maintenance
+    - The Magic Ratio::{{5 positive interactions}} to {{1 negative}} for healthy relationships
+        - Positive interactions::{{Appreciation, affection, humor, interest, agreement}}
+        - Negative interactions::{{Criticism, defensiveness, contempt, stonewalling}}
+    - Love Languages Application
+        - Words of Affirmation::{{Verbal appreciation, encouragement, compliments}}
+        - Quality Time::{{Undivided attention, shared activities}}
+        - Physical Touch::{{Hugs, holding hands, physical closeness}}
+        - Acts of Service::{{Doing helpful things, taking off their plate}}
+        - Gifts::{{Thoughtful presents, symbols of love}}
+        - Key insight::Give love in {{their language, not yours}}
+    - Conflict Resolution
+        - Fair fighting rules
+            - Stay on topic::One issue at a time
+            - No below belt::Don’t use {{known vulnerabilities as weapons}}
+            - Time limits::Take break if exceeds {{20 minutes without progress}}
+            - Repair attempts::Recognize and accept {{efforts to de-escalate}}
+        - The repair conversation
+            - Each person shares::{{Feelings, needs, perspective without blame}}
+            - Find understanding::Don’t have to {{agree to understand}}
+            - Plan prevention::How to {{handle differently next time}}
+            - Reconnect::Physical touch, appreciation, lightness
+            - 

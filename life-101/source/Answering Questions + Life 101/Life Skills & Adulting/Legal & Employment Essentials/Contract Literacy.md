@@ -1,0 +1,31 @@
+- **The One Rule**
+    - When to get a lawyer instead of DIY #high-frequency #big-picture >>>
+        - Real estate purchases 
+        - employment agreements
+        - anything over $10K
+        - equity/partnership deals
+        - anything you don't fully understand
+    -  #high-frequency #big-picture
+- Elements of a Valid Contract
+    - The Three Requirements
+        - Offer and acceptance::One party {{proposes terms}}, other {{accepts those exact terms}}
+            - Counter-offer impact::Counter-offer {{voids original offer}} and becomes {{new offer}}
+        - Consideration↔Each party must {{provide a bargained-for benefit or incur a bargained-for detriment (which can include forbearance)}} 
+            - What counts::{{Money, services, promises, forbearance from action}}
+            - do not count as valid consideration::Past actions, illegal acts, pre-existing duties
+        - Capacity and legality::Parties must be {{18+, mentally competent}} for {{legal purpose}}
+    - Contract Formation Methods
+        - Written contracts::Required for {{real estate, over 1 year, over $500, marriage, suretyship}}
+        - Verbal contracts::{{Legally binding}} but {{hard to prove terms}}
+        - Email agreements::Can form {{binding contracts}} if show {{clear agreement}}
+        - Click-wrap agreements::{{Binding if reasonable notice}} and {{affirmative consent}}
+    - Reading Contracts Strategically
+        - Key sections to scrutinize
+            - Payment terms::{{Amount, schedule, late fees, interest, payment methods}}
+            - Termination clause::{{Notice required, penalties, conditions for exit}}
+            - Liability limitations::{{Caps on damages, indemnification, warranty disclaimers}}
+            - Dispute resolution::{{Arbitration vs court, location, who pays costs}}
+            - Automatic renewal::{{Notice period to cancel, renewal terms}}
+        - Red flags to avoid::{{Blank spaces, one-sided terms, no termination option, unlimited liability, confession of judgment}}
+        - Modification rules::Changes must be {{in writing if contract requires}} and {{signed by both parties}}
+        - 

@@ -1,0 +1,23 @@
+- Building Lasting Habits
+    - The Habit Loop
+        - Cue (Trigger)::Environmental or internal signal to {{start routine}}
+            - Types of cues::{{Time, location, preceding action, emotional state, other people}}
+        - Routine (Behavior)::The {{actual habit you’re building}}
+            - Start tiny::{{2 minutes or less}} to build consistency first
+        - Reward (Benefit)::The {{positive reinforcement}} that makes you repeat
+            - Immediate rewards::More powerful than {{delayed benefits}}
+    - Implementation Strategies
+        - Habit Stacking::Attach new habit to {{existing strong habit}}
+            - Formula::After {{existing habit}}, I will {{new habit}}
+            - Example::After {{morning coffee}}, I will {{write for 2 minutes}}
+        - Environment Design::Make good habits {{obvious and easy}}, bad habits {{invisible and hard}}
+            - Examples::{{Gym clothes visible, healthy food at eye level, phone in another room}}
+        - Tracking Methods::Visual progress creates {{additional reward and accountability}}
+            - Options::{{Calendar X’s, habit app, journal, accountability partner}}
+    - Common Failure Points
+        - All-or-nothing thinking::Missing one day doesn’t {{break the habit}}
+            - Two-day rule::Never miss {{twice in a row}}
+        - Too big too fast::Increase by {{10% weekly}} not {{100% immediately}}
+        - No systems::Relying on {{motivation instead of environment}}
+        - Wrong time::Morning habits {{77% success rate}} vs evening {{42%}}
+        - 

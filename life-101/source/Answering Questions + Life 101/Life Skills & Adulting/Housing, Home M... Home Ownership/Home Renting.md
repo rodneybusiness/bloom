@@ -1,0 +1,57 @@
+- Renting Like a Professional
+    - Finding the Right Rental
+        - The 30% Rule and Its Limitations
+            - Traditional rule::Spend no more than {{30% of gross income}} on rent
+            - Modern reality::In high-cost areas, {{up to 40-50%}} may be necessary but {{requires budget adjustments elsewhere}}
+            - True affordability calculation::{{Rent + utilities + parking + required insurance}} should be {{<30% of net income}}
+            - Hidden costs to factor::{{Moving costs, deposits, utility setup fees, parking, pet fees, required insurance}}
+        - Rental Application Preparation
+            - Documents to prepare in advance::{{Photo ID, proof of income (3 months pay stubs), bank statements (2-3 months), employment verification letter, references (3), previous landlord contact}}
+            - Credit check preparation::Know your score, {{explain any issues upfront}}, provide {{context for negative marks}}
+            - Making your application stand out::{{Cover letter, extra references, offer larger deposit, proof of rental insurance}}
+            - Income verification for self-employed::{{Tax returns (2 years), bank statements (6 months), client contracts, accountant letter}}
+            - Co-signer requirements::Usually needs {{income 3x rent}} and {{credit score 700+}}
+        - Reading and Understanding Lease Agreements
+            - Critical clauses to examine
+                - Rent details::{{Amount, due date, grace period, late fees, acceptable payment methods}}
+                - Lease term and renewal::{{Start/end dates, renewal terms, month-to-month conversion, rent increase limits}}
+                - Security deposit terms::{{Amount, conditions for deductions, return timeline, walk-through requirement}}
+                - Maintenance responsibilities::{{Who handles what repairs, response time requirements, emergency procedures}}
+                - Pet policy::{{Allowed types, deposits, monthly fees, breed restrictions, number limits}}
+                - Subletting and guests::{{Permission requirements, guest duration limits, subletting process}}
+                - Breaking lease terms::{{Penalty amount, notice required, conditions for penalty-free break}}
+            - Red flags in leases::{{Waiving legal rights, automatic renewal without notice, excessive fees, no maintenance obligations, illegal clauses}}
+            - Negotiable items::{{Rent amount, move-in date, pet policy, parking, storage, painting permission, lease length}}
+        - Move-in Documentation Process
+            - The critical walk-through::Document {{every existing damage}} with {{photos and video}} before moving anything in
+                - What to document::{{Walls, floors, appliances, fixtures, windows, doors, existing stains/damage}}
+                - How to document::{{Date-stamped photos, video walkthrough with narration, written list signed by landlord}}
+            - Testing everything::{{All appliances, HVAC, plumbing, electrical outlets, locks, smoke detectors}}
+            - Utility setup and readings::{{Take meter readings, photograph them, set up all utilities immediately}}
+- Tenant Rights and Responsibilities
+    - Universal Tenant Rights (Federal Level)
+        - Fair Housing Act protections::Cannot discriminate based on {{race, color, religion, sex, national origin, disability, familial status}}
+        - Disability accommodations::Landlord must allow {{reasonable accommodations}} like {{service animals, grab bars, ramps}}
+        - Right to habitable premises::Includes {{working plumbing, heat, electricity, weatherproofing, safe structure}}
+        - Right to privacy::Landlord needs {{24-48 hours notice}} except {{emergencies}}
+    - Security Deposit Protection
+        - Legal limits::Most states cap at {{1-2 months rent}}, some {{no limit}}
+        - Separate account requirement::Many states require deposits in {{separate account}} earning {{interest for tenant}}
+        - Return timeline::{{14-60 days depending on state}}, must provide {{itemized deduction list}}
+        - Disputing deductions::{{Send written dispute certified mail}}, can sue in {{small claims court}}, landlord must {{prove damages}}
+        - Normal wear and tear examples::{{Faded paint, worn carpet, minor scuffs, loose doorknobs}}
+        - Damage you’re liable for::{{Holes in walls, stains, broken fixtures, missing items, pet damage}}
+    - Repair and Maintenance Rights
+        - Landlord repair obligations::Must fix {{issues affecting habitability}} within {{reasonable time (typically 14-30 days)}}
+        - Emergency repair timeline::{{24-48 hours}} for issues like {{no heat, no water, gas leak, security}}
+        - Repair request process::{{Submit in writing (email/text okay), keep copies, follow up if no response}}
+        - Repair and deduct remedy::If landlord doesn’t fix, some states allow {{tenant to repair and deduct from rent}}
+            - Requirements for repair and deduct::{{Written notice, reasonable wait time, habitability issue, cost under limit (often 1 month rent)}}
+        - Withholding rent option::Some states allow {{rent withholding for serious issues}} but {{must follow exact legal process}}
+    - Eviction Process and Protection
+        - Legal reasons for eviction::{{Non-payment, lease violation, illegal activity, owner move-in, renovation}}
+        - Illegal eviction tactics::{{Changing locks, shutting off utilities, removing belongings, harassment}}
+        - Eviction process timeline::{{3-day pay or quit → 30-day notice → court filing → hearing → sheriff enforcement}}
+        - Your rights in eviction::{{Right to cure (fix issue), right to court hearing, right to remain until court order}}
+        - Eviction on your record::Stays for {{7 years}}, makes renting {{extremely difficult}}, may require {{co-signer or larger deposits}}
+        - 

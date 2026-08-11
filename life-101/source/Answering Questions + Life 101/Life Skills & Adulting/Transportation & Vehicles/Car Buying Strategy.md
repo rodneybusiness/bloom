@@ -1,0 +1,35 @@
+- New vs Used Decision Framework
+    - Depreciation Reality
+        - New car depreciation curve::{{20% driving off lot}}, {{40% year 2}}, {{60% year 5}}
+        - The sweet spot for used::{{2-4 years old}} gets you {{60-80% of car life}} for {{40-60% of new price}}
+        - Certified Pre-Owned value::Costs {{$1,000-3,000 more}} but includes {{warranty and inspection}}
+    - Total Cost of Ownership Calculation
+        - TCO components::{{Purchase price + interest + insurance + gas + maintenance + repairs - resale value}}
+        - 5-year TCO comparison::New car {{$40,000 over 5 years}}, 3-year-old same model {{$25,000}}
+        - Hidden costs new vs used::New has {{higher insurance and registration}}, used has {{more repairs}}
+    - When New Makes Sense
+        - Specific situations for new::{{Keeping 10+ years}}, {{specific features only in new}}, {{0% financing available}}, {{severe reliability anxiety}}
+        - Best new car value::Buy {{end of model year}}, {{less popular colors}}, {{one trim below top}}
+- Financing vs Paying Cash
+    - The Interest Rate Decision Point
+        - The 4% rule::If loan rate {{<4%}}, generally {{better to finance and invest cash}}
+        - Investment opportunity cost::$30,000 cash could earn {{7-10% in market}} vs paying {{3-5% loan interest}}
+        - Credit score impact on rates::{{750+ gets best rates}}, {{<650 adds 5-10% to rate}}
+    - Loan Term Optimization
+        - Never exceed terms::{{60 months for new}}, {{48 months for used}}, {{36 months for older used}}
+        - Why longer terms hurt::{{More interest paid}}, {{underwater longer}}, {{out of warranty while paying}}
+        - Monthly payment trap::Dealers focus on payment, not {{total cost}} - always negotiate {{total price first}}
+- Negotiation Tactics
+    - Information Gathering Phase
+        - Research tools to use::{{KBB, Edmunds, TrueCar}} for pricing, {{CarFax, AutoCheck}} for history
+        - Invoice vs MSRP::Fair price is {{3-5% over invoice}} for new, {{check multiple listings}} for used
+        - Timing for best deals::{{End of month}}, {{end of quarter}}, {{end of model year}}, {{rainy days}}
+    - Negotiation Process
+        - Never discuss::{{Trade-in and financing}} until {{price is settled}}
+        - The four-square trap::Dealers use this to {{confuse and hide true costs}}
+        - Walk-away power::Be prepared to {{leave}} - this is your {{strongest negotiation tool}}
+        - Online quote strategy::Get {{written quotes from multiple dealers}}, use to {{negotiate}}
+    - Used Car Specific Checks
+        - Pre-purchase inspection::Always get {{independent inspection ($100-200)}} before buying
+        - Red flags to avoid::{{Salvage title}}, {{frame damage}}, {{flood damage}}, {{multiple owners}}, {{no maintenance records}}
+        - Test drive checklist::{{Cold start}}, {{highway speeds}}, {{hard braking}}, {{all electronics}}, {{unusual noises/smells}}

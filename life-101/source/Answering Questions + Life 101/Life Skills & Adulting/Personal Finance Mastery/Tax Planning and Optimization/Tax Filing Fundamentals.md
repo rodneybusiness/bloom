@@ -1,0 +1,18 @@
+- Determining Filing Requirements
+    - Must file if income exceeds::{{Standard deduction amount}} for your filing status
+    - Should file even if not required::To claim {{refundable credits}} or get {{refund of withheld taxes}}
+    - Filing status optimization
+        - Single vs Head of Household::HOH saves {{~$3,000 in deductions}} if qualify
+            - HOH requirements::{{Unmarried, pay >50% household costs, qualifying dependent}}
+        - Married filing jointly vs separately::Jointly almost always better except {{student loan forgiveness, liability concerns}}
+- Record Keeping Requirements
+    - Keep 3 years::{{Most tax returns and supporting documents}}
+    - Keep 7 years::{{If claiming losses, bad debt deduction, unreported income >25%}}
+    - Keep forever::{{Returns, cost basis for investments/property, major improvements}}
+    - Digital is fine::{{IRS accepts digital records}} if {{complete and legible}}
+- Audit Risk Factors
+    - Audit rate reality::{{0.4% overall}}, {{1.4% for high income}}, {{5.3% for no income reported}}
+    - Red flags::{{Home office, 100% business vehicle, large charity, round numbers, cash business}}
+    - Audit types::{{Correspondence (mail), office, field (home/business)}}
+    - Your rights::{{Representation, appeal, payment plan, innocent spouse relief}}
+    - 

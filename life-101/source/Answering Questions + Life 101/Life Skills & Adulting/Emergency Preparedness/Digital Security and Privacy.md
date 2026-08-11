@@ -1,0 +1,23 @@
+- Password and Account Security
+    - Password Management System
+        - Password requirements modern::{{12+ characters}}, {{unique per account}}, {{no personal info}}
+        - Password manager setup::Master password + {{2FA}} protects all others
+        - Master password creation::{{Passphrase method - 4+ random words}} easier to remember
+        - Backup access::{{Emergency kit}}, {{trusted contact}}, {{recovery codes printed}}
+    - Two-Factor Authentication Priority
+        - Critical accounts for 2FA::{{Email, banking, password manager, phone carrier, primary social}}
+        - Rank these 2FA types from strongest to weakest: Hardware key, authenticator app, SMS 
+        - Backup codes::Print and store {{securely}}, regenerate {{after any use}}
+        - SIM swap protection::Add {{carrier security PIN}} to prevent {{number porting}}
+- Data Protection Strategy
+    - Backup Rule Implementation
+        - 3-2-1 Rule::{{3 copies total}}, {{2 different media types}}, {{1 offsite}}
+        - What to backup::{{Documents, photos, financial records, passwords, important emails}}
+        - Backup frequency::{{Critical files daily}}, {{photos weekly}}, {{full system monthly}}
+        - Testing backups::{{Restore test quarterly}} to ensure {{backups work}}
+    - Privacy Protection Basics
+        - Information sharing minimization::Only provide {{required information}}, use {{aliases when possible}}
+        - Public WiFi safety::{{Always use VPN}}, {{never access banking}}, {{assume everything visible}}
+        - Social media privacy::{{Maximum privacy settings}}, {{limit personal info}}, {{review tags}}
+        - Data breach response::{{Change password immediately}}, {{enable 2FA}}, {{monitor accounts}}, {{credit freeze if needed}}
+        - 

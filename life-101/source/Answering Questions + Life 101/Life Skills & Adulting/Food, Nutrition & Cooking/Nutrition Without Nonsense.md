@@ -1,0 +1,20 @@
+- The Five Principles That Actually Matter
+    - 1. Calorie Balance::{{Calories in vs calories out}} determines weight, period
+        - TDEE calculation::{{BMR × activity factor}} = maintenance calories
+        - Deficit for loss::{{500 calorie deficit = 1 pound/week loss}}
+        - Quality matters for::{{Satiety, health, energy}} but not weight loss itself
+- 1. Protein Priority::Aim for {{0.7-1g per pound body weight}}
+    - Why it matters::{{Preserves muscle}}, {{highest thermic effect}}, {{most satiating}}
+    - Complete sources::{{Meat, fish, eggs, dairy, soy, quinoa}}
+    - Combining incomplete::{{Beans + rice}}, {{peanut butter + whole grain}}
+- 1. Fiber Focus::Target {{25-35g daily}}
+    - Benefits::{{Satiety, digestive health, cholesterol reduction, blood sugar control}}
+    - Best sources::{{Beans, vegetables, whole grains, fruits}}
+    - Increase gradually::Add {{5g per week}} to avoid digestive upset
+- 1. Micronutrient Density::Eat {{variety of colors}} for vitamin/mineral coverage
+    - The rainbow method::{{Red (lycopene)}}, {{Orange (beta-carotene)}}, {{Green (folate)}}, {{Blue/Purple (anthocyanins)}}, {{White (allicin)}}
+    - Supplementation reality::Most people need only {{Vitamin D}} and maybe {{B12 if vegan}}
+- 1. Hydration Habit::{{Half body weight in ounces}} minimum daily
+    - Timing optimization::{{16oz upon waking}}, {{8oz before meals}}, {{stop 2 hours before bed}}
+    - Hydration indicators::Urine should be {{pale yellow}}, {{dark = dehydrated}}, {{clear = overhydrated}}
+    - 

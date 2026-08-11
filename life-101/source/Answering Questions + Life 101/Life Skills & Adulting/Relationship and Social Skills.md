@@ -1,0 +1,148 @@
+- ### Communication Fundamentals 
+    - Active Listening Mastery
+        - The RASA Model
+            - Receive::{{Full attention, eye contact, open body language}}
+            - Appreciate::{{Nods, “mm-hmm”, facial expressions showing engagement}}
+            - Summarize::{{Paraphrase back}} what you heard
+            - Ask::{{Clarifying questions}} to understand fully
+        - Common Listening Failures
+            - Solution jumping::Offering advice before {{fully understanding problem}}
+            - Story matching::Redirecting to {{your similar experience}}
+            - Mental rehearsal::Planning response instead of {{listening}}
+            - Judgment forming::Making conclusions before {{hearing everything}}
+    - Difficult Conversations Framework
+        - Preparation Phase
+            - Clarity of objective::What {{specific outcome}} do you want?
+            - Emotional regulation::Have conversation when {{calm, not triggered}}
+            - Facts vs stories::Separate {{observable facts}} from {{interpretations}}
+            - Assume positive intent::They probably {{aren’t trying to hurt you}}
+        - Execution Method
+            - Opening::“I need to discuss something important. Is now good?” ##high-frequency
+            - State facts::“When X happened…” not “You always…”
+            - Share impact::“I felt/The impact was…” not “You made me…”
+            - Listen fully::Let them {{share their perspective completely}}
+            - Find solutions::“How can we…” not “You should…”
+        - Common Mistakes
+            - Kitchen sinking::Bringing up {{multiple issues at once}}
+            - Character attacks::Criticizing {{who they are}} vs {{specific behavior}}
+            - Mind reading::Assuming you know {{their intentions}}
+            - Ultimatums::Unless truly {{prepared to follow through}}
+            - 
+- ### Boundary Setting and Maintenance 
+    - Types of Boundaries
+        - Physical Boundaries
+            - Personal space::Everyone has different {{comfort zones}}
+            - Touch preferences::Ask before {{hugging, touching, physical contact}}
+            - Property boundaries::{{Borrowing items, using space, accessing belongings}}
+        - Emotional Boundaries
+            - Emotional labor::Not responsible for {{others’ emotions}}
+            - Venting limits::Can say “I don’t have capacity for this now”
+            - Privacy rights::Don’t have to {{share everything}}
+        - Time Boundaries
+            - Availability limits::Not required to be {{always accessible}}
+            - Response time::Can take {{time to respond}} to non-urgent
+            - Commitment capacity::Okay to say {{no to preserve energy}}
+    - Setting Boundaries Effectively
+        - The Boundary Formula
+        - 1. State boundary::“I need…” or “I’m not comfortable with…”
+        - 1. Explain briefly::One sentence reason (optional)
+        - 1. Offer alternative::If appropriate, suggest compromise
+        - 1. Enforce consequence::If violated, follow through
+        - Enforcement Without Guilt
+            - Your rights::You have right to {{protect your wellbeing}}
+            - Not mean::Boundaries are {{self-care, not punishment}}
+            - Their reaction::You’re not responsible for {{their emotional response}}
+            - Consistency crucial::Inconsistent enforcement {{teaches violation is okay}}
+            - 
+- ### Building and Maintaining Friendships 
+    - Adult Friendship Challenges
+        - Time and Energy Constraints
+            - The friendship equation::{{Proximity + repeated interaction + vulnerability}}
+            - Time to friendship::{{50 hours = casual, 90 hours = friend, 200+ hours = close}}
+            - Maintenance requirement::Contact every {{2-4 weeks}} to maintain closeness
+        - Making New Friends
+            - Best environments::{{Repeated scheduled activities}} like classes, clubs
+            - Initiative requirement::You must {{make first moves}} in adult friendships
+            - Follow-up crucial::After meeting, reach out within {{48 hours}}
+            - Vulnerability ladder::Share increasingly {{personal information gradually}}
+    - Friendship Maintenance
+        - The Friendship Audit
+            - Energy assessment::Do they {{energize or drain}} you?
+            - Reciprocity check::Is effort {{roughly equal}} over time?
+            - Growth compatibility::Do you {{support each other’s growth}}?
+            - Value alignment::Do core values {{still align}}?
+        - Maintaining Long-Distance Friendships
+            - Scheduled connection::{{Regular video calls}} more effective than random texts
+            - Shared experiences::Watch shows together, book clubs, online games
+            - Voice messages::More personal than text, {{more convenient than calls}}
+            - Visit planning::Alternate who travels, plan {{6 months ahead}}
+            - 
+- ### Romantic Relationships 
+    - Relationship Foundations
+        - Compatibility vs Chemistry
+            - Chemistry::Initial attraction, excitement, passion - often {{fades in 6-24 months}}
+            - Compatibility::Shared {{values, life goals, communication styles, lifestyle preferences}}
+            - Both needed but::{{Compatibility determines long-term success}}
+        - The Big Five Compatibility Areas
+        - 1. Money::Spending/saving habits, financial goals, debt tolerance
+        - 1. Children::Want them or not, how many, parenting philosophy
+        - 1. Religion/Spirituality::Beliefs, practice level, raising children
+        - 1. Family::Involvement level, boundaries, holiday traditions
+        - 1. Lifestyle::Social needs, cleanliness, work-life balance
+    - Relationship Maintenance
+        - The Magic Ratio::{{5 positive interactions}} to {{1 negative}} for healthy relationships
+            - Positive interactions::{{Appreciation, affection, humor, interest, agreement}}
+            - Negative interactions::{{Criticism, defensiveness, contempt, stonewalling}}
+        - Love Languages Application
+            - Words of Affirmation::{{Verbal appreciation, encouragement, compliments}}
+            - Quality Time::{{Undivided attention, shared activities}}
+            - Physical Touch::{{Hugs, holding hands, physical closeness}}
+            - Acts of Service::{{Doing helpful things, taking off their plate}}
+            - Gifts::{{Thoughtful presents, symbols of love}}
+            - Key insight::Give love in {{their language, not yours}}
+        - Conflict Resolution
+            - Fair fighting rules
+                - Stay on topic::One issue at a time
+                - No below belt::Don’t use {{known vulnerabilities as weapons}}
+                - Time limits::Take break if exceeds {{20 minutes without progress}}
+                - Repair attempts::Recognize and accept {{efforts to de-escalate}}
+            - The repair conversation
+                - Each person shares::{{Feelings, needs, perspective without blame}}
+                - Find understanding::Don’t have to {{agree to understand}}
+                - Plan prevention::How to {{handle differently next time}}
+                - Reconnect::Physical touch, appreciation, lightness
+                - 
+- ### Social Event Navigation 
+    - Event Attendance Strategy
+        - RSVP Etiquette
+            - Response timeline::Within {{48 hours}} of receiving invitation
+            - Maybe means no::If uncertain, better to {{decline than flake}}
+            - Plus-one clarity::Only bring guest if {{invitation includes “and guest”}}
+            - Dietary restrictions::Share when RSVP if {{meal involved}}
+        - Arrival and Departure
+            - Arrival timing::{{On time for dinner}}, {{15-30 minutes late for parties}}
+            - Departure signals::{{Thank host, mention early morning, help clean}}
+            - Irish goodbye option::Acceptable at {{large parties}} if not close to host
+    - Small Talk Mastery
+        - Conversation Starters
+            - Environmental::Comment on {{venue, food, music, decor}}
+            - Relational::“How do you know [host]?”
+            - Current events::{{Local events, weather, sports}} safer than politics
+            - Compliments::Genuine appreciation for {{clothing, accessories}}
+        - Keeping Conversation Flowing
+            - The FORD method::{{Family, Occupation, Recreation, Dreams}}
+            - Open questions::“What’s that like?” “How did you get into that?”
+            - The pivot::Acknowledge then transition to related topic
+            - The exit::“Excuse me, I need to [bathroom/drink/find someone]. Great talking!”
+    - Gift Giving Guidelines
+        - Occasion Standards
+            - Wedding::{{$75-150}} depending on relationship, location
+            - Baby shower::{{$25-75}} from registry preferred
+            - Housewarming::{{$25-50}} - wine, plant, candle safe choices
+            - Birthday (adult friend)::{{$20-50}} unless established different norm
+        - Gift Selection Strategy
+            - Registry respect::If exists, {{use it}} - they want those items
+            - Consumables safe::When uncertain, {{wine, chocolate, coffee, candles}}
+            - Experience gifts::Often more appreciated than {{objects}}
+            - Group gifts::Good for {{expensive items}} or close-knit groups
+    - 

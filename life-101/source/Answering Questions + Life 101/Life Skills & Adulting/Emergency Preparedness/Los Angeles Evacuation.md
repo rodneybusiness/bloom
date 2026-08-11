@@ -1,0 +1,68 @@
+- LA Emergency Evacuation (Westchester)
+    -  *simple evacuation direction rule* →Ground shook go east and air is bad go south and Santa Ana hazmat go north
+    - What is the first action in any hazmat scenario before choosing direction?→Check wind direction on weather.gov for 30 seconds
+- Freeway Selection (LA Evacuation)
+    - Why is 105 the primary eastward escape freeway?→Built in 1993 to post-Northridge seismic codes making it the safest major freeway for earthquake scenarios
+    - Why avoid La Cienega directly to 10 during earthquakes?→The 10 through downtown has the highest concentration of older overpasses built before Northridge codes
+    - Why is 60 the backup to 10?→Runs parallel through Pomona and Inland Empire and merges back with 10 near Beaumont
+    - Why avoid 405 in emergencies?→Universal evacuation instinct creates instant gridlock plus interchange collapse risk from Northridge-era construction
+    - When is 405 acceptable?→Going south to San Diego because it is the only real freeway option and southbound traffic is lighter during most emergencies
+    - Why use 15 north from Ontario for Vegas?→It is the connection point between the 10 corridor and the Vegas route and serves as the key decision point
+- Earthquake Evacuation Route
+    - What is the primary earthquake evacuation route?→Centinela south to 105 east to 605 north to 10 east to Palm Springs
+    - Why Centinela south to start earthquake route?→Avoids the 405 entirely from the first turn
+    - If 105 eastbound is blocked during earthquake then what?→Surface streets Centinela south to Imperial east to La Cienega south then try 105 on-ramp further east or continue to 110 south briefly to 105 east
+    - If 10 is blocked east of downtown during earthquake then what?→At 605 take 605 south instead of north to 60 east which runs parallel through Pomona adding 15-20 minutes
+    - If both 10 and 60 are blocked during earthquake then what?→Surface street escape via Valley Blvd or Garvey Ave parallel to 10 through San Gabriel Valley rejoining east of damage zone
+    - Why not 405 to 10 during earthquake?→The 405/10 interchange is a known vulnerability and a version collapsed in Northridge plus universal instinct creates gridlock
+- Tsunami Evacuation Route
+    - What is the primary tsunami evacuation route?→La Cienega north to 10 east to Palm Springs
+    - Why is tsunami route different from earthquake route?→Time is the asset not infrastructure integrity so La Cienega to 10 is most direct with fewer turns
+    - Why does going east work for tsunami?→Coastal evacuation panic will be on PCH and 405 south so going perpendicular to coast means less competition
+    - If caught without car during tsunami then what?→Go directly east on any street like Venice Blvd or Washington Blvd and do not go home first because warning time is the gift
+    - What is the tsunami departure math?→30 minutes departure equals Palm Springs before wave and 2 hour departure equals stuck in traffic
+- Smoke Evacuation Route
+    - What is the primary smoke or normal-wind hazmat route?→Sepulveda south to 405 south to 5 south to San Diego
+    - If 405/5 merge at El Toro Y is gridlocked then what?→Take 405 to 133 south through Laguna Canyon to PCH south to 5 south at San Clemente
+    - If you want to avoid freeways entirely going south then what?→Sepulveda south through El Segundo to PCH south through beach cities to 5 south at San Clemente adding 60-90 minutes
+    - If hazmat event is at LAX not port then what?→Do not go south on Sepulveda initially and instead go east on La Cienega first then 405 south entering south of LAX
+- Santa Ana Hazmat Route
+    - What is the primary Santa Ana wind hazmat route?→Lincoln north to 90 west to PCH north to 101 north to Ventura
+    - Why Lincoln north to start Santa Ana route?→Gets you toward coast immediately which is maximum distance from inland plume source
+    - If PCH is jammed during Santa Ana hazmat then what?→Lincoln north to 90 east to 405 north to 101 north because northbound 405 is relatively clear when everyone flees south or east
+    - How do you identify Santa Ana conditions?→Wind is hot and dry and coming from the east meaning from the mountains not the ocean
+    - When is northward evacuation the correct choice?→Only during Santa Ana wind hazmat scenarios when plumes push west toward Westchester
+- Grid Collapse Evacuation Route
+    - What is the primary grid collapse route to Vegas?→Centinela south to 105 east to 605 north to 10 east to 15 north at Ontario to Las Vegas
+    - If 15 north to Vegas is gridlocked then what?→Continue 10 east past Ontario to Barstow then 40 east briefly to 95 north which is the back door to Vegas
+    - Why is Barstow the minimum viable waypoint?→At 150 miles it has gas and food and hotels and is outside LA infrastructure collapse zone
+- Evacuation Decision Points
+    - **Ontario California decision point**↔60 miles east where you choose to continue to Palm Springs on 10 or pivot north on 15 toward Vegas
+    - **Barstow decision point**↔150 miles east where you can refuel and choose 15 north to Vegas or 40 east to back door via 95
+    - **605 interchange decision point**↔Where you choose 605 north to 10 east or 605 south to 60 east if 10 is blocked
+    - **El Toro Y decision point**↔Where 405 and 5 merge and you may need to bail to 133 if gridlocked
+    - **San Clemente decision point**↔Where PCH coastal route reconnects with 5 south to San Diego
+- Evacuation Fuel Math
+    -  *Half tank from Westchester reaches* →Palm Springs at 107 miles
+    -  *Full tank from Westchester reaches* →Las Vegas at 270 miles
+    -  *Marginal fuel scenario* →Half tank to Barstow at 150 miles depends on vehicle efficiency
+    -  *Why half-tank policy matters for Vegas evacuation* →Because you need to reach Barstow minimum on current fuel when gas stations cannot pump
+- Evacuation Rules (LA)
+    - **The 405 rule**↔Avoid 405 in any emergency because universal instinct creates gridlock and interchanges are collapse risks except going south to San Diego
+    - **The 60% rule**↔Leave when 60% sure not 95% sure because early departure is the single biggest predictor of good outcomes
+    - **The wind check rule**↔Check wind direction before moving in any hazmat scenario because 30 seconds prevents driving into plume
+    - **The half-tank rule**↔Never let tank drop below half as non-negotiable daily practice
+    - **The Ontario reunification rule**↔Family meets at Ontario Mills parking structure if separated because it marks successful basin escape and is easy landmark
+- Evacuation Physical Preparedness
+    - What physical items should always be in the car for evacuation? >>>
+        - Physical SoCal map because phones fail
+        - $500 cash in small bills because ATMs fail
+        - 1 gallon water per person
+        - Phone chargers and battery pack
+- LA Evacuation Strategy Rationale
+    - Why does 105 to 605 to 10 bypass the danger zone?→It routes around downtown LA where older pre-Northridge overpasses concentrate and enters the 10 corridor east of the vulnerable section
+    - Why is going east the universal earthquake and tsunami response?→East takes you perpendicular to coast to avoid coastal panic and into different seismic zone where infrastructure is undamaged
+    - Why do smoke scenarios go south while hazmat might go north?→Smoke evacuations assume normal westerly winds pushing plumes east but Santa Ana conditions reverse this requiring northward escape
+    - What makes Ontario the key strategic waypoint?→At 60 miles east you have definitively escaped the LA basin and gained optionality for Palm Springs or Vegas or shelter in place
+- 
+- 

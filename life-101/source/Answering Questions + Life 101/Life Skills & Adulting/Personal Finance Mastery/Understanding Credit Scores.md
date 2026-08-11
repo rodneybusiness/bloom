@@ -1,0 +1,61 @@
+- What is a credit score::A {{three-digit number (300-850)}} that represents your {{creditworthiness}} to lenders, affecting your ability to {{borrow money and the interest rates you’ll pay}}
+    - Why credit scores matter::They determine {{loan approval, interest rates, apartment rentals, insurance premiums, and sometimes job eligibility}}
+        - Interest rate impact example::A 100-point credit score difference can mean {{$40,000+ more in interest}} on a 30-year mortgage
+    - What are the main FICO score categories::{{Payment history 35%, amounts owed/utilization 30%, length of history 15%, new credit 10%, credit mix 10%}}. ​m⁠y⁠f⁠i⁠c⁠o⁠.⁠c⁠o⁠m
+    - The five factors that determine your credit score::{{Payment history (35%), Credit utilization (30%), Length of credit history (15%), New credit (10%), Credit mix (10%)}}
+        - Payment History (35% of score)
+            - What it measures::Whether you {{pay your bills on time}}
+            - How late payments affect score::{{30 days late: -60 to -110 points, 60 days: -80 to -130 points, 90 days: -90 to -150 points}}
+            - How long late payments stay on report::{{7 years from the date of first delinquency}}
+            - Recovery strategy after late payment::{{Make all future payments on time - impact decreases over time, most recovery within 2 years}}
+        - Credit Utilization (30% of score)
+            - What is credit utilization::The {{percentage of available credit you’re using}}
+            - How to calculate::{{(Total credit card balances ÷ Total credit limits) × 100}}
+            - Optimal utilization for best score::{{Below 10%}}, but always {{below 30%}} to avoid score damage
+            - Per-card vs overall utilization::{{Both matter - keep each card below 30% AND total below 30%}}
+            - Quick improvement hack::{{Pay down balances before statement closes}} to show lower utilization
+            - Why keeping cards open helps::{{Increases total available credit, lowering utilization percentage}}
+        - Length of Credit History (15% of score)
+            - What it measures::{{Average age of all your accounts}} and {{age of oldest account}}
+            - Why you shouldn’t close old cards::Closing old cards {{reduces average account age}} and can {{hurt your score for years}}
+            - Authorized user strategy::Being added to an {{old, well-managed account}} can instantly {{boost your credit history length}}
+        - New Credit (10% of score)
+            - Hard inquiry impact::Each hard inquiry typically causes {{5-10 point temporary drop for 12 months}}
+            - Shopping rate exception::Multiple inquiries for {{same loan type within 14-45 days}} count as {{single inquiry}}
+            - Too many inquiries red flag::More than {{6 inquiries in 6 months}} signals {{high risk to lenders}}
+        - Credit Mix (10% of score)
+            - Ideal mix includes::{{Credit cards (revolving credit) AND installment loans (auto/personal/mortgage)}}
+            - Why mix matters::Shows you can {{manage different types of credit responsibly}}
+    - Credit Score Ranges and What They Mean
+        - 800-850 (Exceptional)::{{Best rates on everything, automatic approvals, premium credit card eligibility}}
+        - 740-799 (Very Good)::{{Above-average rates, easy approvals, most premium cards available}}
+        - 670-739 (Good)::{{Average interest rates, generally approved for credit, some premium products available}}
+        - 580-669 (Fair)::{{Subprime rates, may need co-signers, limited credit options, higher deposits required}}
+        - 300-579 (Poor)::{{May not qualify for credit, require secured cards, very high interest rates if approved}}
+    - How to Check Your Credit
+        - Free annual reports::{{AnnualCreditReport.com}} provides {{one free report per bureau per year}}
+        - The three credit bureaus::{{Experian, Equifax, and TransUnion}}
+        - Why scores differ between bureaus::Each bureau {{may have different information}} and uses {{slightly different scoring models}}
+        - Free score monitoring services::{{Credit Karma (Vantage), Discover Scorecard (FICO), many banks offer free FICO}}
+        - Which score lenders use::{{90% of lenders use FICO scores}}, specifically {{FICO 8 or FICO 9}}
+    - Credit Report Errors and Disputes
+        - Error rate on credit reports::{{20% of reports contain errors}}, with {{5% having serious errors affecting scores}}
+        - Common errors to look for::{{Wrong accounts, incorrect payment history, outdated negative information, mixed files with similar names}}
+        - How to dispute errors::{{1. Get report from bureau, 2. Document the error, 3. Write dispute letter with evidence, 4. Send certified mail, 5. Bureau must investigate within 30 days}}
+        - What to include in dispute letter::{{Your information, specific error description, supporting documents, request for removal/correction}}
+    - Credit Building Strategies for Beginners
+        - Starting from no credit::{{Secured credit card → Regular credit card → Multiple cards → Add installment loan}}
+            - Secured credit card basics::{{You put down deposit (usually $200-500) which becomes your credit limit}}
+            - When to graduate to regular card::After {{6-12 months of perfect payment history}}
+            - Credit builder loan option::{{Bank holds loan amount while you make payments, builds payment history}}
+        - Authorized user strategy::Being added to someone’s {{established card with good payment history}} can {{boost score within 30-60 days}}
+            - Requirements for authorized user boost::Account must be {{old, low utilization, perfect payment history, and report to bureaus}}
+        - Student credit card path::Easier approval while in college, often {{graduate to better cards automatically}}
+    - Credit Mistakes to Avoid
+        - Closing old credit cards hurts score by::{{Reducing average account age AND increasing utilization ratio}}
+        - Paying only minimums::Results in {{years of payments and thousands in interest}} without reducing principal
+        - Applying for multiple cards at once::Creates {{multiple hard inquiries}} and looks {{desperate to lenders}}
+        - Co-signing loans::You’re {{100% responsible if primary borrower defaults}}, affects {{your credit and debt-to-income ratio}}
+        - Not using credit cards at all::Cards with {{no activity may be closed by issuer}}, use each card {{once every 6 months minimum}}
+        - Maxing out cards::Even if paid in full, {{high balances when reported hurt score}} until next statement
+        - 

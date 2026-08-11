@@ -1,0 +1,7 @@
+- High-yield savings account (best option)::{{4-5% APY}}, {{FDIC insured}}, {{liquid within 1-2 days}}, {{separate from checking}}
+    - Recommended banks and why recommended::{{Marcus, Ally, American Express, Capital One 360, Discover}} offer {{competitive rates with no fees}} 
+    - Why not regular savings::Traditional banks offer {{0.01-0.10% APY}} vs {{4-5% APY}} online
+- Money market account (alternative)::Similar to HYSA but may offer {{check-writing privileges}} and {{ATM access}}
+- What about CDs?::{{No - early withdrawal penalties}} defeat emergency access purpose
+- What about investing it?::{{No - market volatility}} means fund might be {{down 30% when you need it most}}
+- I Bonds consideration::Can put {{portion (1/3) in I Bonds}} after {{1 year lockup period}} for {{inflation protection}}

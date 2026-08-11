@@ -1,0 +1,24 @@
+- Understanding Plan Types
+    - HMO (Health Maintenance Organization)::{{Primary care physician required}}, {{referrals for specialists}}, {{lowest premiums}}, {{no out-of-network coverage}}
+    - PPO (Preferred Provider Organization)::{{No PCP required}}, {{no referrals needed}}, {{higher premiums}}, {{out-of-network coverage available}}
+    - HDHP (High Deductible Health Plan)::{{Lower premiums}}, {{higher deductible}}, {{HSA eligible}}, best for {{healthy people}}
+    - EPO (Exclusive Provider Organization)::{{No PCP required}}, {{no out-of-network except emergency}}, {{middle ground option}}
+- Decoding Insurance Terms
+    - Premium::{{Monthly payment}} regardless of usage
+    - Deductible::Amount you pay {{before insurance starts covering}}
+    - Copayment::{{Fixed dollar amount}} per service (e.g., $30 doctor visit)
+    - Coinsurance::{{Percentage you pay}} after deductible (e.g., 20%)
+    - Out-of-pocket maximum::Most you’ll pay {{per year regardless of costs}}
+        - After OOP max::Insurance pays {{100% of covered services}}
+- Choosing the Right Health Plan
+    - High-utilization profile::If {{chronic conditions or planned procedures}}, choose {{low deductible even if higher premium}}
+    - Low-utilization profile::If {{young and healthy}}, choose {{HDHP with HSA}} for {{tax savings and lower premiums}}
+    - The break-even calculation::Compare {{annual premium difference}} to {{deductible difference}}
+    - Network verification::Always verify {{your doctors are in-network}} before enrolling
+- Healthcare Cost Reduction Strategies
+    - Generic prescriptions::Save {{80-85%}} with {{identical active ingredients}}
+    - GoodRx and discount cards::Can be {{cheaper than insurance}} for some medications
+    - Urgent care vs ER::Urgent care costs {{$150-300}} vs ER {{$1,500-3,000}} for non-emergencies
+    - Telemedicine first::Many plans offer {{free or $10-40}} virtual visits
+    - Preventive care maximization::{{Annual physical, vaccines, screenings}} are {{100% covered}}
+    - Bill negotiation process::{{Ask for itemized bill → Check for errors → Request financial assistance → Negotiate payment plan}}

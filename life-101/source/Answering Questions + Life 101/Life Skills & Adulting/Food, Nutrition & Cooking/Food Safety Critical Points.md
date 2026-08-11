@@ -1,0 +1,28 @@
+- Temperature Control Standards
+    - The Danger Zone Details
+        - Temperature range::{{40-140°F}} where bacteria {{doubles every 20 minutes}}
+        - Time limits::{{2 hours maximum}} at room temperature, {{1 hour if >90°F ambient}}
+        - Cooling protocol::Cool from 140°F to {{70°F within 2 hours}}, then to {{40°F within 4 more hours}}
+        - Reheating rules::Must reach {{165°F throughout}} when reheating
+    - Safe Internal Temperatures
+        - Ground meats::{{160°F}} because bacteria mixed throughout
+        - Whole poultry::{{165°F}} including {{stuffing if present}}
+        - Pork, beef, lamb::{{145°F}} with {{3-minute rest}}
+        - Fish::{{145°F}} or until {{opaque and flakes}}
+        - Eggs::{{160°F}} or until {{both white and yolk firm}}
+        - Leftovers and casseroles::{{165°F}} throughout
+    - Storage Time Limits
+        - Refrigerator (40°F or below)
+            - Raw ground meat::{{1-2 days}}
+            - Raw steaks/chops::{{3-5 days}}
+            - Raw poultry::{{1-2 days}}
+            - Cooked meat::{{3-4 days}}
+            - Soups/stews::{{3-4 days}}
+            - Opened deli meat::{{3-5 days}}
+        - Freezer (0°F or below)
+            - Ground meat::{{3-4 months}}
+            - Steaks/chops::{{4-12 months}}
+            - Poultry whole::{{12 months}}
+            - Cooked meals::{{2-3 months}}
+            - Quality note::Safe indefinitely but {{quality degrades}}
+            - 

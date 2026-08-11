@@ -1,0 +1,23 @@
+- Debt Avalanche Method (Mathematically Optimal)
+    - How it works::List debts by {{interest rate highest to lowest}}, pay minimums on all, {{extra to highest rate}}
+    - Math advantage::Saves the {{most money overall}} and {{fastest total elimination}}
+    - Psychological challenge↔ [Prioritizing the highest interest rate] , less frequent wins 
+    - Best for::{{Disciplined, math-focused people}} with {{steady income}}
+- Debt Snowball Method (Psychologically Optimal)
+    - How it works::List debts by {{balance smallest to largest}}, pay minimums on all, {{extra to smallest balance}}
+    - Psychological advantage::{{Quick wins build momentum}}, more {{frequent victories}}
+    - Math disadvantage::Costs {{more in total interest}} than avalanche
+    - Best for::People who need {{motivation and wins}} to stay committed
+- Debt Consolidation Analysis
+    - When it makes sense::New rate is {{2%+ lower}} AND you {{stop using cards}} AND {{won’t extend timeline}}
+    - Personal loan consolidation::Fixed payment forces {{payoff in 3-5 years}} vs endless minimums
+    - Balance transfer cards::{{0% for 12-21 months}} but requires {{discipline and 3-5% transfer fee}}
+        - Balance transfer math::Transfer fee worth it if {{save more in interest than fee costs}}
+    - Home equity danger::Converts {{unsecured debt to secured}}, risks {{losing home}}
+- Negotiating with Creditors
+    - When creditors negotiate::When you’re {{60+ days late}} or can {{pay lump sum}}
+    - Settlement typical range::{{40-60% of balance}} for lump sum payment
+    - Payment plan options::{{Reduced interest, waived fees, extended terms}}
+    - Tax consequence warning::Forgiven debt over {{$600 is taxable income}}
+    - Credit score impact::Settlement shows as {{“paid, settled for less”}} for {{7 years}}
+    - 

@@ -1,0 +1,17 @@
+- Accessing Mental Health Care
+    - Finding Providers
+        - Insurance directory limitations::{{Often outdated}}, verify {{accepting new patients and insurance}}
+        - Psychology Today search::Better for {{finding specialists and reading approaches}}
+        - Waitlist strategies::Get on {{multiple waitlists}}, ask about {{cancellation list}}
+        - Telehealth expansion::Often {{easier access}} and {{more affordable}}
+    - Types of Mental Health Professionals
+        - Psychiatrist (MD/DO)::Can {{prescribe medication}}, focuses on {{medication management}}
+        - Psychologist (PhD/PsyD)::{{Therapy and testing}}, cannot prescribe (except few states)
+        - LCSW/LMFT/LPC::{{Master’s level therapists}}, most common providers
+        - Psychiatric NP::Can {{prescribe medication}}, often {{more available than psychiatrists}}
+    - Therapy Effectiveness
+        - Evidence-based approaches::{{CBT for anxiety/depression}}, {{DBT for emotional regulation}}, {{EMDR for trauma}}
+        - Session frequency::{{Weekly initially}}, then {{biweekly}}, then {{monthly maintenance}}
+        - Progress timeline::Give it {{6-8 sessions}} before evaluating fit
+        - When to switch therapists::{{No progress after 3 months}}, {{don’t feel heard}}, {{boundary issues}}
+        - 

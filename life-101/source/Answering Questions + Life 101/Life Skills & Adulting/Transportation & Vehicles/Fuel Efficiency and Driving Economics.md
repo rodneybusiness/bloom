@@ -1,0 +1,13 @@
+- Maximizing Fuel Economy
+    - Driving habits that save gas
+        - Speed impact::Every 5 mph over 50 costs {{7% fuel economy}} due to {{exponential wind resistance}}
+        - Acceleration technique::{{Gradual acceleration}} saves {{15-30%}} vs {{jackrabbit starts}}
+        - Cruise control benefit::Saves {{7-14%}} on highway by {{maintaining constant speed}}
+        - Idling waste::Idling uses {{1/4 to 1/2 gallon per hour}} - turn off if {{>10 seconds}}
+        - AC vs windows::Below 45 mph {{windows more efficient}}, above 45 mph {{AC more efficient}}
+    - Vehicle maintenance for MPG
+        - Tire pressure impact::Every 1 PSI below optimal costs {{0.2% fuel economy}}
+        - Air filter impact::Dirty filter costs {{up to 10%}} in older cars, {{minimal in modern cars}}
+        - Oil viscosity::Using wrong weight oil costs {{1-2% fuel economy}}
+        - Excess weight::Every 100 pounds costs {{1% fuel economy}}
+        - Roof cargo::Reduces fuel economy by {{10-25%}} from aerodynamic drag

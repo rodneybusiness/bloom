@@ -1,0 +1,10 @@
+- Phase 1: Starter emergency fund::{{$1,000}} to cover {{most common emergencies}} and break {{paycheck-to-paycheck cycle}}
+    - Why $1,000 first::Covers {{car repairs, appliance replacement, minor medical bills}} while building habits
+    - How to get $1,000 fast (five ways)::{{Sell items, tax refund, side gig, temporary second job, one-time overtime push}} 
+- Phase 2: High-interest debt elimination::Pay minimums plus extra on {{credit cards over 15% APR}} before full emergency fund
+    - Why debt before full fund::{{Credit card interest (20-30%) exceeds any savings return (4-5%)}}
+    - Exception to this rule::If {{job loss is imminent}} or {{no access to any credit}}, build fund first
+- Phase 3: Full emergency fund::Build to your {{calculated 3-6 month target}}
+    - Optimal savings rate::{{20% of gross income}} until funded, then {{redirect to other goals}}
+    - Time to full funding at different rates::{{10% income = 30-60 months, 20% = 15-30 months, 30% = 10-20 months}}
+- Phase 4: Opportunity fund::After emergency fund, consider {{3-6 months additional}} for {{job transitions, home down payment, investment opportunities}}

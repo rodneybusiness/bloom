@@ -1,0 +1,18 @@
+- GFCI testing::Test {{monthly}} using test/reset buttons on {{bathroom, kitchen, outdoor outlets}}
+- Circuit breaker maintenance::{{Exercise breakers annually}} by flipping off/on, replace if {{won’t reset or trips frequently}}
+    - Circuit Breakers 
+        - --------------------- Portal ---------------------
+            - Answering Questions + Life 101
+        - **Circuit Breaker**↔A safety device that automatically shuts off electrical current when there's too much flow, preventing wires from overheating and potentially starting fires
+            - What problem can develop in the internal mechanisms from sitting in one position for years?→They can become "sticky" from corrosion or seizing up
+            - What are the two potential failures that can occur with a sticky breaker during an actual overload?→It might fail to trip, or it might not reset properly afterward
+            - What simple maintenance ritual should be performed annually?→Flip each breaker off and then back on
+            - Why does the annual exercise ritual work to maintain breakers?→The mechanical action keeps internal contacts clean and spring mechanisms limber
+            - What are two signs that indicate a breaker needs immediate replacement?→It won't stay reset (keeps popping back to "off"), or it trips frequently without an obvious overload
+            - A faulty breaker that won't trip when needed is like having what?→A fire extinguisher that doesn't work
+            - What is the typical cost range to replace a faulty breaker?→$50-150
+            - What additional task should you do while at the electrical panel during annual maintenance?→Take a photo of the breaker labels and label any unmarked breakers
+            - 
+            - Warning signs::{{Flickering lights}}, {{warm outlets}}, {{burning smell}}, {{frequent breaker trips}}, {{buzzing sounds}}
+            - When to call electrician::{{Any of above warning signs}}, {{adding circuits}}, {{aluminum wiring}}, {{knob-and-tube wiring}}
+            - Electrical panel lifespan::{{25-40 years}}, replace if {{Federal Pacific or Zinsco brand}}, {{rust or burn marks}}

@@ -1,0 +1,11 @@
+- Water heater maintenance
+    - Annual flush procedure::{{Attach hose to drain valve → Turn off power/gas → Drain tank → Flush until clear}}
+        - Why flush::Removes {{sediment buildup}} that {{reduces efficiency}} and {{shortens lifespan}}
+    - Temperature setting::{{120°F optimal}} for {{safety and efficiency}}
+    - Anode rod replacement::Every {{3-5 years}} to prevent {{tank corrosion}}
+    - Lifespan expectations::{{Tank 8-12 years}}, {{tankless 20+ years}}
+- Drain maintenance::{{Monthly enzyme treatment}}, {{annual snake for prevention}}, {{avoid chemical cleaners}}
+- Toilet maintenance::{{Replace flapper every 2-3 years}}, {{check fill valve annually}}, {{tighten connections}}
+- Water pressure monitoring::Should be {{40-80 PSI}}, install {{pressure reducer if >80}}
+- Winterization tasks::{{Disconnect hoses}}, {{insulate exposed pipes}}, {{drip faucets in freezing weather}}
+- Leak detection::{{Monitor water bill for increases}}, {{check meter with everything off}}, {{food coloring in toilet tank}}

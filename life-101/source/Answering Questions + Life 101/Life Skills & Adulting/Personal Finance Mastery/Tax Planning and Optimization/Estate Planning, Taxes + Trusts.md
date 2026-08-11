@@ -1,0 +1,45 @@
+- 
+- Annual Gift Tax Exclusion
+    - amount per donor per recipient in 2025;;$19,000
+    - The annual gift tax exclusion resets {{every year}} (use it or lose it).
+    - amount for married couple using gift-splitting in 2025;;$38,000 per recipient
+- Gift-Splitting::When a married couple treats gifts as if each spouse gave half.
+- Lifetime Gift And Estate Tax Exemption
+    - amount in 2025;;~$13.6 million
+    - tax rate on amounts over the exemption;;~40%
+    - The lifetime exemption is only used when {{gifts exceed the annual exclusion}} OR {{at death}}.
+- Annual Exclusion Vs. Lifetime Exemption
+    - Annual exclusion gifts are {{completely separate from}} the lifetime exemption.
+    - Do annual exclusion gifts touch the $13.6M lifetime exemption?→Never
+    - Giving ${{50K}} to one person uses ${{19K}} from annual exclusion + ${{31K}} from lifetime exemption.
+- Present Interest Gift::A gift the recipient can use immediately.
+    - Only {{present interest}} gifts qualify for the annual exclusion.
+    - Is a direct cash gift to a person a present or future interest?→Present interest
+- Future Interest Gift::A gift where the recipient's access is delayed.
+    - Is a gift to a trust typically a present or future interest?→Future interest
+- Crummey Letter
+    - named after;;Crummey v. Commissioner (1968)
+    - purpose;;Convert future interest gifts into present interest gifts
+    - What does it notify beneficiaries of?→Their temporary right to withdraw the gift
+    - typical withdrawal window;;30-60 days
+    - Do beneficiaries usually withdraw?→No - it would defeat the trust's purpose
+    - The Crummey trick works because having the option to withdraw = {{present interest}}, even if not exercised.
+    - Crummey formula: Gift to trust + withdrawal right + lapse = {{present interest}} = {{annual exclusion eligible}}.
+- ILIT (Irrevocable Life Insurance Trust)::A trust that owns a life insurance policy.
+    - main benefit;;Death benefit skips your estate, avoiding estate tax
+    - Why do ILITs need Crummey letters?→Premium payments are gifts to the trust (future interest)
+    - ILIT funding sequence: {{Gift}} ↔ {{Crummey letter}} ↔ {{Withdrawal lapses}} ↔ {{Trustee pays premium}}.
+    - Is the life insurance payout in your estate?→Never (trust owned the policy)
+- Estate Draining Strategy
+    - The annual exclusion acts as {{a separate pipeline}} to move money out of your estate.
+    - How does annual gifting reduce estate tax?→Reduces estate size, so less is "over" the $13.6M at death
+    - ${{38K}}/year to {{4}} people for {{20}} years moves ${{3.04M}} out of your estate (all tax-free).
+- Portability::Transferring unused lifetime exemption to surviving spouse.
+    - Who can receive unused exemption through portability?→Surviving spouse only (not children)
+    - maximum combined exemption for surviving spouse with full portability;;~$27.2M
+    - Portability requires {{filing an estate tax return}} to elect it (not automatic).
+- Gift Tax Filing Requirements
+    - Give ${{19K}} or less: {{Free, no forms, no impact}}.
+    - Give over ${{19K}}: {{File Form 709}}, excess chips away at ${{13.6M}}.
+    - What happens with a gift to trust without Crummey?→No annual exclusion (uses lifetime exemption)
+    - What happens with a gift to trust with Crummey?→Annual exclusion works

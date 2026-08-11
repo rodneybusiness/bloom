@@ -1,0 +1,16 @@
+- The Weekly Meal Prep Method
+    - Planning Phase (30 minutes Sunday)
+        - Inventory check::See what {{needs using first}}, what {{staples need restocking}}
+        - Recipe selection::Choose {{3-4 main recipes}} that create {{6-8 meals through leftovers}}
+        - Cross-utilization::Plan recipes that {{share ingredients}} to reduce waste
+        - Prep task batching::Group similar tasks {{chopping all vegetables}}, {{cooking all grains}}
+    - Shopping Phase (1 hour)
+        - List organization::Organize by {{store layout}} to save {{15-20 minutes}}
+        - Substitution planning::Note {{acceptable substitutes}} for flexibility
+        - Budget checkpoint::Estimate total, have {{backup items to cut if over}}
+    - Prep Execution (2-3 hours)
+        - Mise en place::{{Prep all ingredients}} before cooking anything
+        - Batch cooking order::{{Grains/legumes first (longest)}}, {{proteins}}, {{roasted vegetables}}, {{raw vegetables last}}
+        - Storage strategy::{{Cool completely before storing}}, {{portion into meal containers}}, {{label with dates}}
+        - The 2-2-2 rule::{{2 hours to cool}}, {{2 hours max at room temp}}, {{eat within 2 days or freeze}}
+        - 

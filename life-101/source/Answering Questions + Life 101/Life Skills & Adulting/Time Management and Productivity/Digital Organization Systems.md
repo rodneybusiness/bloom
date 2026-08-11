@@ -1,0 +1,24 @@
+- Email Management
+    - Inbox Zero Method
+        - Processing rules::Touch each email {{once}}, decide immediately
+        - Five decisions::{{Delete, delegate, respond (<2 min), defer, do}}
+        - Folder structure::Maximum {{5-7 folders}} or search instead
+        - Daily processing::{{Set 2-3 specific times}}, not constant checking
+        - Unsubscribe ruthlessly::If not read {{3 times}}, unsubscribe
+    - Email Efficiency
+        - Templates for common responses::Save {{5-10 hours monthly}}
+        - Canned responses::{{Meeting requests, FAQs, thank yous, follow-ups}}
+        - Subject line clarity::Include {{action needed and deadline}}
+        - Email scheduling::Send during {{business hours}} for better response
+- File Organization
+    - Naming Conventions
+        - Date format::{{YYYY-MM-DD}} ensures chronological sorting
+        - Version control::{{v01, v02}} or {{FINAL, FINAL-FINAL, FINAL-REAL}}
+        - No special characters::Avoid {{/, ?, <, >, , :, *, |, “}}
+        - Descriptive but concise::{{ProjectName-DocumentType-Date}}
+    - Folder Structure
+        - Top level folders::Maximum {{7-10}} for quick scanning 
+        - Subfolder depth::No more than {{3 levels deep}}
+        - Archive strategy::Move completed to {{annual archive folders}}
+        - Search vs organize::If good search available, {{minimal folders better}}
+        - 

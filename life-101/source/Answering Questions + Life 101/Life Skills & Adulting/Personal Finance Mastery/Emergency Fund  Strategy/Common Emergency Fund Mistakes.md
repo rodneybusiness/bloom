@@ -1,0 +1,5 @@
+- Keeping it too accessible::Same bank as checking makes {{transfers too easy for non-emergencies}}
+- Not adjusting for life changes::{{Marriage, kids, home purchase}} all require {{recalculating fund size}}
+- Counting home equity or credit cards::These are {{debt, not emergency funds}} and may be {{unavailable when needed}}
+- Investing before emergency fund::Market gains mean nothing if {{forced to sell at loss during emergency}}
+- 

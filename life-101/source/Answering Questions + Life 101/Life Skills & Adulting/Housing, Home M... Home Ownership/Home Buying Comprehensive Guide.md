@@ -1,0 +1,66 @@
+- Determining If You’re Ready to Buy
+    - Financial readiness checklist
+        - Emergency fund intact::{{3-6 months expenses}} AFTER down payment and closing costs
+        - Stable income::{{2+ years employment history}} in same field preferred
+        - Debt-to-income ratio::Total debt payments {{<36% of gross income}} including future mortgage
+        - Down payment saved::Ideally {{20% to avoid PMI}}, minimum {{3.5% for FHA}}, {{5% conventional}}
+        - Closing costs ready::Additional {{2-5% of purchase price}} for various fees
+        - Credit score optimized::{{740+ for best rates}}, minimum {{580 FHA, 620 conventional}}
+    - Rent vs Buy Calculation
+        - The 5% rule quick test::If annual rent {{< 5% of home price}}, generally {{better to rent}}
+        - Break-even timeline::Typically need to stay {{5-7 years}} to overcome {{transaction costs}}
+        - Hidden costs of ownership::{{Maintenance (1% home value/year), property tax (1-2%), insurance (0.5-1%), HOA, utilities increase}}  #high-frequency
+        - Opportunity cost consideration::Down payment could earn {{7-10% in market}} vs {{3-4% home appreciation}}
+        - Non-financial factors::{{Stability, customization, forced savings, community, schools}}
+- The Home Buying Process Step-by-Step
+    - Step 1: Mortgage Pre-Approval
+        - Pre-qualification vs pre-approval::Pre-qual is {{estimate}}, pre-approval is {{verified commitment}}
+        - Documents needed::{{2 years tax returns, 2 months pay stubs, 2 months bank statements, employment verification, ID}}
+        - Credit pull impact::Multiple mortgage inquiries within {{14-45 days}} count as {{single inquiry}}
+        - Rate shopping window::Get {{3-5 quotes}} within {{2 weeks}} to minimize credit impact
+        - Pre-approval duration::Valid for {{60-90 days}}, may need {{refresh if expires}}
+    - Step 2: Finding the Right Home
+        - Needs vs wants framework::List {{must-haves}} vs {{nice-to-haves}}, stick to {{80% needs minimum}}
+        - Location factors to research::{{Schools (even if no kids for resale), crime rates, commute times, future development, flood zones}}
+        - The 10-year rule::Buy assuming you’ll {{be there 10 years}} even if planning less
+        - Multiple offer strategies::{{Escalation clause, waive contingencies (risky), larger earnest money, cash offer, personal letter}}
+    - Step 3: Making an Offer
+        - Earnest money::Typically {{1-3% of offer price}}, shows {{serious intent}}, applied to {{down payment or closing}}
+        - Contingencies to include
+            - Inspection contingency::Allows {{professional inspection}} and {{negotiation or exit based on findings}}
+            - Financing contingency::Can {{back out if mortgage denied}} without losing earnest money
+            - Appraisal contingency::Can {{renegotiate if appraisal below offer}} or walk away
+            - Sale contingency::Only if {{must sell current home first}} but weakens offer
+        - Negotiation beyond price::{{Closing date, repairs, closing costs, appliances, fixtures}}
+    - Step 4: Home Inspection Critical Points
+        - Major issues to watch for::{{Foundation problems, roof age/damage, HVAC age, electrical issues, plumbing problems, water damage/mold}}
+        - Age-based replacement timeline::{{Roof 20-30 years, HVAC 15-20 years, water heater 8-12 years, appliances 10-15 years}}
+        - Inspection negotiation options::{{Seller repairs, credit at closing, price reduction, walk away}}
+        - Additional inspections to consider::{{Termite, radon, sewer scope, chimney, pool/spa}}
+    - Step 5: Closing Process
+        - Final walk-through purpose::Verify {{repairs completed}}, {{no new damage}}, {{agreed items remain}}
+        - Closing costs breakdown::{{Lender fees (1-2%), title insurance (0.5-1%), escrow/attorney (1%), transfer taxes (varies), recording fees}}
+        - Documents you’ll sign::{{Promissory note, deed of trust/mortgage, closing disclosure, deed, various affidavits}}
+        - Wire fraud prevention::{{Never wire based on email}}, {{call to verify using known number}}, {{verify account details}}
+- Mortgage Deep Dive
+    - Types of Mortgages
+        - Conventional loans::{{20% down avoids PMI}}, need {{620+ credit}}, best {{rates for excellent credit}}
+        - FHA loans::Only {{3.5% down}}, {{580+ credit}}, but {{PMI for life of loan}}
+        - VA loans::{{0% down}}, {{no PMI}}, for {{veterans/active military}}, best deal if eligible
+        - USDA loans::{{0% down}} for {{rural areas}}, income limits apply
+        - Jumbo loans::For amounts over {{$766,550 (2024)}}, require {{excellent credit and larger down payment}}
+    - Fixed vs Adjustable Rate (ARM)
+        - 30-year fixed::{{Stable payment}}, {{higher initial rate}}, best for {{long-term stay}}
+        - 15-year fixed::{{Half the interest paid}}, {{25% higher payment}}, builds {{equity faster}}
+        - 5/1 ARM::Fixed for {{5 years then adjusts annually}}, lower initial rate, {{risky if staying long}}
+        - When ARMs make sense::{{Plan to move in <7 years}}, can {{afford payment increase}}, {{expect income growth}}
+    - Mortgage Points Decision
+        - What are points::{{Prepaid interest}}, {{1 point = 1% of loan}}, typically buys {{0.25% rate reduction}}
+        - Break-even calculation::{{Point cost ÷ monthly savings = months to break even}}
+        - When to buy points::If staying {{longer than break-even}} and have {{extra cash after emergency fund}}
+    - PMI (Private Mortgage Insurance)
+        - When required::Conventional loans with {{<20% down payment}}
+        - Cost range::{{0.5-1.5% of loan amount annually}}
+        - Removal at 20% equity::Can request removal at {{20% equity}}, automatic at {{22% equity}}
+        - FHA MIP difference::Remains for {{life of loan if <10% down}}, {{11 years if >10% down}}
+        - 

@@ -1,0 +1,17 @@
+- Building Financial Resilience
+    - Emergency Fund Tiers
+        - Tier 1 - Immediate ($1,000)::Covers {{deductibles, minor repairs, urgent travel}}
+        - Tier 2 - Short-term (1 month expenses)::Buys time to {{access other resources}}
+        - Tier 3 - Standard (3-6 months)::Covers {{job loss, medical leave, major repairs}}
+        - Tier 4 - Extended (9-12 months)::For {{freelancers, single income, volatile industries}}
+    - Credit Access Strategy
+        - HELOC setup::Establish {{before you need it}}, costs {{$0-500 to setup}}
+        - Credit card optimization::Keep 2-3 cards active, with sufficient available credit to cover 3-6 months of expenses and a low overall credit utilization ratio.
+        - Personal line of credit::{{Lower rate than cards}}, {{flexible access}}
+        - Why setup matters::Banks won’t lend {{when you’re unemployed}}
+    - Documentation Preparation
+        - Financial documents file::{{Account numbers, beneficiaries, insurance policies, tax returns}}
+        - Digital copies::Store in {{cloud and USB}}, encrypt sensitive info
+        - Access sharing::Trusted person knows {{location and passwords}}
+        - Regular updates::Review {{every 6 months}} and after {{major changes}}
+        - 
