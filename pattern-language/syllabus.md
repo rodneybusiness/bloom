@@ -9,14 +9,14 @@
 After completing this course, you will be able to:
 
 ### 1. The Anatomy of a Pattern
-- [ ] Able to define a pattern as a recurring **context – forces – solution** triad, and identify all three parts in any written pattern
-- [ ] Able to read one of Alexander's actual patterns (e.g., #159 *Light on Two Sides of Every Room*) and restate, in your own words, the conflicting forces it resolves
-- [ ] Able to explain the asterisk confidence ratings, and why every pattern is a falsifiable hypothesis rather than a rule
+- [x] Able to define a pattern as a recurring **context – forces – solution** triad, and identify all three parts in any written pattern
+- [x] Able to read one of Alexander's actual patterns (e.g., #159 *Light on Two Sides of Every Room*) and restate, in your own words, the conflicting forces it resolves
+- [x] Able to explain the asterisk confidence ratings, and why every pattern is a falsifiable hypothesis rather than a rule
 
 ### 2. From Patterns to a Language
-- [ ] Able to explain what makes 253 patterns a *language* rather than a checklist: the network of upward/downward links and the ordering from large scale to small
-- [ ] Able to select and sequence a handful of patterns into a coherent mini-language for a concrete design problem (e.g., a home office, a neighborhood café)
-- [ ] Able to explain generative unfolding: why applying patterns in order "grows" a design the way grammar generates sentences, and how this differs from assembling parts
+- [x] Able to explain what makes 253 patterns a *language* rather than a checklist: the network of upward/downward links and the ordering from large scale to small
+- [x] Able to select and sequence a handful of patterns into a coherent mini-language for a concrete design problem (e.g., a home office, a neighborhood café)
+- [x] Able to explain generative unfolding: why applying patterns in order "grows" a design the way grammar generates sentences, and how this differs from assembling parts
 - [ ] Able to explain piecemeal growth and why Alexander opposed master planning
 
 ### 3. The Deeper Theory: Life, Wholeness, and Evidence
@@ -41,3 +41,4 @@ After completing this course, you will be able to:
 | Document | Mastery items covered | Date |
 |----------|----------------------|------|
 | 01.md | 1-1, 1-2, 2-1 | 2026-08-11 |
+| 02.md | 1-3, 2-2, 2-3 | 2026-08-11 |
