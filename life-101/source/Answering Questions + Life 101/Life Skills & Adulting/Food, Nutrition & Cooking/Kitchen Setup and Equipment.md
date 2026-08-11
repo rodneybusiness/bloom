@@ -1,0 +1,25 @@
+- Essential Equipment Prioritization
+    - The Knife Trinity
+        - Chef’s knife (8-10”)::Does {{80% of cutting tasks}}, invest {{$50-150}} for quality
+            - How to choose::{{Full tang}}, {{comfortable handle}}, {{high-carbon stainless steel}}, {{balanced weight}}
+            - Maintenance::{{Hone before each use}}, {{sharpen 2x yearly}}, {{hand wash only}}, {{magnetic strip or block storage}}
+        - Paring knife (3-4”)::For {{detail work and small items}}, costs {{$15-40}}
+        - Serrated bread knife (8-10”)::For {{bread, tomatoes, citrus}}, costs {{$20-50}}
+        - Why these three::Can accomplish {{95% of kitchen tasks}} with just these
+    - Cookware Essentials
+        - Cast iron skillet (12”)::{{$20-40}}, lasts {{generations}}, improves with age
+            - Seasoning process::{{Clean → Dry → Thin oil coat → Bake 450°F for 1 hour → Repeat 3x}}
+            - Daily care::{{Rinse hot → Scrub if needed → Dry immediately → Light oil coat}}
+            - What it excels at::{{Searing, frying, baking, heat retention, oven-to-table}}
+        - Stainless steel pot set::{{8qt stockpot, 3qt saucepan, 1.5qt saucepan}} covers all liquid cooking
+            - Why stainless::{{Non-reactive}}, {{dishwasher safe}}, {{oven safe}}, {{even heating with good base}}
+        - Non-stick pan (10-12”)::For {{eggs and delicate items}}, replace {{every 2-3 years}}
+            - Care rules::{{Never exceed 400°F}}, {{no metal utensils}}, {{no dishwasher}}, {{no cooking spray}}
+    - Small Appliances ROI Analysis
+        - Instant Pot/Pressure Cooker::{{$60-100}}, saves {{70% cooking time}}, replaces {{7 appliances}}
+            - What it replaces::{{Slow cooker, rice cooker, steamer, sauté pan, yogurt maker, warmer, some oven uses}}
+        - Food processor (7+ cup)::{{$50-150}}, saves {{hours of prep time weekly}}
+            - When worth it::If you {{cook 4+ times weekly}} or {{batch prep}}
+        - Stand mixer::{{$200-400}}, only if you {{bake weekly}} or {{make bread}}
+        - Blender priorities::{{Smoothies daily = high-power}}, {{occasional = basic}}, {{soups = immersion}}
+        - 

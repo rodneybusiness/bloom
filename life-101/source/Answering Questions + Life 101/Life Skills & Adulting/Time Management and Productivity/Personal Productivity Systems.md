@@ -1,0 +1,17 @@
+- Choosing the Right System
+    - System Comparison
+        - Getting Things Done (GTD)::Best for {{complex projects, many inputs, knowledge workers}}
+            - Core components::{{Capture everything, clarify actions, organize by context, review weekly}}
+            - Maintenance requirement::{{High - daily processing, weekly review}}
+        - Time Blocking::Best for {{deep work, maker schedules, focus issues}}
+            - Implementation::{{Assign specific time slots to tasks}}, {{batch similar work}}
+            - Success requirement::{{Control over schedule, realistic estimates}}
+        - Simple Lists::Best for {{routine tasks, low complexity, beginners}}
+            - Maximum effectiveness::{{6-9 items per day}}, {{MIT (Most Important Tasks) first}}
+    - System Implementation
+        - Week 1-2 (Capture)::Just {{write everything down}}, don’t organize yet
+        - Week 3-4 (Process)::Start {{organizing into categories}}, find patterns
+        - Week 5-6 (Refine)::{{Eliminate unnecessary}}, {{automate repeatable}}
+        - Week 7-8 (Maintain)::Establish {{review rhythm}}, {{adjust as needed}}
+        - Success indicator::System feels {{automatic after 8 weeks}}
+        - 

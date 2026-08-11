@@ -1,6 +1,6 @@
 # Life 101 · Source Map
 
-> Companion reference for the **life-101** course. This is the distilled analysis of the source dataset — a RemNote export titled *"Answering Questions + Life 101"* (76 markdown files, ~1.2MB, ~1,500+ reviewable prompts). The raw export is **not** committed to this repository (see §8, Privacy). This document is the course's map of it.
+> Companion reference for the **life-101** course. This is the distilled analysis of the source dataset — a RemNote export titled *"Answering Questions + Life 101"* (76 markdown files, ~1.2MB, ~1,500+ reviewable prompts). The full raw export is committed at [`source/`](./source/) by the owner's explicit choice (see §8, Privacy). This document is the course's map of it.
 > Not a lesson — no feedback section. Lessons will cite sections of this map by number.
 
 ---
@@ -119,4 +119,4 @@ Priority-ordered. An SRS makes its contents durable; these are the cards where t
 
 The base is roughly **70% built**, and every branch stops the same way: conversion incomplete, systems started and abandoned, one node flagged "needs work." This is not decay — it's a snapshot of an ambitious project mid-construction, and completing it is part of this course (Module 5).
 
-**Privacy:** the raw export is deliberately not in this repository. One file — the LA evacuation plan — aggregates approximate home location, household structure, a named family reunification point, and cash-kept-in-car details. Individually innocuous, aggregated sensitive. Keep the raw export out of any shared or synced location; this course references it only at the level of this document.
+**Privacy:** the full raw export now lives in this repository at [`source/`](./source/), added at the owner's explicit request while the repository is private. Standing caution: one file — the LA evacuation plan — aggregates approximate home location, household structure, a named family reunification point, and cash-kept-in-car details. Individually innocuous, aggregated sensitive. **If this repository is ever made public or shared, remove or redact that file first.**

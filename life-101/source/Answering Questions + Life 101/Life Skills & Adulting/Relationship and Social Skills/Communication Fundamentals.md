@@ -1,0 +1,29 @@
+- Active Listening Mastery
+    - The RASA Model
+        - Receive::{{Full attention, eye contact, open body language}}
+        - Appreciate::{{Nods, “mm-hmm”, facial expressions showing engagement}}
+        - Summarize::{{Paraphrase back}} what you heard
+        - Ask::{{Clarifying questions}} to understand fully
+    - Common Listening Failures
+        - Solution jumping::Offering advice before {{fully understanding problem}}
+        - Story matching::Redirecting to {{your similar experience}}
+        - Mental rehearsal::Planning response instead of {{listening}}
+        - Judgment forming::Making conclusions before {{hearing everything}}
+- Difficult Conversations Framework
+    - Preparation Phase
+        - Clarity of objective::What {{specific outcome}} do you want?
+        - Emotional regulation::Have conversation when {{calm, not triggered}}
+        - Facts vs stories::Separate {{observable facts}} from {{interpretations}}
+        - Assume positive intent::They probably {{aren’t trying to hurt you}}
+    - Execution Method
+        - Opening::“I need to discuss something important. Is now good?” ##high-frequency
+        - State facts::“When X happened…” not “You always…”
+        - Share impact::“I felt/The impact was…” not “You made me…”
+        - Listen fully::Let them {{share their perspective completely}}
+        - Find solutions::“How can we…” not “You should…”
+    - Common Mistakes
+        - Kitchen sinking::Bringing up {{multiple issues at once}}
+        - Character attacks::Criticizing {{who they are}} vs {{specific behavior}}
+        - Mind reading::Assuming you know {{their intentions}}
+        - Ultimatums::Unless truly {{prepared to follow through}}
+        - 

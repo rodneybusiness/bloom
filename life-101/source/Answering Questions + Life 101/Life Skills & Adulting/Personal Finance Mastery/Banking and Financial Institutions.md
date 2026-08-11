@@ -1,0 +1,18 @@
+- Choosing the Right Bank Accounts 
+    - Checking Account Selection Criteria
+        - Monthly fee avoidance methods::{{Minimum balance (typically $1,500), direct deposit, student/senior status, online-only}}
+        - ATM network importance::{{Large network or ATM fee reimbursement}} saves {{$5-10 per out-of-network use}}
+        - Overdraft protection options::{{Link to savings (cheapest), line of credit, opt-out (declined transaction)}}
+            - Overdraft fee reality::Average {{$35 per transaction}} can mean {{$140 for coffee if multiple pending}}
+        - Features worth having::{{Mobile deposit, bill pay, Zelle/transfers, debit card controls, fraud protection}}
+    - High-Yield Savings Account Strategy
+        - Current rate environment::Should get {{4-5% APY minimum}} vs traditional banks {{0.01-0.10%}}
+        - The math on $10,000:: High-yield earns {{$400-500/year}} vs traditional {{$1-10/year}}
+        - Online vs brick-and-mortar::Online banks offer {{higher rates}} due to {{lower overhead costs}}
+        - Multiple account strategy::Use {{local checking for access}} and {{online savings for growth}}
+    - Understanding FDIC/NCUA Insurance
+        - Coverage limit::{{$250,000 per depositor, per insured bank, per ownership category}}
+        - What’s covered::{{Checking, savings, CDs, money market accounts}}
+        - What’s NOT covered::{{Investments, stocks, bonds, mutual funds, crypto, safety deposit contents}}
+        - Multiple account strategy::Can get {{more coverage using different banks}} or {{ownership types (individual, joint, trust)}}
+        - 

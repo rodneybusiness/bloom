@@ -1,0 +1,15 @@
+- How Tax Brackets Actually Work (Marginal vs Effective)
+    - Marginal tax rate::The rate on your {{next dollar earned}}
+    - Effective tax rate::Your {{total tax ÷ total income}}
+    - Progressive taxation example::First $11,600 taxed at {{10%}}, next $35,550 at {{12%}}, etc.
+    - Common misconception::Earning more {{never results in less after-tax}} due to brackets
+- Types of Income and Their Tax Treatment
+    - Ordinary income::{{Wages, interest, short-term gains}} taxed at {{regular brackets}}
+    - Long-term capital gains::Held {{>1 year}}, taxed at {{0%, 15%, or 20%}}
+    - Qualified dividends::Taxed at {{capital gains rates}} not ordinary income
+    - Tax-free income::{{Municipal bonds, Roth withdrawals, gifts received, life insurance proceeds}}
+- Standard vs Itemized Deduction Decision
+    - Standard deduction 2024::Single {{$14,600}}, Married Filing Jointly {{$29,200}}
+    - When to itemize::If total of {{mortgage interest + SALT + charity > standard deduction}}
+    - SALT cap impact::State and local taxes limited to {{$10,000 deduction}}
+    - Bunching strategy::{{Combine 2 years of charity}} in one year to {{exceed standard deduction}}

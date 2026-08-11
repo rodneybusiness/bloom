@@ -1,0 +1,31 @@
+- Understanding At-Will Employment
+    - What at-will means::Employer can {{fire for any reason or no reason}} except {{illegal reasons}}
+        - Illegal termination reasons::{{Race, religion, sex, age (40+), disability, pregnancy, retaliation, union activity}}
+        - Not illegal but seems unfair::{{Personality conflict, favoritism, restructuring, false accusations (if good faith)}}
+    - Exceptions to at-will
+        - Written contract::Specifies {{termination terms and conditions}}
+        - Implied contract::{{Employee handbook promises}}, {{verbal assurances}}
+        - Public policy violation::{{Refusing illegal acts, jury duty, voting, whistleblowing}}
+    - Documentation and Evidence
+        - Keep everything::{{Emails, performance reviews, texts, policy documents, witness info}}
+        - Personal copies::Always keep {{copies off-site}} - lose access when terminated
+        - Journal contemporaneously::Document {{date, time, witnesses, exact words}} of incidents
+        - BCC personal email::When appropriate, for {{important communications}}
+- Workplace Rights and Protections
+    - Wage and Hour Laws
+        - Overtime requirements::{{Time-and-half over 40 hours/week}} for {{non-exempt employees}}
+        - Exempt classifications::{{Executive, administrative, professional, outside sales, computer}}
+            - Salary threshold 2024::Must earn {{$43,888/year minimum}} to be exempt
+        - Break requirements::{{Federal law doesn’t require}} but many states do
+        - Final paycheck::Due {{immediately to 30 days}} depending on state
+    - Discrimination and Harassment
+        - Protected classes federal::{{Race, color, religion, sex, national origin, age (40+), disability, genetic info}}
+        - Harassment definition::{{Severe or pervasive}} conduct creating {{hostile work environment}}
+        - Reporting procedure::{{Follow company policy}}, {{document everything}}, {{keep copies}}
+        - EEOC filing deadline::{{180-300 days}} depending on state
+    - Leave Rights
+        - FMLA eligibility::{{12 months employment, 1,250 hours, 50+ employees within 75 miles}}
+        - FMLA coverage::{{12 weeks unpaid}} for {{birth, adoption, serious health, family care}}
+        - ADA accommodations::{{Reasonable modifications}} unless {{undue hardship}}
+        - State additions::Many states have {{paid family leave, sick leave requirements}}
+        - 

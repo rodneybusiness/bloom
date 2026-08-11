@@ -1,0 +1,7 @@
+- Tax loss harvesting::Sell losing investments to {{offset gains}} and up to {{$3,000 ordinary income}}
+    - Wash sale rule::Can’t rebuy {{same or substantially identical}} security for {{31 days}}
+    - Carryforward provision::Unused losses {{carry forward indefinitely}}
+- Retirement contribution deadlines::401(k) by {{December 31}}, IRA by {{April 15 (tax deadline)}}
+- Estimated tax payments::Due {{quarterly}} if expect to owe {{>$1,000}}
+    - Safe harbor rule::Pay {{90% of current year}} or {{100% of prior year}} to avoid penalty
+    - 

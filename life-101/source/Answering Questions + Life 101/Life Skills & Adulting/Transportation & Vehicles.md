@@ -1,0 +1,111 @@
+- ### Car Buying Strategy 
+    - New vs Used Decision Framework
+        - Depreciation Reality
+            - New car depreciation curve::{{20% driving off lot}}, {{40% year 2}}, {{60% year 5}}
+            - The sweet spot for used::{{2-4 years old}} gets you {{60-80% of car life}} for {{40-60% of new price}}
+            - Certified Pre-Owned value::Costs {{$1,000-3,000 more}} but includes {{warranty and inspection}}
+        - Total Cost of Ownership Calculation
+            - TCO components::{{Purchase price + interest + insurance + gas + maintenance + repairs - resale value}}
+            - 5-year TCO comparison::New car {{$40,000 over 5 years}}, 3-year-old same model {{$25,000}}
+            - Hidden costs new vs used::New has {{higher insurance and registration}}, used has {{more repairs}}
+        - When New Makes Sense
+            - Specific situations for new::{{Keeping 10+ years}}, {{specific features only in new}}, {{0% financing available}}, {{severe reliability anxiety}}
+            - Best new car value::Buy {{end of model year}}, {{less popular colors}}, {{one trim below top}}
+    - Financing vs Paying Cash
+        - The Interest Rate Decision Point
+            - The 4% rule::If loan rate {{<4%}}, generally {{better to finance and invest cash}}
+            - Investment opportunity cost::$30,000 cash could earn {{7-10% in market}} vs paying {{3-5% loan interest}}
+            - Credit score impact on rates::{{750+ gets best rates}}, {{<650 adds 5-10% to rate}}
+        - Loan Term Optimization
+            - Never exceed terms::{{60 months for new}}, {{48 months for used}}, {{36 months for older used}}
+            - Why longer terms hurt::{{More interest paid}}, {{underwater longer}}, {{out of warranty while paying}}
+            - Monthly payment trap::Dealers focus on payment, not {{total cost}} - always negotiate {{total price first}}
+    - Negotiation Tactics
+        - Information Gathering Phase
+            - Research tools to use::{{KBB, Edmunds, TrueCar}} for pricing, {{CarFax, AutoCheck}} for history
+            - Invoice vs MSRP::Fair price is {{3-5% over invoice}} for new, {{check multiple listings}} for used
+            - Timing for best deals::{{End of month}}, {{end of quarter}}, {{end of model year}}, {{rainy days}}
+        - Negotiation Process
+            - Never discuss::{{Trade-in and financing}} until {{price is settled}}
+            - The four-square trap::Dealers use this to {{confuse and hide true costs}}
+            - Walk-away power::Be prepared to {{leave}} - this is your {{strongest negotiation tool}}
+            - Online quote strategy::Get {{written quotes from multiple dealers}}, use to {{negotiate}}
+        - Used Car Specific Checks
+            - Pre-purchase inspection::Always get {{independent inspection ($100-200)}} before buying
+            - Red flags to avoid::{{Salvage title}}, {{frame damage}}, {{flood damage}}, {{multiple owners}}, {{no maintenance records}}
+            - Test drive checklist::{{Cold start}}, {{highway speeds}}, {{hard braking}}, {{all electronics}}, {{unusual noises/smells}}
+- ### Car Maintenance Mastery 
+    - Understanding Maintenance Schedules
+        - Severe vs Normal Driving
+            - Severe driving conditions::{{Stop-and-go traffic}}, {{short trips <5 miles}}, {{dusty conditions}}, {{towing}}, {{extreme temperatures}}
+            - Schedule impact::Severe driving requires {{maintenance at half the normal interval}}
+            - Most people reality::{{90% of drivers}} actually fall under {{severe driving conditions}}
+        - Oil Change Deep Dive
+            - Modern oil change intervals::Conventional: 3,000-5,000 miles; Synthetic blend: 5,000-7,500 miles; Full synthetic: 7,500-15,000+ miles. Always consult your owner's manual or oil life monitor for specific recommendations.
+            - Oil life monitors::Generally accurate but {{conservative is safer for engine longevity}}
+            - Oil check procedure↔{{Engine warm but off 5 minutes}}::{{ Pull dipstick }}↔{{ Wipe }}↔{{ Reinsert fully }}↔{{ Check level between min/max}}
+            - Oil color meaning::{{Amber = new}}, {{Brown = normal}}, {{Black = okay for diesel}}, {{Milky = coolant leak problem}}
+            - Synthetic vs conventional::Synthetic costs {{2x more}} but lasts {{2-3x longer}} and {{protects better}}
+        - Tire Maintenance and Safety
+            - Tire pressure criticality
+                - Check frequency::{{Monthly minimum}} and {{before long trips}}
+                - Proper pressure location::{{Driver door jamb sticker}}, NOT {{tire sidewall (that’s maximum)}}
+                - Temperature impact::Pressure drops {{1 PSI per 10°F temperature drop}}
+                - Fuel economy impact::Under-inflated by 10 PSI costs {{3-5% fuel economy}}
+            - Tire rotation importance::Every {{5,000-7,500 miles}} to ensure {{even wear}}
+                - Rotation patterns::{{Front-to-back for same size}}, {{X-pattern for non-directional}}, {{side-to-side for directional}}
+            - Tread depth monitoring
+                - Penny test::Insert penny with {{Lincoln’s head down}}, if you see {{entire head, replace tire}}
+                - Actual measurements::{{New 10/32”}}, {{Replace at 2/32”}}, {{Consider replacement at 4/32” for rain/snow}}
+                - Uneven wear causes::{{Alignment issues}}, {{improper inflation}}, {{suspension problems}}
+            - Tire age limit::Replace at {{6 years regardless of tread}} due to {{rubber degradation}}
+                - How to check age::{{Last 4 digits of DOT code = week and year (e.g., 2419 = week 24 of 2019)}}
+        - Fluid Maintenance Schedule
+            - Transmission fluid::{{30,000-60,000 miles}} for most, {{never for some “lifetime” fills}} (but 100k is safer)
+                - Color indicators::{{Red/pink = good}}, {{Brown = time to change}}, {{Black/burnt smell = damage}}
+            - Coolant/antifreeze::{{30,000 miles or 2 years}}, prevents {{corrosion and freezing/boiling}}
+                - 50/50 mix importance::Pure antifreeze {{doesn’t cool as well}}, pure water {{corrodes and freezes}}
+            - Brake fluid::{{Every 2 years}} regardless of miles - it’s {{hygroscopic (absorbs water)}}
+                - Why water matters::Water in brake fluid {{lowers boiling point}} causing {{brake fade}}
+            - Power steering fluid::{{50,000-75,000 miles}} or when {{dark or contaminated}}
+            - Differential fluid::{{30,000-60,000 miles}}, often {{forgotten but critical}}
+    - Troubleshooting Common Problems
+        - Warning Lights Priority
+            - Red lights (stop immediately)::{{Oil pressure}}, {{temperature}}, {{brake system}}, {{battery/charging}}
+                - Oil pressure light::Stop immediately - {{engine damage in minutes}} without oil pressure
+                - Temperature light::Stop immediately - {{warped heads/blown gasket}} from overheating
+            - Yellow lights (service soon)::{{Check engine}}, {{ABS}}, {{tire pressure}}, {{service required}}
+                - Check engine light::Steady = {{drive but diagnose soon}}, Flashing = {{stop driving, misfiring}}
+            - Reading codes::Auto parts stores {{read codes free}}, but codes {{indicate symptoms not always cause}}
+        - Sounds and Their Meanings
+            - Brake sounds
+                - Squeaking::{{Wear indicators touching rotor}} - replace {{within 1,000 miles}}
+                - Grinding::{{Metal on metal}} - stop driving immediately, {{rotors likely damaged}}
+                - Pulsing pedal::{{Warped rotors}} - replacement needed, {{temporary from hard braking}}
+            - Engine sounds
+                - Knocking/pinging::{{Pre-ignition}} - try {{higher octane gas}}, could indicate {{serious problem}}
+                - Ticking::Often {{valve train}} - check {{oil level first}}, may need {{adjustment}}
+                - Squealing belt::{{Loose or worn belt}} - {{$20 belt}} prevents {{$500 alternator}}
+            - Suspension sounds
+                - Clunking over bumps::{{Worn struts/shocks}}, {{ball joints}}, or {{bushings}}
+                - Pulling while driving::{{Alignment needed}} or {{uneven tire pressure}}
+        - Preventable Expensive Repairs
+            - Timing belt replacement::{{$500-1,000 prevention}} vs {{$3,000+ engine damage}} if breaks
+                - Interference engines::Belt failure causes {{valves to hit pistons}} destroying engine
+                - Replacement interval::{{60,000-100,000 miles}} - check manual, don’t exceed
+            - Cooling system maintenance::{{$150 coolant flush}} prevents {{$3,000+ head gasket}} failure
+            - Transmission service::{{$200 service}} prevents {{$3,000-5,000 rebuild/replacement}}
+- ### Fuel Efficiency and Driving Economics 
+    - Maximizing Fuel Economy
+        - Driving habits that save gas
+            - Speed impact::Every 5 mph over 50 costs {{7% fuel economy}} due to {{exponential wind resistance}}
+            - Acceleration technique::{{Gradual acceleration}} saves {{15-30%}} vs {{jackrabbit starts}}
+            - Cruise control benefit::Saves {{7-14%}} on highway by {{maintaining constant speed}}
+            - Idling waste::Idling uses {{1/4 to 1/2 gallon per hour}} - turn off if {{>10 seconds}}
+            - AC vs windows::Below 45 mph {{windows more efficient}}, above 45 mph {{AC more efficient}}
+        - Vehicle maintenance for MPG
+            - Tire pressure impact::Every 1 PSI below optimal costs {{0.2% fuel economy}}
+            - Air filter impact::Dirty filter costs {{up to 10%}} in older cars, {{minimal in modern cars}}
+            - Oil viscosity::Using wrong weight oil costs {{1-2% fuel economy}}
+            - Excess weight::Every 100 pounds costs {{1% fuel economy}}
+            - Roof cargo::Reduces fuel economy by {{10-25%}} from aerodynamic drag

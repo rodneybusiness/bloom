@@ -1,0 +1,126 @@
+- ### Nutrition Without Nonsense 
+    - The Five Principles That Actually Matter
+        - 1. Calorie Balance::{{Calories in vs calories out}} determines weight, period
+            - TDEE calculation::{{BMR × activity factor}} = maintenance calories
+            - Deficit for loss::{{500 calorie deficit = 1 pound/week loss}}
+            - Quality matters for::{{Satiety, health, energy}} but not weight loss itself
+    - 1. Protein Priority::Aim for {{0.7-1g per pound body weight}}
+        - Why it matters::{{Preserves muscle}}, {{highest thermic effect}}, {{most satiating}}
+        - Complete sources::{{Meat, fish, eggs, dairy, soy, quinoa}}
+        - Combining incomplete::{{Beans + rice}}, {{peanut butter + whole grain}}
+    - 1. Fiber Focus::Target {{25-35g daily}}
+        - Benefits::{{Satiety, digestive health, cholesterol reduction, blood sugar control}}
+        - Best sources::{{Beans, vegetables, whole grains, fruits}}
+        - Increase gradually::Add {{5g per week}} to avoid digestive upset
+    - 1. Micronutrient Density::Eat {{variety of colors}} for vitamin/mineral coverage
+        - The rainbow method::{{Red (lycopene)}}, {{Orange (beta-carotene)}}, {{Green (folate)}}, {{Blue/Purple (anthocyanins)}}, {{White (allicin)}}
+        - Supplementation reality::Most people need only {{Vitamin D}} and maybe {{B12 if vegan}}
+    - 1. Hydration Habit::{{Half body weight in ounces}} minimum daily
+        - Timing optimization::{{16oz upon waking}}, {{8oz before meals}}, {{stop 2 hours before bed}}
+        - Hydration indicators::Urine should be {{pale yellow}}, {{dark = dehydrated}}, {{clear = overhydrated}}
+        - 
+- 
+- ### Food Safety Critical Points 
+    - Temperature Control Standards
+        - The Danger Zone Details
+            - Temperature range::{{40-140°F}} where bacteria {{doubles every 20 minutes}}
+            - Time limits::{{2 hours maximum}} at room temperature, {{1 hour if >90°F ambient}}
+            - Cooling protocol::Cool from 140°F to {{70°F within 2 hours}}, then to {{40°F within 4 more hours}}
+            - Reheating rules::Must reach {{165°F throughout}} when reheating
+        - Safe Internal Temperatures
+            - Ground meats::{{160°F}} because bacteria mixed throughout
+            - Whole poultry::{{165°F}} including {{stuffing if present}}
+            - Pork, beef, lamb::{{145°F}} with {{3-minute rest}}
+            - Fish::{{145°F}} or until {{opaque and flakes}}
+            - Eggs::{{160°F}} or until {{both white and yolk firm}}
+            - Leftovers and casseroles::{{165°F}} throughout
+        - Storage Time Limits
+            - Refrigerator (40°F or below)
+                - Raw ground meat::{{1-2 days}}
+                - Raw steaks/chops::{{3-5 days}}
+                - Raw poultry::{{1-2 days}}
+                - Cooked meat::{{3-4 days}}
+                - Soups/stews::{{3-4 days}}
+                - Opened deli meat::{{3-5 days}}
+            - Freezer (0°F or below)
+                - Ground meat::{{3-4 months}}
+                - Steaks/chops::{{4-12 months}}
+                - Poultry whole::{{12 months}}
+                - Cooked meals::{{2-3 months}}
+                - Quality note::Safe indefinitely but {{quality degrades}}
+                - 
+- 
+- ### Kitchen Setup and Equipment 
+    - Essential Equipment Prioritization
+        - The Knife Trinity
+            - Chef’s knife (8-10”)::Does {{80% of cutting tasks}}, invest {{$50-150}} for quality
+                - How to choose::{{Full tang}}, {{comfortable handle}}, {{high-carbon stainless steel}}, {{balanced weight}}
+                - Maintenance::{{Hone before each use}}, {{sharpen 2x yearly}}, {{hand wash only}}, {{magnetic strip or block storage}}
+            - Paring knife (3-4”)::For {{detail work and small items}}, costs {{$15-40}}
+            - Serrated bread knife (8-10”)::For {{bread, tomatoes, citrus}}, costs {{$20-50}}
+            - Why these three::Can accomplish {{95% of kitchen tasks}} with just these
+        - Cookware Essentials
+            - Cast iron skillet (12”)::{{$20-40}}, lasts {{generations}}, improves with age
+                - Seasoning process::{{Clean → Dry → Thin oil coat → Bake 450°F for 1 hour → Repeat 3x}}
+                - Daily care::{{Rinse hot → Scrub if needed → Dry immediately → Light oil coat}}
+                - What it excels at::{{Searing, frying, baking, heat retention, oven-to-table}}
+            - Stainless steel pot set::{{8qt stockpot, 3qt saucepan, 1.5qt saucepan}} covers all liquid cooking
+                - Why stainless::{{Non-reactive}}, {{dishwasher safe}}, {{oven safe}}, {{even heating with good base}}
+            - Non-stick pan (10-12”)::For {{eggs and delicate items}}, replace {{every 2-3 years}}
+                - Care rules::{{Never exceed 400°F}}, {{no metal utensils}}, {{no dishwasher}}, {{no cooking spray}}
+        - Small Appliances ROI Analysis
+            - Instant Pot/Pressure Cooker::{{$60-100}}, saves {{70% cooking time}}, replaces {{7 appliances}}
+                - What it replaces::{{Slow cooker, rice cooker, steamer, sauté pan, yogurt maker, warmer, some oven uses}}
+            - Food processor (7+ cup)::{{$50-150}}, saves {{hours of prep time weekly}}
+                - When worth it::If you {{cook 4+ times weekly}} or {{batch prep}}
+            - Stand mixer::{{$200-400}}, only if you {{bake weekly}} or {{make bread}}
+            - Blender priorities::{{Smoothies daily = high-power}}, {{occasional = basic}}, {{soups = immersion}}
+            - 
+- 
+- ### Grocery Shopping Optimization 
+    - Budget Planning and Tracking
+        - Realistic Budget Targets
+            - USDA food plan guidelines (per person monthly)
+                - Thrifty plan::{{$200-250}}
+                - Low-cost plan::{{$250-350}}
+                - Moderate plan::{{$350-450}}
+                - Liberal plan::{{$450+}}
+            - Factors affecting budget::{{Location (HCOL +30-50%)}}, {{dietary restrictions}}, {{food waste}}, {{eating out frequency}}
+            - The 50/30/20 grocery split::{{50% essentials}}, {{30% variety/preference}}, {{20% treats/convenience}}
+        - Strategic Shopping Techniques
+            - Store layout psychology::Stores designed to make you {{walk perimeter for essentials}} and {{impulse buy in center}}
+                - Shopping pattern::Shop {{perimeter first (produce, meat, dairy)}}, then {{specific aisles with list}}
+            - Price comparison methods
+                - Unit price usage::Always compare {{price per ounce/pound}} not package price
+                - Brand hierarchy::Store brand typically {{25% cheaper}} with {{same quality}} for basics
+                - Sale cycles::Most items on {{6-8 week rotation}}, buy {{12 week supply at lowest price}}
+            - Bulk buying mathematics::Only buy bulk if {{use before expiration}} AND {{save >20%}} AND {{have storage}}
+                - Best bulk buys::{{Non-perishables, frozen, paper products, cleaning supplies}}
+                - Worst bulk buys::{{Produce, bread, condiments, spices (lose potency)}}
+        - Loss Leaders and Marketing Tactics
+            - Loss leader strategy::Stores lose money on {{milk, eggs, bananas}} to get you in
+            - Eye level premium::Products at eye level cost {{15-20% more}} than top/bottom shelf
+            - End cap illusion::End displays {{aren’t always sales}} - check unit price
+            - Checkout temptations::{{300% markup}} on checkout items
+            - Multi-buy traps::“2 for $5” usually means {{$2.50 each anyway}}
+            - 
+- 
+- ### Meal Planning Systems 
+    - The Weekly Meal Prep Method
+        - Planning Phase (30 minutes Sunday)
+            - Inventory check::See what {{needs using first}}, what {{staples need restocking}}
+            - Recipe selection::Choose {{3-4 main recipes}} that create {{6-8 meals through leftovers}}
+            - Cross-utilization::Plan recipes that {{share ingredients}} to reduce waste
+            - Prep task batching::Group similar tasks {{chopping all vegetables}}, {{cooking all grains}}
+        - Shopping Phase (1 hour)
+            - List organization::Organize by {{store layout}} to save {{15-20 minutes}}
+            - Substitution planning::Note {{acceptable substitutes}} for flexibility
+            - Budget checkpoint::Estimate total, have {{backup items to cut if over}}
+        - Prep Execution (2-3 hours)
+            - Mise en place::{{Prep all ingredients}} before cooking anything
+            - Batch cooking order::{{Grains/legumes first (longest)}}, {{proteins}}, {{roasted vegetables}}, {{raw vegetables last}}
+            - Storage strategy::{{Cool completely before storing}}, {{portion into meal containers}}, {{label with dates}}
+            - The 2-2-2 rule::{{2 hours to cool}}, {{2 hours max at room temp}}, {{eat within 2 days or freeze}}
+            - 
+- 
+- 

@@ -1,0 +1,25 @@
+- Types of Boundaries
+    - Physical Boundaries
+        - Personal space::Everyone has different {{comfort zones}}
+        - Touch preferences::Ask before {{hugging, touching, physical contact}}
+        - Property boundaries::{{Borrowing items, using space, accessing belongings}}
+    - Emotional Boundaries
+        - Emotional labor::Not responsible for {{others’ emotions}}
+        - Venting limits::Can say “I don’t have capacity for this now”
+        - Privacy rights::Don’t have to {{share everything}}
+    - Time Boundaries
+        - Availability limits::Not required to be {{always accessible}}
+        - Response time::Can take {{time to respond}} to non-urgent
+        - Commitment capacity::Okay to say {{no to preserve energy}}
+- Setting Boundaries Effectively
+    - The Boundary Formula
+    - 1. State boundary::“I need…” or “I’m not comfortable with…”
+    - 1. Explain briefly::One sentence reason (optional)
+    - 1. Offer alternative::If appropriate, suggest compromise
+    - 1. Enforce consequence::If violated, follow through
+    - Enforcement Without Guilt
+        - Your rights::You have right to {{protect your wellbeing}}
+        - Not mean::Boundaries are {{self-care, not punishment}}
+        - Their reaction::You’re not responsible for {{their emotional response}}
+        - Consistency crucial::Inconsistent enforcement {{teaches violation is okay}}
+        - 

@@ -1,0 +1,364 @@
+- ###  Understanding Credit Scores 
+    - What is a credit score::A {{three-digit number (300-850)}} that represents your {{creditworthiness}} to lenders, affecting your ability to {{borrow money and the interest rates you’ll pay}}
+        - Why credit scores matter::They determine {{loan approval, interest rates, apartment rentals, insurance premiums, and sometimes job eligibility}}
+            - Interest rate impact example::A 100-point credit score difference can mean {{$40,000+ more in interest}} on a 30-year mortgage
+        - What are the main FICO score categories::{{Payment history 35%, amounts owed/utilization 30%, length of history 15%, new credit 10%, credit mix 10%}}. ​m⁠y⁠f⁠i⁠c⁠o⁠.⁠c⁠o⁠m
+        - The five factors that determine your credit score::{{Payment history (35%), Credit utilization (30%), Length of credit history (15%), New credit (10%), Credit mix (10%)}}
+            - Payment History (35% of score)
+                - What it measures::Whether you {{pay your bills on time}}
+                - How late payments affect score::{{30 days late: -60 to -110 points, 60 days: -80 to -130 points, 90 days: -90 to -150 points}}
+                - How long late payments stay on report::{{7 years from the date of first delinquency}}
+                - Recovery strategy after late payment::{{Make all future payments on time - impact decreases over time, most recovery within 2 years}}
+            - Credit Utilization (30% of score)
+                - What is credit utilization::The {{percentage of available credit you’re using}}
+                - How to calculate::{{(Total credit card balances ÷ Total credit limits) × 100}}
+                - Optimal utilization for best score::{{Below 10%}}, but always {{below 30%}} to avoid score damage
+                - Per-card vs overall utilization::{{Both matter - keep each card below 30% AND total below 30%}}
+                - Quick improvement hack::{{Pay down balances before statement closes}} to show lower utilization
+                - Why keeping cards open helps::{{Increases total available credit, lowering utilization percentage}}
+            - Length of Credit History (15% of score)
+                - What it measures::{{Average age of all your accounts}} and {{age of oldest account}}
+                - Why you shouldn’t close old cards::Closing old cards {{reduces average account age}} and can {{hurt your score for years}}
+                - Authorized user strategy::Being added to an {{old, well-managed account}} can instantly {{boost your credit history length}}
+            - New Credit (10% of score)
+                - Hard inquiry impact::Each hard inquiry typically causes {{5-10 point temporary drop for 12 months}}
+                - Shopping rate exception::Multiple inquiries for {{same loan type within 14-45 days}} count as {{single inquiry}}
+                - Too many inquiries red flag::More than {{6 inquiries in 6 months}} signals {{high risk to lenders}}
+            - Credit Mix (10% of score)
+                - Ideal mix includes::{{Credit cards (revolving credit) AND installment loans (auto/personal/mortgage)}}
+                - Why mix matters::Shows you can {{manage different types of credit responsibly}}
+        - Credit Score Ranges and What They Mean
+            - 800-850 (Exceptional)::{{Best rates on everything, automatic approvals, premium credit card eligibility}}
+            - 740-799 (Very Good)::{{Above-average rates, easy approvals, most premium cards available}}
+            - 670-739 (Good)::{{Average interest rates, generally approved for credit, some premium products available}}
+            - 580-669 (Fair)::{{Subprime rates, may need co-signers, limited credit options, higher deposits required}}
+            - 300-579 (Poor)::{{May not qualify for credit, require secured cards, very high interest rates if approved}}
+        - How to Check Your Credit
+            - Free annual reports::{{AnnualCreditReport.com}} provides {{one free report per bureau per year}}
+            - The three credit bureaus::{{Experian, Equifax, and TransUnion}}
+            - Why scores differ between bureaus::Each bureau {{may have different information}} and uses {{slightly different scoring models}}
+            - Free score monitoring services::{{Credit Karma (Vantage), Discover Scorecard (FICO), many banks offer free FICO}}
+            - Which score lenders use::{{90% of lenders use FICO scores}}, specifically {{FICO 8 or FICO 9}}
+        - Credit Report Errors and Disputes
+            - Error rate on credit reports::{{20% of reports contain errors}}, with {{5% having serious errors affecting scores}}
+            - Common errors to look for::{{Wrong accounts, incorrect payment history, outdated negative information, mixed files with similar names}}
+            - How to dispute errors::{{1. Get report from bureau, 2. Document the error, 3. Write dispute letter with evidence, 4. Send certified mail, 5. Bureau must investigate within 30 days}}
+            - What to include in dispute letter::{{Your information, specific error description, supporting documents, request for removal/correction}}
+        - Credit Building Strategies for Beginners
+            - Starting from no credit::{{Secured credit card → Regular credit card → Multiple cards → Add installment loan}}
+                - Secured credit card basics::{{You put down deposit (usually $200-500) which becomes your credit limit}}
+                - When to graduate to regular card::After {{6-12 months of perfect payment history}}
+                - Credit builder loan option::{{Bank holds loan amount while you make payments, builds payment history}}
+            - Authorized user strategy::Being added to someone’s {{established card with good payment history}} can {{boost score within 30-60 days}}
+                - Requirements for authorized user boost::Account must be {{old, low utilization, perfect payment history, and report to bureaus}}
+            - Student credit card path::Easier approval while in college, often {{graduate to better cards automatically}}
+        - Credit Mistakes to Avoid
+            - Closing old credit cards hurts score by::{{Reducing average account age AND increasing utilization ratio}}
+            - Paying only minimums::Results in {{years of payments and thousands in interest}} without reducing principal
+            - Applying for multiple cards at once::Creates {{multiple hard inquiries}} and looks {{desperate to lenders}}
+            - Co-signing loans::You’re {{100% responsible if primary borrower defaults}}, affects {{your credit and debt-to-income ratio}}
+            - Not using credit cards at all::Cards with {{no activity may be closed by issuer}}, use each card {{once every 6 months minimum}}
+            - Maxing out cards::Even if paid in full, {{high balances when reported hurt score}} until next statement
+            - 
+- 
+- 
+- 
+- ### Emergency Fund  Strategy 
+    - Emergency Fund Basics 
+        - What is an emergency fund::A {{separate, liquid savings account}} containing {{3-6 months of essential living expenses}} used {{only for true financial emergencies}}
+            - Why it must be separate::Prevents {{psychological temptation to spend}} and creates {{mental barrier for non-emergencies}}
+            - Why it must be liquid::True emergencies {{require immediate access}} without {{penalties or market timing issues}}
+            - What counts as a true emergency::{{Job loss, medical emergency not covered by insurance, critical home repair (roof leak, furnace failure), critical car repair for work transportation, family emergency requiring travel}}
+                - What is NOT an emergency::{{Vacation, sales/deals, regular maintenance, planned expenses, wants, lifestyle upgrades, investment opportunities}}
+            - Calculating Your Emergency Fund Target
+                - Step 1: Calculate monthly essentials::Add up {{rent/mortgage, utilities, groceries, insurance premiums, minimum debt payments, transportation, medications}}
+                    - What to exclude from calculation::{{Entertainment, dining out, subscriptions, savings contributions, extra debt payments, discretionary spending}}
+                - Step 2: Determine your multiplier based on situation
+                    - 3 months if::{{Dual income, stable jobs, multiple income sources, low fixed expenses, good insurance coverage}}
+                    - 6 months if::{{Single income, average job stability, moderate fixed expenses, dependent family members}}
+                    - 9-12 months if::{{Freelancer/contractor, commission-based income, high-risk industry, medical conditions, poor insurance}}
+                - Step 3: Adjust for your actual risk factors
+                    - Industry volatility assessment::{{Tech/startups = high risk, Government/healthcare = low risk, Retail/hospitality = moderate risk}}
+                    - Regional economic factors::{{Single-industry towns = higher risk, Diverse metros = lower risk}}
+                    - Personal health considerations::{{Chronic conditions = need larger fund, Good health = standard fund}}
+    - Building Your Emergency Fund: The Strategic Order 
+        - Phase 1: Starter emergency fund::{{$1,000}} to cover {{most common emergencies}} and break {{paycheck-to-paycheck cycle}}
+            - Why $1,000 first::Covers {{car repairs, appliance replacement, minor medical bills}} while building habits
+            - How to get $1,000 fast (five ways)::{{Sell items, tax refund, side gig, temporary second job, one-time overtime push}} 
+        - Phase 2: High-interest debt elimination::Pay minimums plus extra on {{credit cards over 15% APR}} before full emergency fund
+            - Why debt before full fund::{{Credit card interest (20-30%) exceeds any savings return (4-5%)}}
+            - Exception to this rule::If {{job loss is imminent}} or {{no access to any credit}}, build fund first
+        - Phase 3: Full emergency fund::Build to your {{calculated 3-6 month target}}
+            - Optimal savings rate::{{20% of gross income}} until funded, then {{redirect to other goals}}
+            - Time to full funding at different rates::{{10% income = 30-60 months, 20% = 15-30 months, 30% = 10-20 months}}
+        - Phase 4: Opportunity fund::After emergency fund, consider {{3-6 months additional}} for {{job transitions, home down payment, investment opportunities}}
+    - Where to Keep Your Emergency Fund 
+        - High-yield savings account (best option)::{{4-5% APY}}, {{FDIC insured}}, {{liquid within 1-2 days}}, {{separate from checking}}
+            - Recommended banks and why recommended::{{Marcus, Ally, American Express, Capital One 360, Discover}} offer {{competitive rates with no fees}} 
+            - Why not regular savings::Traditional banks offer {{0.01-0.10% APY}} vs {{4-5% APY}} online
+        - Money market account (alternative)::Similar to HYSA but may offer {{check-writing privileges}} and {{ATM access}}
+        - What about CDs?::{{No - early withdrawal penalties}} defeat emergency access purpose
+        - What about investing it?::{{No - market volatility}} means fund might be {{down 30% when you need it most}}
+        - I Bonds consideration::Can put {{portion (1/3) in I Bonds}} after {{1 year lockup period}} for {{inflation protection}}
+    - Using Your Emergency Fund: Decision Framework 
+        - The emergency test questions::Is it {{Unexpected?}} Is it {{Necessary?}} Is it {{Urgent?}}
+            - All three must be YES::If any answer is no, {{find alternative funding or delay}}
+        - Job loss protocol (3 first actions)::Immediately {{cut all non-essential expenses}}, calculate {{monthly burn rate}}, apply for {{unemployment same day}} 
+            - Budget adjustments during job loss::{{Cancel subscriptions, pause retirement contributions, negotiate payment plans, apply for assistance programs}}
+        - Medical emergency protocol::First {{verify insurance coverage}}, ask for {{itemized bills}}, negotiate {{payment plans before using fund}}
+        - Home emergency assessment (3 first actions)::Get {{multiple repair quotes}}, consider {{temporary fixes}}, explore {{insurance claims first}} 
+    - Replenishing After Use 
+        - Priority level::Rebuilding emergency fund is {{highest priority after minimum debt payments}}
+        - Rebuild timeline target::{{Within 6-12 months}} to restore protection
+        - Psychological impact::Using fund can feel like {{failure but it’s success}} - the fund {{did its job}}
+    - Common Emergency Fund Mistakes 
+        - Keeping it too accessible::Same bank as checking makes {{transfers too easy for non-emergencies}}
+        - Not adjusting for life changes::{{Marriage, kids, home purchase}} all require {{recalculating fund size}}
+        - Counting home equity or credit cards::These are {{debt, not emergency funds}} and may be {{unavailable when needed}}
+        - Investing before emergency fund::Market gains mean nothing if {{forced to sell at loss during emergency}}
+        - 
+- 
+- 
+- 
+- ### Banking and Financial Institutions 
+    - Choosing the Right Bank Accounts 
+        - Checking Account Selection Criteria
+            - Monthly fee avoidance methods::{{Minimum balance (typically $1,500), direct deposit, student/senior status, online-only}}
+            - ATM network importance::{{Large network or ATM fee reimbursement}} saves {{$5-10 per out-of-network use}}
+            - Overdraft protection options::{{Link to savings (cheapest), line of credit, opt-out (declined transaction)}}
+                - Overdraft fee reality::Average {{$35 per transaction}} can mean {{$140 for coffee if multiple pending}}
+            - Features worth having::{{Mobile deposit, bill pay, Zelle/transfers, debit card controls, fraud protection}}
+        - High-Yield Savings Account Strategy
+            - Current rate environment::Should get {{4-5% APY minimum}} vs traditional banks {{0.01-0.10%}}
+            - The math on $10,000:: High-yield earns {{$400-500/year}} vs traditional {{$1-10/year}}
+            - Online vs brick-and-mortar::Online banks offer {{higher rates}} due to {{lower overhead costs}}
+            - Multiple account strategy::Use {{local checking for access}} and {{online savings for growth}}
+        - Understanding FDIC/NCUA Insurance
+            - Coverage limit::{{$250,000 per depositor, per insured bank, per ownership category}}
+            - What’s covered::{{Checking, savings, CDs, money market accounts}}
+            - What’s NOT covered::{{Investments, stocks, bonds, mutual funds, crypto, safety deposit contents}}
+            - Multiple account strategy::Can get {{more coverage using different banks}} or {{ownership types (individual, joint, trust)}}
+            - 
+- 
+- 
+- 
+- ### Retirement Saving + Preparation (needs work?) 
+    - ### IRA (Individual Retirement Account) Mastery 
+        - Traditional IRA Comprehensive Guide 
+            - What is a Traditional IRA::A {{personal retirement account}} offering {{tax-deductible contributions}} with {{tax-deferred growth}}
+            - Contribution limits 2024::{{$}}{{7,000 under 50, $8,000 if 50+}}
+            - Deductibility phase-out 2026 (if have 401k)::Single **$81,000-$91,000**, Married **$129,000-$149,000**
+                - What phase-out means::Can still {{contribute but lose tax deduction}} proportionally in range
+            - Who should use Traditional IRA::Those {{without 401(k)}} or {{high earners seeking additional tax deductions}}
+        - Roth IRA Comprehensive Guide 
+            - What is a Roth IRA::A retirement account funded with {{after-tax dollars}} providing {{tax-free growth and withdrawals}}
+            - The Roth IRA Five-Year Rules
+                - Contribution withdrawal::Can withdraw {{contributions anytime tax/penalty free}}
+                - Earnings withdrawal::Must be {{59½ AND account 5 years old}} for tax-free
+                - Conversion withdrawal::Each conversion has {{own 5-year clock}} for penalty-free access
+            - Roth IRA Income Limits 2026
+                - Phase-out single::{{$153,000-168,000}} 
+                - $230,000 to $240,000::What is the Roth IRA contribution phase-out range for those married filing jointly in 2024?
+                - Backdoor Roth strategy::{{Contribute to Traditional then immediately convert}} to bypass limits
+                    - Steps for backdoor::{{1. Open Traditional IRA, 2. Make non-deductible contribution, 3. Convert to Roth immediately, 4. Pay tax only on gains}}
+            - Roth vs Traditional Decision Framework
+                - Choose Roth if::{{Young, expect higher future tax rate, want estate planning benefits, value flexibility}}
+                - Choose Traditional if::{{High current tax rate, expect lower retirement tax rate, need current deduction}}
+                - Mathematical breakeven::If {{same tax rate now and retirement}}, they’re {{mathematically equivalent}}
+                - Non-math Roth advantages::{{No RMDs, tax-free to heirs, withdrawal flexibility, tax diversification}}
+                - 
+- 
+- 
+- 
+- ### Debt Management and Elimination 
+    - Understanding Different Types of Debt 
+        - Debt Toxicity Hierarchy (worst to best)
+            - Payday loans::{{400% average APR}}, balloon payment structure, {{debt trap design}}
+            - Credit cards::{{18-30% APR}}, compound interest, {{minimum payment trap}}
+            - Personal loans::{{6-36% APR}}, fixed payment, {{better than cards for consolidation}}
+            - Auto loans::{{4-10% APR}}, secured by depreciating asset, {{avoid >60 months}}
+            - Student loans::{{4-8% APR}}, payment flexibility, {{potential forgiveness programs}}
+            - Mortgages::{{3-7% APR}}, building equity, {{tax deductible interest}}
+        - The Minimum Payment Trap
+            - How minimums are calculated::{{1-3% of balance or $25}}, whichever is {{greater}}
+            - Time to payoff example::$5,000 at 18% paying minimums takes {{30 years}} and costs {{$11,000 in interest}}
+            - Psychological design::Minimums designed to {{maximize interest}} while {{feeling manageable}}
+    - Debt Elimination Strategies 
+        - Debt Avalanche Method (Mathematically Optimal)
+            - How it works::List debts by {{interest rate highest to lowest}}, pay minimums on all, {{extra to highest rate}}
+            - Math advantage::Saves the {{most money overall}} and {{fastest total elimination}}
+            - Psychological challenge↔ [Prioritizing the highest interest rate] , less frequent wins 
+            - Best for::{{Disciplined, math-focused people}} with {{steady income}}
+        - Debt Snowball Method (Psychologically Optimal)
+            - How it works::List debts by {{balance smallest to largest}}, pay minimums on all, {{extra to smallest balance}}
+            - Psychological advantage::{{Quick wins build momentum}}, more {{frequent victories}}
+            - Math disadvantage::Costs {{more in total interest}} than avalanche
+            - Best for::People who need {{motivation and wins}} to stay committed
+        - Debt Consolidation Analysis
+            - When it makes sense::New rate is {{2%+ lower}} AND you {{stop using cards}} AND {{won’t extend timeline}}
+            - Personal loan consolidation::Fixed payment forces {{payoff in 3-5 years}} vs endless minimums
+            - Balance transfer cards::{{0% for 12-21 months}} but requires {{discipline and 3-5% transfer fee}}
+                - Balance transfer math::Transfer fee worth it if {{save more in interest than fee costs}}
+            - Home equity danger::Converts {{unsecured debt to secured}}, risks {{losing home}}
+        - Negotiating with Creditors
+            - When creditors negotiate::When you’re {{60+ days late}} or can {{pay lump sum}}
+            - Settlement typical range::{{40-60% of balance}} for lump sum payment
+            - Payment plan options::{{Reduced interest, waived fees, extended terms}}
+            - Tax consequence warning::Forgiven debt over {{$600 is taxable income}}
+            - Credit score impact::Settlement shows as {{“paid, settled for less”}} for {{7 years}}
+            - 
+- 
+- 
+- 
+- ### Tax Planning and Optimization 
+    - Tax Filing Fundamentals 
+        - Determining Filing Requirements
+            - Must file if income exceeds::{{Standard deduction amount}} for your filing status
+            - Should file even if not required::To claim {{refundable credits}} or get {{refund of withheld taxes}}
+            - Filing status optimization
+                - Single vs Head of Household::HOH saves {{~$3,000 in deductions}} if qualify
+                    - HOH requirements::{{Unmarried, pay >50% household costs, qualifying dependent}}
+                - Married filing jointly vs separately::Jointly almost always better except {{student loan forgiveness, liability concerns}}
+        - Record Keeping Requirements
+            - Keep 3 years::{{Most tax returns and supporting documents}}
+            - Keep 7 years::{{If claiming losses, bad debt deduction, unreported income >25%}}
+            - Keep forever::{{Returns, cost basis for investments/property, major improvements}}
+            - Digital is fine::{{IRS accepts digital records}} if {{complete and legible}}
+        - Audit Risk Factors
+            - Audit rate reality::{{0.4% overall}}, {{1.4% for high income}}, {{5.3% for no income reported}}
+            - Red flags::{{Home office, 100% business vehicle, large charity, round numbers, cash business}}
+            - Audit types::{{Correspondence (mail), office, field (home/business)}}
+            - Your rights::{{Representation, appeal, payment plan, innocent spouse relief}}
+            - 
+    - Understanding Your Tax Situation 
+        - How Tax Brackets Actually Work (Marginal vs Effective)
+            - Marginal tax rate::The rate on your {{next dollar earned}}
+            - Effective tax rate::Your {{total tax ÷ total income}}
+            - Progressive taxation example::First $11,600 taxed at {{10%}}, next $35,550 at {{12%}}, etc.
+            - Common misconception::Earning more {{never results in less after-tax}} due to brackets
+        - Types of Income and Their Tax Treatment
+            - Ordinary income::{{Wages, interest, short-term gains}} taxed at {{regular brackets}}
+            - Long-term capital gains::Held {{>1 year}}, taxed at {{0%, 15%, or 20%}}
+            - Qualified dividends::Taxed at {{capital gains rates}} not ordinary income
+            - Tax-free income::{{Municipal bonds, Roth withdrawals, gifts received, life insurance proceeds}}
+        - Standard vs Itemized Deduction Decision
+            - Standard deduction 2024::Single {{$14,600}}, Married Filing Jointly {{$29,200}}
+            - When to itemize::If total of {{mortgage interest + SALT + charity > standard deduction}}
+            - SALT cap impact::State and local taxes limited to {{$10,000 deduction}}
+            - Bunching strategy::{{Combine 2 years of charity}} in one year to {{exceed standard deduction}}
+    - Tax-Advantaged Account Priority Order 
+        - The optimal contribution order::{{401(k) to match → HSA max → IRA max → 401(k) max → Taxable investing}}
+            - Why this order::{{Free money first → Triple tax advantage → Tax advantage → Flexibility}}
+        - HSA as Super Retirement Account
+            - Triple tax advantage::{{Deductible contributions, tax-free growth, tax-free medical withdrawals}}
+            - After 65 loophole::Can withdraw for {{any reason}} paying only {{income tax like Traditional IRA}}
+            - Investment strategy::After {{$1,000 cash reserve}}, invest rest for {{long-term growth}}
+            - Receipt saving hack::Save medical receipts {{forever}}, reimburse yourself {{decades later}} tax-free
+        - Flexible Spending Account (FSA) Strategy
+            - Use-it-or-lose-it rule::Must spend by {{year end or lose money}} (some allow {{$640 carryover}})
+            - Conservative estimation::Only contribute what you’re {{certain to spend}}
+            - Dependent care FSA::{{$5,000 limit}} saves {{$1,100-2,000}} in taxes for childcare
+    - Year-End Tax Planning Moves 
+        - Tax loss harvesting::Sell losing investments to {{offset gains}} and up to {{$3,000 ordinary income}}
+            - Wash sale rule::Can’t rebuy {{same or substantially identical}} security for {{31 days}}
+            - Carryforward provision::Unused losses {{carry forward indefinitely}}
+        - Retirement contribution deadlines::401(k) by {{December 31}}, IRA by {{April 15 (tax deadline)}}
+        - Estimated tax payments::Due {{quarterly}} if expect to owe {{>$1,000}}
+            - Safe harbor rule::Pay {{90% of current year}} or {{100% of prior year}} to avoid penalty
+            - 
+    - Health Insurance Deep Dive 
+        - Understanding Plan Types
+            - HMO (Health Maintenance Organization)::{{Primary care physician required}}, {{referrals for specialists}}, {{lowest premiums}}, {{no out-of-network coverage}}
+            - PPO (Preferred Provider Organization)::{{No PCP required}}, {{no referrals needed}}, {{higher premiums}}, {{out-of-network coverage available}}
+            - HDHP (High Deductible Health Plan)::{{Lower premiums}}, {{higher deductible}}, {{HSA eligible}}, best for {{healthy people}}
+            - EPO (Exclusive Provider Organization)::{{No PCP required}}, {{no out-of-network except emergency}}, {{middle ground option}}
+        - Decoding Insurance Terms
+            - Premium::{{Monthly payment}} regardless of usage
+            - Deductible::Amount you pay {{before insurance starts covering}}
+            - Copayment::{{Fixed dollar amount}} per service (e.g., $30 doctor visit)
+            - Coinsurance::{{Percentage you pay}} after deductible (e.g., 20%)
+            - Out-of-pocket maximum::Most you’ll pay {{per year regardless of costs}}
+                - After OOP max::Insurance pays {{100% of covered services}}
+        - Choosing the Right Health Plan
+            - High-utilization profile::If {{chronic conditions or planned procedures}}, choose {{low deductible even if higher premium}}
+            - Low-utilization profile::If {{young and healthy}}, choose {{HDHP with HSA}} for {{tax savings and lower premiums}}
+            - The break-even calculation::Compare {{annual premium difference}} to {{deductible difference}}
+            - Network verification::Always verify {{your doctors are in-network}} before enrolling
+        - Healthcare Cost Reduction Strategies
+            - Generic prescriptions::Save {{80-85%}} with {{identical active ingredients}}
+            - GoodRx and discount cards::Can be {{cheaper than insurance}} for some medications
+            - Urgent care vs ER::Urgent care costs {{$150-300}} vs ER {{$1,500-3,000}} for non-emergencies
+            - Telemedicine first::Many plans offer {{free or $10-40}} virtual visits
+            - Preventive care maximization::{{Annual physical, vaccines, screenings}} are {{100% covered}}
+            - Bill negotiation process::{{Ask for itemized bill → Check for errors → Request financial assistance → Negotiate payment plan}}
+    - Auto Insurance Optimization 
+        - Coverage Types Explained
+            - Liability Coverage (Required)
+                - Bodily injury liability::Covers {{medical costs for others}} you injure
+                - Property damage liability::Covers {{damage to others’ property}}
+                - Minimum recommended limits::{{100/300/100}} means {{$}}{{100k per person, $}}{{300k per accident, $100k property}}
+                - State minimums inadequacy::Typical {{25/50/25}} leaves you {{exposed to lawsuits}}
+            - Collision Coverage::Pays for {{your car damage}} regardless of fault
+                - When to drop::When car value {{< 10x annual premium}}
+            - Comprehensive Coverage::Covers {{non-collision damage}} (theft, vandalism, weather, animals)
+                - Deductible sweet spot::{{$500-1,000}} balances {{premium savings vs out-of-pocket risk}}
+            - Uninsured/Underinsured Motorist::Protects you from {{drivers without adequate insurance}}
+                - Why it matters::{{1 in 8 drivers uninsured}}, many more underinsured
+        - Premium Reduction Strategies
+            - Credit score impact::Poor credit can {{double premiums}} in most states
+            - Multi-policy bundling::Save {{5-25%}} combining auto and home/renters
+            - Defensive driving course::{{5-10% discount}} for completing approved course
+            - Usage-based insurance::Safe driving monitored by app saves {{10-30%}}
+            - Annual payment discount::Save {{5-10%}} paying annually vs monthly
+            - Shop every 2-3 years::Rates vary widely, loyalty {{doesn’t pay}}
+    - Estate Planning, Taxes + Trusts
+        - 
+        - Annual Gift Tax Exclusion
+            - amount per donor per recipient in 2025;;$19,000
+            - The annual gift tax exclusion resets {{every year}} (use it or lose it).
+            - amount for married couple using gift-splitting in 2025;;$38,000 per recipient
+        - Gift-Splitting::When a married couple treats gifts as if each spouse gave half.
+        - Lifetime Gift And Estate Tax Exemption
+            - amount in 2025;;~$13.6 million
+            - tax rate on amounts over the exemption;;~40%
+            - The lifetime exemption is only used when {{gifts exceed the annual exclusion}} OR {{at death}}.
+        - Annual Exclusion Vs. Lifetime Exemption
+            - Annual exclusion gifts are {{completely separate from}} the lifetime exemption.
+            - Do annual exclusion gifts touch the $13.6M lifetime exemption?→Never
+            - Giving ${{50K}} to one person uses ${{19K}} from annual exclusion + ${{31K}} from lifetime exemption.
+        - Present Interest Gift::A gift the recipient can use immediately.
+            - Only {{present interest}} gifts qualify for the annual exclusion.
+            - Is a direct cash gift to a person a present or future interest?→Present interest
+        - Future Interest Gift::A gift where the recipient's access is delayed.
+            - Is a gift to a trust typically a present or future interest?→Future interest
+        - Crummey Letter
+            - named after;;Crummey v. Commissioner (1968)
+            - purpose;;Convert future interest gifts into present interest gifts
+            - What does it notify beneficiaries of?→Their temporary right to withdraw the gift
+            - typical withdrawal window;;30-60 days
+            - Do beneficiaries usually withdraw?→No - it would defeat the trust's purpose
+            - The Crummey trick works because having the option to withdraw = {{present interest}}, even if not exercised.
+            - Crummey formula: Gift to trust + withdrawal right + lapse = {{present interest}} = {{annual exclusion eligible}}.
+        - ILIT (Irrevocable Life Insurance Trust)::A trust that owns a life insurance policy.
+            - main benefit;;Death benefit skips your estate, avoiding estate tax
+            - Why do ILITs need Crummey letters?→Premium payments are gifts to the trust (future interest)
+            - ILIT funding sequence: {{Gift}} ↔ {{Crummey letter}} ↔ {{Withdrawal lapses}} ↔ {{Trustee pays premium}}.
+            - Is the life insurance payout in your estate?→Never (trust owned the policy)
+        - Estate Draining Strategy
+            - The annual exclusion acts as {{a separate pipeline}} to move money out of your estate.
+            - How does annual gifting reduce estate tax?→Reduces estate size, so less is "over" the $13.6M at death
+            - ${{38K}}/year to {{4}} people for {{20}} years moves ${{3.04M}} out of your estate (all tax-free).
+        - Portability::Transferring unused lifetime exemption to surviving spouse.
+            - Who can receive unused exemption through portability?→Surviving spouse only (not children)
+            - maximum combined exemption for surviving spouse with full portability;;~$27.2M
+            - Portability requires {{filing an estate tax return}} to elect it (not automatic).
+        - Gift Tax Filing Requirements
+            - Give ${{19K}} or less: {{Free, no forms, no impact}}.
+            - Give over ${{19K}}: {{File Form 709}}, excess chips away at ${{13.6M}}.
+            - What happens with a gift to trust without Crummey?→No annual exclusion (uses lifetime exemption)
+            - What happens with a gift to trust with Crummey?→Annual exclusion works
+    - 
+- 
+- 
+- 
+- 

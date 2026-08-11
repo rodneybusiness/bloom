@@ -1,0 +1,33 @@
+- Event Attendance Strategy
+    - RSVP Etiquette
+        - Response timeline::Within {{48 hours}} of receiving invitation
+        - Maybe means no::If uncertain, better to {{decline than flake}}
+        - Plus-one clarity::Only bring guest if {{invitation includes “and guest”}}
+        - Dietary restrictions::Share when RSVP if {{meal involved}}
+    - Arrival and Departure
+        - Arrival timing::{{On time for dinner}}, {{15-30 minutes late for parties}}
+        - Departure signals::{{Thank host, mention early morning, help clean}}
+        - Irish goodbye option::Acceptable at {{large parties}} if not close to host
+- Small Talk Mastery
+    - Conversation Starters
+        - Environmental::Comment on {{venue, food, music, decor}}
+        - Relational::“How do you know [host]?”
+        - Current events::{{Local events, weather, sports}} safer than politics
+        - Compliments::Genuine appreciation for {{clothing, accessories}}
+    - Keeping Conversation Flowing
+        - The FORD method::{{Family, Occupation, Recreation, Dreams}}
+        - Open questions::“What’s that like?” “How did you get into that?”
+        - The pivot::Acknowledge then transition to related topic
+        - The exit::“Excuse me, I need to [bathroom/drink/find someone]. Great talking!”
+- Gift Giving Guidelines
+    - Occasion Standards
+        - Wedding::{{$75-150}} depending on relationship, location
+        - Baby shower::{{$25-75}} from registry preferred
+        - Housewarming::{{$25-50}} - wine, plant, candle safe choices
+        - Birthday (adult friend)::{{$20-50}} unless established different norm
+    - Gift Selection Strategy
+        - Registry respect::If exists, {{use it}} - they want those items
+        - Consumables safe::When uncertain, {{wine, chocolate, coffee, candles}}
+        - Experience gifts::Often more appreciated than {{objects}}
+        - Group gifts::Good for {{expensive items}} or close-knit groups
+- 

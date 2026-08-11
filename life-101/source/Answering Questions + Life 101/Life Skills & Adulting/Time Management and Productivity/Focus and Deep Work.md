@@ -1,0 +1,17 @@
+- Eliminating Distractions
+    - Phone Management
+        - Notification audit::Keep only {{calls, calendar, critical apps}}
+        - Phone placement::{{Different room}} or {{locked drawer}} during focus
+        - Grayscale mode::Reduces {{dopamine response}} and usage
+        - App limits::Set {{daily limits}} on problem apps
+    - Computer Environment
+        - Browser discipline::{{One tab rule}} for focus work
+        - Website blockers::Block {{social, news, shopping}} during work hours
+        - Desktop cleanliness::{{Empty desktop}} reduces visual distraction
+        - Full screen mode::{{Eliminates all other visual inputs}}
+    - Time Protection
+        - Office hours concept::Set {{specific availability times}}
+        - Batch communication::Check messages {{2-3 times}} not constantly
+        - Meeting boundaries::{{No meeting days}} or {{meeting afternoons only}}
+        - Energy management::Schedule {{deep work during peak energy}}
+        - 

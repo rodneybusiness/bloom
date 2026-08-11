@@ -1,0 +1,5 @@
+- What is a Traditional IRA::A {{personal retirement account}} offering {{tax-deductible contributions}} with {{tax-deferred growth}}
+- Contribution limits 2024::{{$}}{{7,000 under 50, $8,000 if 50+}}
+- Deductibility phase-out 2026 (if have 401k)::Single **$81,000-$91,000**, Married **$129,000-$149,000**
+    - What phase-out means::Can still {{contribute but lose tax deduction}} proportionally in range
+- Who should use Traditional IRA::Those {{without 401(k)}} or {{high earners seeking additional tax deductions}}

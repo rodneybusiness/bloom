@@ -1,0 +1,11 @@
+- Debt Toxicity Hierarchy (worst to best)
+    - Payday loans::{{400% average APR}}, balloon payment structure, {{debt trap design}}
+    - Credit cards::{{18-30% APR}}, compound interest, {{minimum payment trap}}
+    - Personal loans::{{6-36% APR}}, fixed payment, {{better than cards for consolidation}}
+    - Auto loans::{{4-10% APR}}, secured by depreciating asset, {{avoid >60 months}}
+    - Student loans::{{4-8% APR}}, payment flexibility, {{potential forgiveness programs}}
+    - Mortgages::{{3-7% APR}}, building equity, {{tax deductible interest}}
+- The Minimum Payment Trap
+    - How minimums are calculated::{{1-3% of balance or $25}}, whichever is {{greater}}
+    - Time to payoff example::$5,000 at 18% paying minimums takes {{30 years}} and costs {{$11,000 in interest}}
+    - Psychological design::Minimums designed to {{maximize interest}} while {{feeling manageable}}

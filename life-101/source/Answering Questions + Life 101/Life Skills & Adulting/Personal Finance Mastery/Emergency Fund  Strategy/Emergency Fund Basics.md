@@ -1,0 +1,16 @@
+- What is an emergency fund::A {{separate, liquid savings account}} containing {{3-6 months of essential living expenses}} used {{only for true financial emergencies}}
+    - Why it must be separate::Prevents {{psychological temptation to spend}} and creates {{mental barrier for non-emergencies}}
+    - Why it must be liquid::True emergencies {{require immediate access}} without {{penalties or market timing issues}}
+    - What counts as a true emergency::{{Job loss, medical emergency not covered by insurance, critical home repair (roof leak, furnace failure), critical car repair for work transportation, family emergency requiring travel}}
+        - What is NOT an emergency::{{Vacation, sales/deals, regular maintenance, planned expenses, wants, lifestyle upgrades, investment opportunities}}
+    - Calculating Your Emergency Fund Target
+        - Step 1: Calculate monthly essentials::Add up {{rent/mortgage, utilities, groceries, insurance premiums, minimum debt payments, transportation, medications}}
+            - What to exclude from calculation::{{Entertainment, dining out, subscriptions, savings contributions, extra debt payments, discretionary spending}}
+        - Step 2: Determine your multiplier based on situation
+            - 3 months if::{{Dual income, stable jobs, multiple income sources, low fixed expenses, good insurance coverage}}
+            - 6 months if::{{Single income, average job stability, moderate fixed expenses, dependent family members}}
+            - 9-12 months if::{{Freelancer/contractor, commission-based income, high-risk industry, medical conditions, poor insurance}}
+        - Step 3: Adjust for your actual risk factors
+            - Industry volatility assessment::{{Tech/startups = high risk, Government/healthcare = low risk, Retail/hospitality = moderate risk}}
+            - Regional economic factors::{{Single-industry towns = higher risk, Diverse metros = lower risk}}
+            - Personal health considerations::{{Chronic conditions = need larger fund, Good health = standard fund}}

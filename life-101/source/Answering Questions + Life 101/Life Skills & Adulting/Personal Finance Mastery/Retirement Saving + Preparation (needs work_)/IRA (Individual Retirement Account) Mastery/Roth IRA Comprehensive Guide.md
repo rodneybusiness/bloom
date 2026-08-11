@@ -1,0 +1,16 @@
+- What is a Roth IRA::A retirement account funded with {{after-tax dollars}} providing {{tax-free growth and withdrawals}}
+- The Roth IRA Five-Year Rules
+    - Contribution withdrawal::Can withdraw {{contributions anytime tax/penalty free}}
+    - Earnings withdrawal::Must be {{59½ AND account 5 years old}} for tax-free
+    - Conversion withdrawal::Each conversion has {{own 5-year clock}} for penalty-free access
+- Roth IRA Income Limits 2026
+    - Phase-out single::{{$153,000-168,000}} 
+    - $230,000 to $240,000::What is the Roth IRA contribution phase-out range for those married filing jointly in 2024?
+    - Backdoor Roth strategy::{{Contribute to Traditional then immediately convert}} to bypass limits
+        - Steps for backdoor::{{1. Open Traditional IRA, 2. Make non-deductible contribution, 3. Convert to Roth immediately, 4. Pay tax only on gains}}
+- Roth vs Traditional Decision Framework
+    - Choose Roth if::{{Young, expect higher future tax rate, want estate planning benefits, value flexibility}}
+    - Choose Traditional if::{{High current tax rate, expect lower retirement tax rate, need current deduction}}
+    - Mathematical breakeven::If {{same tax rate now and retirement}}, they’re {{mathematically equivalent}}
+    - Non-math Roth advantages::{{No RMDs, tax-free to heirs, withdrawal flexibility, tax diversification}}
+    - 

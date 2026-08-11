@@ -1,0 +1,97 @@
+- ### Contract Literacy 
+    - **The One Rule**
+        - When to get a lawyer instead of DIY #high-frequency #big-picture >>>
+            - Real estate purchases 
+            - employment agreements
+            - anything over $10K
+            - equity/partnership deals
+            - anything you don't fully understand
+        -  #high-frequency #big-picture
+    - Elements of a Valid Contract
+        - The Three Requirements
+            - Offer and acceptance::One party {{proposes terms}}, other {{accepts those exact terms}}
+                - Counter-offer impact::Counter-offer {{voids original offer}} and becomes {{new offer}}
+            - Consideration↔Each party must {{provide a bargained-for benefit or incur a bargained-for detriment (which can include forbearance)}} 
+                - What counts::{{Money, services, promises, forbearance from action}}
+                - do not count as valid consideration::Past actions, illegal acts, pre-existing duties
+            - Capacity and legality::Parties must be {{18+, mentally competent}} for {{legal purpose}}
+        - Contract Formation Methods
+            - Written contracts::Required for {{real estate, over 1 year, over $500, marriage, suretyship}}
+            - Verbal contracts::{{Legally binding}} but {{hard to prove terms}}
+            - Email agreements::Can form {{binding contracts}} if show {{clear agreement}}
+            - Click-wrap agreements::{{Binding if reasonable notice}} and {{affirmative consent}}
+        - Reading Contracts Strategically
+            - Key sections to scrutinize
+                - Payment terms::{{Amount, schedule, late fees, interest, payment methods}}
+                - Termination clause::{{Notice required, penalties, conditions for exit}}
+                - Liability limitations::{{Caps on damages, indemnification, warranty disclaimers}}
+                - Dispute resolution::{{Arbitration vs court, location, who pays costs}}
+                - Automatic renewal::{{Notice period to cancel, renewal terms}}
+            - Red flags to avoid::{{Blank spaces, one-sided terms, no termination option, unlimited liability, confession of judgment}}
+            - Modification rules::Changes must be {{in writing if contract requires}} and {{signed by both parties}}
+            - 
+- 
+- ### Estate Planning Essentials 
+    - The Basic Estate Planning Documents
+        - Last Will and Testament
+            - What it controls::{{Property distribution, guardian for minors, executor appointment}}
+            - What it doesn’t control::{{Joint property, beneficiary accounts, trust assets}}
+            - Requirements for validity::{{In writing, signed, 2 witnesses (non-beneficiaries), testator 18+ and competent}}
+            - Updating triggers::{{Marriage, divorce, birth, death, major asset change, move to different state}}
+            - Self-proving affidavit::Witnesses sign {{notarized statement}} to avoid {{court appearance}}
+        - Power of Attorney Types
+            - Financial POA::Allows agent to {{manage finances, pay bills, file taxes, manage investments}}
+                - Durable vs non-durable::Durable {{continues if incapacitated}}, non-durable {{ends at incapacity}}
+                - Springing POA::Only activates upon {{specific event (usually incapacity)}}
+                - Powers to consider::{{Banking, real estate, investments, business, gifts, trusts}}
+            - Healthcare POA::Agent makes {{medical decisions if you can’t}}
+                - When it activates::{{Doctor certifies you can’t make decisions}}
+                - Scope of authority::{{Treatment decisions, facility choice, access to records}}
+                - Limitations::Can’t override {{your known wishes}} or {{living will}}
+        - Advance Healthcare Directives
+            - Living Will components
+                - Life-sustaining treatment::Specify wishes for {{ventilators, feeding tubes, CPR, dialysis}}
+                - Pain management::Usually request {{comfort care even if refusing treatment}}
+                - Organ donation::Specify {{yes/no and any limitations}}
+            - HIPAA authorization::Allows {{specified people}} to access {{medical information}}
+            - DNR/POLST::More specific than living will, {{followed by EMTs}}, requires {{doctor signature}}
+        - Trust Basics
+            - Revocable Living Trust
+                - Benefits::{{Avoids probate, privacy, incapacity planning, harder to contest}}
+                - Drawbacks::{{Cost to create ($1,000-3,000), maintenance required, no tax benefits}}
+                - Funding requirement::Must {{transfer assets into trust}} or doesn’t work
+            - When trusts make sense::{{Own real estate in multiple states}}, {{privacy important}}, {{complex family}}, {{high net worth}}
+- 
+- ### Employment Law Essentials 
+    - Understanding At-Will Employment
+        - What at-will means::Employer can {{fire for any reason or no reason}} except {{illegal reasons}}
+            - Illegal termination reasons::{{Race, religion, sex, age (40+), disability, pregnancy, retaliation, union activity}}
+            - Not illegal but seems unfair::{{Personality conflict, favoritism, restructuring, false accusations (if good faith)}}
+        - Exceptions to at-will
+            - Written contract::Specifies {{termination terms and conditions}}
+            - Implied contract::{{Employee handbook promises}}, {{verbal assurances}}
+            - Public policy violation::{{Refusing illegal acts, jury duty, voting, whistleblowing}}
+        - Documentation and Evidence
+            - Keep everything::{{Emails, performance reviews, texts, policy documents, witness info}}
+            - Personal copies::Always keep {{copies off-site}} - lose access when terminated
+            - Journal contemporaneously::Document {{date, time, witnesses, exact words}} of incidents
+            - BCC personal email::When appropriate, for {{important communications}}
+    - Workplace Rights and Protections
+        - Wage and Hour Laws
+            - Overtime requirements::{{Time-and-half over 40 hours/week}} for {{non-exempt employees}}
+            - Exempt classifications::{{Executive, administrative, professional, outside sales, computer}}
+                - Salary threshold 2024::Must earn {{$43,888/year minimum}} to be exempt
+            - Break requirements::{{Federal law doesn’t require}} but many states do
+            - Final paycheck::Due {{immediately to 30 days}} depending on state
+        - Discrimination and Harassment
+            - Protected classes federal::{{Race, color, religion, sex, national origin, age (40+), disability, genetic info}}
+            - Harassment definition::{{Severe or pervasive}} conduct creating {{hostile work environment}}
+            - Reporting procedure::{{Follow company policy}}, {{document everything}}, {{keep copies}}
+            - EEOC filing deadline::{{180-300 days}} depending on state
+        - Leave Rights
+            - FMLA eligibility::{{12 months employment, 1,250 hours, 50+ employees within 75 miles}}
+            - FMLA coverage::{{12 weeks unpaid}} for {{birth, adoption, serious health, family care}}
+            - ADA accommodations::{{Reasonable modifications}} unless {{undue hardship}}
+            - State additions::Many states have {{paid family leave, sick leave requirements}}
+            - 
+- 

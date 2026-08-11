@@ -1,0 +1,6 @@
+- The emergency test questions::Is it {{Unexpected?}} Is it {{Necessary?}} Is it {{Urgent?}}
+    - All three must be YES::If any answer is no, {{find alternative funding or delay}}
+- Job loss protocol (3 first actions)::Immediately {{cut all non-essential expenses}}, calculate {{monthly burn rate}}, apply for {{unemployment same day}} 
+    - Budget adjustments during job loss::{{Cancel subscriptions, pause retirement contributions, negotiate payment plans, apply for assistance programs}}
+- Medical emergency protocol::First {{verify insurance coverage}}, ask for {{itemized bills}}, negotiate {{payment plans before using fund}}
+- Home emergency assessment (3 first actions)::Get {{multiple repair quotes}}, consider {{temporary fixes}}, explore {{insurance claims first}} 

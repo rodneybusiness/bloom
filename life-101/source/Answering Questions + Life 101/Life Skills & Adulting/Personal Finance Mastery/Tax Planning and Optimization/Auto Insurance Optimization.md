@@ -1,0 +1,19 @@
+- Coverage Types Explained
+    - Liability Coverage (Required)
+        - Bodily injury liability::Covers {{medical costs for others}} you injure
+        - Property damage liability::Covers {{damage to others’ property}}
+        - Minimum recommended limits::{{100/300/100}} means {{$}}{{100k per person, $}}{{300k per accident, $100k property}}
+        - State minimums inadequacy::Typical {{25/50/25}} leaves you {{exposed to lawsuits}}
+    - Collision Coverage::Pays for {{your car damage}} regardless of fault
+        - When to drop::When car value {{< 10x annual premium}}
+    - Comprehensive Coverage::Covers {{non-collision damage}} (theft, vandalism, weather, animals)
+        - Deductible sweet spot::{{$500-1,000}} balances {{premium savings vs out-of-pocket risk}}
+    - Uninsured/Underinsured Motorist::Protects you from {{drivers without adequate insurance}}
+        - Why it matters::{{1 in 8 drivers uninsured}}, many more underinsured
+- Premium Reduction Strategies
+    - Credit score impact::Poor credit can {{double premiums}} in most states
+    - Multi-policy bundling::Save {{5-25%}} combining auto and home/renters
+    - Defensive driving course::{{5-10% discount}} for completing approved course
+    - Usage-based insurance::Safe driving monitored by app saves {{10-30%}}
+    - Annual payment discount::Save {{5-10%}} paying annually vs monthly
+    - Shop every 2-3 years::Rates vary widely, loyalty {{doesn’t pay}}

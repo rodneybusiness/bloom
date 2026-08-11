@@ -1,0 +1,33 @@
+- Preventive Care Maximization
+    - No-Cost Preventive Services
+        - Annual screenings covered::{{Physical, blood pressure, cholesterol, diabetes, depression, STIs}}
+        - Cancer screenings::{{Mammogram (40+), colonoscopy (45+), cervical (21+), lung (50+ smokers)}}
+        - Immunizations covered::{{All CDC-recommended vaccines}} including flu, COVID, shingles (50+)
+        - Women’s health::{{Birth control, well-woman visits, breastfeeding support}}
+        - Key to coverage::Must be {{coded as preventive}} not diagnostic
+    - Age-Based Screening Schedule
+        - 20s::{{Annual physical, cholesterol check, blood pressure, STI screening, skin check}}
+        - 30s::Add {{diabetes screening if overweight, baseline EKG}}
+        - 40s::Add {{mammogram, comprehensive eye exam, hearing test}}
+        - 50s::Add {{colonoscopy, bone density (women), prostate discussion (men), shingles vaccine}}
+        - 60s+::Add {{AAA screening (men), cognitive assessment, fall risk assessment}}
+- Healthcare Cost Reduction
+    - Prescription Savings Strategies
+        - Generic substitution::Saves {{80-85%}} with {{identical active ingredient}}
+        - Pharmacy shopping::Prices vary {{up to 10x}} between pharmacies
+        - Discount programs::{{GoodRx, pharmacy clubs, manufacturer coupons}}
+        - 90-day supplies::Often {{cheaper per dose}} and {{one copay vs three}}
+        - Mail order::Usually {{20-30% cheaper}} for maintenance medications
+        - Therapeutic alternatives::Ask doctor for {{cheaper drugs in same class}}
+    - Medical Bill Management
+        - Bill review process
+        - 1. Request itemized bill::Often reveals {{duplicate charges, errors, upcoding}}
+        - 1. Verify EOB match::Ensure {{insurance processed correctly}}
+        - 1. Check CPT codes::Verify {{services actually received}}
+        - 1. Appeal errors::{{85% of medical bills contain errors}}
+        - Negotiation tactics
+            - Cash discount::Offer {{immediate payment for 20-50% discount}}
+            - Payment plan::Most providers offer {{0% interest payment plans}}
+            - Financial assistance::Hospitals required to offer {{charity care up to 250% poverty level}}
+            - Settlement offer::For old debt, offer {{30-50% lump sum}}
+            - 

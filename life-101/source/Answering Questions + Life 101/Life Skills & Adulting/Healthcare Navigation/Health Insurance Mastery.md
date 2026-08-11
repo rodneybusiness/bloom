@@ -1,0 +1,17 @@
+- Choosing the Right Plan
+    - Total Cost Analysis
+        - True cost calculation::{{Annual premium + deductible + expected copays + max OOP}}
+        - High utilizer math::If expect {{>$5,000 in care}}, usually {{low deductible better}}
+        - Low utilizer math::If expect {{<$1,000 in care}}, usually {{HDHP+HSA better}}
+        - Break-even analysis::Compare {{premium difference × 12}} to {{deductible difference}}
+    - Network Considerations
+        - In vs out-of-network::Out-of-network can cost {{2-10x more}} with {{separate, higher deductible}}
+        - Balance billing risk::Out-of-network can bill {{difference between charge and allowed amount}}
+        - Emergency exception::{{In-network rates required}} for true emergencies
+        - Continuity of care::If doctor leaves network, can sometimes {{continue at in-network rates temporarily}}
+    - Prior Authorization Navigation
+        - What requires authorization::{{Expensive drugs, specialists, procedures, medical equipment}}
+        - Approval timeframes::{{72 hours urgent}}, {{14 days standard}}, {{can expedite if medically necessary}}
+        - Appeal process::{{Internal appeal → external review → state insurance commission}}
+        - Success rates::First appeal succeeds {{40% of time}}, external review {{45% of overturns}}
+        - 

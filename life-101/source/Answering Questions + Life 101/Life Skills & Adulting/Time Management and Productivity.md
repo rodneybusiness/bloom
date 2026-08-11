@@ -1,0 +1,85 @@
+- ### Personal Productivity Systems 
+    - Choosing the Right System
+        - System Comparison
+            - Getting Things Done (GTD)::Best for {{complex projects, many inputs, knowledge workers}}
+                - Core components::{{Capture everything, clarify actions, organize by context, review weekly}}
+                - Maintenance requirement::{{High - daily processing, weekly review}}
+            - Time Blocking::Best for {{deep work, maker schedules, focus issues}}
+                - Implementation::{{Assign specific time slots to tasks}}, {{batch similar work}}
+                - Success requirement::{{Control over schedule, realistic estimates}}
+            - Simple Lists::Best for {{routine tasks, low complexity, beginners}}
+                - Maximum effectiveness::{{6-9 items per day}}, {{MIT (Most Important Tasks) first}}
+        - System Implementation
+            - Week 1-2 (Capture)::Just {{write everything down}}, don’t organize yet
+            - Week 3-4 (Process)::Start {{organizing into categories}}, find patterns
+            - Week 5-6 (Refine)::{{Eliminate unnecessary}}, {{automate repeatable}}
+            - Week 7-8 (Maintain)::Establish {{review rhythm}}, {{adjust as needed}}
+            - Success indicator::System feels {{automatic after 8 weeks}}
+            - 
+- ### Habit Formation Science 
+    - Building Lasting Habits
+        - The Habit Loop
+            - Cue (Trigger)::Environmental or internal signal to {{start routine}}
+                - Types of cues::{{Time, location, preceding action, emotional state, other people}}
+            - Routine (Behavior)::The {{actual habit you’re building}}
+                - Start tiny::{{2 minutes or less}} to build consistency first
+            - Reward (Benefit)::The {{positive reinforcement}} that makes you repeat
+                - Immediate rewards::More powerful than {{delayed benefits}}
+        - Implementation Strategies
+            - Habit Stacking::Attach new habit to {{existing strong habit}}
+                - Formula::After {{existing habit}}, I will {{new habit}}
+                - Example::After {{morning coffee}}, I will {{write for 2 minutes}}
+            - Environment Design::Make good habits {{obvious and easy}}, bad habits {{invisible and hard}}
+                - Examples::{{Gym clothes visible, healthy food at eye level, phone in another room}}
+            - Tracking Methods::Visual progress creates {{additional reward and accountability}}
+                - Options::{{Calendar X’s, habit app, journal, accountability partner}}
+        - Common Failure Points
+            - All-or-nothing thinking::Missing one day doesn’t {{break the habit}}
+                - Two-day rule::Never miss {{twice in a row}}
+            - Too big too fast::Increase by {{10% weekly}} not {{100% immediately}}
+            - No systems::Relying on {{motivation instead of environment}}
+            - Wrong time::Morning habits {{77% success rate}} vs evening {{42%}}
+            - 
+- ### Digital Organization Systems 
+    - Email Management
+        - Inbox Zero Method
+            - Processing rules::Touch each email {{once}}, decide immediately
+            - Five decisions::{{Delete, delegate, respond (<2 min), defer, do}}
+            - Folder structure::Maximum {{5-7 folders}} or search instead
+            - Daily processing::{{Set 2-3 specific times}}, not constant checking
+            - Unsubscribe ruthlessly::If not read {{3 times}}, unsubscribe
+        - Email Efficiency
+            - Templates for common responses::Save {{5-10 hours monthly}}
+            - Canned responses::{{Meeting requests, FAQs, thank yous, follow-ups}}
+            - Subject line clarity::Include {{action needed and deadline}}
+            - Email scheduling::Send during {{business hours}} for better response
+    - File Organization
+        - Naming Conventions
+            - Date format::{{YYYY-MM-DD}} ensures chronological sorting
+            - Version control::{{v01, v02}} or {{FINAL, FINAL-FINAL, FINAL-REAL}}
+            - No special characters::Avoid {{/, ?, <, >, , :, *, |, “}}
+            - Descriptive but concise::{{ProjectName-DocumentType-Date}}
+        - Folder Structure
+            - Top level folders::Maximum {{7-10}} for quick scanning 
+            - Subfolder depth::No more than {{3 levels deep}}
+            - Archive strategy::Move completed to {{annual archive folders}}
+            - Search vs organize::If good search available, {{minimal folders better}}
+            - 
+- ### Focus and Deep Work 
+    - Eliminating Distractions
+        - Phone Management
+            - Notification audit::Keep only {{calls, calendar, critical apps}}
+            - Phone placement::{{Different room}} or {{locked drawer}} during focus
+            - Grayscale mode::Reduces {{dopamine response}} and usage
+            - App limits::Set {{daily limits}} on problem apps
+        - Computer Environment
+            - Browser discipline::{{One tab rule}} for focus work
+            - Website blockers::Block {{social, news, shopping}} during work hours
+            - Desktop cleanliness::{{Empty desktop}} reduces visual distraction
+            - Full screen mode::{{Eliminates all other visual inputs}}
+        - Time Protection
+            - Office hours concept::Set {{specific availability times}}
+            - Batch communication::Check messages {{2-3 times}} not constantly
+            - Meeting boundaries::{{No meeting days}} or {{meeting afternoons only}}
+            - Energy management::Schedule {{deep work during peak energy}}
+            - 

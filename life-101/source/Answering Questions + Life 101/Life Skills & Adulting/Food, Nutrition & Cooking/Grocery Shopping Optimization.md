@@ -1,0 +1,26 @@
+- Budget Planning and Tracking
+    - Realistic Budget Targets
+        - USDA food plan guidelines (per person monthly)
+            - Thrifty plan::{{$200-250}}
+            - Low-cost plan::{{$250-350}}
+            - Moderate plan::{{$350-450}}
+            - Liberal plan::{{$450+}}
+        - Factors affecting budget::{{Location (HCOL +30-50%)}}, {{dietary restrictions}}, {{food waste}}, {{eating out frequency}}
+        - The 50/30/20 grocery split::{{50% essentials}}, {{30% variety/preference}}, {{20% treats/convenience}}
+    - Strategic Shopping Techniques
+        - Store layout psychology::Stores designed to make you {{walk perimeter for essentials}} and {{impulse buy in center}}
+            - Shopping pattern::Shop {{perimeter first (produce, meat, dairy)}}, then {{specific aisles with list}}
+        - Price comparison methods
+            - Unit price usage::Always compare {{price per ounce/pound}} not package price
+            - Brand hierarchy::Store brand typically {{25% cheaper}} with {{same quality}} for basics
+            - Sale cycles::Most items on {{6-8 week rotation}}, buy {{12 week supply at lowest price}}
+        - Bulk buying mathematics::Only buy bulk if {{use before expiration}} AND {{save >20%}} AND {{have storage}}
+            - Best bulk buys::{{Non-perishables, frozen, paper products, cleaning supplies}}
+            - Worst bulk buys::{{Produce, bread, condiments, spices (lose potency)}}
+    - Loss Leaders and Marketing Tactics
+        - Loss leader strategy::Stores lose money on {{milk, eggs, bananas}} to get you in
+        - Eye level premium::Products at eye level cost {{15-20% more}} than top/bottom shelf
+        - End cap illusion::End displays {{aren’t always sales}} - check unit price
+        - Checkout temptations::{{300% markup}} on checkout items
+        - Multi-buy traps::“2 for $5” usually means {{$2.50 each anyway}}
+        - 

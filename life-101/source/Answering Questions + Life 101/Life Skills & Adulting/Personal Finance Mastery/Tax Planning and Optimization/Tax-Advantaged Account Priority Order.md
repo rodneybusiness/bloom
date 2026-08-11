@@ -1,0 +1,11 @@
+- The optimal contribution order::{{401(k) to match → HSA max → IRA max → 401(k) max → Taxable investing}}
+    - Why this order::{{Free money first → Triple tax advantage → Tax advantage → Flexibility}}
+- HSA as Super Retirement Account
+    - Triple tax advantage::{{Deductible contributions, tax-free growth, tax-free medical withdrawals}}
+    - After 65 loophole::Can withdraw for {{any reason}} paying only {{income tax like Traditional IRA}}
+    - Investment strategy::After {{$1,000 cash reserve}}, invest rest for {{long-term growth}}
+    - Receipt saving hack::Save medical receipts {{forever}}, reimburse yourself {{decades later}} tax-free
+- Flexible Spending Account (FSA) Strategy
+    - Use-it-or-lose-it rule::Must spend by {{year end or lose money}} (some allow {{$640 carryover}})
+    - Conservative estimation::Only contribute what you’re {{certain to spend}}
+    - Dependent care FSA::{{$5,000 limit}} saves {{$1,100-2,000}} in taxes for childcare

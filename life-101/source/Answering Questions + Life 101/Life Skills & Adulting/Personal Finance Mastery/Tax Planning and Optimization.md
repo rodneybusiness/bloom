@@ -1,0 +1,147 @@
+- Tax Filing Fundamentals 
+    - Determining Filing Requirements
+        - Must file if income exceeds::{{Standard deduction amount}} for your filing status
+        - Should file even if not required::To claim {{refundable credits}} or get {{refund of withheld taxes}}
+        - Filing status optimization
+            - Single vs Head of Household::HOH saves {{~$3,000 in deductions}} if qualify
+                - HOH requirements::{{Unmarried, pay >50% household costs, qualifying dependent}}
+            - Married filing jointly vs separately::Jointly almost always better except {{student loan forgiveness, liability concerns}}
+    - Record Keeping Requirements
+        - Keep 3 years::{{Most tax returns and supporting documents}}
+        - Keep 7 years::{{If claiming losses, bad debt deduction, unreported income >25%}}
+        - Keep forever::{{Returns, cost basis for investments/property, major improvements}}
+        - Digital is fine::{{IRS accepts digital records}} if {{complete and legible}}
+    - Audit Risk Factors
+        - Audit rate reality::{{0.4% overall}}, {{1.4% for high income}}, {{5.3% for no income reported}}
+        - Red flags::{{Home office, 100% business vehicle, large charity, round numbers, cash business}}
+        - Audit types::{{Correspondence (mail), office, field (home/business)}}
+        - Your rights::{{Representation, appeal, payment plan, innocent spouse relief}}
+        - 
+- Understanding Your Tax Situation 
+    - How Tax Brackets Actually Work (Marginal vs Effective)
+        - Marginal tax rate::The rate on your {{next dollar earned}}
+        - Effective tax rate::Your {{total tax ÷ total income}}
+        - Progressive taxation example::First $11,600 taxed at {{10%}}, next $35,550 at {{12%}}, etc.
+        - Common misconception::Earning more {{never results in less after-tax}} due to brackets
+    - Types of Income and Their Tax Treatment
+        - Ordinary income::{{Wages, interest, short-term gains}} taxed at {{regular brackets}}
+        - Long-term capital gains::Held {{>1 year}}, taxed at {{0%, 15%, or 20%}}
+        - Qualified dividends::Taxed at {{capital gains rates}} not ordinary income
+        - Tax-free income::{{Municipal bonds, Roth withdrawals, gifts received, life insurance proceeds}}
+    - Standard vs Itemized Deduction Decision
+        - Standard deduction 2024::Single {{$14,600}}, Married Filing Jointly {{$29,200}}
+        - When to itemize::If total of {{mortgage interest + SALT + charity > standard deduction}}
+        - SALT cap impact::State and local taxes limited to {{$10,000 deduction}}
+        - Bunching strategy::{{Combine 2 years of charity}} in one year to {{exceed standard deduction}}
+- Tax-Advantaged Account Priority Order 
+    - The optimal contribution order::{{401(k) to match → HSA max → IRA max → 401(k) max → Taxable investing}}
+        - Why this order::{{Free money first → Triple tax advantage → Tax advantage → Flexibility}}
+    - HSA as Super Retirement Account
+        - Triple tax advantage::{{Deductible contributions, tax-free growth, tax-free medical withdrawals}}
+        - After 65 loophole::Can withdraw for {{any reason}} paying only {{income tax like Traditional IRA}}
+        - Investment strategy::After {{$1,000 cash reserve}}, invest rest for {{long-term growth}}
+        - Receipt saving hack::Save medical receipts {{forever}}, reimburse yourself {{decades later}} tax-free
+    - Flexible Spending Account (FSA) Strategy
+        - Use-it-or-lose-it rule::Must spend by {{year end or lose money}} (some allow {{$640 carryover}})
+        - Conservative estimation::Only contribute what you’re {{certain to spend}}
+        - Dependent care FSA::{{$5,000 limit}} saves {{$1,100-2,000}} in taxes for childcare
+- Year-End Tax Planning Moves 
+    - Tax loss harvesting::Sell losing investments to {{offset gains}} and up to {{$3,000 ordinary income}}
+        - Wash sale rule::Can’t rebuy {{same or substantially identical}} security for {{31 days}}
+        - Carryforward provision::Unused losses {{carry forward indefinitely}}
+    - Retirement contribution deadlines::401(k) by {{December 31}}, IRA by {{April 15 (tax deadline)}}
+    - Estimated tax payments::Due {{quarterly}} if expect to owe {{>$1,000}}
+        - Safe harbor rule::Pay {{90% of current year}} or {{100% of prior year}} to avoid penalty
+        - 
+- Health Insurance Deep Dive 
+    - Understanding Plan Types
+        - HMO (Health Maintenance Organization)::{{Primary care physician required}}, {{referrals for specialists}}, {{lowest premiums}}, {{no out-of-network coverage}}
+        - PPO (Preferred Provider Organization)::{{No PCP required}}, {{no referrals needed}}, {{higher premiums}}, {{out-of-network coverage available}}
+        - HDHP (High Deductible Health Plan)::{{Lower premiums}}, {{higher deductible}}, {{HSA eligible}}, best for {{healthy people}}
+        - EPO (Exclusive Provider Organization)::{{No PCP required}}, {{no out-of-network except emergency}}, {{middle ground option}}
+    - Decoding Insurance Terms
+        - Premium::{{Monthly payment}} regardless of usage
+        - Deductible::Amount you pay {{before insurance starts covering}}
+        - Copayment::{{Fixed dollar amount}} per service (e.g., $30 doctor visit)
+        - Coinsurance::{{Percentage you pay}} after deductible (e.g., 20%)
+        - Out-of-pocket maximum::Most you’ll pay {{per year regardless of costs}}
+            - After OOP max::Insurance pays {{100% of covered services}}
+    - Choosing the Right Health Plan
+        - High-utilization profile::If {{chronic conditions or planned procedures}}, choose {{low deductible even if higher premium}}
+        - Low-utilization profile::If {{young and healthy}}, choose {{HDHP with HSA}} for {{tax savings and lower premiums}}
+        - The break-even calculation::Compare {{annual premium difference}} to {{deductible difference}}
+        - Network verification::Always verify {{your doctors are in-network}} before enrolling
+    - Healthcare Cost Reduction Strategies
+        - Generic prescriptions::Save {{80-85%}} with {{identical active ingredients}}
+        - GoodRx and discount cards::Can be {{cheaper than insurance}} for some medications
+        - Urgent care vs ER::Urgent care costs {{$150-300}} vs ER {{$1,500-3,000}} for non-emergencies
+        - Telemedicine first::Many plans offer {{free or $10-40}} virtual visits
+        - Preventive care maximization::{{Annual physical, vaccines, screenings}} are {{100% covered}}
+        - Bill negotiation process::{{Ask for itemized bill → Check for errors → Request financial assistance → Negotiate payment plan}}
+- Auto Insurance Optimization 
+    - Coverage Types Explained
+        - Liability Coverage (Required)
+            - Bodily injury liability::Covers {{medical costs for others}} you injure
+            - Property damage liability::Covers {{damage to others’ property}}
+            - Minimum recommended limits::{{100/300/100}} means {{$}}{{100k per person, $}}{{300k per accident, $100k property}}
+            - State minimums inadequacy::Typical {{25/50/25}} leaves you {{exposed to lawsuits}}
+        - Collision Coverage::Pays for {{your car damage}} regardless of fault
+            - When to drop::When car value {{< 10x annual premium}}
+        - Comprehensive Coverage::Covers {{non-collision damage}} (theft, vandalism, weather, animals)
+            - Deductible sweet spot::{{$500-1,000}} balances {{premium savings vs out-of-pocket risk}}
+        - Uninsured/Underinsured Motorist::Protects you from {{drivers without adequate insurance}}
+            - Why it matters::{{1 in 8 drivers uninsured}}, many more underinsured
+    - Premium Reduction Strategies
+        - Credit score impact::Poor credit can {{double premiums}} in most states
+        - Multi-policy bundling::Save {{5-25%}} combining auto and home/renters
+        - Defensive driving course::{{5-10% discount}} for completing approved course
+        - Usage-based insurance::Safe driving monitored by app saves {{10-30%}}
+        - Annual payment discount::Save {{5-10%}} paying annually vs monthly
+        - Shop every 2-3 years::Rates vary widely, loyalty {{doesn’t pay}}
+- Estate Planning, Taxes + Trusts
+    - 
+    - Annual Gift Tax Exclusion
+        - amount per donor per recipient in 2025;;$19,000
+        - The annual gift tax exclusion resets {{every year}} (use it or lose it).
+        - amount for married couple using gift-splitting in 2025;;$38,000 per recipient
+    - Gift-Splitting::When a married couple treats gifts as if each spouse gave half.
+    - Lifetime Gift And Estate Tax Exemption
+        - amount in 2025;;~$13.6 million
+        - tax rate on amounts over the exemption;;~40%
+        - The lifetime exemption is only used when {{gifts exceed the annual exclusion}} OR {{at death}}.
+    - Annual Exclusion Vs. Lifetime Exemption
+        - Annual exclusion gifts are {{completely separate from}} the lifetime exemption.
+        - Do annual exclusion gifts touch the $13.6M lifetime exemption?→Never
+        - Giving ${{50K}} to one person uses ${{19K}} from annual exclusion + ${{31K}} from lifetime exemption.
+    - Present Interest Gift::A gift the recipient can use immediately.
+        - Only {{present interest}} gifts qualify for the annual exclusion.
+        - Is a direct cash gift to a person a present or future interest?→Present interest
+    - Future Interest Gift::A gift where the recipient's access is delayed.
+        - Is a gift to a trust typically a present or future interest?→Future interest
+    - Crummey Letter
+        - named after;;Crummey v. Commissioner (1968)
+        - purpose;;Convert future interest gifts into present interest gifts
+        - What does it notify beneficiaries of?→Their temporary right to withdraw the gift
+        - typical withdrawal window;;30-60 days
+        - Do beneficiaries usually withdraw?→No - it would defeat the trust's purpose
+        - The Crummey trick works because having the option to withdraw = {{present interest}}, even if not exercised.
+        - Crummey formula: Gift to trust + withdrawal right + lapse = {{present interest}} = {{annual exclusion eligible}}.
+    - ILIT (Irrevocable Life Insurance Trust)::A trust that owns a life insurance policy.
+        - main benefit;;Death benefit skips your estate, avoiding estate tax
+        - Why do ILITs need Crummey letters?→Premium payments are gifts to the trust (future interest)
+        - ILIT funding sequence: {{Gift}} ↔ {{Crummey letter}} ↔ {{Withdrawal lapses}} ↔ {{Trustee pays premium}}.
+        - Is the life insurance payout in your estate?→Never (trust owned the policy)
+    - Estate Draining Strategy
+        - The annual exclusion acts as {{a separate pipeline}} to move money out of your estate.
+        - How does annual gifting reduce estate tax?→Reduces estate size, so less is "over" the $13.6M at death
+        - ${{38K}}/year to {{4}} people for {{20}} years moves ${{3.04M}} out of your estate (all tax-free).
+    - Portability::Transferring unused lifetime exemption to surviving spouse.
+        - Who can receive unused exemption through portability?→Surviving spouse only (not children)
+        - maximum combined exemption for surviving spouse with full portability;;~$27.2M
+        - Portability requires {{filing an estate tax return}} to elect it (not automatic).
+    - Gift Tax Filing Requirements
+        - Give ${{19K}} or less: {{Free, no forms, no impact}}.
+        - Give over ${{19K}}: {{File Form 709}}, excess chips away at ${{13.6M}}.
+        - What happens with a gift to trust without Crummey?→No annual exclusion (uses lifetime exemption)
+        - What happens with a gift to trust with Crummey?→Annual exclusion works
+- 

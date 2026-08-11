@@ -1,0 +1,22 @@
+- Adult Friendship Challenges
+    - Time and Energy Constraints
+        - The friendship equation::{{Proximity + repeated interaction + vulnerability}}
+        - Time to friendship::{{50 hours = casual, 90 hours = friend, 200+ hours = close}}
+        - Maintenance requirement::Contact every {{2-4 weeks}} to maintain closeness
+    - Making New Friends
+        - Best environments::{{Repeated scheduled activities}} like classes, clubs
+        - Initiative requirement::You must {{make first moves}} in adult friendships
+        - Follow-up crucial::After meeting, reach out within {{48 hours}}
+        - Vulnerability ladder::Share increasingly {{personal information gradually}}
+- Friendship Maintenance
+    - The Friendship Audit
+        - Energy assessment::Do they {{energize or drain}} you?
+        - Reciprocity check::Is effort {{roughly equal}} over time?
+        - Growth compatibility::Do you {{support each other’s growth}}?
+        - Value alignment::Do core values {{still align}}?
+    - Maintaining Long-Distance Friendships
+        - Scheduled connection::{{Regular video calls}} more effective than random texts
+        - Shared experiences::Watch shows together, book clubs, online games
+        - Voice messages::More personal than text, {{more convenient than calls}}
+        - Visit planning::Alternate who travels, plan {{6 months ahead}}
+        - 

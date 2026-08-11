@@ -1,0 +1,78 @@
+- Preventive Maintenance Schedules 
+    - HVAC System Maintenance 
+        - Filter replacement frequency::{{Every 30 days for 1” filters}}, {{90 days for 4” filters}}, {{monthly during heavy use}}
+            - Why it matters::Dirty filter causes {{system strain}}, {{higher bills}}, {{premature failure}}
+            - Filter MERV ratings::{{MERV 8 for basic}}, {{MERV 11 for allergies}}, {{MERV 13 maximum for residential}}
+        - Professional service schedule::{{Annually minimum}}, ideally {{spring for AC, fall for heat}}
+            - What service includes::{{Clean coils, check refrigerant, test capacitors, verify airflow, check electrical}}
+        - DIY maintenance tasks::{{Keep 2-foot clearance around outdoor unit}}, {{clean drain line quarterly}}, {{check thermostat batteries}}
+        - System lifespan::{{15-20 years average}}, {{longer with maintenance}}, {{shorter in extreme climates}}
+        - Replacement indicators::{{Repairs exceed $5,000}}, {{over 15 years old}}, {{uses R-22 refrigerant}}, {{frequent breakdowns}}
+    - Plumbing System Maintenance 
+        - Water heater maintenance
+            - Annual flush procedure::{{Attach hose to drain valve → Turn off power/gas → Drain tank → Flush until clear}}
+                - Why flush::Removes {{sediment buildup}} that {{reduces efficiency}} and {{shortens lifespan}}
+            - Temperature setting::{{120°F optimal}} for {{safety and efficiency}}
+            - Anode rod replacement::Every {{3-5 years}} to prevent {{tank corrosion}}
+            - Lifespan expectations::{{Tank 8-12 years}}, {{tankless 20+ years}}
+        - Drain maintenance::{{Monthly enzyme treatment}}, {{annual snake for prevention}}, {{avoid chemical cleaners}}
+        - Toilet maintenance::{{Replace flapper every 2-3 years}}, {{check fill valve annually}}, {{tighten connections}}
+        - Water pressure monitoring::Should be {{40-80 PSI}}, install {{pressure reducer if >80}}
+        - Winterization tasks::{{Disconnect hoses}}, {{insulate exposed pipes}}, {{drip faucets in freezing weather}}
+        - Leak detection::{{Monitor water bill for increases}}, {{check meter with everything off}}, {{food coloring in toilet tank}}
+    - Roof and Gutter System 
+        - Gutter cleaning schedule::{{Twice yearly minimum (spring/fall)}}, {{quarterly with many trees}}
+            - Why critical::Clogged gutters cause {{foundation damage}}, {{roof leaks}}, {{fascia rot}}, {{ice dams}}
+            - DIY vs professional::DIY saves {{$150-300}} but {{dangerous without proper equipment}}
+        - Roof inspection checklist::{{Missing/damaged shingles}}, {{flashing integrity}}, {{moss/algae growth}}, {{attic water stains}}
+        - Shingle lifespan by type::{{Asphalt 20-30 years}}, {{metal 40-70 years}}, {{tile 50+ years}}, {{slate 100+ years}}
+        - When to repair vs replace::Replace if {{>20 years old}}, {{multiple leaks}}, {{sagging}}, or {{repair cost >$5,000}}
+    - Electrical System Safety 
+        - GFCI testing::Test {{monthly}} using test/reset buttons on {{bathroom, kitchen, outdoor outlets}}
+        - Circuit breaker maintenance::{{Exercise breakers annually}} by flipping off/on, replace if {{won’t reset or trips frequently}}
+            - Circuit Breakers 
+                - --------------------- Portal ---------------------
+                    - Answering Questions + Life 101
+                - **Circuit Breaker**↔A safety device that automatically shuts off electrical current when there's too much flow, preventing wires from overheating and potentially starting fires
+                    - What problem can develop in the internal mechanisms from sitting in one position for years?→They can become "sticky" from corrosion or seizing up
+                    - What are the two potential failures that can occur with a sticky breaker during an actual overload?→It might fail to trip, or it might not reset properly afterward
+                    - What simple maintenance ritual should be performed annually?→Flip each breaker off and then back on
+                    - Why does the annual exercise ritual work to maintain breakers?→The mechanical action keeps internal contacts clean and spring mechanisms limber
+                    - What are two signs that indicate a breaker needs immediate replacement?→It won't stay reset (keeps popping back to "off"), or it trips frequently without an obvious overload
+                    - A faulty breaker that won't trip when needed is like having what?→A fire extinguisher that doesn't work
+                    - What is the typical cost range to replace a faulty breaker?→$50-150
+                    - What additional task should you do while at the electrical panel during annual maintenance?→Take a photo of the breaker labels and label any unmarked breakers
+                    - 
+                    - Warning signs::{{Flickering lights}}, {{warm outlets}}, {{burning smell}}, {{frequent breaker trips}}, {{buzzing sounds}}
+                    - When to call electrician::{{Any of above warning signs}}, {{adding circuits}}, {{aluminum wiring}}, {{knob-and-tube wiring}}
+                    - Electrical panel lifespan::{{25-40 years}}, replace if {{Federal Pacific or Zinsco brand}}, {{rust or burn marks}}
+- Seasonal Home Maintenance
+    - Spring Maintenance Checklist
+        - Exterior tasks::{{Inspect roof, clean gutters, power wash siding, check foundation for cracks, service AC}}
+        - Interior tasks::{{Replace HVAC filters, test smoke/CO detectors, deep clean, check attic for pests/leaks}}
+        - Landscaping::{{Fertilize lawn, prune trees/shrubs, mulch beds, start irrigation system}}
+    - Summer Maintenance
+        - Cooling optimization::{{Clean AC coils, check refrigerant, seal air leaks, add attic insulation}}
+        - Pest prevention::{{Seal entry points, trim vegetation from house, eliminate standing water}}
+        - Paint and seal::{{Touch up exterior paint, seal deck/fence, caulk gaps}}
+    - Fall Maintenance Checklist
+        - Winterization tasks::{{Drain irrigation, store hoses, clean gutters again, service heating system}}
+        - Safety checks::{{Clean chimney, test heating system, replace detector batteries, check fire extinguisher}}
+        - Weather sealing::{{Add weatherstripping, insulate pipes, seal drafts, check attic insulation}}
+    - Winter Maintenance
+        - Freeze prevention::{{Keep heat at 55°F minimum, open cabinet doors, know water shutoff location}}
+        - Snow and ice::{{Stock ice melt, check snow removal equipment, prevent ice dams}}
+        - Indoor air quality::{{Humidity 30-50%, change filters more frequently, clean humidifier}}
+- Home Repair vs Replace Decisions
+    - The 50% Rule::If repair costs {{>50% of replacement cost}}, usually {{better to replace}}
+    - Age-based decisions
+        - Appliances::Replace if {{repair cost >50% new}} AND {{>75% of expected lifespan}}
+        - HVAC::Replace if {{major repair needed}} AND {{>15 years old}}
+        - Water heater::Replace if {{leaking tank}} or {{>10 years with issues}}
+        - Roof::Replace if {{multiple leaks}} or {{>80% of lifespan}}
+    - Energy efficiency consideration::New appliances often {{pay for themselves in 5-10 years}} through energy savings
+    - DIY vs Professional Framework
+        - DIY appropriate::{{Painting, basic plumbing, filter changes, caulking, basic electrical (outlets/switches)}}
+        - Always hire professional::{{Electrical panel, gas lines, structural, roofing, HVAC refrigerant}}
+        - Cost-benefit calculation::If DIY saves {{<$500}} and risk is {{high}}, hire professional
+        - 

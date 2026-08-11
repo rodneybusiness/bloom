@@ -1,0 +1,1320 @@
+- **Rayleigh Scattering**↔The process by which sunlight interacts with Earth's atmosphere, causing the sky to appear blue
+    - Why does blue light scatter more easily in the atmosphere?→It has shorter, choppier waves
+    - What happens to red and yellow light in the atmosphere?→They travel more directly due to longer wavelengths
+    - Why isn't the sky violet, despite violet light scattering even more than blue? >>>
+        - The Sun emits less violet light than blue light
+        - Our eyes are more sensitive to blue than violet
+        - Some violet light is absorbed high in the atmosphere
+    - What color is the Martian sky during the day?→Reddish or butterscotch
+    - Why does Mars have a reddish sky?→Fine dust particles in the thin atmosphere scatter red light more effectively
+    - What color are Martian sunsets?→Blue
+- **Sunsets**―The reddish or orange appearance of the sky when the Sun is low on the horizon
+    - Why do sunsets appear red and orange?→Sunlight travels through more atmosphere, scattering away blue light and leaving reds, oranges, and yellows
+    - What factors can make sunsets more colorful? >>>
+        - Dust
+        - Pollution
+        - Smoke
+        - Water vapor (clouds)
+    - How do the factors that enhance sunset colors affect light scattering?→They provide more particles for scattering, often intensifying red and orange colors
+- **Black Holes**↔Areas in space where gravity is so strong that nothing, not even light, can escape
+    - How do black holes typically form?→When a very massive star runs out of fuel and collapses inward on itself
+    - What is the singularity of a black hole?→The center where mass is crushed into a point of (theoretically) infinite density
+    - What is the event horizon of a black hole?→The "point of no return" boundary around the singularity
+    - How do we detect black holes if we can't see them directly? >>>
+        - Observe their effects on nearby objects
+        - See stars orbiting something massive but invisible
+        - Detect radiation from gas heating up as it falls toward the event horizon
+    - What are the two main types of black holes?→Stellar-mass black holes and Supermassive black holes (SMBHs)
+    - Where are supermassive black holes typically found?→At the centers of galaxies
+    - What is spaghettification?→The process of being stretched out and torn apart by a black hole's tidal forces
+    - How would an observer see someone falling into a black hole?→They would appear to slow down, turn red, and fade away, seemingly frozen at the event horizon
+    - Why would an observer never see someone cross the event horizon?→Time slows down near strong gravity
+    - How does spaghettification differ for supermassive black holes?→Tidal forces at the event horizon are weaker, potentially allowing crossing without immediate spaghettification
+- **Moon Phases**↔The apparent changes in the Moon's shape as seen from Earth
+    - Why does the Moon appear to change shape?→We see different amounts of its sunlit side as it orbits Earth
+    - What is the source of the Moon's light?→It reflects sunlight; it does not produce its own light
+    - During which phase is the Moon between Earth and the Sun?→New Moon
+    - During which phase is Earth between the Sun and the Moon?→Full Moon
+    - What does "waxing" mean in relation to Moon phases?→The illuminated portion is increasing
+    - What does "waning" mean in relation to Moon phases?→The illuminated portion is decreasing
+- **Tidal Locking**↔The phenomenon where a celestial body's rotation period matches its orbital period
+    - Why do we only see one side of the Moon?→It is tidally locked with Earth
+    - How long does it take the Moon to rotate once on its axis?→About 27.3 days (the same as its orbital period)
+    - What is the "dark side" of the Moon more accurately called?→The "far side"
+    - Does the far side of the Moon receive sunlight?→Yes, it gets just as much sunlight as the near side
+    - What caused the Moon to become tidally locked?→Earth's gravity tugged on the Moon, slowing its rotation until it matched its orbital period
+    - What percentage of the Moon's surface can we actually see over time due to librations?→About 59%
+- **Stars**↔Luminous spheres of plasma held together by their own gravity
+    - Why do stars appear to twinkle?→Their light is bent by turbulence in Earth's atmosphere
+    - What is the scientific term for star twinkling?→Astronomical scintillation
+    - Why don't planets twinkle as much as stars?→They appear as tiny disks rather than points of light, averaging out atmospheric distortions
+    - What determines a star's color?→Its surface temperature
+    - What is the color sequence of stars from hottest to coolest?→Blue ↔ White ↔ Yellow ↔ Orange ↔ Red
+    - Why are stars different temperatures?→It's usually related to their mass; larger, more massive stars burn hotter and faster
+- **Meteors**↔Small pieces of rock or dust that enter Earth's atmosphere and burn up
+    - What is a shooting star?→A meteor (not actually a star)
+    - What causes a meteor to glow brightly?→Friction and compression heat the meteoroid and surrounding air as it enters the atmosphere at high speed
+    - What is a meteoroid that survives the journey through the atmosphere and lands on Earth called?→A meteorite
+    - What is the typical size of most meteoroids?→About the size of a grain of sand
+    - What causes a meteor shower?→Earth passes through a trail of debris left behind by a comet or asteroid
+- **Pluto**↔A dwarf planet in the Kuiper Belt, formerly classified as the ninth planet of the Solar System
+    - When was Pluto reclassified as a dwarf planet?→2006
+    - What organization reclassified Pluto?→The International Astronomical Union (IAU)
+    - What are the three criteria for a celestial body to be classified as a planet? >>>
+        - It must orbit the Sun
+        - It must be nearly round due to its own gravity
+        - It must have "cleared its orbital neighborhood" of other objects
+    - Which criterion does Pluto fail to meet?→It has not cleared its orbital neighborhood
+    - Where is Pluto located in the Solar System?→In the Kuiper Belt
+    - Name four other well-known dwarf planets >>>
+        - Eris
+        - Ceres
+        - Makemake
+        - Haumea
+        - 
+- 
+- **Gravity**↔The force of attraction between any two objects that have mass.
+    - What happens to gravity when mass increases?→It gets stronger.
+    - What happens to gravity when distance increases?→It gets weaker.
+    - How does gravity weaken with distance?→With the square of the distance.
+    - Why don't we feel the gravity of the person next to us?→Humans have very little mass compared to the Earth.
+    - What overwhelms the tiny gravitational pull between people?→Earth's gravity.
+    - According to Einstein, what warps spacetime?→Massive objects
+    - According to Einstein, what do objects follow?→Curves in spacetime.
+- Dark Energy
+    - What drives the universe's expansion?→Dark energy.
+    - On what scales is gravity strong enough to hold things together?→Smaller scales (like within a galaxy).
+    - On what scales is dark energy pushing space apart faster than gravity can pull it together?→Vast cosmic scales (the space between galaxy clusters).
+    - What is happening to the expansion of the universe?→It is accelerating.
+    - What percentage of the universe is made up of dark energy?→About 68%.
+    - What does dark energy seem to be a property of?→Empty space itself.
+- **Matter**↔Anything that has mass and takes up space (volume).
+    - What is all matter composed of?→Atoms.
+    - What are the four states of matter mentioned? >>>
+        - Solid
+        - Liquid
+        - Gas
+        - Plasma
+    - Matter and energy are interchangeable, as described by what equation?→$E=mc^2$
+- **Atom**↔The smallest unit of a chemical element that retains the properties of that element.
+    - What two things does the nucleus of an atom contain? >>>
+        - Protons (positive charge)
+        - Neutrons (no charge)
+    - What orbits the nucleus of an atom?→Electrons (negative charge).
+    - What defines the element of an atom?→The number of protons.
+    - How many protons does hydrogen have?→1
+- Electromagnetic Force
+    - Why can't we walk through walls?→Because of electromagnetic forces.
+    - What repels the electrons in the atoms of the wall?→The electrons in the atoms of your hand.
+    - What creates an outward pressure that prevents matter from collapsing?→Electromagnetic forces and thermal pressure (and in some cases, degeneracy pressure, which is related to the Pauli Exclusion Principle)
+- **Electricity**↔A form of energy resulting from the presence and motion of electric charge (usually electrons).
+    - What are the two types of electricity mentioned? >>>
+        - Static electricity
+        - Current electricity
+    - What is static electricity?→A buildup of electric charge on an object.
+    - What is current electricity?→The flow of electrons through a conductor.
+    - What is voltage?→The electrical pressure that pushes electrons.
+    - What is current (electricity)?→The rate of electron flow.
+- Magnetism
+    - What is magnetism caused by?→The motion of electric charges (electrons) within atoms.
+    - In most materials, what happens to the magnetic fields of atoms?→They point in random directions and cancel out.
+    - In magnetic materials, what do the atoms align in?→Regions called domains.
+    - What happens when the domains themselves align?→The material acts as a magnet with North and South poles.
+    - Why do opposite poles attract?→Their magnetic field lines connect, pulling them together.
+- Fire
+    - What is fire the result of?→A rapid chemical reaction called combustion.
+    - What two things is combustion usually between? >>>
+        - Oxygen
+        - A fuel
+    - What does combustion release?→A large amount of stored chemical energy.
+    - What two things does combustion release this energy as? >>>
+        - Heat
+        - Light
+    - What causes the flame's glow?→Incandescent particles heated so much they glow.
+    - What state of matter is fire often?→Plasma.
+- **Sound**↔Vibrations traveling through a medium (like air, water, or solids) as pressure waves.
+    - What do our ears detect and convert into electrical signals?→Pressure changes.
+    - What characteristic of sound determines pitch?→Frequency.
+    - What characteristic of sound determines volume?→Amplitude.
+- Sound
+    - Why is there no sound in space?→Space is essentially a vacuum.
+    - What do astronauts use to talk to each other in space?→Radios.
+    - What kind of waves are radio waves?→Electromagnetic radiation.
+- Density
+    - Floating or sinking depends on an object's {{density}} relative to the fluid it is in.
+    - What principle states that a fluid exerts an upward buoyant force on an object?→Archimedes' Principle
+    - What does a fluid's buoyant force equal?→The weight of the fluid displaced by the object.
+    - Why does a heavy steel ship float?→The ship's overall density (steel plus air) is less than the density of water.
+- **Friction**↔The force that resists motion when two surfaces rub against each other.
+    - What does friction convert kinetic energy into?→Heat.
+    - What are two essential things friction is needed for? >>>
+        - Walking (grip)
+        - Braking
+    - Friction #Physics
+        - The two fundamental requirements for friction are::{{1. Surface roughness at microscopic scale}} and {{2. Atomic attraction between materials}}
+        - 
+        - Surface Contact Reality
+            - What percentage of apparent contact area actually touches?::Less than 1%
+            - Real contact area vs apparent contact area::{{<1%}} of the apparent area actually makes contact - only the {{highest peaks (asperities)}} touch
+            - Surface "smoothness" at microscopic scale:::
+                - Even polished surfaces have peaks and valleys
+                - Called asperities (peaks) and valleys
+                - Only asperity tips make actual contact
+                - 
+        - Atomic Bonding at Contact Points
+            - What happens when surface atoms get close enough?::Electromagnetic forces create bonds (van der Waals forces, sometimes chemical bonds)
+            - Types of bonds formed at friction contact points::{{Van der Waals forces}} and sometimes {{actual chemical bonds}}
+            - These atomic bonds at contact points are the same as::The forces that hold solids together internally
+            - 
+        - Motion and Energy Requirements
+            - What three things must continuously happen for sliding motion?:::
+                - 1. Break adhesive bonds at existing contact points
+                - 2. Deform or shear off mechanically interlocked peaks
+                - 3. Form new bonds as fresh surfaces come into contact
+            - Why does friction always oppose motion?::{{Thermodynamics}} - breaking bonds and deforming materials requires {{energy input}}, which is always {{opposite}} to the direction of motion
+            - Energy conversion in friction::{{Ordered kinetic energy}} → {{random thermal vibrations (heat)}}
+            - Why is friction dissipative?::Energy is scattered into {{microscopic chaos}} through bond-breaking and deformation
+            - Current Understanding Limitations
+                - Can we predict friction coefficients from first principles?::No - we cannot reliably predict them knowing only the materials involved
+                - Why can't we fully solve friction mathematically?:::
+                    - Multi-scale phenomenon
+                    - Atomic interactions produce macroscopic effects
+                    - Complex statistical mechanics we can't completely solve
+                - What are friction laws like F = μN?::{{Empirical approximations}} that work reasonably well but are NOT {{fundamental truths}}
+                - Friction is a {{multi-scale}} phenomenon where {{atomic-level}} interactions produce {{macroscopic}} effects through {{complex statistical mechanics
+                - Why does friction exist at the fundamental level?::Surfaces are never truly smooth and atoms attract each other
+- **Energy**↔The capacity to do work or cause change.
+    - What law states that energy cannot be created or destroyed?→The Law of Conservation of Energy.
+    - What can energy only be?→Converted from one form to another.
+- Ice
+    - Why is ice slippery?→There is always a thin layer of liquid water on its surface.
+    - What acts as a lubricant on ice?→A microscopic water layer.
+    - What are two reasons for the existence of the liquid layer on ice? >>>
+        - Surface melting
+        - Friction
+    - Why is very cold ice not slippery?→At extremely low temperatures, the surface liquid layer diminishes.
+    - 
+- **Satellite Orbit**↔Satellites stay in orbit because they are constantly falling toward Earth, but moving sideways so fast that they keep missing it.
+    - What is orbital velocity?→When an object moves fast enough, as it falls, the curve of the Earth drops away beneath it at the exact same rate.
+    - What kind of state is a satellite in?→Continuous freefall around the planet
+    - Do satellites stay up forever?→No
+    - What causes satellites to eventually fall back to Earth?→Atmospheric drag
+    - What do satellites require to maintain their orbit?→Occasional boosts
+- **Wind**↔The movement of air caused by uneven heating of the Earth by the Sun.
+    - How does warm air affect pressure?→Expands and rises (creating low pressure)
+    - How does cool air affect pressure?→Is denser and sinks (creating high pressure)
+    - How does air flow between high and low pressure areas?→From high-pressure areas to low-pressure areas
+- **Coriolis Effect**↔The Earth's rotation causes winds to curve as they move, influencing global wind patterns and the spin of storms.
+- **Rain**↔Part of the water cycle.
+    - What happens during evaporation?→The Sun heats water, turning it into invisible vapor which rises.
+    - What happens during condensation?→The vapor cools and condenses back into liquid droplets around tiny dust particles, forming clouds.
+    - What happens during precipitation?→Cloud droplets combine and become heavy enough, they fall as rain (or snow/hail).
+- **Clouds**↔Float because the water droplets or ice crystals are incredibly tiny and light.
+    - Why is air resistance strong for clouds?→Because the water droplets or ice crystals are so small
+    - What pushes cloud droplets upward?→Rising currents of warm air
+- **Lightning**↔A massive electrical discharge (giant spark) caused by the buildup of static electricity in storm clouds.
+- **Thunder**↔The sound caused by lightning.
+    - How does a lightning bolt cause thunder?→It instantly heats the air around it, causing the air to expand extremely rapidly, creating a shock wave.
+    - Why do we see lightning before we hear thunder?→Light travels much faster than sound.
+- **Ocean Salinity**↔Primarily comes from minerals dissolved from rocks on land.
+    - How does rain contribute to ocean salinity?→Rain is slightly acidic, dissolving salts from rocks.
+    - How do rivers contribute to ocean salinity?→Rivers carry dissolved minerals to the ocean.
+    - What happens to salt when ocean water evaporates?→The salt is left behind.
+    - What is another source of ocean salt?→Underwater volcanic vents (hydrothermal vents)
+- **Lake Salinity**↔Most lakes have outlets (rivers flowing out of them), so water flows through the lake, carrying dissolved minerals away before they can concentrate.
+    - What happens to lakes without outlets?→They are very salty, as water only leaves by evaporation.
+- **Earthquake**↔Caused by the movement of tectonic plates (the large pieces of Earth's outer shell).
+    - Where do plates grind against each other?→At boundaries (faults)
+    - What happens when friction causes the edges of plates to get stuck?→Stress builds up.
+    - What happens when stress overcomes friction between plates?→The plates suddenly slip, releasing energy as seismic waves.
+- **Measuring Earthquakes**↔Magnitude scales (like the Richter scale) are logarithmic.
+    - How much more energy does a magnitude 7 earthquake release compared to a magnitude 6?→About 32 times more
+- **Rainbow**↔Caused by the reflection and refraction of sunlight inside raindrops.
+    - What happens when sunlight enters a raindrop?→It bends (refracts) and splits into colors (dispersion).
+    - What happens to light inside a raindrop?→It reflects off the back of the droplet.
+    - What happens as light exits a raindrop?→The light bends again.
+    - What acts like a tiny prism?→Each droplet
+    - What do you need behind you and in front of you to see a rainbow?→Sun behind you and rain in front of you
+- **Double Rainbow**↔Occurs when the sunlight is reflected twice inside the raindrops.
+    - How does a double rainbow compare to a primary rainbow?→The second rainbow is fainter and appears above the primary one.
+    - How are the colors arranged in a double rainbow?→Reversed (Red on the bottom, Violet on the top)
+- **Alexander's Dark Band**↔The sky between the two rainbows often appears darker because light reflected from this area is directed away from the observer.
+- **Leaf Color Change**↔Occurs because trees stop producing chlorophyll (the green pigment used for photosynthesis) in response to shorter days and cooler temperatures.
+    - What happens as the green chlorophyll breaks down?→Other pigments become visible.
+    - What colors are carotenoids, and how do they become visible?→Yellows and Oranges, always present, but hidden by chlorophyll.
+    - What colors are anthocyanins, and when are they produced?→Reds and Purples, produced actively in the fall.
+    - What happens after a tree forms a seal at the leaf base?→The leaf falls.
+- **Volcano**↔An opening (vent) in the Earth's crust where molten rock, gas, and ash escape from below.
+    - What is magma?→Molten rock underground.
+    - What is lava?→Molten rock on the surface.
+    - Where do most volcanoes form?→At tectonic plate boundaries.
+    - Why do volcanoes erupt?→As magma rises, pressure decreases, allowing dissolved gases to expand rapidly, driving the eruption.
+- **Tide**↔Primarily caused by the Moon's gravitational pull on Earth's oceans.
+    - How does the moon create a high tide?→The Moon pulls the water closest to it, creating a bulge (high tide).
+    - Why does a second bulge occur on the opposite side of Earth?→Because the Moon pulls the solid Earth away from the water there (also high tide).
+    - What causes two high and two low tides daily?→Earth rotates through these bulges
+    - When do Spring Tides occur, and how high are they?→Occur when the Sun and Moon are aligned (Full/New Moon), higher.
+    - When do Neap Tides occur, and how high are they?→Occur when the Sun and Moon are at right angles (Quarter Moons), lower.
+- **Altitude**↔Temperature decreases with altitude primarily due to lower air pressure.
+    - What is adiabatic cooling?→As air rises, the pressure decreases, allowing the air to expand, causing it to cool down.
+    - Where is the atmosphere primarily heated from?→The ground up (the Earth absorbs sunlight and radiates heat)
+- **Sleep**↔Essential for physical restoration and mental organization.
+    - What body restoration processes occur during sleep?→Tissue repair, muscle growth, and immune system strengthening
+    - What brain maintenance processes occur during sleep?→Memory consolidation and waste removal
+    - What system clears metabolic waste and toxins from the brain during sleep?→The glymphatic system
+    - What are the effects of sleep deprivation?→Impairs cognitive function (judgment, reaction time), mood, and physical health.
+- **Dream**↔Primarily occur during REM (Rapid Eye Movement) sleep.
+    - Name one theory about the purpose of dreaming.→Emotional processing, memory consolidation, or problem-solving/creativity
+    - Why do we forget our dreams?→Brain chemicals associated with memory formation are less active during REM sleep.
+- **Lucid Dreaming**↔When you become aware that you are dreaming while still asleep.
+    - What can people do once they are aware that they are dreaming?→Exert some control over the dream content
+    - Name one technique to learn to lucid dream?→Keeping a dream journal or performing reality checks during the day
+- **Yawning**↔Helps regulate brain temperature (brain cooling hypothesis).
+    - How does yawning help regulate brain temperature?→The deep inhalation and jaw stretching increase blood flow, which may cool the brain slightly, promoting alertness.
+    - What else does yawning stretch?→Lung tissue
+    - What is contagious yawning linked to?→Empathy and social bonding
+- **Sickness**↔Occurs when pathogens (germs like bacteria or viruses) invade the body and multiply faster than the immune system can eliminate them.
+    - How does the immune system defend the body?→Using white blood cells and antibodies
+    - Why do we get a fever?→Higher temperature enhances the immune response and makes the body less hospitable for some pathogens.
+- **Vaccine**↔Train the immune system without causing the actual disease.
+    - What does a vaccine introduce to the body?→A harmless form of the pathogen (weakened, dead, or just parts like antigens)
+    - What does the immune system produce when exposed to a vaccine?→Antibodies and memory cells
+    - What happens when the vaccinated immune system is exposed to the real pathogen later?→The memory cells mount a rapid defense, preventing illness.
+- **Herd Immunity**↔When a high percentage of the population is vaccinated, it protects even those who cannot be vaccinated by making it difficult for the disease to spread.
+- **Vaccine Hesitancy**↔Stems from various factors, including fear of side effects, misinformation, mistrust of institutions, and belief in "natural" immunity.
+- **Bone**←The skeleton serves several vital functions.
+    - Name one function of bones.→Structural support, protection, movement, mineral storage, or blood cell production
+    - What are bones made of?→Living tissue
+    - What process are bones constantly undergoing throughout life?→Remodeling
+- **Brain**↔The control center for thought, emotion, memory, and action.
+    - What does the brain process?→Sensory information
+    - What does the brain regulate?→Body functions (like breathing and heart rate)
+    - How does the brain work?→Using electrical and chemical signals communicated between billions of neurons
+- **Brain Plasticity**↔The brain can change and adapt throughout life based on experiences and learning, and continues developing until about age 25.
+- **Vegetable**↔Provide essential vitamins, minerals, and fiber.
+    - What is fiber crucial for?→Digestive health (gut microbiome)
+    - What do vegetables contain that protect cells from damage?→Phytochemicals and antioxidants
+    - What does regular vegetable consumption reduce the risk of?→Chronic diseases (heart disease, cancer)
+- **Goosebumps**↔Caused by tiny muscles (arrector pili) contracting, pulling hair follicles upright.
+    - What evolutionary purposes did goosebumps serve?→Insulation and appearing larger
+    - Why do humans get goosebumps?→Vestigial (a leftover trait)
+    - What emotions can trigger goosebumps?→Fear or awe
+- **Baby Development**↔Begins with fertilization, forming a zygote.
+    - Where does the zygote divide and implant?→In the uterus
+    - What does the placenta provide?→Nutrients and oxygen via the umbilical cord
+    - What influences baby development?→A genetic program influenced by environmental factors
+- **Obstetric Dilemma**↔A conflict between the need for a large brain (intelligence) and the need for a narrow pelvis (for efficient upright walking).
+    - What is the compromise of the obstetric dilemma?→Human babies are born earlier in their development so the head can fit through the birth canal.
+    - What is the benefit of the obstetric dilemma?→Allows for significant brain development outside the womb, influenced by the environment and social learning.
+- **Blood Type**↔Determined by antigens (specific molecules) on the surface of red blood cells.
+    - --------------------- Portal ---------------------
+        - Answering Questions + Life 101
+    - What do transfusions require?→Matching blood types
+    - Why do transfusions require matching blood types?→To prevent the immune system from attacking the new blood
+    - What may variations in blood type have evolved as adaptations to?→Different infectious diseases
+    - Antigen::Substance that triggers an immune response by being recognized as foreign by the body's immune system.
+- **Fingerprint**↔Friction ridges serve two main functions.
+    - Name one function of fingerprints.→Improved grip or enhanced touch sensitivity
+    - Why are fingerprints unique?→They form uniquely in the womb due to a combination of genetics and random environmental factors.
+- **Hunger**↔Signals that the body needs energy and nutrients.
+    - What hormone stimulates appetite?→Ghrelin
+    - What is detected by the brain as a hunger signal?→Low blood sugar (glucose)
+    - Name one fullness signal.→Hormones like leptin and peptide YY
+- **Tear**↔Humans produce three types of tears: Basal (lubrication), Reflex (irritants), and Emotional.
+    - Name one function of emotional crying.→Social signaling or stress release
+    - What do emotional tears contain higher levels of?→Stress hormones
+- **Belly Button**↔A scar from the umbilical cord.
+    - What did the umbilical cord connect the baby to?→The placenta in the womb
+    - What does whether a belly button is an 'innie' or 'outie' depend on?→How the scar tissue forms
+- **Aging**↔Results from the accumulation of cellular damage over time.
+    - Name one key mechanism of aging.→Telomere shortening, DNA damage, or mitochondrial dysfunction
+    - What does evolution prioritize over indefinite maintenance?→Reproduction
+- **Binocular Vision**↔Two eyes provide binocular vision, which offers major advantages.
+    - Name one advantage of binocular vision.→Depth perception, wider field of view, or redundancy
+    - Why do predators have forward-facing eyes?→For depth perception to hunt
+    - Why do prey animals have eyes on the sides?→For a wider field of view to detect predators
+- **Ear Wax**↔Protects the ear canal and eardrum.
+    - Name one function of ear wax.→Cleaning, protection, or lubrication
+    - What helps naturally move old ear wax out of the ear?→Jaw movements
+    - 
+- 
+- Cat
+    - Why do cats purr?→To vibrate the vocal cords during both inhalation and exhalation
+    - What are some reasons for a cat to purr? >>>
+        - Contentment
+        - Communication
+        - Self-soothing
+    - What frequencies of purring are known to promote bone density and healing?→25-150 Hz
+- Dog
+    - Why do dogs wag their tails?→It is a complex form of communication
+    - Tail wagging can indicate what emotions? >>>
+        - Excitement
+        - Uncertainty
+        - Fear
+        - Aggression
+    - Wagging more to the dog's {{right}} often indicates positive emotions.
+    - Wagging more to the dog's {{left}} often indicates negative emotions or anxiety.
+- Bird Flight
+    - How do birds fly?→Using aerodynamic principles to generate lift and thrust
+    - What is the shape of bird wings that act as airfoils?→Curved on top
+    - How does air flow over a bird's wing?→Faster over the top
+    - What principle explains how faster airflow over a wing creates lower pressure?→Bernoulli's Principle
+    - What law explains how wings deflect air downward, generating an upward reaction force?→Newton's Third Law
+    - What generates thrust for birds?→Flapping the wings
+    - Name three adaptations that contribute to flight efficiency. >>>
+        - Hollow bones
+        - Powerful flight muscles
+        - Adjustable feathers
+- Bird Migration
+    - How do birds know where to migrate?→Using a combination of navigational tools
+    - What navigational tools do birds use for migration? >>>
+        - Earth's magnetic field
+        - Celestial cues
+        - Landmarks
+        - Smell and sound
+    - What is magnetoreception?→Using the Earth's magnetic field like a compass
+    - What celestial cues do birds use for navigation? >>>
+        - The Sun's position during the day
+        - Star patterns at night
+- Honey
+    - Why do bees make honey?→As a food storage system for the colony
+    - What are the steps in the process of making honey? >>>
+        - Collect nectar from flowers
+        - Mix nectar with enzymes to break down complex sugars
+        - Deposit in honeycomb and fan with wings to evaporate water
+    - Why does honey have a long shelf life?→Low water content and acidity prevent bacterial growth
+- Fish
+    - How do fish breathe underwater?→They extract dissolved oxygen from water using gills
+    - What is the structure of gills?→Large surface area and are rich in blood vessels
+    - What process maximizes the amount of oxygen extracted by gills?→Counter-current exchange
+- Snake
+    - Why do snakes shed their skin (ecdysis)?→The outer layer doesn't grow with them
+    - What else does shedding skin remove?→Parasites
+    - How do snakes shed their skin?→The snake slithers out of the old skin, usually turning it inside out in one piece.
+- Camouflage
+    - What is camouflage?→Any adaptation that helps an organism avoid detection
+    - What are the different types of camouflage? >>>
+        - Concealing coloration
+        - Disruptive coloration
+        - Disguise
+        - Mimicry
+    - What are chromatophores?→Specialized cells that allow some animals to actively change color
+- Photosynthesis
+    - How do plants make food from sunlight?→Photosynthesis to convert light energy into chemical energy (glucose/sugar)
+    - Where does photosynthesis occur?→Chloroplasts
+    - What pigment is used in photosynthesis?→Chlorophyll
+    - What does chlorophyll absorb?→Sunlight
+    - What does photosynthesis create?→Glucose (food) and releases oxygen as a byproduct
+    - What two substances are combined to create glucose?→Water and carbon dioxide
+- Hibernation
+    - Why do some animals hibernate?→As an energy-saving strategy to survive food scarcity and cold temperatures
+    - What drastic reductions occur during hibernation? >>>
+        - Body temperature
+        - Heart rate
+        - Breathing
+        - Metabolic rate
+- Torpor
+    - What state of dormancy do bears enter?→Torpor
+    - How does torpor differ from true hibernation?→Their body temperature drops only slightly, and they can be awakened easily
+- Virus
+    - Are viruses alive?→They exist in a gray area between living and non-living
+    - What are some alive characteristics of viruses? >>>
+        - They have genetic material (DNA/RNA)
+        - They evolve
+    - What are some non-living characteristics of viruses? >>>
+        - They are not made of cells
+        - They cannot reproduce independently
+        - They do not have their own metabolism
+    - What are viruses essentially?→Genetic programs in protein shells that hijack cellular machinery to replicate
+- Flower
+    - Why do flowers smell good?→To attract pollinators
+    - What do flowers use to signal the presence of rewards?→Volatile organic compounds
+    - What type of scents attract bees?→Sweet scents
+    - What type of scents attract flies?→Foul smells
+- Bioluminescence
+    - What is bioluminescence?→The production of light through a chemical reaction
+    - What molecules are involved in bioluminescence? >>>
+        - Luciferin (light-emitting molecule)
+        - Luciferase (enzyme)
+    - What are the functions of bioluminescence? >>>
+        - Attracting mates
+        - Luring prey
+        - Defense
+        - Camouflage
+- Spider Web
+    - Why do spiders make webs?→For many purposes using spider silk
+    - What are the purposes of spider silk? >>>
+        - Trapping prey (webs)
+        - Safety lines (draglines)
+        - Protecting eggs (sacs)
+        - Shelter
+        - Transportation (ballooning)
+- Whale Song
+    - Why do whales sing?→For long-distance communication in the ocean
+    - What purposes likely include whale singing? >>>
+        - Mating
+        - Territory defense
+        - Coordination
+    - What do humpback males sing?→Elaborate songs that change gradually over a season
+    - What interferes with whale communication?→Ocean noise pollution
+    - 
+- ## Technology and Engineering
+- 
+- 
+- ### How does Wi-Fi work?
+    - Wi-Fi uses **radio waves** to transmit data wirelessly.
+    - A router is connected to the internet and converts data into radio signals, which it broadcasts.
+    - Devices (phones, laptops) receive these signals and convert them back into data (and vice versa).
+    - Data is sent in packets, and encryption scrambles the information for security.
+- 
+- 
+- ### How does GPS know where we are?
+    - GPS (Global Positioning System) uses a network of satellites orbiting Earth.
+    - Each satellite broadcasts its exact location and the precise time the signal was sent.
+    - Your device calculates its distance from at least four satellites by measuring the signal travel time.
+    - Using this distance data, the receiver uses **trilateration** to pinpoint its location on Earth.
+- 
+- 
+- ### What is a computer?
+    - A computer is a machine that processes information by following instructions (programs).
+    - It consists of input devices, a CPU (processor), memory (RAM), and storage (SSD/Hard Drive).
+    - It operates using **binary code (0s and 1s)**, represented by billions of tiny electrical switches called transistors (on=1, off=0).
+- 
+- 
+- ### What is artificial intelligence (AI)?
+    - AI refers to computer systems performing tasks that typically require human intelligence (learning, reasoning, problem-solving).
+    - **Machine Learning (ML):** The dominant approach, where systems learn from vast amounts of data to identify patterns, often using neural networks.
+    - **Dig Deeper: Narrow AI vs. General AI**
+        - **Narrow AI (Weak AI):** Excels at specific tasks (e.g., chess, translation). This is what exists today.
+        - **Artificial General Intelligence (AGI):** Hypothetical AI with human-like general cognitive abilities. AGI does not yet exist.
+- 
+- 
+- ### Will robots take over the world?
+    - The idea of a robot uprising is science fiction. Current AI and robots are tools; they lack consciousness, desires, or intentions. They follow programming.
+    - **Real Concerns about AI:**
+        - Job displacement due to automation.
+        - Algorithmic bias (AI reflecting biases in training data).
+        - Misinformation (deepfakes).
+        - Autonomous weapons.
+        - **Alignment Problem:** Ensuring future powerful AI remains aligned with human values.
+    - The immediate challenge is ensuring ethical development and maintaining human control.
+- 
+- 
+- ### How does an airplane fly?
+    - Airplanes fly by balancing four forces: **Thrust** (forward), **Drag** (backward), **Lift** (upward), and **Weight** (downward).
+    - **Lift Generation:**
+        - Wings are shaped as airfoils (curved on top). Air flows faster over the top, creating lower pressure (**Bernoulli's Principle**).
+        - Wings also deflect air downward, creating an upward reaction force (**Newton's Third Law**).
+    - Pilots control flight by adjusting engine power and control surfaces (flaps, ailerons, rudder).
+- 
+- 
+- ### How do rockets work?
+    - Rockets operate based on **Newton's Third Law**: For every action, there is an equal and opposite reaction.
+    - Rockets expel hot gas at high speed out of a nozzle (action).
+    - This generates an equal and opposite force (thrust) that propels the rocket forward (reaction).
+    - **Follow-up: How do they work in space?**
+        - Rockets carry their own oxidizer (oxygen source) to burn fuel, allowing them to function in the vacuum of space. They do not need air to push against.
+- 
+- 
+- ### How does a 3D printer work?
+    - 3D printing is **additive manufacturing**; it builds objects layer by layer from a digital model.
+    - **FDM Printing (Most Common):**
+        - Melted plastic filament is extruded through a nozzle.
+        - The nozzle deposits the plastic in precise patterns, layer by layer.
+        - Each layer fuses with the one below as it cools.
+- 
+- 
+- ### How does a camera capture color?
+    - Digital cameras use sensors composed of millions of pixels.
+    - Each pixel is covered by a color filter (Red, Green, or Blue) in a pattern called a **Bayer filter**.
+    - The sensor captures the intensity of light passing through each filter.
+    - The camera's processor then analyzes the data from neighboring pixels (demosaicing) to determine the full color for each point.
+- 
+- 
+- ### What is the Internet?
+    - The Internet is a **global network of interconnected computers** and networks.
+    - It communicates using standardized protocols (like TCP/IP).
+    - Data is broken down into **packets** that travel independently across the network.
+    - **Follow-up: Is the World Wide Web the same as the Internet?**
+        - No. The Internet is the infrastructure. The World Wide Web (websites) is just one service that runs on it (others include email, streaming).
+- 
+- 
+- ### Who controls the Internet?
+    - The Internet is **decentralized**; no single entity controls the entire network.
+    - Various organizations manage different aspects:
+        - **ICANN:** Manages domain names and IP addresses.
+        - **IETF:** Develops technical standards.
+        - **ISPs:** Provide local access.
+    - Governments can regulate access and content within their borders, and large tech companies exert significant influence through platforms.
+- 
+- 
+- ### Why do batteries run out?
+    - Batteries convert chemical energy into electrical energy through chemical reactions between the electrodes (anode/cathode) and the electrolyte.
+    - These reactions consume the reactive materials. The battery "dies" when these materials are used up, stopping the flow of electrons.
+    - **Rechargeable Batteries:** Use reversible reactions, but each cycle causes minor degradation, limiting their lifespan.
+- 
+- 
+- ### How do touchscreens work?
+    - **Capacitive Touchscreens (Most Common):**
+        - The screen has a layer that stores an electrical charge.
+        - Human fingers are conductive. Touching the screen alters the electrical field at that point.
+        - Sensors detect this change to determine the touch location.
+    - **Resistive Touchscreens (Older):** Rely on physical pressure to push two layers together.
+- 
+- 
+- ### How do video games work?
+    - Video games operate in a continuous **game loop** (many times per second):
+        1. **Input:** Check for player actions (button presses).
+        2. **Update:** Process input and update the game state (physics, AI, positions).
+        3. **Render:** Generate the graphics and sound based on the updated state.
+    - The **game engine** manages these core functionalities.
+    - **GPUs (Graphics Cards)** handle the intensive calculations for modern graphics.
+- 
+- 
+- ### How do QR codes work?
+    - QR (Quick Response) codes encode data in patterns of black and white squares.
+    - **Key Features:**
+        - **Position patterns** (large corner squares) help the scanner orient the code.
+        - **Error correction** allows readability even if partially damaged.
+    - A phone camera reads the pattern, decodes the information (often a URL), and performs the action.
+- 
+- 
+- ### What is virtual reality (VR)?
+    - VR creates immersive artificial environments by replacing natural sensory input (sight/sound).
+    - Uses a headset with screens for each eye (stereoscopic 3D).
+    - Sensors track head movements to adjust the view in real-time, maintaining the illusion of presence.
+    - High frame rates and low latency are crucial to prevent motion sickness.
+- 
+- 
+- ## Mathematics
+- 
+- 
+- ### What is zero and why is it important?
+    - Zero (0) has two crucial roles:
+        1. **Placeholder:** In positional number systems, it indicates the absence of a value in a specific place (e.g., distinguishing 15 from 105).
+        2. **Number:** Represents nothingness or the origin on the number line.
+    - It enables modern arithmetic, algebra, calculus, and computer science (binary).
+    - **Properties:** A+0=A; A×0=0; Division by zero is undefined.
+    - **History:** The modern concept of zero as a number was developed in India.
+- 
+- 
+- ### What is infinity?
+    - Infinity (∞) is a concept representing something **endless or boundless**.
+    - It is **not a specific number** that can be reached by counting.
+    - **Dig Deeper: Different Sizes of Infinity**
+        - There are different sizes of infinity. The set of whole numbers (countable infinity) is smaller than the set of real numbers (uncountable infinity).
+- 
+- 
+- ### Why is 2 + 2 always 4?
+    - It is true by definition. It is a **logical consequence of our definitions** of the numbers (1, 2, 3, 4...) and the operation of addition (combining quantities).
+    - These definitions are based on our understanding of quantities in the real world and are designed to be consistent.
+- 
+- 
+- ### What is a prime number?
+    - A prime number is a whole number greater than 1 that is **divisible only by 1 and itself**.
+    - Examples: 2, 3, 5, 7, 11...
+    - Primes are the **building blocks** of all whole numbers (Fundamental Theorem of Arithmetic states every number has a unique prime factorization).
+    - **Importance:** Crucial for Internet security (RSA encryption).
+- 
+- 
+- ### Is 1 a prime number?
+    - No. The definition of a prime requires exactly two distinct factors. 1 only has one factor (itself).
+    - Excluding 1 preserves the uniqueness of prime factorizations.
+- 
+- 
+- ### What is probability?
+    - Probability measures the **likelihood of an event occurring**.
+    - Expressed as a number between 0 (impossible) and 1 (certain).
+    - Calculated by: (Favorable outcomes) / (Total possible outcomes).
+    - **Law of Large Numbers:** With many trials, actual results approach the theoretical probability.
+- 
+- 
+- ### Why do we use fractions?
+    - Fractions represent **parts of wholes** and divisions that don't result in whole numbers.
+    - They provide precision and express ratios.
+    - They often reveal relationships more clearly than decimals (e.g., 1/3 is exact, 0.333... is an approximation).
+- 
+- 
+- ### What is symmetry?
+    - Symmetry occurs when an object looks the same after a transformation (reflection, rotation, or translation).
+    - **Types:**
+        - **Reflective (Bilateral):** One half mirrors the other (e.g., a butterfly).
+        - **Rotational:** Looks the same after being rotated (e.g., a snowflake).
+    - Symmetry is common in nature (efficiency) and often aesthetically pleasing.
+- 
+- 
+- ### What is a pattern?
+    - A pattern is a **regularity, repetition, or predictable arrangement**.
+    - Recognizing patterns is fundamental to intelligence, enabling learning (language, music) and prediction.
+    - Mathematics is essentially the study of patterns.
+- 
+- 
+- ### What is pi (π)?
+    - Pi (π) is the **ratio of a circle's circumference to its diameter** (approx. 3.14159).
+    - This ratio is the same for all circles.
+    - It is an **irrational number** (its decimal representation never ends or repeats).
+    - Pi appears throughout mathematics and physics.
+- 
+- 
+- ### Why can't you divide by zero?
+    - Division by zero is **undefined**.
+    - Division is the inverse of multiplication. Asking "6 ÷ 0 = X" means "X × 0 = 6".
+    - There is no number X that satisfies this, because anything multiplied by 0 is 0.
+    - Allowing division by zero would lead to mathematical contradictions (e.g., proving 1=2).
+- 
+- 
+- ### What is 0 divided by 0?
+    - 0 ÷ 0 is **indeterminate**.
+    - Asking "0 ÷ 0 = X" means "X × 0 = 0".
+    - Any number satisfies this equation (5×0=0, 10×0=0).
+    - Because there isn't a single, unique answer, it is indeterminate.
+- 
+- 
+- ### What is a negative number?
+    - Negative numbers represent values **less than zero**.
+    - They indicate absence, debt, or direction opposite to a positive reference (e.g., temperatures below freezing).
+    - They complete the number system, making subtraction always possible (e.g., 3 - 5 = -2).
+- 
+- 
+- ### Why do we count in tens?
+    - We use base-10 (decimal) primarily because **humans have ten fingers**, our first counting tools.
+    - Computers use base-2 (binary) because transistors have two states (on/off).
+    - **Dig Deeper:** Base-12 (duodecimal) might be more practical because 12 has more factors than 10, simplifying division.
+- 
+- 
+- ### What is algebra?
+    - Algebra uses letters (variables) to represent unknown or changing numbers.
+    - It enables the solution of equations (finding 'x') and the description of general mathematical patterns.
+    - Algebra is the language of science, engineering, and economics.
+- 
+- 
+- ## Everyday Mysteries
+- 
+- 
+- ### Why do we hiccup?
+    - Hiccups are **involuntary spasms of the diaphragm** muscle.
+    - This causes a sudden intake of air, which is abruptly stopped by the closing of the vocal cords (glottis). This closure produces the "hic" sound.
+    - Triggers: Eating too fast, carbonated drinks, sudden temperature changes.
+    - **Theories:** May be an evolutionary remnant of amphibian reflexes or help fetuses exercise breathing muscles.
+- 
+- 
+- ### Why do onions make us cry?
+    - Cutting onions damages cells, releasing enzymes that react to produce a volatile gas (syn-propanethial-S-oxide).
+    - This gas reacts with eye moisture to form mild **sulfuric acid**.
+    - This irritates the eyes, causing reflex tears to wash it away. It's a defense mechanism for the plant.
+    - **Follow-up:** Chilling onions, using sharp knives, or cutting under water can reduce tearing.
+- 
+- 
+- ### Why do we need to brush our teeth?
+    - Brushing removes **plaque**, a sticky film of bacteria.
+    - Bacteria in plaque consume sugars and produce acid.
+    - This acid erodes tooth enamel, causing cavities, and irritates gums, causing gum disease.
+    - **Fluoride** in toothpaste strengthens enamel and helps prevent decay.
+- 
+- 
+- ### Why do we burp and fart?
+    - **Burping (Eructation):** Expels swallowed air from the stomach.
+    - **Farting (Flatulence):** Releases gas produced by bacteria in the large intestine as they break down undigested food (fermentation).
+    - **The Smell:** Caused by trace amounts of sulfur compounds produced by the bacteria.
+- 
+- 
+- ### Why does bread rise?
+    - Bread rises because of **yeast** (a single-celled fungus).
+    - Yeast consumes sugars in the flour and undergoes **fermentation**, producing **carbon dioxide gas**.
+    - This gas gets trapped by the elastic network of **gluten** proteins in the dough, causing it to inflate.
+- 
+- 
+- ### Why do we get bored?
+    - Boredom signals that current activities are not meeting our need for stimulation or meaning, often linked to a drop in dopamine.
+    - **Evolutionary Purpose:** It motivates us to seek new experiences, learning, and rewarding activities.
+    - **Paradox:** Constant high stimulation (e.g., smartphones) may increase boredom by raising our stimulation threshold.
+- 
+- 
+- ### Why does time feel fast or slow?
+    - Time perception is subjective, influenced by **attention, memory, and emotion**.
+    - **Attention:** Time flies when engaged (focused on the task); time drags when bored (focused on time itself).
+    - **Memory (Novelty):** Novel experiences create more memories, making time feel longer in retrospect (The Holiday Paradox).
+    - **Aging:** Time feels faster as we age due to fewer novel experiences and because each year is a smaller fraction of our total life.
+- 
+- 
+- ### Why do people snore?
+    - Snoring is the sound caused by the vibration of relaxed tissues in the throat and upper airway during sleep.
+    - It occurs when the airway is narrowed, causing airflow to become turbulent.
+    - Factors: Sleeping position (on back), excess weight, alcohol, nasal congestion.
+    - **Dig Deeper:** Snoring can indicate **sleep apnea**, where breathing repeatedly stops.
+- 
+- 
+- ### Why do ears pop on airplanes?
+    - Ears pop due to changes in air pressure during ascent and descent.
+    - The **Eustachian tube** connects the middle ear to the throat to equalize pressure.
+    - If the pressure inside the middle ear doesn't match the cabin pressure, the eardrum is pushed (discomfort).
+    - The "pop" is the sound of the Eustachian tube opening (often aided by swallowing or yawning) and the pressure equalizing.
+- 
+- 
+- ### Why do some foods taste spicy?
+    - Spicy foods (like chili peppers) contain compounds like **capsaicin**.
+    - Capsaicin binds to **pain receptors (TRPV1)** in the mouth that normally detect high heat.
+    - The brain interprets the signal as burning heat.
+    - This triggers sweating and endorphin release.
+    - **Follow-up:** Milk helps because **casein** protein binds to capsaicin and washes it away.
+- 
+- 
+- ### Why can't we tickle ourselves?
+    - The brain (specifically the **cerebellum**) predicts the sensory consequences of our own movements.
+    - It dampens the sensory response to self-generated touch to distinguish it from external stimuli.
+    - Tickling relies on unpredictability and surprise, which are absent during self-tickling.
+- 
+- 
+- ### Why do we get brain freeze?
+    - Brain freeze occurs when cold substances rapidly change the temperature of blood vessels in the palate (roof of the mouth).
+    - The vessels rapidly constrict and then dilate, triggering pain receptors.
+    - The trigeminal nerve transmits this signal, which the brain often interprets as coming from the forehead (**referred pain**).
+    - **Follow-up:** Pressing a warm tongue to the roof of the mouth can alleviate it.
+- 
+- 
+- ### Why do we get dizzy when we spin?
+    - Dizziness relates to the balance system in the **inner ear**, which contains fluid-filled semicircular canals.
+    - When you stop spinning, the fluid continues to move due to inertia.
+    - This signals to the brain that you are still moving, conflicting with information from your eyes.
+    - This sensory conflict causes dizziness (vertigo).
+- 
+- 
+- ### Why do we get motion sickness?
+    - Motion sickness happens due to **conflicting sensory information** about movement.
+    - Example: The inner ear senses motion, but the eyes see a stationary environment (like inside a car).
+    - **Theory:** The brain interprets this mismatch as a sign of poisoning (hallucination) and triggers nausea to expel the presumed toxin.
+    - **Follow-up:** Looking at the horizon helps align the sensory input.
+- 
+- 
+- ### Why does metal feel colder than wood (at the same temperature)?
+    - Metal feels colder because it is a better **thermal conductor**.
+    - It rapidly draws heat away from your hand.
+    - Your nerves detect this rapid heat loss as cold.
+    - Wood is an insulator; it conducts heat slowly, so it feels warmer.
+- 
+- 
+- ### Why do we like music?
+    - Music engages multiple brain regions (auditory, emotion, memory, movement).
+    - It triggers **dopamine release** in the brain's reward centers.
+    - Humans are wired for **pattern recognition**. Music provides predictable patterns; satisfaction comes from anticipating these patterns and experiencing pleasant surprises.
+    - **Evolutionary theories:** Music likely evolved to promote social bonding, emotional communication, and mate selection.
+- 
+- 
+- ## Society, Culture, and History
+- 
+- 
+- ### What is money?
+    - Money is anything widely accepted as payment for goods and services.
+    - **Functions:**
+        1. **Medium of exchange:** Facilitates trade (solves inefficiencies of barter).
+        2. **Unit of account:** Standard measure of value.
+        3. **Store of value:** Allows saving purchasing power.
+    - Modern money is mostly **fiat money**; its value is based on trust and government authority, not backed by a commodity like gold.
+- 
+- 
+- ### Why can't we just print more money?
+    - Printing more money without increasing the production of goods and services leads to **inflation**.
+    - More money chases the same amount of stuff, driving up prices and decreasing the value of the currency.
+    - Extreme inflation (**hyperinflation**) can destroy an economy.
+- 
+- 
+- ### Why do we pay taxes?
+    - Taxes fund **collective services (public goods)** that the private market doesn't efficiently provide.
+    - Examples: Infrastructure (roads), public safety (police, military), education, healthcare, social safety nets.
+    - Taxes also redistribute wealth and can influence behavior (e.g., taxes on tobacco).
+- 
+- 
+- ### What is government?
+    - Government is the system that organizes decision-making, enforces rules (laws), and provides services within a community or country.
+    - **Forms:** Democracy (rule by consent), Monarchy (tradition/heredity), Dictatorship (force).
+    - Most modern democracies use **separation of powers** (legislative, executive, judicial) to prevent power concentration.
+- 
+- 
+- ### Why do people have different skin colors?
+    - Skin color is determined by the pigment **melanin**.
+    - It is an **evolutionary adaptation** to different levels of UV radiation from the Sun.
+    - **The Trade-off:**
+        - **Dark skin (More Melanin):** Evolved in sunny regions (equator) for UV protection and to protect folate.
+        - **Light skin (Less Melanin):** Evolved in less sunny regions to maximize **Vitamin D** production (essential for bone health).
+    - Skin color is a continuous spectrum. "Race" is a social construct, not a biological reality.
+- 
+- 
+- ### Why do countries have different languages?
+    - Languages evolved as human populations spread and became isolated.
+    - Geographic barriers limited contact, allowing communication systems to diverge over thousands of years.
+    - Languages constantly change through innovation, borrowing, and social trends.
+    - Political factors (conquests, national standardization) also shape languages.
+- 
+- 
+- ### Why do we have rules and laws?
+    - Rules and laws create predictable, stable, and safer societies by establishing agreed-upon behaviors and consequences.
+    - They protect individual rights, facilitate cooperation and trust, and provide mechanisms for resolving disputes peacefully.
+    - **The Rule of Law:** Ensures everyone, including leaders, is subject to the law, preventing arbitrary power.
+- 
+- 
+- ### Who invented writing?
+    - Writing was **invented independently** at least four times:
+        1. **Mesopotamia (Sumer):** Cuneiform (c. 3400 BCE).
+        2. **Egypt:** Hieroglyphs (c. 3200 BCE).
+        3. **China:** Chinese characters (c. 1200 BCE).
+        4. **Mesoamerica:** (c. 300 BCE).
+    - It initially served practical purposes like accounting and record-keeping.
+    - Writing transformed civilization by enabling knowledge accumulation across generations and distances.
+- 
+- 
+- ### Why do we celebrate birthdays?
+    - Birthday celebrations mark personal milestones, celebrate life, and strengthen social bonds.
+    - They blend ancient traditions (protection from spirits) with modern customs.
+    - The modern tradition (cakes, candles) largely emerged from 18th/19th-century Germany (Kinderfeste).
+- 
+- 
+- ### What is history?
+    - History is the **study and interpretation of the past**, based on the analysis of evidence (sources).
+    - It involves understanding context, causes, consequences, and biases.
+    - History is constantly revised as new evidence emerges or perspectives change.
+    - **Purpose:** Helps understand the present, recognize patterns, learn from mistakes, and appreciate societal change.
+- 
+- 
+- ### What is democracy?
+    - Democracy means "rule by the people." Citizens participate in decision-making, typically by voting for representatives.
+    - **Key principles:**
+        - Free and fair elections.
+        - Majority rule with protection of minority rights.
+        - Rule of law.
+        - Protection of basic rights (speech, press, etc.).
+    - Requires active citizen participation and accountable institutions.
+- 
+- 
+- ### Is democracy the best form of government?
+    - This depends on prioritized values (freedom vs. order, efficiency vs. equality).
+    - **Strengths:** Peaceful power transitions, accountability, protection of rights.
+    - **Weaknesses:** Slow decision-making, susceptibility to populism, potential for "tyranny of the majority."
+    - Other systems have different trade-offs. No system is universally "best" in all contexts.
+- 
+- 
+- ### Why do wars happen?
+    - Wars result from complex factors; rarely a single cause.
+    - **Common factors:**
+        - Resource competition (territory, wealth).
+        - Ideological differences (political, religious).
+        - Nationalism and identity conflicts.
+        - Power struggles and security concerns.
+        - Failed diplomacy.
+    - Human psychology (in-group loyalty, out-group hostility, fear) also plays a role.
+- 
+- 
+- ### What is climate change?
+    - Climate change refers to long-term shifts in temperatures and weather patterns.
+    - Current rapid warming is primarily caused by **human activities**, mainly burning fossil fuels.
+    - **Greenhouse Effect:** Fossil fuels release greenhouse gases (like CO2) that trap heat in the atmosphere.
+    - **Impacts:** Rising sea levels, melting ice, more intense extreme weather, ecosystem disruption.
+    - The scientific consensus is that humans are causing current warming. Solutions involve reducing emissions and adaptation.
+- 
+- 
+- ### Why can't everyone just get along?
+    - Human cooperation and conflict both stem from evolutionary history and social factors.
+    - **Sources of Conflict:**
+        - In-group loyalty and out-group suspicion (tribalism).
+        - Competition for limited resources.
+        - Differing values, beliefs, and experiences.
+        - Misunderstanding, fear, and past grievances.
+    - Despite conflict, humans possess remarkable capacity for empathy and cooperation. Most interactions are peaceful.
+- 
+- 
+- ## Philosophy and Big Questions
+- 
+- 
+- ### What happens when we die?
+    - **Biologically:** Death is the cessation of all vital functions (heart, breathing, brain activity). The body decomposes and returns to natural cycles.
+    - **Consciousness:** What happens to consciousness is a profound mystery.
+        - **Science:** Suggests consciousness is a product of brain activity and ceases when the brain stops functioning.
+        - **Religions/Philosophies:** Offer diverse beliefs (afterlife, reincarnation, cessation).
+    - Our impact on others and our legacy continues.
+- 
+- 
+- ### Why do people die?
+    - Death is universal for complex organisms due to aging (accumulated cellular damage) and the inability of repair mechanisms to keep pace indefinitely.
+    - **Evolutionary Perspective:**
+        - Evolution prioritizes reproduction over indefinite maintenance.
+        - There is weak selective pressure against decline after reproduction.
+        - Death facilitates evolutionary adaptation by allowing generational turnover and resource reallocation.
+- 
+- 
+- ### What is consciousness?
+    - Consciousness is **subjective awareness**—the experience of being oneself, having thoughts, feelings, and sensations.
+    - **The "Hard Problem":** How and why physical processes in the brain give rise to subjective experience remains unanswered.
+    - Consciousness correlates with brain activity, but the mechanism is mysterious.
+    - Theories range from it emerging from complex information processing to it being a fundamental property of the universe.
+- 
+- 
+- ### What is time?
+    - Time is a fundamental dimension measuring the progression of events from past to future.
+    - **Einstein's Relativity:** Time is relative, not absolute. It passes differently depending on speed and gravity (time dilation). Space and time are interwoven into **spacetime**.
+    - **The Arrow of Time:** The unidirectional flow of time may be linked to the increase of **entropy** (disorder) in the universe.
+- 
+- 
+- ### What is a year?
+    - A year is the time it takes Earth to complete one orbit around the Sun (approx. 365.25 days).
+    - This orbit, combined with the tilt of Earth's axis, defines our seasons.
+    - **Leap years** are added to account for the extra fraction of a day, keeping the calendar aligned with the seasons.
+- 
+- 
+- ### What is memory?
+    - Memory is the brain's system for encoding, storing, and retrieving information.
+    - It involves physical changes in neural connections (synapses).
+    - **Types:** Short-term (temporary) and Long-term (durable, involves consolidation).
+    - Memories are **reconstructions**, not perfect recordings. They are influenced by current knowledge and emotions and can be modified with each recall.
+- 
+- 
+- ### What is a myth?
+    - Myths are traditional stories that cultures use to explain phenomena, teach moral lessons, preserve history, and express deep truths about human experience.
+    - They are not just "false stories," but narratives that convey fundamental values and worldviews.
+    - **Functions:** Creating shared identity, transmitting values, providing meaning.
+    - Myths use narrative and symbolism, functioning more as wisdom literature than literal scientific explanations.
+- 
+- 
+- ### What is luck?
+    - Luck describes events that happen by chance, outside our control, and significantly affect us.
+    - It is the subjective interpretation of randomness.
+    - Humans tend to see patterns in coincidence (apophenia) and are prone to confirmation bias regarding luck.
+    - **Creating "Luck":** Some people appear luckier because they create more opportunities, notice possibilities, maintain optimism, and are resilient.
+- 
+- 
+- ### Why do people believe different things?
+    - Beliefs form through a complex interaction of:
+        - **Upbringing and Culture:** Socialization shapes our initial worldview.
+        - **Personal Experience.**
+        - **Education and Information exposure.**
+        - **Cognitive Biases:** (e.g., confirmation bias—favoring information that confirms existing beliefs).
+        - **Social Influence:** Group identity and echo chambers reinforce shared beliefs.
+        - **Emotion:** Beliefs often provide comfort or purpose.
+    - Understanding these factors promotes empathy and critical thinking.
+- 
+- 
+- ### What is fairness?
+    - Fairness involves treating people with equal respect, justice, and impartiality.
+    - Its definition is complex and debated, involving different principles:
+        - **Equality:** Treating everyone the same.
+        - **Equity:** Distributing resources based on need to ensure equal opportunity.
+        - **Merit:** Distributing rewards based on contribution or effort.
+    - Striving for fairness is essential for a just society, though perfect fairness is complex to achieve.
+- 
+- 
+- ### What is courage?
+    - Courage is **acting despite fear** when something important is at stake. It is not the absence of fear.
+    - **Types:**
+        - **Physical courage:** Facing physical danger.
+        - **Moral courage:** Standing up for principles in the face of opposition or social disapproval.
+    - It involves recognizing risk, feeling fear, prioritizing a value or goal, and choosing to act.
+- 
+- 
+- ### What is art?
+    - Art is human expression that communicates ideas, emotions, or experiences through various media (visual, auditory, performance).
+    - It transcends pure functionality, aiming to evoke a response or contemplation.
+    - **Purposes:** Aesthetic pleasure, personal expression, social commentary, cultural preservation.
+    - What qualifies as art is subjective and debated, involving skill, originality, intention, impact, and context.
+- 
+- 
+- ### What is love?
+    - Love is a complex phenomenon involving strong feelings of affection, attachment, care, and commitment.
+    - **Types:** Romantic (Eros), Familial (Storge), Platonic (Philia), Self-love, Unconditional (Agape).
+    - **Neurologically:** Involves brain reward circuits and hormones like dopamine (pleasure) and oxytocin (bonding).
+    - **Evolutionarily:** Evolved to promote pair bonding for child-rearing and social cooperation.
+- 
+- 
+- ### What is happiness?
+    - Happiness is a positive emotional state of well-being.
+    - **Types:**
+        - **Hedonic:** Momentary pleasure and enjoyment.
+        - **Eudaimonic:** Deeper life satisfaction, meaning, and purpose.
+    - **Key factors:** Strong social relationships (most important), sense of purpose, autonomy, gratitude.
+    - Genetics influence baseline happiness, but intentional activities play a substantial role.
+- 
+- 
+- ### What is the meaning of life?
+    - This is a fundamental philosophical question with diverse answers; there is no single objective answer.
+    - **Perspectives:**
+        - **Religious:** Serving God, achieving enlightenment, preparing for afterlife.
+        - **Existentialism:** We create our own meaning through choices and actions.
+        - **Humanism:** Emphasizes human flourishing and reducing suffering.
+        - **Nihilism:** Argues life has no inherent objective meaning (but subjective meaning is possible).
+        - **Evolutionary biology:** The biological function is gene propagation (but this is not the same as meaning).
+    - Many find meaning through relationships, contribution, knowledge pursuit, creative expression, or experiencing beauty.
+    - Meaning may be created rather than discovered, and the search itself can provide meaning
+- ## Growing Up: Body and Mind
+- 
+- 
+- ### What is puberty?
+    - Puberty is the **process of physical changes** through which a child's body matures into an adult body capable of sexual reproduction.
+    - It involves physical growth (height/weight) and the development of **secondary sexual characteristics** (e.g., body hair, breast development, voice changes).
+    - It is initiated and controlled by **hormones**.
+    - **Follow-up: When does it start?**
+        - The timing varies greatly. It typically begins between ages 8 and 13 for girls, and 9 and 14 for boys. Everyone develops at their own pace.
+- 
+- 
+- ### What are hormones?
+    - Hormones are **chemical messengers** produced by glands in the endocrine system.
+    - They travel through the bloodstream to tissues and organs, regulating major body processes like growth, metabolism, reproduction, and mood.
+    - During puberty, hormones like **testosterone and estrogen** drive the physical changes.
+    - **Dig Deeper: The Mechanism of Puberty**
+        - Puberty starts in the brain. The hypothalamus signals the pituitary gland, which then signals the ovaries or testes to produce sex hormones.
+- 
+- 
+- ### Why do I feel so moody or emotional?
+    - Mood swings during adolescence are common due to **fluctuating hormone levels**, which affect brain chemistry.
+    - The brain is also undergoing significant development. The **prefrontal cortex** (reasoning, impulse control) develops slower than the **limbic system** (emotions, rewards).
+    - This can lead to reacting more emotionally before thinking things through.
+    - Stress, lack of sleep, and social pressures also contribute significantly to moodiness.
+- 
+- 
+- ### Why do we get pimples (acne)?
+    - Pimples are caused by clogged hair follicles (pores) in the skin.
+    - During puberty, hormones cause the skin's oil glands to produce more oil (sebum).
+    - When excess sebum mixes with dead skin cells, it can clog the pore. Bacteria can then grow, causing inflammation.
+    - Acne is very common and usually improves after puberty.
+- 
+- 
+- ### What is a "crush"?
+    - A crush is an intense feeling of attraction and infatuation toward someone.
+    - It involves idealizing the person, feeling nervous or excited around them, and thinking about them frequently.
+    - **Neurologically:** Crushes activate the brain's reward system, releasing dopamine, which causes feelings of pleasure and excitement.
+    - Crushes are a normal part of development and help us learn about romantic attraction.
+- 
+- 
+- ### What is peer pressure?
+    - Peer pressure is the influence exerted by a peer group encouraging others to change their attitudes, values, or behaviors to conform to group norms.
+    - It stems from the fundamental human desire to **fit in and be accepted**.
+    - **Follow-up: Is peer pressure always bad?**
+        - No. Positive peer pressure can encourage good behaviors (e.g., studying hard, being kind). Negative peer pressure encourages risky or harmful behaviors.
+    - **Dig Deeper: Resisting Negative Pressure**
+        - Resisting involves self-confidence, identifying personal values, practicing how to say no, and choosing friends whose values align with your own.
+- 
+- 
+- ### What is stress?
+    - Stress is the body's reaction to any change that requires an adjustment or response (a stressor).
+    - It is a survival mechanism (fight or flight) that releases hormones like cortisol and adrenaline.
+    - **Short-term stress** can be motivating. **Chronic (long-term) stress** can negatively impact physical and mental health.
+    - **Follow-up: How can I manage stress?**
+        - Exercise, adequate sleep, relaxation techniques, and talking about problems help manage stress.
+- 
+- 
+- ### What are anxiety and depression?
+    - **Anxiety:** A feeling of worry, nervousness, or unease. While occasional anxiety is normal, an anxiety disorder involves excessive, persistent worry that interferes with daily activities.
+    - **Depression:** A mood disorder characterized by persistent sadness, loss of interest in activities, and changes in sleep, appetite, and energy.
+    - Both are **mental health conditions**, not weaknesses. They are caused by a complex interplay of genetic, biological, environmental, and psychological factors.
+    - **Follow-up: What if I feel this way?**
+        - It is important to talk to a trusted adult (parent, teacher, counselor). These conditions are treatable.
+- 
+- 
+- ## Genetics and Evolution
+- 
+- 
+- ### What is DNA?
+    - DNA (Deoxyribonucleic Acid) is the molecule that carries the **genetic instructions** for the development, functioning, growth, and reproduction of all known organisms.
+    - It is the "blueprint of life."
+    - **Structure:** A double helix (twisted ladder) made of nucleotides containing four bases (A, T, C, G). The sequence of these bases forms the genetic code.
+- 
+- 
+- ### What are genes and chromosomes?
+    - **Genes:** Specific segments of DNA that provide instructions for making proteins, which determine traits (like eye color) and bodily functions.
+    - **Chromosomes:** Long molecules of DNA tightly coiled around proteins, located in the cell nucleus.
+    - Humans typically have **46 chromosomes**, arranged in 23 pairs (one set from each parent).
+    - **Dig Deeper: Sex Chromosomes**
+        - The 23rd pair determines biological sex. XX typically results in female development; XY typically results in male development.
+- 
+- 
+- ### Why do I look like my parents (or not)?
+    - You inherit **half of your genes from each parent**. This combination determines your traits.
+    - **Dominant and Recessive Genes:**
+        - Some genes are dominant (they show up even if you only inherit one copy).
+        - Some are recessive (they only show up if you inherit copies from both parents).
+    - Most traits (like height) are **polygenic**, influenced by many different genes interacting together, plus environmental factors. This complex mixing means you might look like a blend or even resemble grandparents.
+- 
+- 
+- ### What is evolution?
+    - Evolution is the **change in the characteristics of a species** over several generations, driven primarily by natural selection.
+    - **Natural Selection ("Survival of the Fittest"):**
+        1. Individuals within a species vary (genetic diversity).
+        2. Individuals with traits better suited to their environment are more likely to survive and reproduce.
+        3. They pass these advantageous traits to their offspring.
+        4. Over time, these traits become more common in the population.
+    - **Follow-up: Is evolution just a theory?**
+        - In science, a "theory" is a well-substantiated explanation supported by vast evidence (fossils, DNA). Evolution is both a fact (it happens) and a theory (the explanation of how it happens).
+- 
+- 
+- ### Did humans evolve from monkeys?
+    - No, humans did not evolve from the monkeys we see today.
+    - Humans and modern apes (like chimpanzees) evolved separately from a **common ancestor** that lived millions of years ago. We are evolutionary cousins.
+    - **Dig Deeper: Human Evolution**
+        - Humans (Homo sapiens) evolved in Africa. We coexisted and interbred with other human species like Neanderthals before they went extinct.
+- 
+- 
+- ## Society, Justice, and Ethics
+- 
+- 
+- ### What is prejudice and discrimination?
+    - **Prejudice:** A preconceived opinion (usually negative) about a person based on their membership in a group (e.g., race, religion, gender), rather than individual qualities. It is an attitude.
+    - **Discrimination:** The unjust or prejudicial treatment of different categories of people. It is an action based on prejudice.
+    - **Follow-up: What is a stereotype?**
+        - A stereotype is an oversimplified, widely held, but often inaccurate belief about a particular group of people.
+- 
+- 
+- ### What is racism?
+    - Racism is prejudice, discrimination, or antagonism directed against someone of a different race based on the belief that one's own race is superior.
+    - It involves **power and systems**, not just individual attitudes.
+    - **Types:**
+        - **Individual Racism:** Personal beliefs and actions.
+        - **Systemic (Institutional) Racism:** Policies and practices embedded in institutions (education, housing, justice system) that create unequal outcomes for different racial groups.
+    - **Dig Deeper: Race as a Social Construct**
+        - Biologically, "race" is not a meaningful categorization of humans. It is a social construct used historically to justify inequality.
+- 
+- 
+- ### Why are some people rich and others poor?
+    - Wealth inequality is complex and results from a combination of systemic factors, individual choices, and luck.
+    - **Key factors:**
+        - **Generational Wealth:** Wealth passed down through families creates advantages.
+        - **Education and Opportunity:** Access to quality education and jobs varies significantly.
+        - **Systemic Barriers:** Discrimination can limit opportunities and wealth accumulation.
+        - **Economic Systems:** How a society organizes its economy and taxes affects wealth distribution.
+    - **Follow-up: Is being poor someone's fault?**
+        - While individual choices matter, poverty is often driven by factors outside an individual's control. It is crucial to distinguish between personal responsibility and systemic issues.
+- 
+- 
+- ### What is privilege?
+    - Privilege refers to unearned advantages or benefits granted to a particular group of people, often without their awareness.
+    - It is the absence of obstacles or barriers that others face.
+    - **Follow-up: Does having privilege mean I haven't worked hard?**
+        - No. It means that while you worked hard, you did not have to overcome certain obstacles that others did. (Analogy: Running a race, but some lanes have hurdles and others do not).
+- 
+- 
+- ### Why do we have police?
+    - The primary roles of police in society are to **maintain public order, enforce laws, prevent crime, and protect citizens**.
+    - **The Social Contract:** In a society, individuals agree to follow rules in exchange for protection by the government.
+    - **Dig Deeper: Challenges in Policing**
+        - Ensuring fair and unbiased policing, accountability for misuse of force, and maintaining trust between the police and the community are ongoing societal issues.
+- 
+- 
+- ### Is it ever okay to lie?
+    - This is a complex ethical question. Most agree that lying to exploit or harm others is wrong because it breaks trust.
+    - **"White Lies" (Prosocial Lying):** Lies told to protect someone's feelings or avoid unnecessary conflict.
+    - **Ethical Debates:**
+        - Some argue lying is always wrong (Deontology).
+        - Others argue that if a lie prevents significant harm, it might be justified (Consequentialism).
+    - The morality of a lie often depends on the intention, the consequences, and the context.
+- 
+- 
+- ### What is the Trolley Problem?
+    - The Trolley Problem is a famous ethical thought experiment.
+    - **The Scenario:** A runaway trolley is heading toward five people. You can pull a lever to divert the trolley onto another track, where it will kill one person.
+    - **The Question:** Do you pull the lever (sacrifice one to save five)?
+    - **The Analysis:**
+        - It highlights the tension between different moral frameworks: maximizing good outcomes (Consequentialism) vs. adhering to moral duties like "do not kill" (Deontology).
+- 
+- 
+- ## Economics and Finance
+- 
+- 
+- ### How do banks work?
+    - Banks are financial institutions that accept deposits from the public and create credit (loans).
+    - **The Process:**
+        1. You deposit money.
+        2. The bank keeps a fraction in reserve.
+        3. The bank lends the rest out to borrowers.
+    - **How they make money:** Banks charge higher interest rates on loans than they pay on deposits.
+- 
+- 
+- ### What is interest?
+    - Interest is the **cost of borrowing money**, or conversely, the income earned from lending (saving) money.
+    - **When you borrow:** You pay back the principal (amount borrowed) plus interest.
+    - **When you save:** The bank pays you interest because they use your money to lend to others.
+    - **Dig Deeper: Compound Interest**
+        - Compound interest is "interest on interest." It causes wealth (or debt) to grow much faster over time.
+- 
+- 
+- ### What is debt?
+    - Debt is **money owed**. It is often used to make large purchases (house, education) that cannot be afforded immediately.
+    - **Follow-up: Is debt bad?**
+        - Debt can be a useful tool if managed responsibly (e.g., investing in education). It becomes problematic when it is excessive or carries high interest rates (like credit card debt).
+- 
+- 
+- ### What is a credit card?
+    - A credit card allows the holder to purchase goods on credit, borrowing money from the card issuer (bank). It is a short-term loan.
+    - If the balance is paid in full each month, usually no interest is charged.
+    - If the balance is carried over, high interest rates are applied.
+    - **Follow-up: What is a debit card?**
+        - A debit card deducts money directly from the user's checking account. It does not involve borrowing.
+- 
+- 
+- ### What is the stock market?
+    - The stock market is where **shares of publicly held companies** are bought and sold.
+    - **Shares (Stocks):** Represent partial ownership (equity) in a company.
+    - Companies sell stock to raise money (capital). Investors buy stock hoping the company will succeed, causing the stock price to rise.
+    - **Follow-up: Why does it go up and down?**
+        - Prices fluctuate based on supply and demand, influenced by company performance, economic conditions, and investor sentiment.
+- 
+- 
+- ### What is inflation?
+    - Inflation is the rate at which the general level of prices for goods and services is rising, and subsequently, the purchasing power of currency is falling.
+    - **Effect:** Your money buys less than it did before.
+    - A small amount of inflation is normal, but high inflation is damaging to the economy.
+- 
+- 
+- ## Critical Thinking and Media Literacy
+- 
+- 
+- ### How do we know what is true?
+    - We determine truth through various methods:
+        - **Evidence:** Facts, data, and observations supporting a claim.
+        - **Logic and Reasoning:** Drawing valid conclusions from evidence.
+        - **The Scientific Method:** Systematic observation, hypothesis testing, and revision.
+        - **Skepticism:** Questioning claims and demanding evidence.
+    - Truth is often provisional; we update our understanding as new evidence emerges.
+- 
+- 
+- ### What is the scientific method?
+    - The scientific method is a process for **systematically investigating phenomena** and acquiring knowledge.
+    - **Steps:**
+        1. **Observation** and Question.
+        2. **Hypothesis:** Formulate a testable explanation.
+        3. **Experiment:** Test the hypothesis.
+        4. **Analysis:** Analyze the data.
+        5. **Conclusion:** Determine if the hypothesis is supported.
+- 
+- 
+- ### What is a cognitive bias?
+    - A cognitive bias is a **systematic error in thinking** that occurs when people process and interpret information.
+    - It is a mental shortcut that can lead to poor decisions and judgments.
+    - **Common Biases:**
+        - **Confirmation Bias:** Favoring information that confirms existing beliefs.
+        - **Anchoring Bias:** Relying too heavily on the first piece of information offered.
+    - Being aware of biases is the first step to mitigating their effects.
+- 
+- 
+- ### What is a logical fallacy?
+    - A logical fallacy is an **error in reasoning** that makes an argument invalid.
+    - **Common Fallacies:**
+        - **Ad Hominem:** Attacking the person instead of the argument.
+        - **Straw Man:** Misrepresenting someone's argument to make it easier to attack.
+        - **False Dichotomy:** Presenting only two options when more exist.
+- 
+- 
+- ### How can I spot "fake news" (Misinformation)?
+    - "Fake news" refers to false or misleading information presented as news.
+    - **How to spot it (Critical Evaluation):**
+        1. **Consider the Source:** Is it reputable?
+        2. **Read Beyond the Headline:** Headlines can be sensationalized (clickbait).
+        3. **Check Supporting Evidence:** Do they link to credible sources?
+        4. **Check Your Biases:** Are you believing it just because you want it to be true?
+        5. **Consult Fact-Checkers.**
+    - **Dig Deeper: Disinformation vs. Misinformation**
+        - **Misinformation:** False information spread unintentionally.
+        - **Disinformation:** False information spread intentionally to deceive.
+- 
+- 
+- ### What is an algorithm?
+    - An algorithm is a **set of rules or instructions** designed to perform a specific task or solve a problem.
+    - In computing, algorithms process data and make decisions automatically (e.g., social media feeds, search results).
+    - **Follow-up: How do algorithms know what I like?**
+        - They analyze your past behavior (what you watch, click, search for) and the behavior of similar users to predict what you are likely to engage with next.
+    - **Dig Deeper: Algorithmic Bias**
+        - If the data used to train algorithms reflects human biases, the algorithm's decisions will also be biased.

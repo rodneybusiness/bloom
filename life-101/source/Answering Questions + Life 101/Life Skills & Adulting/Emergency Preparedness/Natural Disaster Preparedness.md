@@ -1,0 +1,18 @@
+- 72-Hour Kit Essentials
+    - Water and Food
+        - Water calculation::{{1 gallon per person per day × 3 days minimum}}
+        - Water purification backup::{{Purification tablets, filter, or bleach (8 drops per gallon)}}
+        - Food selection::{{Non-perishable, no cooking required, familiar foods}}
+        - Calorie target::{{2,000 calories per person per day}}
+        - Don’t forget::{{Pet food, baby formula, special dietary needs}}
+    - Emergency Supplies Priority
+        - Tier 1 (Survival)::{{Water, food, first aid, medications, flashlight, radio, whistle}}
+        - Tier 2 (Safety/Comfort)::{{Blankets, change of clothes, cash, phone charger, tools}}
+        - Tier 3 (Recovery)::{{Documents, supplies for extended stay, entertainment, comfort items}}
+        - Storage strategy::{{Waterproof container, accessible location, rotate perishables}}
+    - Communication Plan
+        - Out-of-state contact::Local lines jam but {{long-distance may work}}
+        - Meeting places::{{Primary at home}}, {{neighborhood backup}}, {{regional if evacuated}}
+        - School/work plans::Know their {{emergency procedures}} and {{reunification sites}}
+        - Important numbers::Written list since {{phone may be dead}}
+        - 

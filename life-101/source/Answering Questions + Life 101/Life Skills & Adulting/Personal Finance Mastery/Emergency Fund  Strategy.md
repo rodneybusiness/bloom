@@ -1,0 +1,53 @@
+- Emergency Fund Basics 
+    - What is an emergency fund::A {{separate, liquid savings account}} containing {{3-6 months of essential living expenses}} used {{only for true financial emergencies}}
+        - Why it must be separate::Prevents {{psychological temptation to spend}} and creates {{mental barrier for non-emergencies}}
+        - Why it must be liquid::True emergencies {{require immediate access}} without {{penalties or market timing issues}}
+        - What counts as a true emergency::{{Job loss, medical emergency not covered by insurance, critical home repair (roof leak, furnace failure), critical car repair for work transportation, family emergency requiring travel}}
+            - What is NOT an emergency::{{Vacation, sales/deals, regular maintenance, planned expenses, wants, lifestyle upgrades, investment opportunities}}
+        - Calculating Your Emergency Fund Target
+            - Step 1: Calculate monthly essentials::Add up {{rent/mortgage, utilities, groceries, insurance premiums, minimum debt payments, transportation, medications}}
+                - What to exclude from calculation::{{Entertainment, dining out, subscriptions, savings contributions, extra debt payments, discretionary spending}}
+            - Step 2: Determine your multiplier based on situation
+                - 3 months if::{{Dual income, stable jobs, multiple income sources, low fixed expenses, good insurance coverage}}
+                - 6 months if::{{Single income, average job stability, moderate fixed expenses, dependent family members}}
+                - 9-12 months if::{{Freelancer/contractor, commission-based income, high-risk industry, medical conditions, poor insurance}}
+            - Step 3: Adjust for your actual risk factors
+                - Industry volatility assessment::{{Tech/startups = high risk, Government/healthcare = low risk, Retail/hospitality = moderate risk}}
+                - Regional economic factors::{{Single-industry towns = higher risk, Diverse metros = lower risk}}
+                - Personal health considerations::{{Chronic conditions = need larger fund, Good health = standard fund}}
+- Building Your Emergency Fund: The Strategic Order 
+    - Phase 1: Starter emergency fund::{{$1,000}} to cover {{most common emergencies}} and break {{paycheck-to-paycheck cycle}}
+        - Why $1,000 first::Covers {{car repairs, appliance replacement, minor medical bills}} while building habits
+        - How to get $1,000 fast (five ways)::{{Sell items, tax refund, side gig, temporary second job, one-time overtime push}} 
+    - Phase 2: High-interest debt elimination::Pay minimums plus extra on {{credit cards over 15% APR}} before full emergency fund
+        - Why debt before full fund::{{Credit card interest (20-30%) exceeds any savings return (4-5%)}}
+        - Exception to this rule::If {{job loss is imminent}} or {{no access to any credit}}, build fund first
+    - Phase 3: Full emergency fund::Build to your {{calculated 3-6 month target}}
+        - Optimal savings rate::{{20% of gross income}} until funded, then {{redirect to other goals}}
+        - Time to full funding at different rates::{{10% income = 30-60 months, 20% = 15-30 months, 30% = 10-20 months}}
+    - Phase 4: Opportunity fund::After emergency fund, consider {{3-6 months additional}} for {{job transitions, home down payment, investment opportunities}}
+- Where to Keep Your Emergency Fund 
+    - High-yield savings account (best option)::{{4-5% APY}}, {{FDIC insured}}, {{liquid within 1-2 days}}, {{separate from checking}}
+        - Recommended banks and why recommended::{{Marcus, Ally, American Express, Capital One 360, Discover}} offer {{competitive rates with no fees}} 
+        - Why not regular savings::Traditional banks offer {{0.01-0.10% APY}} vs {{4-5% APY}} online
+    - Money market account (alternative)::Similar to HYSA but may offer {{check-writing privileges}} and {{ATM access}}
+    - What about CDs?::{{No - early withdrawal penalties}} defeat emergency access purpose
+    - What about investing it?::{{No - market volatility}} means fund might be {{down 30% when you need it most}}
+    - I Bonds consideration::Can put {{portion (1/3) in I Bonds}} after {{1 year lockup period}} for {{inflation protection}}
+- Using Your Emergency Fund: Decision Framework 
+    - The emergency test questions::Is it {{Unexpected?}} Is it {{Necessary?}} Is it {{Urgent?}}
+        - All three must be YES::If any answer is no, {{find alternative funding or delay}}
+    - Job loss protocol (3 first actions)::Immediately {{cut all non-essential expenses}}, calculate {{monthly burn rate}}, apply for {{unemployment same day}} 
+        - Budget adjustments during job loss::{{Cancel subscriptions, pause retirement contributions, negotiate payment plans, apply for assistance programs}}
+    - Medical emergency protocol::First {{verify insurance coverage}}, ask for {{itemized bills}}, negotiate {{payment plans before using fund}}
+    - Home emergency assessment (3 first actions)::Get {{multiple repair quotes}}, consider {{temporary fixes}}, explore {{insurance claims first}} 
+- Replenishing After Use 
+    - Priority level::Rebuilding emergency fund is {{highest priority after minimum debt payments}}
+    - Rebuild timeline target::{{Within 6-12 months}} to restore protection
+    - Psychological impact::Using fund can feel like {{failure but it’s success}} - the fund {{did its job}}
+- Common Emergency Fund Mistakes 
+    - Keeping it too accessible::Same bank as checking makes {{transfers too easy for non-emergencies}}
+    - Not adjusting for life changes::{{Marriage, kids, home purchase}} all require {{recalculating fund size}}
+    - Counting home equity or credit cards::These are {{debt, not emergency funds}} and may be {{unavailable when needed}}
+    - Investing before emergency fund::Market gains mean nothing if {{forced to sell at loss during emergency}}
+    - 

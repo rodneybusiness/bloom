@@ -1,0 +1,20 @@
+- Physical Security Layers
+    - Perimeter Security
+        - Lighting strategy::Motion lights at {{all entry points}}, photocell lights for {{constant illumination}}
+        - Landscaping security::Trim bushes below {{3 feet}}, trees above {{6 feet}}, thorny plants under windows
+        - Fence considerations::{{See-through better than solid}}, {{locked gates}}, {{anti-climb measures}}
+    - Entry Point Hardening
+        - Door security
+            - Deadbolt requirements::{{1-inch throw minimum}}, {{grade 1 or 2}}, {{reinforced strike plate}}
+            - Door reinforcement::{{3-inch screws in hinges and strike plate}}, {{door armor kit $70-150}}
+            - Sliding door security::{{Charlie bar}}, {{pin lock}}, {{security film}}
+        - Window security
+            - Lock types::{{Pin locks for double-hung}}, {{sliding locks for horizontal}}
+            - Security film::{{8-14 mil thick}} makes breaking {{loud and time-consuming}}
+            - Window sensors::Part of alarm or {{standalone glass break detectors}}
+    - Security System Options
+        - DIY vs Professional::DIY saves {{$20-40/month}} but you handle {{installation and issues}}
+        - Monitoring types::{{Professional 24/7}}, {{self-monitoring}}, {{local alarm only}}
+        - Response times::Professional monitoring gets {{police response 7-10 minutes average}}
+        - Smart integration::Modern systems include {{cameras, smart locks, environmental monitoring}}
+        - 
