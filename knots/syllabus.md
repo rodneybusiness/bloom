@@ -11,15 +11,15 @@
 After completing this course, you will be able to:
 
 ### 1. The Physics — why a knot holds, and why it breaks
-- [ ] Able to explain, using friction and wrap angle (the capstan relationship), why holding power grows *exponentially* rather than linearly with the number of turns — and use that to predict which of two arrangements will hold better before tying either
-- [ ] Able to explain where and why a loaded knot breaks (curvature, differential fiber strain, the entry point), state the typical strength-loss range for knotted rope, and rank two unfamiliar knots by likely strength from their geometry alone
-- [ ] Able to state the three properties every knot trades off — **security, strength, releasability** — and diagnose which one any given knot was optimized for, including the ones you already use without thinking
+- [x] Able to explain, using friction and wrap angle (the capstan relationship), why holding power grows *exponentially* rather than linearly with the number of turns — and use that to predict which of two arrangements will hold better before tying either
+- [x] Able to explain where and why a loaded knot breaks (curvature, differential fiber strain, the entry point), state the typical strength-loss range for knotted rope, and rank two unfamiliar knots by likely strength from their geometry alone
+- [x] Able to state the three properties every knot trades off — **security, strength, releasability** — and diagnose which one any given knot was optimized for, including the ones you already use without thinking
 
 ### 2. The Grammar — elements, families, and ancestry
-- [ ] Able to name and identify the structural elements (standing part, working end, bight, loop, turn, round turn, half hitch, nip) in any knot, tied or diagrammed
-- [ ] Able to classify any knot into its family — **stopper, bend, hitch, loop, binding, friction hitch** — from its function, and state what question each family answers
-- [ ] Able to trace the ancestry of the common knots back to two roots (the overhand and the half hitch), and explain why so many knots are variations on a very small number of moves
-- [ ] Able to explain why handedness (chirality) changes a knot's behavior — using reef vs. granny as the worked case — and check your own tying for it
+- [x] Able to name and identify the structural elements (standing part, working end, bight, loop, turn, round turn, half hitch, nip) in any knot, tied or diagrammed
+- [x] Able to classify any knot into its family — **stopper, bend, hitch, loop, binding, friction hitch** — from its function, and state what question each family answers
+- [x] Able to trace the ancestry of the common knots back to two roots (the overhand and the half hitch), and explain why so many knots are variations on a very small number of moves
+- [x] Able to explain why handedness (chirality) changes a knot's behavior — using reef vs. granny as the worked case — and check your own tying for it
 
 ### 3. Judgment — failure modes and when not to trust a knot
 - [ ] Able to describe the main failure modes (slipping, capsizing, jamming, ring-loading, cyclic-loading loosening) and name a knot that is characteristically vulnerable to each
@@ -51,3 +51,4 @@ After completing this course, you will be able to:
 | Document | Mastery items covered | Date |
 |----------|----------------------|------|
 | 01.md | 1-1, 1-2, 1-3, 2-1 (partial) | 2026-08-12 |
+| 02.md | 2-1, 2-2, 2-3, 2-4 | 2026-08-12 |
