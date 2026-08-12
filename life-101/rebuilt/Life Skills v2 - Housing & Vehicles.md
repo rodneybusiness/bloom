@@ -1,8 +1,11 @@
 - ## Home Maintenance & Systems
     - HVAC
         - HVAC filter replacement frequency::Every {{30}} days for 1-inch filters, every {{90}} days for 4-inch filters — and monthly during heavy-use season.
+            - HVAC filter intervals — why thickness changes the number::A filter fails by loading up with particulate, and a 4-inch filter holds roughly four times the surface area of a 1-inch one, so it takes about three times as long to reach the same restriction. The interval tracks dust load, which is why heavy-use season and pets shorten it.
         - Dirty HVAC filter — what it causes::1) System strain 2) higher energy bills 3) premature system failure. The cheapest part in the system protects the most expensive one.
+            - Dirty filter — the actual failure chain::Restricted airflow means less heat exchange, so the system runs longer for the same result, which raises the bill and the wear. In cooling, insufficient airflow can drop the coil below freezing and ice it, and in heating it can overheat the exchanger — both routes end at the most expensive component.
         - HVAC filter MERV ratings::MERV {{8}} for basic filtration, MERV {{11}} for allergies, MERV {{13}} the residential maximum — higher ratings restrict airflow.
+            - MERV ratings — why higher is not simply better::A finer filter catches smaller particles by having tighter pores, which also means more resistance to airflow. Residential blowers are sized for a specific static pressure, so past roughly MERV 13 you starve the system and trade air quality for compressor strain.
         - HVAC professional service schedule::Annually minimum — ideally twice: {{spring for AC, fall for heat}}.
         - HVAC professional service — what a real visit includes::1) Clean coils 2) check refrigerant 3) test capacitors 4) verify airflow 5) check electrical connections.
         - HVAC DIY maintenance tasks::1) Keep a 2-foot clearance around the outdoor unit 2) clean the condensate drain line quarterly 3) check thermostat batteries.
@@ -10,12 +13,14 @@
         - HVAC repair or replace — the $5,000 rule::Multiply the system's {{age in years}} by the {{repair quote}}: over $5,000, replace; under, repair. Example: 12-year-old unit, $500 repair — 12 x 500 = $6,000, so replace.
         - HVAC $5,000 rule — why multiply by age::Age is a proxy for how many more repairs are coming and how little life the repair buys. The same $500 repair is a good deal on a 4-year-old unit and a bad one on a 15-year-old unit.
         - The 50% Rule (repair vs replace)::If a repair costs more than half of {{replacement cost}}, replace instead — the generic screen for any home system or appliance.
+            - The 50% Rule — why half is the break point::At half of replacement cost you are paying half price for a machine that already has most of its life spent and no warranty, while the full price buys a full lifespan and a warranty. The ratio is a proxy for cost-per-remaining-year, which is the quantity that actually matters.
         - $5,000 rule vs 50% rule — when each applies::The 50% rule is the first-pass screen for any appliance or component; the $5,000 rule is the HVAC-specific refinement because it also prices in age. For HVAC, let the $5,000 rule decide; for everything else, use 50%.
         - R-22 refrigerant — why it tips HVAC toward replace::R-22 production was phased out in the US in {{2020}}, so recharging a leaking R-22 system runs on expensive reclaimed supply — a major R-22 repair usually means replace. #us
     - Plumbing
         - Water heater annual flush procedure::1) Turn off power (electric) or set gas to pilot 2) attach a hose to the drain valve 3) open the valve and drain the tank 4) flush until the water runs clear.
         - Water heater flush — why bother::Removes {{sediment buildup}} that reduces efficiency and shortens tank lifespan.
         - Water heater temperature setting::{{120°F}} — the DOE-recommended setting: saves 6-10% on water heating vs 140°F, and 140°F water can cause a third-degree burn in about 5 seconds. #safety
+            - Water heater 120°F — why that specific number::It is the point where two curves cross: scald risk rises steeply above it (140°F burns skin in about five seconds) while Legionella suppression improves above it. 120 is the compromise, which is why the safer answer is to store hot and mix down at the tap.
             - Water heater temperature — the Legionella counterpoint::CDC and ASHRAE favor storing at 135-140°F to suppress Legionella bacteria. If you store hotter, pair it with an anti-scald mixing valve at the outlets so the tap still delivers ~120°F. #safety
         - Water heater anode rod::A sacrificial rod that corrodes so the tank doesn't — replace every {{3-5}} years to prevent tank corrosion.
         - Water heater lifespan::Tank {{8-12}} years; tankless {{20+}} years.
@@ -25,6 +30,7 @@
         - Finding silent water leaks::1) Watch the water bill for unexplained increases 2) check the meter with all water off — movement means a leak 3) food coloring in the toilet tank — color in the bowl means a leaking flapper.
     - Roof and gutters
         - Gutter cleaning schedule::Twice yearly minimum ({{spring and fall}}); quarterly with many trees overhead.
+            - Gutter cleaning — why twice yearly and why it matters so much::Spring and fall bracket the two debris seasons. The stakes are outsized because a blocked gutter redirects the entire roof's water to the foundation, converting a $150 chore into grading, waterproofing, or structural repair — the classic asymmetric maintenance bet.
         - Clogged gutters — the damage chain::1) Foundation damage 2) roof leaks 3) fascia rot 4) ice dams. Water always finds the most expensive path.
         - Gutter cleaning — DIY vs professional::DIY saves {{$150-300}} per cleaning, but ladder work is genuinely dangerous without proper equipment.
         - Roof inspection checklist::1) Missing or damaged shingles 2) flashing integrity 3) moss or algae growth 4) water stains in the attic.
@@ -66,6 +72,7 @@
     - Refinancing
         - When to consider refinancing::A rate drop of about {{1 percentage point}} is the classic trigger (0.5-0.75 can work when closing costs are low) — AND you plan to stay past the break-even point.
         - Refinance break-even formula::{{Closing costs divided by monthly savings}} = months to break even. Stay longer than that number or the refinance loses money.
+            - Refinance break-even — why the formula is just division::Closing costs are paid once and savings arrive monthly, so the only question is how many months of savings repay the one-time cost. Anything past that month is profit; anything before it is a loss you funded to feel like you were saving.
         - Refinance closing costs::{{2-6%}} of the loan amount — the reason a small rate drop can still be a bad deal.
         - Refinance term trap::Rolling 25 remaining years into a fresh 30-year loan can raise total interest even at a lower rate — match or shorten the term, or compare lifetime totals before signing.
     - Property tax appeals
@@ -90,6 +97,7 @@
         - Credit score targets for a mortgage::{{740+}} for the best rates; floors: {{580}} FHA, {{620}} conventional. #us
     - Rent vs buy
         - The 5% rule (rent vs buy)::If annual rent is under 5% of the {{home's purchase price}}, renting is generally the better deal.
+            - The 5% rule — where the 5% comes from::It is the rough annual cost of owning that is not building equity: about 1% maintenance, 1-2% property tax, and roughly 3-4% cost of capital, minus expected appreciation. If rent is below that burn rate, owning has no cost advantage — only the non-financial reasons remain.
         - Buying break-even timeline::{{5-7}} years — how long appreciation and principal paydown typically take to overcome transaction costs.
         - Hidden costs of ownership::Maintenance ~{{1%}} of home value per year, property tax {{1-2%}}, insurance {{0.5-1%}} — plus HOA and higher utilities. #high-frequency
         - Down payment opportunity cost::The cash could earn {{7-10%}} in the market vs {{3-4%}} typical home appreciation — buying is a lifestyle-plus-leverage decision, not automatically the better investment.
@@ -103,6 +111,7 @@
         - Needs vs wants framework (house hunting)::Write must-haves vs nice-to-haves before touring; a house should cover at least {{80%}} of the needs list.
         - Location research factors::1) Schools (resale value even without kids) 2) crime rates 3) commute 4) future development 5) flood zones.
         - The 10-year rule (buying)::Buy as if you'll stay {{10 years}} even if you plan fewer — plans change faster than houses sell.
+            - The 10-year rule — why plan for longer than you intend::Transaction costs run roughly 8-10% round trip and are paid regardless of what happens to the price, so a short hold has to overcome a large fixed loss. Ten years is the horizon where ordinary appreciation reliably clears that hurdle.
         - Competing in multiple offers::1) Escalation clause 2) larger earnest money 3) flexible closing date 4) cash if possible 5) waived contingencies — effective but transfers real risk to you. (Personal "love letters" to sellers are now widely discouraged: they invite fair-housing liability.) And price isn't the only lever: closing date, repairs, and included items move deals too.
     - Step 3 — The offer
         - Earnest money::A deposit of {{1-3%}} of offer price showing serious intent — applied to the down payment or closing at the end.
@@ -131,10 +140,12 @@
         - Points break-even::{{Point cost divided by monthly savings}} = months to break even. Buy points only if you'll stay longer than that — with cash that isn't the emergency fund.
         - PMI::Private mortgage insurance on conventional loans under {{20%}} down — {{0.5-1.5%}} of the loan annually; it protects the lender, not you.
         - PMI removal::By request at {{20%}} equity, automatic at {{22%}}. #us
+            - PMI removal — why 20% and 22% differ::Twenty percent is the equity level at which the lender's risk falls enough to drop the insurance, but you must request it. Twenty-two is where federal law forces automatic termination — the two-point gap exists because nobody removes it for you until they are required to. #us
         - FHA MIP vs conventional PMI::FHA's mortgage insurance lasts the {{life of the loan}} if under 10% down ({{11 years}} at 10%+) — a standing reason to refinance out of FHA once you hit 20% equity. #us
 - ## Renting & Tenant Rights
     - Finding and affording
         - The 30% rule (rent)::Spend no more than 30% of {{gross income}} on rent — the traditional benchmark; the sharper test is under 30% of net including utilities, parking, and renter's insurance.
+            - The 30% rule — why 30 and why net is the better test::Thirty percent leaves enough of a typical income for the other fixed costs plus savings. It fails as a gross-income rule at high tax rates and in high-cost cities, which is why the sharper version uses take-home and includes the costs that ride along with the unit.
         - 30% rule — high-cost-city reality::{{40-50%}} may be unavoidable in expensive metros — workable, but only with deliberate budget cuts elsewhere.
         - True rental affordability::Rent + utilities + parking + required insurance under {{30% of net}} (take-home) income — and budget the one-time hits too: moving, deposits, utility setup, pet fees.
         - Rental application package::Photo ID, {{3 months}} of pay stubs, 2-3 months of bank statements, employment letter, {{3}} references, previous landlord contact — prepared in advance.
@@ -178,12 +189,14 @@
     - Depreciation and total cost
         - New car depreciation curve::{{20%}} gone driving off the lot, {{40%}} by year 2, {{60%}} by year 5 — the steepest cost of new-car ownership is invisible.
         - The used-car sweet spot::{{2-4}} years old — {{60-80%}} of the car's life remaining for {{40-60%}} of the new price. Someone else paid the cliff.
+            - The used-car sweet spot — why 2-4 years::Depreciation is steepest in the first two years and flattens after, while modern powertrains routinely last 200,000 miles. Buying after the cliff and before the wear captures the gap between how fast a car loses value and how slowly it loses function.
         - Certified Pre-Owned value::Costs {{$1,000-3,000}} more than equivalent used, buying a manufacturer warranty and inspection.
         - Total cost of ownership components::Purchase price + interest + insurance + gas + maintenance + repairs, minus resale value.
         - 5-year TCO, new vs 3-year-old::Same model: new ~{{$40,000}} over five years vs ~{{$25,000}} for the 3-year-old — and new carries higher insurance and registration while used carries more repairs. Price the whole branch, not the sticker.
         - When buying new makes sense::1) Keeping it 10+ years 2) needed features only in new 3) 0% financing available 4) reliability anxiety you'd genuinely pay to remove — then buy end of model year, unpopular colors, one trim below the top.
     - Financing vs cash
         - The 4% rule (car financing)::Loan rate under 4%: {{finance and keep the cash invested}}. Above: {{pay cash}}. The spread does the deciding.
+            - The 4% rule — why 4% and why it moves::It is a rate-spread test, not a magic number: finance when the loan costs less than your money reliably earns elsewhere, pay cash when it costs more. The threshold rises and falls with expected returns, so re-derive it rather than memorizing 4.
         - Car financing opportunity cost — both branches::$30,000 cash can earn {{7-10%}} in the market while a cheap loan costs {{3-5%}} — at a low rate you're being paid to keep your money.
         - Credit score and auto loan rates::{{750+}} gets the best rates; below {{650}} can add 5-10 points to the rate.
         - Maximum auto loan terms::{{60}} months new, {{48}} months used, {{36}} months older used — longer is financing a depreciating asset into its repair years.
@@ -227,6 +240,7 @@
         - Correct tire pressure source::The {{driver door jamb}} sticker — NOT the sidewall number, which is the tire's maximum, not the car's spec.
         - Tire pressure vs temperature::Pressure drops about {{1 PSI per 10°F}} of temperature drop — the first cold snap of fall lights up TPMS warnings everywhere.
         - Tire pressure vs fuel economy::About {{0.2%}} lost per 1 PSI of under-inflation (DOE figure) — modest for fuel; the bigger stakes are tire wear and handling.
+            - Tire pressure — why under-inflation costs anything at all::A soft tire flexes more, and that flexing turns motion into heat instead of forward travel. The same flexing overheats the sidewall, which is why the wear and blowout risk are the larger consequence and the fuel penalty is modest.
         - Tire rotation::Every {{5,000-7,500}} miles for even wear — front-to-back for same-size tires, X-pattern for non-directional, side-to-side for directional.
         - The penny test::Penny in the groove, Lincoln's head down — if you can see his {{entire head}}, tread is at 2/32 inch or less: replace.
         - Tread depth thresholds::New ~{{10/32 inch}}; replace at {{2/32}}; consider replacing at {{4/32}} if you drive in rain or snow.

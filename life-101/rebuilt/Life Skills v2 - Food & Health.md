@@ -18,14 +18,17 @@
     - Supplementation reality check::Most people eating a varied diet need only {{vitamin D}}, plus {{B12 if vegan}}
     - Daily hydration rule of thumb::{{Half your body weight in ounces}} — a folk baseline, not hard science; thirst and urine color are the real gauges
     - Hydration timing optimization::{{16 oz on waking}}, {{8 oz before meals}}, stop {{2 hours before bed}}
+        - The hydration heuristic — its honest weakness::The popular formulas (half your body weight in ounces, eight glasses a day) have no strong evidential basis. A large share of intake comes from food, and thirst regulates well in healthy adults. Contested: treat the numbers as loose prompts, not targets, and pay attention in heat, illness, and hard exercise where thirst lags need. #theory
     - Urine color as hydration gauge::Aim for {{pale yellow}} — dark means dehydrated, fully clear means overhydrated
 - ## Food Safety — Temperatures and Times
     - Scope note (not a card) — all temperatures in this section are verified against USDA/FSIS guidance as of August 2026. The old 2-2-2 rule is retired below; do not resurrect it.
     - The Danger Zone (food safety)::{{40-140°F}}, where bacteria can double every {{20 minutes}} #safety
+        - The Danger Zone — why 40 and 140 specifically::Below about 40°F bacterial reproduction slows to near-stalled; above about 140°F proteins denature faster than the bacteria can divide. Between them, conditions are near-optimal — which is why the rule is about time spent in the band, not about whether food looks or smells wrong. #safety
     - Room temperature limit for perishable food::{{2 hours}} maximum — only {{1 hour}} if the ambient temperature is above 90°F #safety
     - Safe Internal Temperatures
         - Ground beef, pork, or lamb — safe internal temperature::{{160°F}} (USDA) #safety
         - Ground poultry (chicken or turkey) — safe internal temperature::{{165°F}} (USDA) — ground poultry is NOT covered by the ground-meat number #safety
+            - Why ground poultry needs 165°F when other ground meat needs 160::The target is set by the specific pathogens each meat commonly carries and the temperature at which they are reliably killed — poultry's Salmonella and Campylobacter require the higher number. Same grinding problem, different organisms, different threshold. #safety
         - Ground meats — the v1 card's unsafe error::The old card taught one temperature for all ground meat; ground beef/pork/lamb need {{160°F}} but ground poultry needs {{165°F}} — two separate numbers, and the lower one undercooks poultry #safety
         - Ground meat — why it needs a higher temperature than whole cuts::Grinding mixes surface bacteria {{throughout the interior}}, so the very center must reach a kill temperature #safety
         - Whole poultry — safe internal temperature::{{165°F}}, including the {{stuffing}} if present #safety
@@ -37,6 +40,7 @@
     - Cooling and Leftovers (replaces the old 2-2-2 rule)
         - The 2-2-2 rule — status::RETIRED — it contradicted the cooling protocol and the storage table in the same domain. Its replacements: 1) room temp max 2 hours (1 hour above 90°F) 2) two-stage cooling (140 to 70°F within 2 hours, then 70 to 40°F within 4 more) 3) refrigerated cooked leftovers keep 3-4 days 4) reheat to 165°F #safety
         - Two-stage cooling — stage 1::Cool cooked food from 140°F down to {{70°F within 2 hours}} #safety
+            - Two-stage cooling — why the curve has two breakpoints::The first stage is urgent because 140 to 70°F crosses the fastest-growth band, so it gets the tight two-hour limit. Below 70°F growth has already slowed considerably, so the second stage can take four hours. The curve matches the bacterial growth rate rather than dividing the time evenly. #safety
         - Two-stage cooling — stage 2::Continue from 70°F down to {{40°F within 4 more hours}} — 6 hours maximum start to finish #safety
         - Cooling speed tricks::{{Shallow containers}}, small portions, an {{ice bath}}, stirring — and yes, hot food can go straight into the fridge in shallow containers #safety
         - Cooked leftovers — refrigerator life::{{3-4 days}}; freeze anything you will not eat by then #safety
@@ -159,9 +163,11 @@
     - Health plan true cost::{{Annual premiums + deductible + expected copays}}, sanity-checked against the {{out-of-pocket maximum}} as the worst case
 - ## Health Insurance — Choosing a Plan
     - High-utilizer plan rule::Expecting {{over $5,000}} in care (chronic conditions, planned procedures) — take the {{low deductible}}, even at a higher premium #us
+        - The $5,000 utilization threshold — why it flips there::Below the crossover, the premium savings of a high-deductible plan exceed the extra out-of-pocket you will actually incur. Above it, you will hit the deductible regardless, so the higher premium buys real coverage instead of insurance you never reach. Re-derive it from your own plan's numbers rather than memorizing 5,000. #us
     - Low-utilizer plan rule::Expecting {{under $1,000}} in care (young and healthy) — the {{HDHP + HSA}} combination usually wins #us
     - HDHP + HSA — why the combo wins for the healthy::Premium savings plus the HSA's {{triple tax advantage}} compound during the years you barely use care #us
     - Plan break-even analysis::Compare the {{annual premium difference}} between two plans to the {{deductible difference}} — the premium gap buys you a smaller deductible or it doesn't
+        - The plan break-even — why it is just two subtractions::A premium difference is certain and a deductible difference is contingent, so the comparison is whether the guaranteed extra premium buys more than the contingent extra exposure. Everything else in plan selection is noise until those two numbers are on the table.
     - Pre-enrollment network check::Verify {{your specific doctors are in-network}} before enrolling — directories go stale, so call the office and ask
 - ## Health Insurance — Networks, Authorizations, and Appeals
     - Out-of-network cost multiple::{{2-10x more}}, often with a {{separate, higher deductible}} #us
@@ -184,6 +190,7 @@
 - ## Preventive Care and Screenings
     - ACA preventive care rule::In-network preventive services are covered at {{100%, no cost sharing}} — physicals, screenings, and CDC-recommended vaccines (as of 2026) #us #volatile
     - Preventive coverage — the coding catch::The visit must be {{coded as preventive}}, not diagnostic — mention a symptom and the same visit can become billable, so ask how it will be coded before and during #us
+        - The preventive-coding catch — why a code changes the price::Insurers are required to cover certain preventive services at no cost-sharing, and the billing code is what determines whether a visit legally counts as one. Mentioning a symptom can convert a screening into a diagnostic visit, which falls under your deductible — the medicine is identical and the code is not. #us
     - No-cost annual screenings::{{Blood pressure, cholesterol, diabetes, depression, STIs}} at the annual physical #us
     - Covered immunizations::{{All CDC-recommended vaccines}} — flu, COVID, and shingles (50+) among them #us
     - Women's preventive coverage::{{Birth control, well-woman visits, breastfeeding support}} #us
@@ -200,6 +207,7 @@
     - Generic drug savings::{{80-85% cheaper}} on average, with the {{identical active ingredient}} (FDA)
     - Generic drug standards::Generics must meet the {{same FDA standards}} for safety, strength, and efficacy as the brand
     - Pharmacy price arbitrage::The same prescription varies {{up to 10x}} between pharmacies — call around or use a comparison tool before filling
+        - Pharmacy price variance — why the same drug costs 10x more across town::Cash prices are set independently by each pharmacy and by pharmacy benefit manager contracts that are not public, so there is no single market price and no mechanism forcing convergence. Prices vary because nothing makes them agree, which is exactly why comparison works. #us
     - Prescription discount programs::{{GoodRx, pharmacy clubs, manufacturer coupons}} — sometimes beat your insurance price, so ask the counter for both prices
     - 90-day supply economics::Often {{cheaper per dose}}, and {{one copay instead of three}}
     - Mail-order pharmacy::Usually {{20-30% cheaper}} for maintenance medications
@@ -234,6 +242,22 @@
     - Therapy session cadence::{{Weekly at first}}, then biweekly, then {{monthly maintenance}}
     - Evaluating therapist fit::Give it {{6-8 sessions}} before judging whether it works
     - When to switch therapists::{{No progress after 3 months}}, not feeling heard, or {{boundary issues}}
+- ## Aging Parents and Caregiving
+    - The most expensive misconception in elder care::That Medicare pays for long-term care. It does not. Medicare covers short-term skilled nursing after a qualifying hospital stay — up to 100 days, with cost-sharing after day 20 — and does not cover custodial care, which is help with bathing, dressing, eating, and toileting. That is the care most people actually need, and it is paid privately or by Medicaid. #us #volatile
+    - Who actually pays for long-term care in the US::Private savings first, then long-term care insurance if it exists, then Medicaid once assets are spent down below the state's threshold. Medicaid is the country's real long-term care program, and it is means-tested by design. #us #volatile
+    - Rough national median costs of care (2025 survey data)::In-home aide and assisted living each land in the mid-five-figures to roughly $70,000-plus a year; memory care runs meaningfully higher; a semi-private nursing home room is around $115,000 a year and a private room around $130,000. Costs vary enormously by state — coastal and urban markets run well above these. #us #volatile
+    - Why to have the conversation before a crisis::After a stroke or a fall, decisions get made in days by whoever is in the room, usually without the documents and without knowing what the person would have wanted. Every good option in elder care requires lead time, and a crisis is precisely when there is none.
+    - How to open the conversation with a parent who does not want to have it::Ask about their wishes rather than their decline, and make it reciprocal — "I'm getting my own documents in order, and I realized I don't know what you'd want." Anchoring it to your own planning removes the implication that you think they are failing.
+    - The document set to locate while everyone is healthy::Advance directive, healthcare proxy or medical power of attorney, financial power of attorney, will and any trust, insurance policies including any long-term care policy, a current medication list, the provider list, and account access. Knowing they exist is not enough — you need to know where they physically are. #us
+    - Why the financial power of attorney is the one people forget::Without it, if a parent becomes unable to manage money, no one can act for them without going to court for a conservatorship — which is slow, public, expensive, and avoidable with one signed document beforehand. #us
+    - The levels of care, from least to most intensive::1) In-home help (a few hours a week to full-time) 2) adult day programs 3) assisted living (housing plus help with daily activities) 4) memory care (secured, dementia-specific staffing) 5) skilled nursing (medical care around the clock). Most families move up this ladder later than they should.
+    - What a geriatric care manager does, and when one is worth it::A licensed professional who assesses needs, navigates local options, and coordinates care — typically paid hourly. Worth it when you live far away, when the situation is medically complex, or when siblings disagree, because they convert an argument into an assessment.
+    - The warning signs that independent living is failing::Unopened mail and unpaid bills, expired or spoiled food, weight loss, new dents in the car, missed medications, wearing the same clothes repeatedly, and withdrawal from things they used to do. Any two together warrant a real conversation.
+    - Why caregiver burnout is a safety issue and not a feelings issue::An exhausted caregiver makes medication errors, misses warning signs, and eventually has their own health event — at which point there are two people needing care. Respite is maintenance on the caregiver, and it is Pattern 1 applied to a person. #safety
+    - What respite care actually is::Short-term relief — a few hours a week, an adult day program, or a brief facility stay — specifically so the primary caregiver can rest. Many people learn it exists only after they are already past the point of needing it.
+    - The sandwich-generation squeeze, stated plainly::Supporting aging parents and dependent children at once, usually during peak earning years that are also peak retirement-saving years. The failure mode is funding everyone else and quietly stopping your own retirement contributions — which converts one generation's crisis into the next one's. #us
+    - The one thing to do this month if all of this feels far off::Find out whether your parents have an advance directive, a healthcare proxy, and a financial power of attorney, and where they are kept. That single question is most of the value, and it costs one phone call. #us
+
 - ## Mental Health Crisis Protocol
     - 988 — the three access channels::{{Call}} 988, {{text}} 988, or chat at 988lifeline.org — 24/7, free, confidential #safety #us
     - 988 — veterans and Spanish speakers::Veterans {{press 1}} (or text 838255); Spanish speakers {{press 2}} or text AYUDA #safety #us

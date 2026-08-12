@@ -1,6 +1,7 @@
 - ## Communication Fundamentals
     - Active Listening — the RASA Model
         - RASA listening model — the four steps in order::1) Receive, 2) Appreciate, 3) Summarize, 4) Ask
+            - RASA — why summarizing is the load-bearing step::Receiving and appreciating can be faked, but summarizing cannot — you can only restate what you actually understood, so it forces real attention and simultaneously proves it to the speaker. Most people feel heard at the moment they hear their own point returned accurately.
         - RASA listening — Receive::Give {{full attention}} — eye contact, open body language
         - RASA listening — Appreciate::Show engagement with {{nods, "mm-hmm," and facial expressions}}
         - RASA listening — Summarize::{{Paraphrase back}} what you heard before adding anything of your own
@@ -23,6 +24,7 @@
         - Difficult conversation — moving to solutions::"How can we…" — never "You should…"
     - Difficult Conversations — Named Failure Modes
         - Conflict failure mode "kitchen sinking"::Bringing up {{multiple issues at once}} — one issue per conversation
+            - Kitchen sinking — why it reliably ends the conversation::Multiple grievances at once make the other person's position indefensible, so they stop problem-solving and start defending. It also destroys the possibility of resolution, since no single issue can be closed. One issue is not politeness; it is the only structure that can produce an outcome.
         - Conflict failure mode "character attack"::Criticizing {{who they are}} instead of the {{specific behavior}}
         - Conflict failure mode "mind reading"::Assuming you know {{their intentions}} instead of asking
         - Conflict failure mode "ultimatum"::Issuing one you are not truly {{prepared to follow through}} on
@@ -40,6 +42,7 @@
         - Time boundary — commitment capacity::Saying {{no to preserve energy}} is a legitimate reason, not an excuse
     - The Boundary Formula
         - Boundary Formula — the four steps in order::1) State the boundary, 2) explain briefly (optional), 3) offer an alternative if appropriate, 4) enforce the consequence if violated
+            - The Boundary Formula — why the consequence is the whole thing::The first three steps communicate; only the fourth changes anything. A boundary is defined by what happens when it is crossed, so an unenforced boundary trains the other person that the statement is negotiable — which is worse than never stating it.
         - Boundary Formula step 1::State the boundary ("I need…" / "I'm not comfortable with…")
         - Boundary Formula step 2::Explain briefly — {{one sentence}} of reason, and even that is optional
         - Boundary Formula step 3::Offer an alternative — suggest a {{compromise}} if appropriate
@@ -53,6 +56,7 @@
     - Adult Friendship Mechanics
         - The friendship equation::{{Proximity + repeated interaction + vulnerability}}
         - Hours-to-friendship thresholds::About {{50 hours}} for casual friend, {{90 hours}} for friend, {{200+ hours}} for close friend
+            - Friendship hours — why time is the mechanism rather than affinity::Closeness is built by accumulated shared context and repeated low-stakes disclosure, and both are produced by hours rather than by intensity. This is why proximity predicts friendship so strongly, and why adult friendships fade without anything going wrong — the hours simply stop.
         - Friendship maintenance interval::Contact every {{2-4 weeks}} to maintain closeness
         - Best environments for making adult friends::{{Repeated scheduled activities}} — classes, clubs, leagues
         - Adult friendship initiative rule::You must {{make the first moves}} — adulthood supplies no automatic repeated contact
@@ -83,6 +87,7 @@
         - Big Five compatibility — Lifestyle::{{Social needs, cleanliness, work-life balance}}
     - The Magic Ratio (Gottman)
         - Gottman's magic ratio::{{5 positive interactions}} for every {{1 negative}} during conflict — the balance that distinguishes stable couples
+            - The 5:1 ratio — why negatives need outnumbering::Negative interactions carry more psychological weight and are remembered longer than positive ones of equal size, so parity feels like decline from the inside. The ratio is a correction for that asymmetry, not a target for cheerfulness.
         - The 5:1 rule — what domain it belongs to::Relationship conflict — Gottman's positive-to-negative interaction ratio in stable couples
         - Gottman's magic ratio — evidence status::Well-supported observational research — Gottman and Levenson's longitudinal studies of couples predicted divorce with high accuracy from this balance; correlational, but among the best-replicated findings in relationship science
         - Magic ratio — what counts as positive::{{Appreciation, affection, humor, interest, agreement}}
@@ -162,6 +167,7 @@
         - Safe small-talk topics::{{Local events, weather, sports}} — safer than politics
         - Small-talk compliments::Genuine appreciation for {{clothing or accessories}} — things they chose, not things they are
         - The FORD method (small talk)::{{Family, Occupation, Recreation, Dreams}} — four topics that always have material
+            - FORD — why these four topics::Each is open-ended, near-universal, and low-stakes, so anyone can answer without disclosing more than they want. They also ascend naturally in intimacy from Family to Dreams, letting a conversation deepen only as fast as both people allow.
         - Small-talk open questions (verbatim)::"What's that like?" and "How did you get into that?"
         - The small-talk pivot::Acknowledge what they said, then {{transition to a related topic}}
         - Small-talk exit script (verbatim)::"Excuse me, I need to [bathroom/drink/find someone]. Great talking!"
@@ -191,6 +197,7 @@
         - System rollout weeks 5-6::{{Refine}} — eliminate the unnecessary, automate the repeatable
         - System rollout weeks 7-8::{{Maintain}} — establish a review rhythm, adjust as needed
         - Productivity system success indicator::The system feels {{automatic after about 8 weeks}}
+            - The 8-week mark — why habits stop needing effort around then::Repetition in a stable context gradually shifts control from deliberate decision to automatic cue-response, and the curve flattens somewhere around two months for most everyday behaviors. Contested: the popular single number is an average of a wide range — some habits take far longer, and complexity is the main driver. #theory
 - ## Habit Formation Science
     - The Habit Loop
         - The habit loop — three parts in order::1) Cue, 2) Routine, 3) Reward
@@ -201,17 +208,20 @@
         - Habit rewards — timing::{{Immediate}} beats delayed — the loop learns from what happens now, not from benefits months away
     - Building Strategies
         - The 2-minute rule (habits)::Start any new habit at 2 minutes or less — build the consistency first, scale the size later
+            - The 2-minute rule — why shrinking the size works::The barrier to a new habit is starting, not sustaining, and resistance scales with the anticipated size of the task. Shrinking the commitment below the resistance threshold lets the behavior happen at all, and the behavior is what gets encoded — the duration can grow later.
         - Habit growth rate::Once consistent, increase by about {{10% per week}} — never 100% at once
         - Habit stacking::Attach the new habit to an {{existing strong habit}}
         - Habit stacking formula (verbatim template)::"After [existing habit], I will [new habit]."
         - Habit stacking example::After morning coffee, write for 2 minutes
         - Environment design (habits)::Make good habits {{obvious and easy}}; make bad habits {{invisible and hard}}
+            - Environment design — why it beats motivation::Motivation fluctuates with sleep, stress, and mood, so any plan requiring it fails on precisely the worst days. Friction does not fluctuate: making a behavior two steps easier or harder changes the rate every day, including the days you have nothing left.
         - Environment design examples::{{Gym clothes visible, healthy food at eye level, phone in another room}}
         - Habit tracking — why it works::Visual progress is an {{extra reward plus accountability}}
         - Habit tracking options::{{Calendar X's, habit app, journal, accountability partner}}
     - Named Failure Modes
         - Habit failure mode "all-or-nothing thinking"::Believing one missed day {{breaks the habit}} — it doesn't; the miss that matters is the second
         - The two-day rule::Never miss twice in a row — one miss is an accident, two is the start of a new (bad) habit
+            - The two-day rule — why the second miss is the dangerous one::One miss leaves the pattern intact; the second establishes a competing pattern and removes the streak that was providing the pull. It is also the point where self-narrative flips from someone who does this to someone who used to.
         - Habit failure mode "too big too fast"::Scaling 100% at once instead of {{about 10% weekly}}
         - Habit failure mode "no systems"::Relying on {{motivation instead of environment}} — motivation is weather; environment is climate
         - Habit timing within the day::Put new habits {{earlier in the day}} when possible — earlier slots face fewer competing demands and less decision fatigue; the "77% morning vs 42% evening" success stat that circulates is unsourced, so treat it as folklore
@@ -223,6 +233,7 @@
         - Anti-procrastination — shrink the first action::Cut the first action down until it is {{below the resistance threshold}} — "open the document," not "write the report"
         - Procrastination — the 2-minute entry::Commit to just {{2 minutes}} of the task — starting changes the emotional state that caused the avoidance, and momentum does the rest
         - Implementation intention — the template (verbatim)::"At [TIME] in [PLACE], I will [ACTION]."
+            - Implementation intentions — why the format is so specific::Naming a time and place creates an environmental cue that triggers the behavior without a fresh decision. A vague intention has no trigger, so it competes for attention against everything else; a cued one fires on recognition, which is far cheaper than deliberation.
         - Implementation intentions — evidence::A 94-study meta-analysis found a {{medium-to-large effect (d = 0.65)}} on goal attainment (Gollwitzer & Sheeran 2006)
         - Implementation intentions — why they work::They move the start decision from {{the moment of resistance}} to a pre-committed cue — decide while calm, execute on autopilot
         - Anti-procrastination — deadlines and stakes::Tasks without deadlines always lose to tasks with them — {{create a deadline}} and add stakes: tell someone, book the review, put money on it
@@ -275,4 +286,5 @@
     - Adult sleep target::{{7-9 hours}} per night; the American Academy of Sleep Medicine's floor for adults is {{7 or more}}
     - Why sleep is the keystone productivity habit::Everything else — focus, mood, willpower, habit adherence — {{degrades when underslept}}; fix sleep before optimizing anything downstream
     - Focus block length::Roughly {{90 minutes}} of focused work, then a real break. Theory: patterned on the body's ultradian rest-activity cycle — treat the number as a planning default, not a law of biology #theory
+        - Focus blocks — why any block at all, regardless of the number::Attention degrades with time-on-task and recovers with genuine breaks, so scheduled interruption outperforms working to exhaustion. The specific length matters far less than having a boundary — the failure mode is a four-hour block that was really twenty minutes of work and endless task-switching.
     - Peak-hours rule::Schedule your {{hardest cognitive work}} in your personal peak-alertness hours; put admin and shallow work in the troughs
