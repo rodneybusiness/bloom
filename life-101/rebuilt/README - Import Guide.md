@@ -1,6 +1,6 @@
 # Life 101 v2 — Import Guide
 
-A complete, audited rebuild of the **Answering Questions + Life 101** RemNote base, plus the connective **spine** deck that the original never had. Same intent, same voice, every known error fixed, every card checked to import cleanly. **2,505 cards across 14 files.**
+A complete, audited rebuild of the **Answering Questions + Life 101** RemNote base, plus the connective **spine** deck that the original never had. Same intent, same voice, every known error fixed, every card checked to import cleanly. **2,528 cards across 14 files.**
 
 Built and verified August 2026. The original export remains untouched at `life-101/source/`.
 
@@ -27,7 +27,7 @@ The six card types in use:
 4. **Archive, don't delete, the originals** until you've reviewed the new set for a few weeks.
 5. **Do not import the old `Answers for My Kids RemNote Flashcards`** (v1). It is fully superseded by Kids Questions v4 Part A, and it carries the wrong lunar period — importing it would reintroduce a contradiction.
 
-Every file has been verified free of: banned export delimiters (`↔ → ← ;; >>>`), unbalanced `{{ }}` braces, duplicate prompts (within *and* across files), and clozes whose answers leak into their own prompt.
+Every file is validated by `validate_cards.py` in this folder, which checks card-type distribution against the design targets and flags markdown bullets, legacy arrow delimiters, unbalanced braces, orphaned descriptors, duplicate prompts, answer-in-prompt leaks, yes/no recognition cards, and over-length answers. The set currently passes with zero critical issues.
 
 ---
 
@@ -47,7 +47,7 @@ They are about 6% of the cards and carry most of the transferable value. **Revie
 
 | File | Cards | Covers |
 |---|---:|---|
-| **Life 101 v2 — The Spine (Patterns and Identities)** | 70 | The unifying thesis, the seven patterns, the meta-pattern, the five identities |
+| **Life 101 v2 — The Spine (Patterns and Identities)** | 93 | The unifying thesis, the seven patterns, the meta-pattern, the five identities |
 | **Life 101 v2 — Transfer and Triggers** | 79 | Thinking tools carried into practice; situation-first retrieval cards |
 | Life 101 v2 — AI and Digital Literacy | 45 | What an LLM is, hallucination, verification, deepfakes and voice cloning, scams, kids and AI |
 | The Foundational 200 v2 — Part A (Cosmos, Earth, Body) | 112 | Physics and cosmology, Earth and biology, human physiology |
@@ -80,10 +80,10 @@ Tags use RemNote's double-hash form (`##tag`), which creates real tag properties
 
 ## Maintenance schedule
 
-- **Every January:** review all `#volatile` cards. Contribution limits, tax brackets, care costs, and thresholds change annually.
+- **Every January:** review all `##volatile` cards. Contribution limits, tax brackets, care costs, and thresholds change annually.
 - **Every year:** actually drive one of the evacuation routes. A route that exists only on a card has never been tested.
-- **Every two years:** re-check `#safety` cards against current guidance. First-aid protocols and AQI recommendations do get revised.
-- **Whenever you move, change vehicles, or your household changes:** revisit every `#verify-personally` card.
+- **Every two years:** re-check `##safety` cards against current guidance. First-aid protocols and AQI recommendations do get revised.
+- **Whenever you move, change vehicles, or your household changes:** revisit every `##verify-personally` card.
 - **After any marriage, divorce, birth, or death:** review every beneficiary designation. They override the will.
 
 ---
