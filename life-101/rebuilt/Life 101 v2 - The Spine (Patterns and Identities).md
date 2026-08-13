@@ -1,91 +1,159 @@
-- ## The Unifying Thesis
-    - The single thesis the whole knowledge base is arguing::You are a small, biased, temporary pocket of order in an indifferent, compounding, sometimes adversarially-designed world. The same few mechanisms built the stars, the cell, your brain, your economy, and your habits. Your mind runs those mechanisms fast rather than accurately, so it fails in known and nameable ways. The remedy is not willpower but externalized structure — tools, scripts, thresholds, and habits, committed to in advance while calm. #spine
-    - The three altitudes of the base, and what each is for::1) How the world works (mechanism — the Kids decks) 2) How to think about it (transferable models — the Foundational 200) 3) How to operate in it (frameworks, thresholds, scripts — Life Skills). They are one argument told at three scales, not three subjects. #spine
-    - What the base's own proportions reveal about its purpose::Roughly 60% of the Foundational 200 is about thinking well and acting well, and only about 18% is the natural world. It is a practical-wisdom curriculum that uses science as its foundation story — physics is taught first so that "small consistent actions compound" lands as a consequence of physical law rather than as encouragement. #spine
-    - Why this deck exists at all::The domain decks hold roughly 2,200 individually excellent facts and almost no structure. Reviewed alone they install a warehouse. The seven patterns below are the compression — the thing that makes the warehouse into a worldview, and the only part of the base worth reviewing every single day. #spine
+Life 101 Spine
+    The Unifying Thesis
+        Life 101 thesis :: You are a biased, temporary pocket of order that maintains itself through external structure rather than willpower ##core-concept ##big-picture
+        Altitude :: One of the three levels this base teaches at — world, thinking, or operating ##prerequisite
+        What are the three altitudes, from substrate upward? 1. >>> ##prerequisite
+            1. How the world works — mechanism
+            2. How to think about it — transferable models
+            3. How to operate in it — frameworks and scripts
+        Why does this base teach physics before practical skills? >> So compounding and maintenance arrive as consequences of physical law rather than as encouragement
+        What do the deck's proportions reveal about its real purpose? >> Roughly 60% covers thinking and acting and only 18% the natural world — it is practical wisdom, not general knowledge
+        Spine card :: A card whose job is to hold other cards together rather than to teach a fact
+        Why must a spine deck exist separately from the domain decks? >> Domain decks hold facts; without a spine nothing organizes them and review installs a warehouse ##big-picture
+        What are the seven cross-cutting patterns? >>> ##core-concept ##prerequisite
+            - Entropy: nothing good is self-sustaining
+            - Compounding: humans reason linearly in an exponential world
+            - Mechanism over appearance
+            - The miscalibrated instrument
+            - Incentives and de-bundling
+            - Pre-commitment
+            - Trade-offs and scale
 
-- ## Pattern 1 — Entropy: Nothing Good Is Self-Sustaining
-    - Pattern 1, stated::Order is not the default and is never free. Every valuable structure — a body, a savings balance, a roof, a friendship, a democracy, a skill — decays unless energy is continuously spent to maintain it. #spine
-    - Pattern 1 — the mechanism that makes it true::There are vastly more disordered arrangements of any system than ordered ones, so undirected change moves toward disorder on sheer arithmetic. Maintaining a local pocket of order therefore requires importing energy from outside it, continuously, forever. Stop paying and the decay resumes immediately. #spine
-    - Pattern 1 — the instance in how the world works::The Second Law of Thermodynamics (entropy never decreases in an isolated system), and its biological answer, homeostasis — an organism spending energy nonstop to hold internal conditions steady against a drifting environment. #spine
-    - Pattern 1 — the instance in how to think::Skills and knowledge decay without retrieval, which is the entire justification for spaced repetition. A fact reviewed once is a fact you are choosing to lose. #spine
-    - Pattern 1 — the instance in how to operate::Preventive maintenance schedules, "contact every 2-4 weeks to maintain closeness," the half-tank rule, quarterly backup restore-tests. Each is an energy payment against a specific decay. #spine
-    - Pattern 1 — the design conclusion it forces::Nothing is ever "finished." Any plan that assumes a one-time cost and permanent result — a house, a marriage, a body, an emergency plan — is fighting physics and will lose. Budget for the upkeep, not just the purchase. #spine
-    - Pattern 1 — the cheapest possible test of it::Name anything you value that would still be fine in five years with zero further input. The list is empty, and that emptiness is the pattern. #spine
+    Pattern 1: Entropy
+        Entropy pattern :: Order is never free and decays without continuous energy input ##core-concept
+            Why disorder wins by default ;; Disordered arrangements vastly outnumber ordered ones
+        Why can nothing valuable be finished once and left alone? >> Decay is the default, so upkeep is a permanent cost rather than a completion ##big-picture
+        What does the entropy pattern predict about any new possession? >> It carries an ongoing maintenance cost that the purchase price hides
+        How would you falsify the entropy pattern? >> Name something valuable still fine in five years with zero input — the list stays empty
+        Why do friendships need scheduled contact rather than good intentions? >> Closeness decays like any other order, so it needs recurring energy not sentiment
 
-- ## Pattern 2 — Compounding: Humans Reason Linearly in an Exponential World
-    - Pattern 2, stated::Small consistent changes dominate large one-time efforts, because each period's gain is added to the base the next period grows from. This runs in both directions — it builds wealth and skill, and it digs debt and decline. #spine
-    - Pattern 2 — the mechanism that makes it true::Growth proportional to current size produces a curve whose slope keeps increasing, while human intuition extrapolates in straight lines. The gap between the straight line we imagine and the curve reality follows is the entire source of the surprise, in both directions. #spine
-    - Pattern 2 — the instance in how the world works::Population growth, epidemic spread, and the doubling behavior behind Moore's Law — all cases where the rate depends on the current amount. #spine
-    - Pattern 2 — the instance in how to think::The Rule of 72 converts any growth rate into a doubling time, which is the only way most people can feel an exponential rather than merely acknowledge it. #spine
-    - Pattern 2 — the instance in how to operate::$5,000 at 18% APR paid at the minimum takes about 30 years and about $11,000 in interest — the same law, running against you. Habit formation is the same curve running for you. #spine
-    - Pattern 2 — why it is the base's most-repeated idea::Because it names the specific defect the base is built to correct. Nearly every practical failure the deck warns about is someone treating an exponential process as if it were linear — debt, savings, skill, decay, or risk. #spine
-    - Pattern 2 — what to actually do about it::Convert every rate to a doubling time before deciding, and lengthen your evaluation horizon. Compounding is invisible over weeks and overwhelming over decades, which is why it loses every argument against a short deadline. #spine
+    Pattern 2: Compounding
+        Compounding pattern :: Small consistent changes dominate large one-time efforts, in both directions ##core-concept
+            Mechanism ;; Each period's gain joins the base the next period grows from
+            Human failure mode ;; Intuition extrapolates in straight lines
+        Doubling time :: The interval in which a compounding quantity doubles, found by dividing 72 by the rate
+        Why do humans consistently underestimate exponential processes? >> We extrapolate linearly, and the gap between the imagined line and the real curve is the surprise ##confusing
+        Why does compounding lose every argument against a short deadline? >> It is invisible over weeks and overwhelming over decades, so short horizons hide it
+        What should you do before deciding anything involving a rate? >> Convert the rate to a doubling time, then lengthen the evaluation horizon ##high-frequency
 
-- ## Pattern 3 — Mechanism Over Appearance
-    - Pattern 3, stated::What you perceive is usually an artifact of where you are standing, and the artifact itself has a mechanism. The correct move is to negate the folk belief first, then supply the mechanism that produced the appearance. #spine
-    - Pattern 3 — the mechanism that makes it true::Perception evolved to be fast and useful, not accurate. It reports a processed summary shaped by your position, your sensors, and your priors — so the appearance is data about the observing setup at least as much as about the thing observed. #spine
-    - Pattern 3 — the instance in how the world works::The Moon does not change shape, stars do not twinkle in space, a shooting star is not a star, and metal is not colder than wood. Every one of those is a perceptual artifact with a specific physical cause. #spine
-    - Pattern 3 — the instance in how to think::Map and territory: a model is a useful reduction and never the thing itself, so a model that stops predicting has not been betrayed by reality — it was always only a map. #spine
-    - Pattern 3 — the instance in how to operate::Diagnostic cards that read symptom to cause to cost — a squealing belt is not a noise problem, it is a $20 part preventing a $500 alternator. Treating the appearance instead of the mechanism is how small problems become large ones. #spine
-    - Pattern 3 — the two-answer rule for any biological "why"::Every biological question has a proximate answer (the mechanism operating right now) and an ultimate answer (the evolutionary function it served). Goosebumps are contracting muscles AND a vestigial insulation response. Confusing the two produces most bad reasoning about human nature. #spine
-    - Pattern 3 — the naturalistic-fallacy guardrail it implies::An ultimate explanation says why a trait exists, never whether it is good. "It is natural" and "it is right" are answers to different questions, and the base keeps them separate on purpose. #spine
+    Pattern 3: Mechanism Over Appearance
+        Mechanism over appearance :: What you perceive is an artifact of your position, and the artifact itself has a cause ##core-concept
+            House method ;; Negate the folk belief, then supply the mechanism
+            Why perception misleads ;; It evolved for speed, not accuracy
+        Proximate cause :: The mechanism operating right now that produces a trait or effect
+            Example ;; Tiny muscles contracting to raise goosebumps
+        Ultimate cause :: The evolutionary function that explains why a trait exists at all
+        Why must proximate and ultimate explanations be kept separate? >> Collapsing them turns "this is natural" into "this is right," which is a different claim ##confusing ##connection
+        Why is the appearance itself the thing needing explanation? >> Perception reports a processed summary, so it is evidence about the observer as much as the object
+        How does this pattern change how you approach a malfunction? >> Treat the mechanism rather than the symptom, because the visible sign is rarely the fault
 
-- ## Pattern 4 — The Miscalibrated Instrument
-    - Pattern 4, stated::Your judgment is a measuring instrument with known, catalogued, repeatable calibration errors. The errors are not random noise and they are not moral failures — they are systematic, which means they are predictable, which means they are catchable. #spine
-    - Pattern 4 — the mechanism that makes it true::Heuristics are speed-accuracy trades that were tuned for a different environment. They fail in the same direction every time under the same conditions, which is exactly what makes a bias nameable rather than merely a mistake. #spine
-    - Pattern 4 — why naming the failure mode is the whole technique::You cannot catch a mistake you have no word for. A named failure mode ("kitchen sinking," "sunk cost," "all-or-nothing thinking") converts an invisible slide into a recognizable event you can interrupt in real time. #spine
-    - Pattern 4 — the instance in how the world works::Memory is reconstructive rather than recorded, and changes slightly every time it is recalled — so your own account of your own life is itself a biased instrument. #spine
-    - Pattern 4 — the instance in how to think::The fifteen-bias vocabulary in the Foundational 200 exists to be run against your own reasoning, and each thinking tool patches a specific bias — falsifiability patches confirmation bias, base rates patch the availability heuristic. #spine
-    - Pattern 4 — the instance in how to operate::"Kitchen sinking" and "story matching" in hard conversations; "all-or-nothing thinking" in habits; the universal-instinct gridlock that makes the obvious evacuation route the wrong one. #spine
-    - Pattern 4 — why knowing your biases is not enough::The failure executes faster than self-observation can catch it, which is why the remedy is an external procedure (check the base rate, steel-man first, wait 24 hours) rather than a resolution to be more careful. #spine
+    Pattern 4: The Miscalibrated Instrument
+        Miscalibrated instrument :: Judgment with known, repeatable, systematic errors rather than random noise ##core-concept
+        Named failure mode :: A labeled error pattern you can recognize while committing it
+            Why the label matters ;; You cannot catch what you have no word for
+            Examples ;; Kitchen sinking, sunk cost, all-or-nothing thinking
+        Why is knowing your biases insufficient to avoid them? >> The failure executes faster than self-observation, so the remedy must be external procedure ##confusing ##big-picture
+        Why is your memory of your own life untrustworthy evidence? >> Memory is reconstructive and shifts slightly with every recall
+        What is the correct remedy for a known bias? >> An external check you run regardless of how you feel, not a resolution to be careful
 
-- ## Pattern 5 — Incentives and De-bundling
-    - Pattern 5, stated::When a system produces a strange result, ask what each actor is being rewarded for. Interfaces you deal with are designed by someone whose interests are not yours, and the standard defense is to separate the bundle and price each part alone. #spine
-    - Pattern 5 — the mechanism that makes it true::Anything that persists is being selected for by whatever rewards it. A confusing pricing structure did not survive by accident; it survived because confusion is profitable. The design is evidence of the incentive. #spine
-    - Pattern 5 — why de-bundling is the universal counter-move::Bundles hide the price of each component, so no single part can be compared against an alternative. Separating them restores comparison, which is the only thing that disciplines a price. #spine
-    - Pattern 5 — the instance in how the world works::Natural selection is the same algorithm without an agent: whatever reproduces differentially becomes common, whether or not anyone intends it. #spine
-    - Pattern 5 — the instance in how to think::Skin in the game, and the attention economy — the recognition that a free product means your attention is the product being sold. #spine
-    - Pattern 5 — the instance in how to operate::The eye-level premium of 15-20%; minimum payments engineered to feel manageable while maximizing interest; the dealer who negotiates in monthly payments so the total price is unreadable. Settle price, trade-in, and financing separately, always. #spine
-    - Pattern 5 — the brake that keeps this from becoming paranoia::Hanlon's Razor. Most bad outcomes come from carelessness and incompetence, not design. Model incentives to explain systems; assume malice only when the design is too well-fitted to be an accident. #spine
+    Pattern 5: Incentives and De-bundling
+        Incentives pattern :: When a system produces a strange result, ask what each actor is rewarded for ##core-concept
+            Why designs persist ;; Whatever rewards them selects for them
+        De-bundling :: Separating a combined offer so each component can be priced against an alternative
+        In what order do you de-bundle a car purchase? 1. >>> ##high-frequency
+            1. Settle the total price
+            2. Then the trade-in value
+            3. Then the financing terms
+        Why is a confusing price structure evidence rather than accident? >> Confusion survived because it is profitable, so the design reveals the incentive
+        Why does de-bundling work as a universal counter-move? >> Comparison is the only thing that disciplines a price, and bundles exist to prevent it ##big-picture
+        What should you establish about anyone advising you? >> How they are paid, since each pay structure produces a reliable slant without requiring dishonesty
+        What stops incentive analysis from becoming conspiracy thinking? >> Hanlon's Razor — explain systems by incentives, individual events by incompetence
+        What are the standard counterparty-designed traps? >>>
+            - Eye-level shelf placement
+            - Monthly-payment framing
+            - Minimum payments
+            - Bundled quotes that block comparison
 
-- ## Pattern 6 — Pre-commitment: Decide While Calm
-    - Pattern 6, stated::Decide in advance, in writing, while calm — because the moment you need the decision is precisely the moment you are least able to make it. #spine
-    - Pattern 6 — the mechanism that makes it true::A crisis destroys the very capability it demands. Stress narrows attention and degrades judgment, banks stop lending once you are unemployed, phones die, and you cannot think clearly while triggered. The resource is always cheapest to acquire before you need it, and often unavailable after. #spine
-    - Pattern 6 — the instance in how the world works::Stoicism's dichotomy of control — sorting in advance what is and is not yours to decide, so the sorting is already done when the event arrives. #spine
-    - Pattern 6 — the instance in how to think::Implementation intentions ("at this time, in this place, I will do this specific thing") outperform intentions, because the decision has been moved off the moment of temptation. #spine
-    - Pattern 6 — the instance in how to operate::The 60% rule (leave at 60% certainty, not 95%), the half-tank rule, the HELOC opened before unemployment, the difficult-conversation opener memorized verbatim, the quarterly restore-test of backups. #spine
-    - Pattern 6 — why scripts must be memorized as exact words::Under stress you do not compose, you retrieve. A remembered principle degrades into whatever you would have said anyway; a remembered sentence survives intact. This is why the base stores hard-conversation openers verbatim rather than as advice. #spine
-    - Pattern 6 — the thresholds-and-stopping-rules corollary::Any judgment that would otherwise run forever needs a number attached in advance — leave at 60%, break the argument at 20 minutes, switch therapists at 3 months without progress. The number's job is to end the deliberation, not to be exactly right. #spine
+    Pattern 6: Pre-commitment
+        Pre-commitment pattern :: Deciding in advance while calm, because crisis destroys the capacity it demands ##core-concept ##high-frequency
+        Stopping rule :: A number fixed in advance that ends an otherwise open-ended deliberation
+            Its real function ;; Ending the loop, not being exactly right
+            Examples ;; Leave at 60%, break at 20 minutes, switch at 3 months
+        What forms does pre-commitment take across domains? >>>
+            - Memorized verbatim scripts
+            - Numeric thresholds and stopping rules
+            - Fallbacks planned before they are needed
+            - Resources secured while still available
+        Why does a crisis remove the exact ability it requires? >> Stress narrows judgment, lenders withdraw, devices fail — capability and need arrive inversely
+        Why must hard-conversation openers be memorized word for word? >> Under stress you retrieve rather than compose, so only exact sentences survive ##high-frequency
+        Why set an evacuation trigger at 60% certainty rather than 95%? >> Road capacity disappears exactly when everyone else becomes certain
 
-- ## Pattern 7 — Trade-offs and Scale
-    - Pattern 7, stated::Nothing is best absolutely. Which force wins depends on the scale you are operating at, and every gain is purchased with a loss somewhere the accounting does not show. #spine
-    - Pattern 7 — the mechanism that makes it true::Effects have different scaling exponents, so their relative sizes reverse as the system grows. And in any system with more than one objective, optimizing one hard necessarily consumes slack the others were using. #spine
-    - Pattern 7 — the instance in how the world works::Gravity wins at smaller scales and holds galaxies together; dark energy wins across cosmic distances and pushes them apart. Same universe, opposite answers, and only the scale decides. #spine
-    - Pattern 7 — the instance in how to think::Diminishing marginal returns, the paradox of choice, and the recognition that "more" stops being better at a threshold that is usually well before you notice. #spine
-    - Pattern 7 — the instance in how to operate::The base's habit of building graded ladders rather than binaries — emergency funds in four tiers, supplies in three, and a deductible decision that flips direction at about $5,000 of expected annual care. #spine
-    - Pattern 7 — the question it makes you ask about any rule::"At what size does this stop being true?" Every threshold in the deck has a range of validity, and the failures come from carrying a rule past its range rather than from the rule being wrong. #spine
-    - Pattern 7 — why "no system is universally best" is not relativism::It is a claim about matching, not a refusal to judge. Some configurations really are better for a given scale and set of forces; what does not exist is a configuration that is better at all scales for all forces. #spine
+    Pattern 7: Trade-offs and Scale
+        Trade-offs and scale :: Nothing is best absolutely; which force wins depends on the scale you operate at ##core-concept
+            Second mechanism ;; Optimizing one objective consumes slack the others used
+            Design signature ;; Graded ladders rather than binaries
+        Why does the same force win at one scale and lose at another? >> Different effects scale at different rates, so their relative size reverses as the system grows ##confusing ##connection
+        What question does this pattern make you ask of any rule? >> At what size does this stop being true?
+        Why do most rule failures come from range rather than error? >> The rule was carried past the scale it was derived for
+        How do you test whether a rule applies to your situation? 1. >>>
+            1. Name the scale it was derived at
+            2. Name the scale you are operating at
+            3. Ask which force dominates at yours
+        Why is "no system is universally best" not relativism? >> It claims configurations must match scale and forces, not that judgment is impossible
 
-- ## The Meta-Pattern — Agency Through Systems
-    - The central tension the base never resolves out loud::One section spends fifteen cards proving your judgment is systematically unreliable. Another insists you are radically free and fully responsible for your life. Both are asserted; neither is reconciled. #spine
-    - The meta-pattern that reconciles the tension::Agency is real but it is not exercised through willpower — it is exercised through systems. You do not out-think your biases in the moment; you build environments, habits, scripts, and thresholds while calm that make the good action the default when the moment arrives. Freedom is what you do at design time, not at run time. #spine
-    - Why "I'll remember" and "I'll feel like it" are treated as failure modes::Both bet on in-the-moment capacity, which is the one resource reliably absent at the moment of need. Every domain in the base answers them the same way — with a structural change rather than a resolution. #spine
-    - The practical test of the meta-pattern::When you fail at something twice, stop asking for more discipline and change the structure instead — move the object, write the sentence, set the threshold, automate the transfer. If the fix lives only in your intentions, it is not a fix. #spine
+    The Meta-Pattern
+        Meta-pattern :: Agency exercised through systems built while calm rather than through willpower at the moment of need ##core-concept ##big-picture
+            Where freedom operates ;; Design time, not run time
+            Two banned excuses ;; "I'll remember" and "I'll feel like it"
+        What contradiction sits unresolved inside the Foundational 200? >> Fifteen cards prove judgment unreliable while thirteen insist you are radically free ##confusing ##connection
+        How is that contradiction actually resolved? >> Agency runs through environments, habits, and scripts rather than in-the-moment effort
+        What should you do after failing at the same thing twice? >> Change the structure rather than buying more discipline ##high-frequency
+        Why are "I'll remember" and "I'll feel like it" treated as failure modes? >> Both bet on capacity that is reliably absent exactly when needed
+        What does a structural fix look like, as opposed to an intention? >>> ##practical ##high-frequency
+            - Move the physical object
+            - Write the exact sentence
+            - Set the numeric threshold
+            - Automate the transfer
 
-- ## The Five Identities — Where Two Domains Are Secretly One Mechanism
-    - Natural selection and economic incentives — why they are the same mechanism::Both are differential survival under selection pressure. Variants that reproduce more become common: genes in a population, firms and behaviors in a market. Neither requires a designer, and in both, "why does this strange thing persist?" resolves to "because something is rewarding it." Antibiotic resistance is the clearest bridge — selection operating on a human timescale in direct response to a human incentive. #spine
-    - What the natural-selection-equals-incentives identity buys you::You can predict the shape of a market failure the way a biologist predicts resistance — by asking what the current pressure selects for, rather than by asking what anyone intends. #spine
-    - Homeostasis and a negative feedback loop — why they are the same mechanism::Both sense a deviation from a set point and act to reduce it. Body temperature, a thermostat, blood glucose, and a central bank targeting inflation are one control structure wearing four costumes: measure, compare to target, apply a correction proportional to the error. #spine
-    - What the homeostasis-equals-negative-feedback identity buys you::It tells you where such systems break — a broken sensor, a wrong set point, or a correction that arrives too late — and those three failure modes are the same in a body, a house, a budget, and an institution. #spine
-    - Entropy and maintenance — why they are the same mechanism::Maintenance is simply the energy payment that the Second Law demands from anything that intends to stay ordered. A maintenance schedule is a decay curve with a countermeasure attached, which is why every such schedule in the base is really a statement about how fast something falls apart when ignored. #spine
-    - What the entropy-equals-maintenance identity buys you::You can derive an unfamiliar maintenance interval instead of memorizing it — ask what degrades, how fast, and what the failure costs, and the interval falls out. It also kills the idea of a finished project. #spine
-    - The five identities, listed::1) Natural selection and incentives 2) Homeostasis and negative feedback 3) Entropy and maintenance 4) Compound interest and habit 5) Genes, writing, money, and code as durable encoded information. Each welds two domains that the rest of the deck teaches separately. #spine
-    - Why the identities matter more than any individual card::They are what turn a warehouse of memorized items into a small number of transferable mechanisms. Learn the identity and you get every future instance free; learn only the instances and you must memorize each new one. #spine
+    The Five Identities
+        Which five identities weld two domains into one mechanism? >>> ##connection ##prerequisite
+            - Natural selection and economic incentives
+            - Homeostasis and the negative feedback loop
+            - Entropy and maintenance
+            - Compound interest and habit
+            - Genes, writing, money, and code
+        Why do the identities matter more than any individual card? >> Learn the mechanism and every future instance is free; learn instances and you memorize each one ##big-picture
+        Selection pressure :: Any force that makes some variants reproduce more than others
+            Biological form ;; Predation, climate, disease
+            Economic form ;; Profit, regulation, attention
+        Natural selection and incentives :: The same algorithm — differential survival under pressure, with or without an agent ##connection
+            Shared structure ;; Variants that reproduce more become common
+            Bridge case ;; Antibiotic resistance
+        What does the selection-equals-incentives identity let you predict? >> Market failures the way a biologist predicts resistance — from pressure, not from intent
+        Set point :: The target value a control system corrects toward
+        Homeostasis and negative feedback :: The same control structure — measure, compare to a set point, correct the error ##connection
+            Biological form ;; Body temperature, blood glucose
+            Engineered form ;; Thermostat, inflation targeting
+        What three failure modes does the homeostasis identity predict? >>>
+            - A broken sensor
+            - A wrong set point
+            - A correction that arrives too late
+        Entropy and maintenance :: Maintenance is the energy payment the Second Law demands of anything staying ordered ##connection
+            What a schedule really encodes ;; How fast the thing decays when ignored
+        How do you derive an unfamiliar maintenance interval from first principles? 1. >>> ##practical
+            1. Ask what physically degrades
+            2. Ask how fast it degrades
+            3. Ask what the failure costs
+            4. Set the interval below the failure point
 
-- ## Using This Deck
-    - How to schedule the spine relative to the domain decks::Review the spine every day, even when the domain decks are on a slower schedule. It is roughly 5% of the cards and carries most of the transferable value — the domain facts are lookupable, the structure is not. #spine
-    - The habit to build when you meet any new fact::Ask which of the seven patterns it instantiates. If it fits one, you have a hook and it will stick; if it fits none, you have either found a genuine gap in the pattern set or a fact not worth keeping. #spine
-    - The habit to build when facing any hard decision::Ask which pattern the situation is an instance of before reaching for a specific rule. Recognition is the bottleneck — the thresholds are easy to look up, but only if you have noticed which kind of moment you are standing in. #spine
-    - How to tell whether a spine card is earning its place::A spine card must compress — it should let you regenerate or evaluate many domain cards. If it merely restates one domain card in bigger words, delete it. #spine
-    - What it would mean to be finished with this deck::The patterns become the way you see rather than things you recall, and the cards become unnecessary. That is the goal, and it is also the reason not to mistake a large deck for progress. #spine
+    Using This Deck
+        How often should the spine be reviewed relative to the domain decks? >> Daily, even when domain decks are slower — it is 6% of the cards and most of the transferable value
+        What should you ask on meeting any new fact? >> Which of the seven patterns does this instantiate? ##high-frequency
+        What should you ask before reaching for a rule in a hard moment? >> Which pattern is this an instance of — recognition is the bottleneck, not the threshold ##high-frequency
+        How do you tell whether a spine card earns its place? >> It must compress many domain cards; if it restates one, delete it
+        What would it mean to be finished with this deck? >> The patterns become how you see rather than what you recall, and the cards become unnecessary
+        What is the layering order for mastering any core concept? 1. >>>
+            1. What is it — the definition
+            2. How does it work — the mechanism
+            3. When would you use it — the application
+            4. Where does it break — the limits

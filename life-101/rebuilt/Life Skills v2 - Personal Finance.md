@@ -1,406 +1,511 @@
-- ## The Money Priority Order
-    - Scope note (not a card) — this file is US-specific throughout (FICO, IRS, FDIC/NCUA, Social Security); state-variable rules are flagged where they appear.
-    - The canonical money order (what to fund, in sequence)::1) $1,000 starter emergency fund, 2) eliminate all debt over 15% APR, 3) full emergency fund (3-6 months of essentials, tiered by income stability), 4) 401(k) up to the employer match, 5) HSA to the max, 6) IRA to the max, 7) 401(k) to the max, 8) taxable investing
-        - The money order — why this sequence and not another::Each step is ordered by guaranteed return: the starter fund prevents new high-rate debt, killing 15%+ debt is a risk-free return no investment matches, the full fund protects everything downstream from forced liquidation, the employer match is an immediate 50-100%, then the tax advantages descend in value. Follow the yield.
-    - The money order — why each step is where it is::1) $1,000 stops the next surprise from becoming new debt, 2) killing 20-30% APR debt is a guaranteed return nothing else matches, 3) the full fund is the moat that protects every later step, 4) the match is free money, 5) the HSA has the triple tax advantage, 6-7) tax advantage, 8) taxable comes last because its only edge is flexibility
-    - How the emergency-fund phases and the contribution order interlock::They are one sequence, not two competing lists — the fund phases (starter $1,000, kill >15% APR debt, full 3-6 month fund) are steps 1-3 of the same order whose steps 4-8 are the contribution order (match, HSA, IRA, 401(k) max, taxable); you do not start step 4 until steps 1-3 are done
-    - Why the full emergency fund comes before even the 401(k) match::The match is a 50-100% return, but it sits behind penalties and lockups; the fund is what keeps a job loss from forcing penalized retirement withdrawals or new card debt — protection before optimization, and the match is still there a few months later
-    - Why rebuilding a spent emergency fund outranks extra debt payments::The protective asset must exist before optimizing — with no fund, the next emergency lands on a 20-30% APR card and undoes every optimization; keep making minimum debt payments and rebuild the fund first
-- ## Understanding Credit Scores
-    - What is a credit score::A three-digit number (300-850) representing your creditworthiness to lenders, affecting whether you can borrow and the interest rates you'll pay
-    - What credit scores affect beyond loans::Loan approval, interest rates, apartment rentals, insurance premiums, and sometimes job eligibility
-    - Credit score — the mortgage motivator::A {{100-point}} credit score difference can mean {{$40,000+ more in interest}} on a 30-year mortgage
-    - The five FICO factors and their weights::Payment history {{35%}}, credit utilization {{30%}}, length of credit history {{15%}}, new credit 10%, credit mix 10%
-        - FICO weights — why payment history and utilization dominate::The score predicts one thing: the probability you miss payments in the next couple of years. Whether you have missed them before and how stretched you are right now are simply the two most predictive available signals, so they carry two-thirds of the weight.
-    - Payment History (35% of score)
-        - Payment history (FICO) — what it measures::Whether you pay your bills on time
-        - Late payment score damage ladder::30 days late costs {{60-110 points}}; 60 days, 80-130; 90 days costs {{90-150 points}}
-        - How long late payments stay on your credit report::{{7 years}} from the date of first delinquency #us
-        - Recovery after a late payment::Make every future payment on time — the impact fades, with most recovery within {{2 years}}
-    - Credit Utilization (30% of score)
-        - What is credit utilization::The percentage of your available credit you are currently using
-        - Credit utilization formula::(Total credit card balances divided by total credit limits) x 100
-        - Optimal credit utilization::Below {{10%}} for the best score, and always below {{30%}} to avoid score damage
-            - Credit utilization — why below 30% and better below 10%::Scoring models read high utilization as dependence on borrowed money, so the ratio is a distress proxy rather than a measure of debt size. It is also recalculated from the reported statement balance each month, which is why paying before the statement closes moves the score even if you always pay in full.
-        - Credit utilization — per-card vs overall::Both matter — keep each individual card below 30% AND the total below 30%
-        - Quick utilization improvement hack::Pay balances down before the statement closes, so the bureau sees the lower number
-        - Why keeping old cards open helps utilization::More total available credit means a lower utilization percentage on the same spending
-    - Length of Credit History (15% of score)
-        - Length of credit history (FICO) — what it measures::The average age of all your accounts and the age of your oldest account
-        - Why closing old credit cards hurts your score::It reduces average account age AND raises your utilization ratio — and can hurt for years
-        - Authorized user strategy::Being added to someone's old, well-managed account can boost your score within 30-60 days
-        - Authorized user — requirements for a real boost::The account must be old, low-utilization, perfect payment history, and must actually report authorized users to the bureaus
-    - New Credit (10% of score)
-        - Hard inquiry impact::Typically a {{5-10 point}} temporary drop, affecting the score for about {{12 months}}
-        - Rate-shopping exception::Multiple inquiries for the same loan type within {{14-45 days}} count as a single inquiry
-        - Inquiry red-flag threshold::More than {{6 inquiries in 6 months}} signals high risk to lenders
-    - Credit Mix (10% of score)
-        - Credit mix (FICO) — the ideal mix::Credit cards (revolving credit) AND installment loans (auto, personal, mortgage)
-        - Why credit mix matters::It shows you can manage different types of credit responsibly
-    - Credit Score Ranges
-        - Credit score 800-850 (Exceptional)::Best rates on everything, automatic approvals, premium card eligibility
-        - Credit score 740-799 (Very Good)::Above-average rates, easy approvals, most premium cards available
-        - Credit score 670-739 (Good)::Average interest rates, generally approved, some premium products available
-        - Credit score 580-669 (Fair)::Subprime rates, may need co-signers, limited options, higher deposits required
-        - Credit score 300-579 (Poor)::May not qualify at all; secured cards and very high rates if approved
-    - Checking Your Credit
-        - Where to get free official credit reports::AnnualCreditReport.com — free reports from each of the three bureaus (now available weekly, not just annually) #us
-        - The three credit bureaus::Experian, Equifax, and TransUnion #us
-        - Why scores differ between bureaus::Each bureau may hold different information and uses slightly different scoring models
-        - Free credit score monitoring options::Credit Karma (VantageScore), Discover Scorecard (FICO), and many banks' free FICO access
-        - Which score lenders actually use::About {{90%}} use FICO, mostly {{FICO 8 or FICO 9}}
-    - Credit Report Errors and Disputes
-        - Credit report error rate::{{20%}} of reports contain errors, and {{5%}} have errors serious enough to affect scores
-        - Common credit report errors::Wrong accounts, incorrect payment history, outdated negative information, mixed files from similar names
-        - How to dispute a credit report error::1) Get the report from the bureau, 2) document the error, 3) write a dispute letter with evidence, 4) send it by certified mail, 5) the bureau must investigate within 30 days #us
-        - What a dispute letter must include::Your information, the specific error, supporting documents, and a request for removal or correction
-    - Building Credit from Zero
-        - Credit-building ladder (from no credit)::1) Secured credit card, 2) regular credit card, 3) multiple cards, 4) add an installment loan
-        - Secured credit card::You put down a deposit (usually $200-500) that becomes your credit limit
-        - When to graduate from secured to regular card::After {{6-12 months}} of perfect payment history
-        - Credit builder loan::The bank holds the loan amount while you make payments — a payment history you buy in installments
-        - Student credit card path::Easier approval while in college, and often auto-graduates to better cards
-    - Credit Mistakes to Avoid
-        - Applying for multiple cards at once::Stacks multiple hard inquiries and looks desperate to lenders
-        - Co-signing a loan — the real risk::You are 100% responsible if the primary borrower defaults, and it counts against your credit and debt-to-income ratio
-        - Letting a card sit unused::Cards with no activity may be closed by the issuer — use each card at least once every 6 months
-        - Maxing out a card you pay in full::High balances at statement time still hurt your score until the next statement reports
-- ## Emergency Fund Strategy
-    - Emergency Fund Basics
-        - What is an emergency fund::A separate, liquid savings account holding 3-6 months of essential living expenses, used only for true financial emergencies
-        - Why the emergency fund must be separate::It prevents the psychological temptation to spend and creates a mental barrier for non-emergencies
-        - Why the emergency fund must be liquid::True emergencies require immediate access, without penalties or market-timing problems
-        - What counts as a true emergency::Job loss, a medical emergency insurance won't cover, critical home repair (roof leak, furnace failure), critical car repair needed to get to work, or a family emergency requiring travel
-        - What is NOT an emergency::Vacations, sales and deals, regular maintenance, planned expenses, wants, lifestyle upgrades, and investment "opportunities"
-    - Sizing the Fund
-        - Emergency fund sizing — what counts as monthly essentials::Rent or mortgage, utilities, groceries, insurance premiums, minimum debt payments, transportation, medications
-        - Emergency fund sizing — what to exclude::Entertainment, dining out, subscriptions, savings contributions, extra debt payments, discretionary spending
-        - A 3-month fund is enough if::Dual income, stable jobs, multiple income sources, low fixed expenses, good insurance coverage
-        - A 6-month fund fits if::Single income, average job stability, moderate fixed expenses, dependent family members
-        - A 9-12 month fund fits if::Freelancer or contractor, commission-based income, high-risk industry, medical conditions, or poor insurance
-        - Fund sizing — industry volatility::Tech and startups are high risk, government and healthcare low, retail and hospitality moderate
-        - Fund sizing — regional economics::Single-industry towns run higher risk; diverse metros run lower
-        - Fund sizing — personal health::Chronic conditions call for a larger fund
-    - Building the Fund (steps 1-3 of the money order)
-        - Emergency fund Phase 1::A {{$1,000}} starter fund — covers the most common emergencies and breaks the paycheck-to-paycheck cycle
-        - Why $1,000 comes first::It covers car repairs, appliance replacement, and minor medical bills while the saving habit forms
-        - Five ways to raise $1,000 fast::Sell items, tax refund, side gig, temporary second job, one-time overtime push
-        - Emergency fund Phase 2::Kill high-interest debt — pay minimums on everything plus extra on all debt over {{15% APR}} before finishing the full fund
-        - Why toxic debt gets paid before the full fund::Credit card interest at 20-30% exceeds any savings return (top high-yield accounts pay roughly 4% as of 2026) #volatile #us
-        - Exception — build the full fund first, despite high-APR debt, if::Job loss looks imminent, or you have no access to any credit
-        - Emergency fund Phase 3::Build to your full calculated 3-6 month target
-        - Savings rate while building the fund::{{20% of gross income}} until funded, then redirect to the next step of the money order
-        - Time to a full fund at different savings rates::10% of income takes 30-60 months, 20% takes 15-30, 30% takes 10-20
-        - Emergency fund Phase 4 (optional opportunity fund)::An extra 3-6 months for job transitions, a home down payment, or genuine opportunities
-    - Where to Keep It
-        - Best home for the emergency fund::A high-yield savings account — FDIC insured, liquid within 1-2 days, separate from checking, roughly 3.75-4.2% APY at the top accounts (as of 2026) #volatile #us
-        - Why not a traditional savings account::Brick-and-mortar banks pay 0.01-0.10% APY vs roughly 4% at online banks (as of 2026) #volatile #us
-        - The $10,000 emergency-fund math::At about 4%, $10,000 earns roughly {{$400 a year}} vs $1-10 at a traditional bank (as of 2026) #volatile #us
-        - Money market account as an alternative::Similar to a high-yield savings account but may add check-writing and ATM access
-        - CDs for the emergency fund?::No — early-withdrawal penalties defeat the whole point of emergency access
-        - Investing the emergency fund?::No — market volatility means the fund might be down 30% exactly when you need it most
-        - I Bonds for part of the fund::Up to about a third can go in — but only after the 1-year lockup, and with a 3-month interest penalty before 5 years, in exchange for inflation protection #us
-    - Using the Fund
-        - The emergency test (three questions)::Is it unexpected? Is it necessary? Is it urgent? — all three must be YES
-        - If any emergency-test answer is no::Find alternative funding or delay the expense
-        - Job loss protocol — first three actions::1) Cut all non-essential expenses, 2) calculate your monthly burn rate, 3) apply for unemployment the same day
-        - Job-loss budget adjustments::Cancel subscriptions, pause retirement contributions, negotiate payment plans, apply for assistance programs
-        - Medical emergency money protocol::Verify insurance coverage first, request itemized bills, and negotiate payment plans before touching the fund
-        - Home emergency — first three actions::1) Get multiple repair quotes, 2) consider temporary fixes, 3) explore insurance claims first
-    - Replenishing After Use
-        - Rebuild timeline after using the fund::Within {{6-12 months}}, to restore the protection
-        - Psychology of using the emergency fund::It can feel like failure but it is success — the fund did its job
-    - Emergency Fund Mistakes
-        - Mistake — keeping the fund too accessible::Same bank as checking makes transfers too easy for non-emergencies
-        - Mistake — not adjusting for life changes::Marriage, kids, and a home purchase all require recalculating the target
-        - Mistake — counting home equity or credit cards as the fund::Those are debt, not savings — and credit lines get frozen in exactly the recessions when you'd need them
-        - Mistake — investing before the fund exists::Market gains mean nothing if an emergency forces you to sell at a loss
-- ## Banking and Financial Institutions
-    - Checking Accounts
-        - Checking account — ways to avoid monthly fees::Minimum balance (typically $1,500), direct deposit, student or senior status, or an online-only bank
-        - Checking account — why the ATM network matters::A large network or fee reimbursement saves $5-10 per out-of-network withdrawal
-        - Overdraft protection options::1) Link to savings (cheapest), 2) a line of credit, 3) opt out entirely (the transaction is declined)
-        - Overdraft fee reality::Typically $25-35 per transaction at banks that still charge them — several large banks have cut or eliminated the fee, but where it survives one coffee can cost $140 if several charges are pending (as of 2026) #volatile #us
-        - Checking features worth having::Mobile deposit, bill pay, Zelle or instant transfers, debit card controls, fraud protection
-        - The two-bank strategy::Local checking for access plus online savings for growth
-        - Why online banks pay higher interest::No branch network means lower overhead, passed on as rate
-    - Deposit Insurance
-        - What is FDIC insurance::Federal insurance on bank deposits — if the bank fails, you are made whole up to the limit #us
-        - FDIC coverage limit::{{$250,000}} per depositor, per insured bank, per ownership category #us
-        - FDIC — what's covered::Checking, savings, CDs, and money market deposit accounts
-        - FDIC — what's NOT covered::Investments (stocks, bonds, mutual funds), crypto, and safe deposit box contents
-        - Extending deposit insurance past $250,000::Use different banks, or different ownership categories (individual, joint, trust) #us
-        - What is a credit union::A member-owned, not-for-profit alternative to a bank — profits come back as lower fees and better rates; you join through an employer, region, or association
-        - NCUA insurance::The credit-union equivalent of FDIC — {{$250,000}} per share owner, per insured credit union, per ownership category #us
-        - Bank vs credit union trade-off::Credit unions tend to win on fees, loan rates, and service; big banks win on branch and ATM scale and on technology
-    - Fraud and Dispute Rights (Regulation E)
-        - What is Regulation E::The federal rule giving consumers dispute rights over electronic fund transfers — debit cards, ATM withdrawals, and ACH #us
-        - Reg E debit-card fraud liability ladder::Report within 2 business days of learning the card is lost and you owe at most {{$50}}; within 60 days of the statement, at most {{$500}}; after 60 days, {{unlimited}} #us
-        - Reg E — reporting the card lost before it is used::Your liability is $0 for anything that happens after the report #us
-        - Reg E error-dispute window::You have {{60 days from the statement date}} to dispute an electronic-transfer error, and the bank must investigate #us
-        - Why credit cards beat debit cards for fraud risk::Debit fraud drains YOUR money while the dispute runs; credit fraud disputes the bank's money — prefer credit cards online
-    - Moving Money — ACH vs Wire
-        - ACH transfer::The US batch payment network behind direct deposit and bill pay — typically free, takes 1-3 business days (same-day options exist), and errors can be reversed #us
-        - Wire transfer::Immediate, individual, and irreversible — typically $15-35 for domestic sends; used for home closings and large one-time payments #us
-        - ACH vs wire — when to use each::ACH for routine and recurring transfers (free, slower, reversible); wire only when same-day settlement and finality matter
-        - Wire fraud rule::Wires cannot be recalled — verify wiring instructions by phone at a number you already trust before sending (title-company wire fraud is common)
-- ## Compounding — Building the Upside
-    - Compound interest (the positive direction)::Returns earn returns — each year's gains join the principal, so growth accelerates instead of staying linear
-    - The Rule of 72::Divide 72 by the annual return percentage to get the approximate years for money to double
-    - Rule of 72 worked example::At 8%, money doubles in about 72 / 8 = {{9 years}}; at 6%, about {{12 years}}
-    - Growth over decades ($10,000 at 8%)::Doubling every ~9 years gives about $20k at year 9, $40k at 18, $80k at 27, $160k at 36 — the last doubling alone adds more than the first three combined
-    - Why starting at 25 beats starting at 35::Ten extra years is one extra doubling — at 8%, roughly TWICE the final amount for the same savings
-    - Compounding runs both directions::The same engine drives the 30-year minimum-payment trap and retirement wealth — the only question is whether you are the borrower or the investor
-    - Rule of 72 applied to debt::At 24% card APR, an unpaid balance doubles in about {{3 years}} (72 / 24)
-- ## Asset vs Liability — Two Definitions
-    - Asset (accounting definition)::Anything you own that has economic value — house, car, investments, cash
-    - Liability (accounting definition)::Anything you owe — mortgage, loans, credit card balances
-    - Asset (cash-flow framing)::Something that puts money IN your pocket each month — by this framing, popularized by Kiyosaki, your home is not an asset while it costs you money
-    - Liability (cash-flow framing)::Something that takes money OUT of your pocket each month, whatever accounting calls it
-    - Why keep both asset definitions::Accounting measures net worth; the cash-flow framing predicts whether a purchase makes you richer or poorer each month — always label which one you're using
-- ## Retirement Saving + Preparation
-    - IRA (Individual Retirement Account)
-        - What is a Traditional IRA::A personal retirement account with tax-deductible contributions (income limits apply if you have a workplace plan) and tax-deferred growth; withdrawals are taxed as income
-        - IRA contribution limit (Traditional and Roth combined)::{{$7,500}}, plus a {{$1,100}} catch-up at age 50+ (as of 2026) #volatile #us
-        - Traditional IRA deduction phase-out (when covered by a workplace plan)::Single $81,000-$91,000; married filing jointly $129,000-$149,000 (as of 2026) #volatile #us
-        - What an IRA deduction phase-out means::You can still contribute, but the tax deduction shrinks proportionally as income moves through the range
-        - Who should use a Traditional IRA::Those without a 401(k), or high current earners who want the deduction now
-        - What is a Roth IRA::A retirement account funded with after-tax dollars — growth and qualified withdrawals are tax-free
-        - Roth IRA five-year rule — contributions::Contributions (not earnings) can be withdrawn anytime, tax- and penalty-free
-        - Roth IRA five-year rule — earnings::Tax-free only once you are 59½ or older AND the account is at least 5 years old
-        - Roth IRA five-year rule — conversions::Each conversion starts its own 5-year clock for penalty-free access
-        - Roth IRA income phase-out::Single and head of household $153,000-$168,000; married filing jointly $242,000-$252,000 (as of 2026) #volatile #us
-        - Backdoor Roth strategy::Contribute to a Traditional IRA, then immediately convert to Roth — bypasses the Roth income limits #us
-        - Backdoor Roth steps::1) Open a Traditional IRA, 2) make a non-deductible contribution, 3) convert to Roth promptly, 4) pay tax only on any gains between the steps
-        - Backdoor Roth trap — the pro-rata rule::If you hold other pre-tax IRA money, conversions are taxed proportionally across ALL your IRAs — the backdoor only works cleanly with no pre-tax IRA balances #us
-        - Choose Roth if::Young, expecting higher future tax rates, wanting estate benefits, or valuing withdrawal flexibility
-        - Choose Traditional if::High current tax rate, expecting a lower rate in retirement, or needing the deduction now
-        - Roth vs Traditional — the mathematical breakeven::At the same tax rate now and in retirement, they are mathematically equivalent
-        - Roth's non-math advantages::No lifetime RMDs, tax-free to heirs, withdrawal flexibility, and tax diversification
-    - 401(k)
-        - What is a 401(k)::An employer-sponsored retirement account funded by payroll deduction, with tax advantages and usually an employer match
-        - 401(k) employee contribution limit::{{$24,500}} (as of 2026) #volatile #us
-        - 401(k) catch-up contributions::An extra {{$8,000}} at 50+; ages 60-63 get a super catch-up of {{$11,250}} instead (as of 2026) #volatile #us
-        - 401(k) total contribution ceiling (employee + employer)::{{$72,000}} (as of 2026) #volatile #us
-        - Mandatory Roth catch-up rule::Workers who earned more than $150,000 in prior-year FICA wages must make 401(k) catch-up contributions as Roth, starting 2026 (as of 2026) #volatile #us
-        - Employer match — typical formulas::100% of your first 3% of salary, or 50% of your first 6%
-        - Why the match is unmissable::It is an instant, guaranteed 50-100% return — no investment on earth reliably beats it
-        - What is vesting::The schedule on which EMPLOYER contributions become yours — your own contributions are always 100% yours immediately
-        - The two vesting schedule types::Cliff (100% at once, e.g. after 3 years) and graded (a percentage per year, e.g. 20% over 5-6 years) #us
-        - Vesting — why check the date before quitting::Leaving one month before a cliff vests can forfeit thousands of employer dollars
-        - Roth 401(k) vs Traditional 401(k)::Same pay-tax-now vs pay-tax-later logic as IRAs, but with NO income limit on the Roth side
-        - 401(k) options when leaving a job::1) Leave it in the old plan, 2) roll to the new employer's 401(k), 3) roll to an IRA, 4) cash out — the worst option (taxes plus penalty)
-        - Direct vs indirect rollover::Always choose direct (trustee-to-trustee) — an indirect rollover withholds 20%, and you must redeposit 100% within 60 days or the shortfall becomes a taxed, penalized withdrawal #us
-        - Early withdrawal penalty on retirement accounts::Generally 10% plus ordinary income tax before age 59½, with limited exceptions #us
-    - Social Security
-        - How Social Security is funded::A dedicated payroll tax — {{6.2%}} from you and 6.2% from your employer, on wages up to a cap ($184,500 as of 2026) #volatile #us
-        - FICA payroll tax total::Social Security 6.2% plus Medicare 1.45% = {{7.65%}} from each of employee and employer #us
-        - Social Security — what kind of system it is::Pay-as-you-go insurance — today's workers fund today's retirees, and your own earnings record sets your benefit #us
-        - Social Security full retirement age::{{67}} for anyone born in 1960 or later #us
-        - Claiming Social Security at 62::A permanent reduction of about {{30%}} versus full retirement age #us
-        - Delaying Social Security past full retirement age::The benefit grows about {{8% per year}} until 70 — roughly {{24%}} more at 70 than at 67 #us
-        - The 62 vs 67 vs 70 trade-off::Claim early if you need the money or expect a short life; delay if healthy and able to wait — delaying is longevity insurance, buying bigger checks for exactly the years you might outlive your savings
-        - Why never delay Social Security past 70::Delayed retirement credits stop accruing at 70 — waiting longer gains nothing #us
-    - Required Minimum Distributions (RMDs)
-        - What is an RMD::A Required Minimum Distribution — the mandatory annual withdrawal from pre-tax retirement accounts, so the deferred taxes finally get paid #us
-        - RMD start age::{{73}} now, rising to {{75}} for those born in 1960 or later (SECURE 2.0) (as of 2026) #volatile #us
-        - RMD penalty for missing a withdrawal::A 25% excise tax on the amount not taken, reduced to 10% if corrected promptly #us
-        - Roth accounts and RMDs::Roth IRAs have no lifetime RMDs (and since 2024, neither do Roth 401(k)s) — a core Roth estate advantage #us
-    - Asset Allocation Basics
-        - What is asset allocation::How you split investments among stocks, bonds, and cash — the biggest controllable driver of both return and volatility
-        - Stocks vs bonds — the basic trade::Stocks are ownership (higher long-run growth, violent swings); bonds are loans (lower return, steadier ride)
-        - Allocation by time horizon::Money needed within about 5 years does not belong in stocks; money decades away belongs mostly in stocks
-        - The age-based allocation heuristic::Roughly 110 or 120 minus your age as your stock percentage — a starting point, not a law
-        - Target-date fund::A one-fund solution that automatically shifts from stocks toward bonds as the named retirement year approaches — the sane default inside a 401(k)
-        - What is rebalancing::Periodically selling what grew and buying what shrank to restore the target mix — a built-in buy-low, sell-high discipline
-    - Index Funds and Costs
-        - What is an index fund::A fund that buys the entire market (e.g. the S&P 500) instead of paying a manager to pick winners — you get the market return at near-zero cost
-        - Why index funds beat most professionals::After fees, the majority of actively managed funds underperform their own index over long periods
-        - What is an expense ratio::The fund's annual fee as a percentage of your balance, deducted invisibly every year
-        - Why expense ratios compound::A 1% fee is not 1% — skimmed every year for 30 years it consumes roughly a QUARTER of the final portfolio compared to a near-free index fund
-        - Expense ratio benchmarks::Good index funds charge 0.02-0.10%; anything near 1% is quietly eating your retirement
-    - Safe Withdrawal Rate
-        - The 4% rule::In year one of retirement withdraw 4% of the portfolio, then adjust that dollar amount for inflation each year — historically this survived every 30-year US retirement
-        - The 4% rule — origin::William Bengen's 1994 study of historical US market data (reinforced by the 1998 Trinity study), assuming 50-75% stocks and a 30-year horizon
-        - The 4% rule — caveats::A planning benchmark, not a guarantee — sequence-of-returns risk, retirements longer than 30 years, fees, and lower expected returns all argue for flexibility (some argue 3.5%; Bengen himself later nudged it upward)
-        - The 25x rule (the 4% rule flipped)::You need roughly 25 times {{annual spending}} to retire — {{$40,000}} a year of spending implies a $1 million portfolio
-        - Sequence-of-returns risk::Bad market years EARLY in retirement do disproportionate damage, because withdrawals force selling shares at lows — the reason "average returns" alone can't answer whether the money lasts
-- ## Debt Management and Elimination
-    - The Debt Toxicity Ladder
-        - Debt toxicity ladder (worst to best)::1) Payday loans, 2) credit cards, 3) personal loans, 4) auto loans, 5) student loans, 6) mortgages
-            - The debt toxicity ladder — what actually orders it::Two things together: the interest rate and whether the debt is attached to an appreciating asset or a legal protection. Payday loans top it because of a triple-digit rate plus a balloon structure designed to roll; mortgages sit at the bottom because the rate is low, the asset appreciates, and the interest may be deductible.
-        - Payday loans — why they top the toxicity ladder::About {{400% average APR}} with a balloon structure — a designed debt trap
-        - Credit card debt — its place on the ladder::{{18-30% APR}}, compounding, with a built-in minimum-payment trap
-        - Personal loans — their place on the ladder::{{6-36% APR}} with fixed payments — better than cards for consolidation
-        - Auto loans — their place on the ladder::{{4-10% APR}}, secured by a depreciating asset — avoid terms over 60 months
-        - Student loans — their place on the ladder::{{4-8% APR}}, flexible repayment, and potential forgiveness programs #us
-        - Mortgages — why they anchor the bottom of the ladder::Historically {{3-7% APR}}, building equity, with interest deductible if you itemize #us
-    - The Minimum Payment Trap
-        - How credit card minimums are calculated::{{1-3% of the balance}} or $25, whichever is greater
-        - The minimum payment trap — the numbers::$5,000 at 18% APR on minimums takes about {{30 years}} and about {{$11,000 in interest}}
-        - The psychological design of minimum payments::Minimums are designed to maximize interest while feeling manageable
-    - Elimination Strategies
-        - Debt avalanche method::List debts by interest rate, highest to lowest; pay minimums on all, and every extra dollar goes to the highest rate
-        - Debt avalanche — the advantage::Mathematically optimal — least total interest and fastest complete elimination
-        - Debt avalanche — the psychological challenge::The highest-rate debt may also be large, so victories come slowly
-        - Debt avalanche — who it suits::Disciplined, math-focused people with steady income
-        - Debt snowball method::List debts by balance, smallest to largest; pay minimums on all, and every extra dollar goes to the smallest balance
-        - Debt snowball — the advantage::Quick wins build momentum — frequent victories keep you in the game
-        - Debt snowball — the cost::More total interest than the avalanche
-        - Debt snowball — who it suits::People who need motivation and visible wins to stay committed
-    - Consolidation
-        - When debt consolidation makes sense::The new rate is at least {{2% lower}} AND you stop using the cards AND you don't stretch the timeline
-        - Personal-loan consolidation advantage::The fixed payment forces payoff in 3-5 years instead of endless minimums
-        - Balance transfer cards::0% APR for 12-21 months — but they demand discipline and charge a {{3-5% transfer fee}}
-        - Balance transfer math::Worth it only if the interest saved exceeds the transfer fee
-        - The home-equity consolidation danger::It converts unsecured debt into debt secured by your house — miss payments and you can lose the home
-    - Negotiating with Creditors
-        - When creditors will negotiate::When you are 60+ days late, or can offer a lump sum
-        - Typical debt settlement range::{{40-60%}} of the balance, for a lump-sum payment
-        - Payment plan concessions creditors offer::Reduced interest, waived fees, extended terms
-        - The settled-debt tax trap::Canceled debt generally counts as taxable income — lenders issue Form 1099-C for $600 or more forgiven #us
-        - How settlement hits your credit report::It shows as "paid, settled for less" for {{7 years}} #us
-- ## Tax Planning and Optimization
-    - Filing Fundamentals
-        - Who must file a tax return::Generally, anyone whose income exceeds the standard deduction for their filing status #us
-        - Why file even when not required::To claim refundable credits or recover taxes that were withheld
-        - Head of household vs single::Head of household gets a larger standard deduction ($24,150 vs $16,100) and wider brackets (as of 2026) #volatile #us
-        - Head of household requirements::Unmarried, paying more than 50% of household costs, with a qualifying dependent #us
-        - Married filing jointly vs separately::Jointly is almost always better — the exceptions are income-driven student-loan plans and liability separation #us
-    - Record Keeping
-        - Tax records to keep 3 years::Most returns and their supporting documents #us
-        - Tax records to keep 7 years::Anything involving loss claims, bad-debt deductions, or underreported income over 25% #us
-        - Tax records to keep forever::The returns themselves, cost basis for investments and property, and major home improvements
-        - Digital tax records::The IRS accepts them, as long as they are complete and legible #us
-    - Audits
-        - Audit rate reality::About {{0.4%}} of returns overall #us #volatile
-            - Audit rate — who actually gets audited more::Roughly 1-2% of very high incomes and around 5% of returns reporting no income, against ~0.4% overall — the rate rises at both tails (as of 2026) #us #volatile
-        - Audit red flags::Home office, 100% business vehicle use, outsized charity, suspiciously round numbers, cash businesses
-        - The three audit types::Correspondence (by mail — most common), office, and field
-        - Your rights in an audit::Representation, appeal, a payment plan, and innocent-spouse relief #us
-    - How Brackets Actually Work
-        - Marginal tax rate::The rate on your NEXT dollar earned
-        - Effective tax rate::Total tax divided by total income — always lower than your marginal rate
-        - The seven federal bracket rates::10, 12, 22, 24, 32, 35, and 37 percent — made permanent by the 2025 tax law (as of 2026) #volatile #us
-        - How progressive brackets work (single-filer example)::The first $12,400 is taxed at 10%, the next slice at 12%, and so on — only the dollars inside each slice pay that slice's rate (as of 2026) #volatile #us
-        - The raise-into-a-higher-bracket misconception::A raise NEVER lowers your after-tax income — only the dollars above the bracket line are taxed at the higher rate
-    - Types of Income
-        - Ordinary income::Wages, interest, and short-term gains — taxed at regular bracket rates #us
-        - Long-term capital gains::Assets held over {{1 year}} — taxed at 0%, 15%, or 20% depending on income #us
-        - Qualified dividends::Taxed at capital-gains rates, not ordinary rates #us
-        - Tax-free income sources::Municipal bond interest, Roth withdrawals, gifts received, life insurance death benefits #us
-    - Standard vs Itemized
-        - Standard deduction amounts::Single {{$16,100}}, married filing jointly {{$32,200}} (as of 2026) #volatile #us
-        - When to itemize::When mortgage interest + SALT + charity together exceed your standard deduction #us
-        - SALT deduction cap::State and local taxes capped at {{$40,400}}, phasing down toward $10,000 above roughly $505,000 of income; scheduled to snap back to $10,000 in 2030 (as of 2026) #volatile #us
-        - Charitable bunching strategy::Combine two years of giving into one year to clear the standard-deduction hurdle
-    - Tax-Advantaged Accounts
-        - The contribution order (steps 4-8 of the money order) lives under The Money Priority Order — not repeated here.
-        - The HSA triple tax advantage::Deductible going in, tax-free growth, tax-free coming out for medical costs — the only account with all three #us
-        - HSA contribution limits::Self-only {{$4,400}}, family {{$8,750}}, plus a $1,000 catch-up at 55 (as of 2026) #volatile #us
-        - HSA eligibility requirement::You must be on an HSA-qualified high-deductible health plan — minimum deductible $1,700 self / $3,400 family (as of 2026) #volatile #us
-        - HSA after age 65::Withdraw for any reason paying only income tax — it becomes a Traditional IRA with a medical bonus #us
-        - HSA investment strategy::Keep about $1,000 in cash for near-term bills and invest the rest for long-term growth
-        - The HSA receipt-saving hack::Save medical receipts forever — you can reimburse yourself decades later, tax-free, while the money compounds in between #us
-        - Health FSA use-it-or-lose-it rule::Spend it by year end or lose it — the limit is $3,400, and some plans allow a $680 carryover (as of 2026) #volatile #us
-        - FSA contribution rule of thumb::Contribute only what you are certain to spend
-        - Dependent care FSA::{{$7,500}} household limit (raised from $5,000 by the 2025 tax law) for pre-tax childcare dollars (as of 2026) #volatile #us
-    - Year-End Moves
-        - Tax loss harvesting::Sell losing investments to offset gains, plus up to {{$3,000}} of ordinary income per year #us
-        - The wash sale rule::Rebuy the same or a substantially identical security within 30 days before or after the sale (a 61-day window) and the loss is disallowed #us
-        - Capital loss carryforward::Unused losses carry forward indefinitely #us
-        - Retirement contribution deadlines::401(k) by {{December 31}}; IRA all the way to the {{April tax deadline}} #us
-        - When estimated tax payments are required::Quarterly, if you expect to owe more than {{$1,000}} #us
-        - The estimated-tax safe harbor::Pay 90% of this year's tax, or 100% of last year's (110% for higher incomes), to avoid penalties #us
-- ## Estate Planning, Gifts + Trusts
-    - Gift Tax Basics
-        - Annual gift tax exclusion::{{$19,000}} per donor, per recipient (as of 2026) #volatile #us
-        - Annual gift exclusion reset::It resets every year — use it or lose it #us
-        - Gift-splitting::A married couple treats gifts as if each spouse gave half — {{$38,000}} per recipient, but electing it requires filing Form 709 (as of 2026) #volatile #us
-        - Lifetime gift and estate tax exemption::{{$15 million}} per person, set by the 2025 tax law starting in 2026 and indexed after (as of 2026) #volatile #us
-        - Estate tax rate above the exemption::Up to {{40%}} #us
-        - When the lifetime exemption gets used::Only when a gift exceeds the annual exclusion, or at death #us
-        - Annual exclusion vs lifetime exemption::Annual-exclusion gifts are completely separate — they never touch the lifetime exemption #us
-        - Gift over the exclusion — worked example::Give $50,000 to one person and {{$19,000}} uses the annual exclusion while the remaining {{$31,000}} chips away at the lifetime exemption (as of 2026) #volatile #us
-    - Present vs Future Interest
-        - Present interest gift::A gift the recipient can use immediately
-        - Future interest gift::A gift where the recipient's access is delayed — most gifts into trusts
-        - Which gifts qualify for the annual exclusion::Only present-interest gifts #us
-        - A direct cash gift — present or future interest?::Present interest
-        - A gift to a trust — present or future interest?::Typically future interest, so no annual exclusion — unless a Crummey letter fixes it
-    - The Crummey Mechanism
-        - Crummey letter — where the name comes from::Crummey v. Commissioner (1968) #us
-        - Crummey letter — its purpose::It converts future-interest trust gifts into present-interest gifts, so the annual exclusion applies #us
-        - Crummey letter — what it notifies beneficiaries of::Their temporary right to withdraw the gift
-        - Crummey withdrawal window::Typically {{30-60 days}}
-        - Do Crummey beneficiaries actually withdraw?::No — withdrawing would defeat the trust's purpose
-        - Why the Crummey trick works::Having the OPTION to withdraw counts as present interest, even if never exercised #us
-        - The Crummey formula::Gift to trust + withdrawal right + lapse = present interest = annual-exclusion eligible #us
-    - ILIT (Irrevocable Life Insurance Trust)
-        - What is an ILIT::An irrevocable trust that owns a life insurance policy on you #us
-        - ILIT — the main benefit::The death benefit skips your estate entirely, avoiding estate tax #us
-        - Why ILITs need Crummey letters::The premium payments are gifts to the trust — future interest unless the letters convert them #us
-        - ILIT funding sequence::1) You gift cash to the trust, 2) the trustee sends Crummey letters, 3) the withdrawal rights lapse, 4) the trustee pays the premium #us
-        - Is an ILIT's insurance payout in your estate?::Never — the trust owned the policy, not you #us
-    - Draining the Estate
-        - The estate-draining pipeline::Annual-exclusion gifts are a separate pipeline moving money out of your estate, tax-free, every single year #us
-        - How annual gifting reduces estate tax::It shrinks the estate, so less sits above the exemption at death #us
-        - Estate draining — the 20-year math::$38,000 a year to 4 people for 20 years moves {{$3.04 million}} out of the estate, all tax-free (as of 2026) #volatile #us
-    - Portability
-        - What is portability::A surviving spouse can inherit the deceased spouse's unused lifetime exemption #us
-        - Portability — who can receive the unused exemption::The surviving spouse only — never the children #us
-        - Maximum combined exemption with full portability::About {{$30 million}} for a couple (as of 2026) #volatile #us
-        - How portability is elected::By filing an estate tax return — it is NOT automatic #us
-    - Gift Tax Filing
-        - Gifts at or under the annual exclusion::Free — no forms, no tax, no impact ($19,000 as of 2026) #volatile #us
-        - Gifts over the annual exclusion::File Form 709; the excess chips away at the lifetime exemption, with no tax due until that is exhausted #us
-        - A trust gift withOUT a Crummey letter::No annual exclusion — the whole gift burns lifetime exemption #us
-        - A trust gift WITH a Crummey letter::The annual exclusion works #us
-- ## Disability Insurance — Protecting the Income Everything Else Assumes
-    - Why disability insurance ranks above life insurance for most working-age people::A disabling illness or injury before retirement is more likely than death, and it is financially worse — the income stops while the expenses continue and often rise. Every other card in this file silently assumes an income; this is the insurance on that assumption. #us
-    - What disability insurance actually replaces::A percentage of your income while you cannot work — typically around 60% of gross, which is set that low deliberately so that a tax-free benefit lands near your actual take-home and you keep an incentive to return to work. #volatile #us
-    - Own-occupation vs any-occupation — the single most important policy term::Own-occupation pays if you cannot do YOUR job. Any-occupation pays only if you cannot do ANY job you are reasonably suited for. Any-occupation is far cheaper and far weaker — a surgeon who cannot operate but could answer phones collects nothing under it. #us
-    - Elimination period — what it is and how to choose it::The waiting time between disability and the first payment, commonly 90 days. It functions like a deductible: longer means cheaper, and your emergency fund is what has to cover the gap. Match the elimination period to the months of expenses you actually hold. #us
-    - Benefit period — what it is and what to choose::How long payments continue once they start. To age 65 or 67 is the meaningful choice for a career-ending disability; a two-year benefit period covers an interruption, not a catastrophe. #us
-    - Group vs individual disability policy — the trade::Group coverage through an employer is cheap or free but usually any-occupation, capped, and gone when the job goes. An individual policy costs more, follows you, and can be own-occupation. #us
-    - Why disability benefits are sometimes taxed and sometimes not::The IRS taxes the premium or the benefit, never both. If the premiums were paid with money that was never taxed, the benefit is taxable; if you paid them with after-tax dollars, the benefit is tax-free. #us
-    - Disability benefit taxability — the three common cases::1) Employer pays the premium and you were not taxed on it: benefits taxable. 2) You pay with after-tax dollars: benefits tax-free. 3) You pay through a pre-tax payroll deduction or cafeteria plan: benefits taxable, because that money was never taxed either. #us
-    - The split-premium case::If employer and employee share the cost, the benefit is taxable in proportion to the share the employer paid. Paying your portion with after-tax dollars keeps that portion tax-free. #us
-    - Why the self-employed and variable-income earners need this most::There is no employer group policy, no sick leave, and no short-term disability program behind you — an individual policy is the only layer that exists. #us
-    - Why Social Security Disability Insurance is not a substitute::SSDI uses a strict any-occupation standard, requires the condition to last at least a year or be terminal, and most initial applications are denied. It is a floor of last resort, not income replacement. #volatile #us
-    - What to check on any policy before buying::1) Own-occupation or any-occupation, 2) elimination period, 3) benefit period, 4) whether it is non-cancelable and guaranteed renewable, 5) whether benefits rise with inflation, 6) whether residual or partial disability is covered. #us
+Life Skills v2 - Personal Finance
+    The Money Priority Order
+        Scope note (not a card) — this file is US-specific throughout (FICO, IRS, FDIC/NCUA, Social Security); state-variable rules are flagged where they appear.
+        The canonical money order (what to fund, in sequence)? 1. >>>
+            1. $1,000 starter emergency fund
+            2. eliminate all debt over 15% APR
+            3. full emergency fund (3-6 months of essentials, tiered by income stability)
+            4. 401(k) up to the employer match
+            5. HSA to the max
+            6. IRA to the max
+            7. 401(k) to the max
+            8. taxable investing
+            The money order — why this sequence and not another? >> Each step is ordered by guaranteed return: the starter fund prevents new high-rate debt, killing 15%+ debt is a risk-free return no investment matches, the full fund protects everything downstream from forced liquidation, the employer match is an immediate 50-100%, then the tax advantages descend in value. Follow the yield.
+        The money order — why each step is where it is? 1. >>>
+            1. $1,000 stops the next surprise from becoming new debt
+            2. killing 20-30% APR debt is a guaranteed return nothing else matches
+            3. the full fund is the moat that protects every later step
+            4. the match is free money
+            5. the HSA has the triple tax advantage, 6-7) tax advantage, 8) taxable comes last because its only edge is flexibility
+        How the emergency-fund phases and the contribution order interlock? >> They are one sequence, not two competing lists
+            the fund phases (starter $1,000, kill >15% APR debt, full 3-6 month fund) are steps 1-3 of the same order whose steps 4-8 are the contribution order (match, HSA, IRA, 401(k) max, taxable); you do not start step 4 until steps 1-3 are done
+        Why the full emergency fund comes before even the 401(k) match? >> The match is a 50-100% return, but it sits behind penalties and lockups
+            the fund is what keeps a job loss from forcing penalized retirement withdrawals or new card debt — protection before optimization, and the match is still there a few months later
+        Why rebuilding a spent emergency fund outranks extra debt payments? >> The protective asset must exist before optimizing — with no fund, the next emergency lands on a 20-30% APR card and undoes every optimization
+            keep making minimum debt payments and rebuild the fund first
+    Understanding Credit Scores
+        What is a credit score? >> A three-digit number (300-850) representing your creditworthiness to lenders, affecting whether you can borrow and the interest rates you'll pay
+        What credit scores affect beyond loans? >> Loan approval, interest rates, apartment rentals, insurance premiums, and sometimes job eligibility
+        Credit score — the mortgage motivator? >> A 100-point credit score difference can mean $40,000+ more in interest on a 30-year mortgage
+        The five FICO factors and their weights? >> Payment history 35%, credit utilization 30%, length of credit history 15%, new credit 10%, credit mix 10%
+            FICO weights — why payment history and utilization dominate? >> The score predicts one thing: the probability you miss payments in the next couple of years.
+                Whether you have missed them before and how stretched you are right now are simply the two most predictive available signals, so they carry two-thirds of the weight.
+        Payment History (35% of score)
+            Payment history (FICO) — what it measures? >> Whether you pay your bills on time
+            Late payment score damage ladder? >> 30 days late costs 60-110 points; 60 days, 80-130; 90 days costs 90-150 points
+            How long late payments stay on your credit report? >> 7 years from the date of first delinquency ##us
+            Recovery after a late payment :: Make every future payment on time — the impact fades, with most recovery within 2 years
+        Credit Utilization (30% of score)
+            What is credit utilization? >> The percentage of your available credit you are currently using
+            Credit utilization formula :: (Total credit card balances divided by total credit limits) x 100
+            Optimal credit utilization :: Below 10% for the best score, and always below 30% to avoid score damage
+                Credit utilization — why below 30% and better below 10%? >> Scoring models read high utilization as dependence on borrowed money, so the ratio is a distress proxy rather than a measure of debt size.
+                    It is also recalculated from the reported statement balance each month, which is why paying before the statement closes moves the score even if you always pay in full.
+            Credit utilization — per-card vs overall? >> Both matter — keep each individual card below 30% AND the total below 30%
+            Quick utilization improvement hack :: Pay balances down before the statement closes, so the bureau sees the lower number
+            Why keeping old cards open helps utilization? >> More total available credit means a lower utilization percentage on the same spending
+        Length of Credit History (15% of score)
+            Length of credit history (FICO) — what it measures? >> The average age of all your accounts and the age of your oldest account
+            Why closing old credit cards hurts your score? >> It reduces average account age AND raises your utilization ratio — and can hurt for years
+            Authorized user strategy :: Being added to someone's old, well-managed account can boost your score within 30-60 days
+            Authorized user — requirements for a real boost? >> The account must be old, low-utilization, perfect payment history, and must actually report authorized users to the bureaus
+        New Credit (10% of score)
+            Hard inquiry impact? >> Typically a 5-10 point temporary drop, affecting the score for about 12 months
+            Rate-shopping exception? >> Multiple inquiries for the same loan type within 14-45 days count as a single inquiry
+            Inquiry red-flag threshold :: More than 6 inquiries in 6 months signals high risk to lenders
+        Credit Mix (10% of score)
+            Credit mix (FICO) — the ideal mix? >> Credit cards (revolving credit) AND installment loans (auto, personal, mortgage)
+            Why credit mix matters? >> It shows you can manage different types of credit responsibly
+        Credit Score Ranges
+            Credit score 800-850 (Exceptional) :: Best rates on everything, automatic approvals, premium card eligibility
+            Credit score 740-799 (Very Good) :: Above-average rates, easy approvals, most premium cards available
+            Credit score 670-739 (Good) :: Average interest rates, generally approved, some premium products available
+            Credit score 580-669 (Fair) :: Subprime rates, may need co-signers, limited options, higher deposits required
+            Credit score 300-579 (Poor) :: May not qualify at all; secured cards and very high rates if approved
+        Checking Your Credit
+            Where to get free official credit reports? >> AnnualCreditReport.com — free reports from each of the three bureaus (now available weekly, not just annually) ##us
+            The three credit bureaus :: Experian, Equifax, and TransUnion ##us
+            Why scores differ between bureaus? >> Each bureau may hold different information and uses slightly different scoring models
+            Free credit score monitoring options :: Credit Karma (VantageScore), Discover Scorecard (FICO), and many banks' free FICO access
+            Which score lenders actually use? >> About 90% use FICO, mostly FICO 8 or FICO 9
+        Credit Report Errors and Disputes
+            Credit report error rate :: 20% of reports contain errors, and 5% have errors serious enough to affect scores
+            Common credit report errors :: Wrong accounts, incorrect payment history, outdated negative information, mixed files from similar names
+            How to dispute a credit report error? >>> ##us
+                - Get the report from the bureau
+                - document the error
+                - write a dispute letter with evidence
+                - send it by certified mail
+                - the bureau must investigate within 30 days
+            What a dispute letter must include? >> Your information, the specific error, supporting documents, and a request for removal or correction
+        Building Credit from Zero
+            Credit-building ladder (from no credit)? 1. >>>
+                1. Secured credit card
+                2. regular credit card
+                3. multiple cards
+                4. add an installment loan
+            Secured credit card :: You put down a deposit (usually $200-500) that becomes your credit limit
+            When to graduate from secured to regular card? >> After 6-12 months of perfect payment history
+            Credit builder loan :: The bank holds the loan amount while you make payments — a payment history you buy in installments
+            Student credit card path :: Easier approval while in college, and often auto-graduates to better cards
+        Credit Mistakes to Avoid
+            Applying for multiple cards at once? >> Stacks multiple hard inquiries and looks desperate to lenders
+            Co-signing a loan — the real risk? >> You are 100% responsible if the primary borrower defaults, and it counts against your credit and debt-to-income ratio
+            Letting a card sit unused :: Cards with no activity may be closed by the issuer — use each card at least once every 6 months
+            Maxing out a card you pay in full? >> High balances at statement time still hurt your score until the next statement reports
+    Emergency Fund Strategy
+        Emergency Fund Basics
+            What is an emergency fund? >> A separate, liquid savings account holding 3-6 months of essential living expenses, used only for true financial emergencies
+            Why the emergency fund must be separate? >> It prevents the psychological temptation to spend and creates a mental barrier for non-emergencies
+            Why the emergency fund must be liquid? >> True emergencies require immediate access, without penalties or market-timing problems
+            What counts as a true emergency? >> Job loss, a medical emergency insurance won't cover, critical home repair (roof leak, furnace failure), critical car repair needed to get to work, or a family emergency requiring travel
+            What is NOT an emergency? >> Vacations, sales and deals, regular maintenance, planned expenses, wants, lifestyle upgrades, and investment "opportunities"
+        Sizing the Fund
+            Emergency fund sizing — what counts as monthly essentials? >> Rent or mortgage, utilities, groceries, insurance premiums, minimum debt payments, transportation, medications
+            Emergency fund sizing — what to exclude? >> Entertainment, dining out, subscriptions, savings contributions, extra debt payments, discretionary spending
+            A 3-month fund is enough if? >> Dual income, stable jobs, multiple income sources, low fixed expenses, good insurance coverage
+            A 6-month fund fits if :: Single income, average job stability, moderate fixed expenses, dependent family members
+                A 9-12 month fund fits if ;; Freelancer or contractor, commission-based income, high-risk industry, medical conditions, or poor insurance
+                Fund sizing — industry volatility ;; Tech and startups are high risk, government and healthcare low, retail and hospitality moderate
+                Fund sizing — regional economics ;; Single-industry towns run higher risk; diverse metros run lower
+                Fund sizing — personal health ;; Chronic conditions call for a larger fund
+        Building the Fund (steps 1-3 of the money order)
+            Emergency fund Phase 1? >> A $1,000 starter fund — covers the most common emergencies and breaks the paycheck-to-paycheck cycle
+            Why $1,000 comes first? >> It covers car repairs, appliance replacement, and minor medical bills while the saving habit forms
+            Five ways to raise $1,000 fast? >> Sell items, tax refund, side gig, temporary second job, one-time overtime push
+            Emergency fund Phase 2? >> Kill high-interest debt — pay minimums on everything plus extra on all debt over 15% APR before finishing the full fund
+            Why toxic debt gets paid before the full fund? >> Credit card interest at 20-30% exceeds any savings return (top high-yield accounts pay roughly 4% as of 2026) ##volatile ##us
+            Exception — build the full fund first, despite high-APR debt, if? >> Job loss looks imminent, or you have no access to any credit
+            Emergency fund Phase 3 :: Build to your full calculated 3-6 month target
+            Savings rate while building the fund? >> 20% of gross income until funded, then redirect to the next step of the money order
+            Time to a full fund at different savings rates? >> 10% of income takes 30-60 months, 20% takes 15-30, 30% takes 10-20
+            Emergency fund Phase 4 (optional opportunity fund)? >> An extra 3-6 months for job transitions, a home down payment, or genuine opportunities
+        Where to Keep It
+            Best home for the emergency fund? >> A high-yield savings account — FDIC insured, liquid within 1-2 days, separate from checking, roughly 3.75-4.2% APY at the top accounts (as of 2026) ##volatile ##us
+            Why not a traditional savings account? >> Brick-and-mortar banks pay 0.01-0.10% APY vs roughly 4% at online banks (as of 2026) ##volatile ##us
+            The $10,000 emergency-fund math? >> At about 4%, $10,000 earns roughly $400 a year vs $1-10 at a traditional bank (as of 2026) ##volatile ##us
+            Money market account as an alternative? >> Similar to a high-yield savings account but may add check-writing and ATM access
+            CDs for the emergency fund? >> No — early-withdrawal penalties defeat the whole point of emergency access
+            Investing the emergency fund? >> No — market volatility means the fund might be down 30% exactly when you need it most
+            I Bonds for part of the fund? >> Up to about a third can go in — but only after the 1-year lockup, and with a 3-month interest penalty before 5 years, in exchange for inflation protection ##us
+        Using the Fund
+            The emergency test (three questions) :: Is it unexpected? Is it necessary? Is it urgent? — all three must be YES
+                If any emergency-test answer is no ;; Find alternative funding or delay the expense
+            Job loss protocol — first three actions? 1. >>>
+                1. Cut all non-essential expenses
+                2. calculate your monthly burn rate
+                3. apply for unemployment the same day
+            Job-loss budget adjustments :: Cancel subscriptions, pause retirement contributions, negotiate payment plans, apply for assistance programs
+            Medical emergency money protocol :: Verify insurance coverage first, request itemized bills, and negotiate payment plans before touching the fund
+            Home emergency — first three actions? 1. >>>
+                1. Get multiple repair quotes
+                2. consider temporary fixes
+                3. explore insurance claims first
+        Replenishing After Use
+            Rebuild timeline after using the fund? >> Within 6-12 months, to restore the protection
+            Psychology of using the emergency fund? >> It can feel like failure but it is success — the fund did its job
+        Emergency Fund Mistakes
+            Mistake — keeping the fund too accessible? >> Same bank as checking makes transfers too easy for non-emergencies
+            Mistake — not adjusting for life changes? >> Marriage, kids, and a home purchase all require recalculating the target
+            Mistake — counting home equity or credit cards as the fund? >> Those are debt, not savings — and credit lines get frozen in exactly the recessions when you'd need them
+            Mistake — investing before the fund exists? >> Market gains mean nothing if an emergency forces you to sell at a loss
+    Banking and Financial Institutions
+        Checking Accounts
+            Checking account — ways to avoid monthly fees? >> Minimum balance (typically $1,500), direct deposit, student or senior status, or an online-only bank
+            Checking account — why the ATM network matters? >> A large network or fee reimbursement saves $5-10 per out-of-network withdrawal
+            Overdraft protection options? >>>
+                - Link to savings (cheapest)
+                - a line of credit
+                - opt out entirely (the transaction is declined)
+            Overdraft fee reality? >> Typically $25-35 per transaction at banks that still charge them ##volatile ##us
+                several large banks have cut or eliminated the fee, but where it survives one coffee can cost $140 if several charges are pending (as of 2026)
+            Checking features worth having :: Mobile deposit, bill pay, Zelle or instant transfers, debit card controls, fraud protection
+            The two-bank strategy :: Local checking for access plus online savings for growth
+            Why online banks pay higher interest? >> No branch network means lower overhead, passed on as rate
+        Deposit Insurance
+            What is FDIC insurance? >> Federal insurance on bank deposits — if the bank fails, you are made whole up to the limit ##us
+            FDIC coverage limit? >> $250,000 per depositor, per insured bank, per ownership category ##us
+            FDIC — what's covered? >> Checking, savings, CDs, and money market deposit accounts
+            FDIC — what's NOT covered? >> Investments (stocks, bonds, mutual funds), crypto, and safe deposit box contents
+            Extending deposit insurance past $250,000 :: Use different banks, or different ownership categories (individual, joint, trust) ##us
+            What is a credit union? >> A member-owned, not-for-profit alternative to a bank — profits come back as lower fees and better rates; you join through an employer, region, or association
+            NCUA insurance? >> The credit-union equivalent of FDIC — $250,000 per share owner, per insured credit union, per ownership category ##us
+            Bank vs credit union trade-off :: Credit unions tend to win on fees, loan rates, and service; big banks win on branch and ATM scale and on technology
+        Fraud and Dispute Rights (Regulation E)
+            What is Regulation E? >> The federal rule giving consumers dispute rights over electronic fund transfers — debit cards, ATM withdrawals, and ACH ##us
+            Reg E debit-card fraud liability ladder? >> Report within 2 business days of learning the card is lost and you owe at most $50; within 60 days of the statement, at most $500; after 60 days, unlimited ##us
+            Reg E — reporting the card lost before it is used? >> Your liability is $0 for anything that happens after the report ##us
+            Reg E error-dispute window :: You have 60 days from the statement date to dispute an electronic-transfer error, and the bank must investigate ##us
+            Why credit cards beat debit cards for fraud risk? >> Debit fraud drains YOUR money while the dispute runs; credit fraud disputes the bank's money — prefer credit cards online
+        Moving Money — ACH vs Wire
+            ACH transfer :: The US batch payment network behind direct deposit and bill pay — typically free, takes 1-3 business days (same-day options exist), and errors can be reversed ##us
+            Wire transfer :: Immediate, individual, and irreversible — typically $15-35 for domestic sends; used for home closings and large one-time payments ##us
+            ACH vs wire — when to use each? >> ACH for routine and recurring transfers (free, slower, reversible); wire only when same-day settlement and finality matter
+            Wire fraud rule :: Wires cannot be recalled — verify wiring instructions by phone at a number you already trust before sending (title-company wire fraud is common)
+    Compounding — Building the Upside
+        Compound interest (the positive direction) :: Returns earn returns — each year's gains join the principal, so growth accelerates instead of staying linear
+        The Rule of 72 :: Divide 72 by the annual return percentage to get the approximate years for money to double
+        Rule of 72 worked example: At 8%, money doubles in about 72 / 8 = {{9 years}}; at 6%, about {{12 years}}
+        Growth over decades ($10,000 at 8%)? >> Doubling every ~9 years gives about $20k at year 9, $40k at 18, $80k at 27, $160k at 36
+            the last doubling alone adds more than the first three combined
+        Why starting at 25 beats starting at 35? >> Ten extra years is one extra doubling — at 8%, roughly TWICE the final amount for the same savings
+        Compounding runs both directions :: The same engine drives the 30-year minimum-payment trap and retirement wealth — the only question is whether you are the borrower or the investor
+            Rule of 72 applied to debt ;; At 24% card APR, an unpaid balance doubles in about 3 years (72 / 24)
+    Asset vs Liability — Two Definitions
+        Asset (accounting definition) :: Anything you own that has economic value — house, car, investments, cash
+        Liability (accounting definition) :: Anything you owe — mortgage, loans, credit card balances
+        Asset (cash-flow framing) :: Something that puts money IN your pocket each month — by this framing, popularized by Kiyosaki, your home is not an asset while it costs you money
+        Liability (cash-flow framing) :: Something that takes money OUT of your pocket each month, whatever accounting calls it
+        Why keep both asset definitions? >> Accounting measures net worth; the cash-flow framing predicts whether a purchase makes you richer or poorer each month — always label which one you're using
+    Retirement Saving + Preparation
+        IRA (Individual Retirement Account)
+            What is a Traditional IRA? >> A personal retirement account with tax-deductible contributions (income limits apply if you have a workplace plan) and tax-deferred growth; withdrawals are taxed as income
+            IRA contribution limit (Traditional and Roth combined)? >> $7,500, plus a $1,100 catch-up at age 50+ (as of 2026) ##volatile ##us
+            Traditional IRA deduction phase-out (when covered by a workplace plan)? >> Single $81,000-$91,000; married filing jointly $129,000-$149,000 (as of 2026) ##volatile ##us
+            What an IRA deduction phase-out means? >> You can still contribute, but the tax deduction shrinks proportionally as income moves through the range
+            Who should use a Traditional IRA? >> Those without a 401(k), or high current earners who want the deduction now
+            What is a Roth IRA? >> A retirement account funded with after-tax dollars — growth and qualified withdrawals are tax-free
+            Roth IRA five-year rule — contributions? >> Contributions (not earnings) can be withdrawn anytime, tax- and penalty-free
+            Roth IRA five-year rule — earnings? >> Tax-free only once you are 59½ or older AND the account is at least 5 years old
+            Roth IRA five-year rule — conversions? >> Each conversion starts its own 5-year clock for penalty-free access
+            Roth IRA income phase-out :: Single and head of household $153,000-$168,000; married filing jointly $242,000-$252,000 (as of 2026) ##volatile ##us
+            Backdoor Roth strategy :: Contribute to a Traditional IRA, then immediately convert to Roth — bypasses the Roth income limits ##us
+            Backdoor Roth steps? >>>
+                - Open a Traditional IRA
+                - make a non-deductible contribution
+                - convert to Roth promptly
+                - pay tax only on any gains between the steps
+            Backdoor Roth trap — the pro-rata rule? >> If you hold other pre-tax IRA money, conversions are taxed proportionally across ALL your IRAs — the backdoor only works cleanly with no pre-tax IRA balances ##us
+            Choose Roth if :: Young, expecting higher future tax rates, wanting estate benefits, or valuing withdrawal flexibility
+            Choose Traditional if :: High current tax rate, expecting a lower rate in retirement, or needing the deduction now
+            Roth vs Traditional — the mathematical breakeven? >> At the same tax rate now and in retirement, they are mathematically equivalent
+            Roth's non-math advantages :: No lifetime RMDs, tax-free to heirs, withdrawal flexibility, and tax diversification
+        401(k)
+            What is a 401(k)? >> An employer-sponsored retirement account funded by payroll deduction, with tax advantages and usually an employer match
+            401(k) employee contribution limit? >> $24,500 (as of 2026) ##volatile ##us
+            401(k) catch-up contributions? >> An extra $8,000 at 50+; ages 60-63 get a super catch-up of $11,250 instead (as of 2026) ##volatile ##us
+            401(k) total contribution ceiling (employee + employer)? >> $72,000 (as of 2026) ##volatile ##us
+            Mandatory Roth catch-up rule :: Workers who earned more than $150,000 in prior-year FICA wages must make 401(k) catch-up contributions as Roth, starting 2026 (as of 2026) ##volatile ##us
+                Employer match — typical formulas ;; 100% of your first 3% of salary, or 50% of your first 6%
+            Why the match is unmissable? >> It is an instant, guaranteed 50-100% return — no investment on earth reliably beats it
+            What is vesting? >> The schedule on which EMPLOYER contributions become yours — your own contributions are always 100% yours immediately
+            The two vesting schedule types :: Cliff (100% at once, e.g. after 3 years) and graded (a percentage per year, e.g. 20% over 5-6 years) ##us
+            Vesting — why check the date before quitting? >> Leaving one month before a cliff vests can forfeit thousands of employer dollars
+            Roth 401(k) vs Traditional 401(k) :: Same pay-tax-now vs pay-tax-later logic as IRAs, but with NO income limit on the Roth side
+            401(k) options when leaving a job? >>>
+                - Leave it in the old plan
+                - roll to the new employer's 401(k)
+                - roll to an IRA
+                - cash out — the worst option (taxes plus penalty)
+            Direct vs indirect rollover :: Always choose direct (trustee-to-trustee) — an indirect rollover withholds 20%, and you must redeposit 100% within 60 days or the shortfall becomes a taxed, penalized withdrawal ##us
+                Early withdrawal penalty on retirement accounts ;; Generally 10% plus ordinary income tax before age 59½, with limited exceptions ##us
+        Social Security
+            How Social Security is funded? >> A dedicated payroll tax — 6.2% from you and 6.2% from your employer, on wages up to a cap ($184,500 as of 2026) ##volatile ##us
+            FICA payroll tax total: Social Security 6.2% plus Medicare 1.45% = {{7.65%}} from each of employee and employer ##us
+            Social Security — what kind of system it is? >> Pay-as-you-go insurance — today's workers fund today's retirees, and your own earnings record sets your benefit ##us
+            Social Security full retirement age :: 67 for anyone born in 1960 or later ##us
+            Claiming Social Security at 62 :: A permanent reduction of about 30% versus full retirement age ##us
+            Delaying Social Security past full retirement age? >> The benefit grows about 8% per year until 70 — roughly 24% more at 70 than at 67 ##us
+            The 62 vs 67 vs 70 trade-off? >> Claim early if you need the money or expect a short life
+                delay if healthy and able to wait — delaying is longevity insurance, buying bigger checks for exactly the years you might outlive your savings
+            Why never delay Social Security past 70? >> Delayed retirement credits stop accruing at 70 — waiting longer gains nothing ##us
+        Required Minimum Distributions (RMDs)
+            What is an RMD? >> A Required Minimum Distribution — the mandatory annual withdrawal from pre-tax retirement accounts, so the deferred taxes finally get paid ##us
+            RMD start age :: 73 now, rising to 75 for those born in 1960 or later (SECURE 2.0) (as of 2026) ##volatile ##us
+                RMD penalty for missing a withdrawal ;; A 25% excise tax on the amount not taken, reduced to 10% if corrected promptly ##us
+            Roth accounts and RMDs :: Roth IRAs have no lifetime RMDs (and since 2024, neither do Roth 401(k)s) — a core Roth estate advantage ##us
+        Asset Allocation Basics
+            What is asset allocation? >> How you split investments among stocks, bonds, and cash — the biggest controllable driver of both return and volatility
+            Stocks vs bonds — the basic trade? >> Stocks are ownership (higher long-run growth, violent swings); bonds are loans (lower return, steadier ride)
+            Allocation by time horizon :: Money needed within about 5 years does not belong in stocks; money decades away belongs mostly in stocks
+            The age-based allocation heuristic :: Roughly 110 or 120 minus your age as your stock percentage — a starting point, not a law
+            Target-date fund :: A one-fund solution that automatically shifts from stocks toward bonds as the named retirement year approaches — the sane default inside a 401(k)
+            What is rebalancing? >> Periodically selling what grew and buying what shrank to restore the target mix — a built-in buy-low, sell-high discipline
+        Index Funds and Costs
+            What is an index fund? >> A fund that buys the entire market (e.g. the S&P 500) instead of paying a manager to pick winners — you get the market return at near-zero cost
+            Why index funds beat most professionals? >> After fees, the majority of actively managed funds underperform their own index over long periods
+            What is an expense ratio? >> The fund's annual fee as a percentage of your balance, deducted invisibly every year
+            Why expense ratios compound? >> A 1% fee is not 1% — skimmed every year for 30 years it consumes roughly a QUARTER of the final portfolio compared to a near-free index fund
+            Expense ratio benchmarks :: Good index funds charge 0.02-0.10%; anything near 1% is quietly eating your retirement
+        Safe Withdrawal Rate
+            The 4% rule :: In year one of retirement withdraw 4% of the portfolio, then adjust that dollar amount for inflation each year — historically this survived every 30-year US retirement
+            The 4% rule — origin? >> William Bengen's 1994 study of historical US market data (reinforced by the 1998 Trinity study), assuming 50-75% stocks and a 30-year horizon
+            The 4% rule — caveats? >> A planning benchmark, not a guarantee — sequence-of-returns risk, retirements longer than 30 years, fees, and lower expected returns all argue for flexibility (some argue 3.5%
+                Bengen himself later nudged it upward)
+            The 25x rule (the 4% rule flipped)? >> You need roughly 25 times annual spending to retire — $40,000 a year of spending implies a $1 million portfolio
+            Sequence-of-returns risk :: Bad market years EARLY in retirement do disproportionate damage, because withdrawals force selling shares at lows — the reason "average returns" alone can't answer whether the money lasts
+    Debt Management and Elimination
+        The Debt Toxicity Ladder
+            Debt toxicity ladder (worst to best)? 1. >>>
+                1. Payday loans
+                2. credit cards
+                3. personal loans
+                4. auto loans
+                5. student loans
+                6. mortgages
+                The debt toxicity ladder — what actually orders it? >> Two things together: the interest rate and whether the debt is attached to an appreciating asset or a legal protection.
+                    Payday loans top it because of a triple-digit rate plus a balloon structure designed to roll; mortgages sit at the bottom because the rate is low, the asset appreciates, and the interest may be deductible.
+            Payday loans — why they top the toxicity ladder? >> About 400% average APR with a balloon structure — a designed debt trap
+            Credit card debt — its place on the ladder? >> 18-30% APR, compounding, with a built-in minimum-payment trap
+            Personal loans — their place on the ladder? >> 6-36% APR with fixed payments — better than cards for consolidation
+            Auto loans — their place on the ladder? >> 4-10% APR, secured by a depreciating asset — avoid terms over 60 months
+            Student loans — their place on the ladder? >> 4-8% APR, flexible repayment, and potential forgiveness programs ##us
+            Mortgages — why they anchor the bottom of the ladder? >> Historically 3-7% APR, building equity, with interest deductible if you itemize ##us
+        The Minimum Payment Trap
+            How credit card minimums are calculated? >> 1-3% of the balance or $25, whichever is greater
+            The minimum payment trap — the numbers? >> $5,000 at 18% APR on minimums takes about 30 years and about $11,000 in interest
+            The psychological design of minimum payments? >> Minimums are designed to maximize interest while feeling manageable
+        Elimination Strategies
+            Debt avalanche method :: List debts by interest rate, highest to lowest; pay minimums on all, and every extra dollar goes to the highest rate
+                Debt avalanche — the advantage ;; Mathematically optimal — least total interest and fastest complete elimination
+                Debt avalanche — the psychological challenge ;; The highest-rate debt may also be large, so victories come slowly
+                Debt avalanche — who it suits ;; Disciplined, math-focused people with steady income
+            Debt snowball method :: List debts by balance, smallest to largest; pay minimums on all, and every extra dollar goes to the smallest balance
+                Debt snowball — the advantage ;; Quick wins build momentum — frequent victories keep you in the game
+                Debt snowball — the cost ;; More total interest than the avalanche
+                Debt snowball — who it suits ;; People who need motivation and visible wins to stay committed
+        Consolidation
+            When debt consolidation makes sense? >> The new rate is at least 2% lower AND you stop using the cards AND you don't stretch the timeline
+            Personal-loan consolidation advantage :: The fixed payment forces payoff in 3-5 years instead of endless minimums
+            Balance transfer cards? >> 0% APR for 12-21 months — but they demand discipline and charge a 3-5% transfer fee
+            Balance transfer math :: Worth it only if the interest saved exceeds the transfer fee
+            The home-equity consolidation danger :: It converts unsecured debt into debt secured by your house — miss payments and you can lose the home
+        Negotiating with Creditors
+            When creditors will negotiate? >> When you are 60+ days late, or can offer a lump sum
+            Typical debt settlement range? >> 40-60% of the balance, for a lump-sum payment
+            Payment plan concessions creditors offer :: Reduced interest, waived fees, extended terms
+            The settled-debt tax trap :: Canceled debt generally counts as taxable income — lenders issue Form 1099-C for $600 or more forgiven ##us
+            How settlement hits your credit report? >> It shows as "paid, settled for less" for 7 years ##us
+    Tax Planning and Optimization
+        Filing Fundamentals
+            Who must file a tax return? >> Generally, anyone whose income exceeds the standard deduction for their filing status ##us
+            Why file even when not required? >> To claim refundable credits or recover taxes that were withheld
+            Head of household vs single :: Head of household gets a larger standard deduction ($24,150 vs $16,100) and wider brackets (as of 2026) ##volatile ##us
+            Head of household requirements :: Unmarried, paying more than 50% of household costs, with a qualifying dependent ##us
+            Married filing jointly vs separately :: Jointly is almost always better — the exceptions are income-driven student-loan plans and liability separation ##us
+        Record Keeping
+            Tax records to keep 3 years? >> Most returns and their supporting documents ##us
+            Tax records to keep 7 years? >> Anything involving loss claims, bad-debt deductions, or underreported income over 25% ##us
+            Tax records to keep forever :: The returns themselves, cost basis for investments and property, and major home improvements
+            Digital tax records :: The IRS accepts them, as long as they are complete and legible ##us
+        Audits
+            Audit rate reality :: About 0.4% of returns overall ##us ##volatile
+                Audit rate — who actually gets audited more? >> Roughly 1-2% of very high incomes and around 5% of returns reporting no income, against ~0.4% overall — the rate rises at both tails (as of 2026) ##us ##volatile
+            Audit red flags :: Home office, 100% business vehicle use, outsized charity, suspiciously round numbers, cash businesses
+            The three audit types :: Correspondence (by mail — most common), office, and field
+            Your rights in an audit :: Representation, appeal, a payment plan, and innocent-spouse relief ##us
+        How Brackets Actually Work
+            Marginal tax rate :: The rate on your NEXT dollar earned
+            Effective tax rate :: Total tax divided by total income — always lower than your marginal rate
+            The seven federal bracket rates :: 10, 12, 22, 24, 32, 35, and 37 percent — made permanent by the 2025 tax law (as of 2026) ##volatile ##us
+            How progressive brackets work (single-filer example)? >> The first $12,400 is taxed at 10%, the next slice at 12%, and so on — only the dollars inside each slice pay that slice's rate (as of 2026) ##volatile ##us
+            The raise-into-a-higher-bracket misconception :: A raise NEVER lowers your after-tax income — only the dollars above the bracket line are taxed at the higher rate
+        Types of Income
+            Ordinary income :: Wages, interest, and short-term gains — taxed at regular bracket rates ##us
+            Long-term capital gains :: Assets held over 1 year — taxed at 0%, 15%, or 20% depending on income ##us
+            Qualified dividends :: Taxed at capital-gains rates, not ordinary rates ##us
+            Tax-free income sources :: Municipal bond interest, Roth withdrawals, gifts received, life insurance death benefits ##us
+        Standard vs Itemized
+            Standard deduction amounts? >> Single $16,100, married filing jointly $32,200 (as of 2026) ##volatile ##us
+            When to itemize? >> When mortgage interest + SALT + charity together exceed your standard deduction ##us
+            SALT deduction cap? >> State and local taxes capped at $40,400, phasing down toward $10,000 above roughly $505,000 of income; scheduled to snap back to $10,000 in 2030 (as of 2026) ##volatile ##us
+            Charitable bunching strategy :: Combine two years of giving into one year to clear the standard-deduction hurdle
+        Tax-Advantaged Accounts
+            The contribution order (steps 4-8 of the money order) lives under The Money Priority Order — not repeated here.
+            The HSA triple tax advantage :: Deductible going in, tax-free growth, tax-free coming out for medical costs — the only account with all three ##us
+                HSA contribution limits ;; Self-only $4,400, family $8,750, plus a $1,000 catch-up at 55 (as of 2026) ##volatile ##us
+            HSA eligibility requirement :: You must be on an HSA-qualified high-deductible health plan — minimum deductible $1,700 self / $3,400 family (as of 2026) ##volatile ##us
+            HSA after age 65 :: Withdraw for any reason paying only income tax — it becomes a Traditional IRA with a medical bonus ##us
+            HSA investment strategy :: Keep about $1,000 in cash for near-term bills and invest the rest for long-term growth
+            The HSA receipt-saving hack :: Save medical receipts forever — you can reimburse yourself decades later, tax-free, while the money compounds in between ##us
+            Health FSA use-it-or-lose-it rule :: Spend it by year end or lose it — the limit is $3,400, and some plans allow a $680 carryover (as of 2026) ##volatile ##us
+            FSA contribution rule of thumb :: Contribute only what you are certain to spend
+            Dependent care FSA? >> $7,500 household limit (raised from $5,000 by the 2025 tax law) for pre-tax childcare dollars (as of 2026) ##volatile ##us
+        Year-End Moves
+            Tax loss harvesting? >> Sell losing investments to offset gains, plus up to $3,000 of ordinary income per year ##us
+            The wash sale rule :: Rebuy the same or a substantially identical security within 30 days before or after the sale (a 61-day window) and the loss is disallowed ##us
+            Capital loss carryforward :: Unused losses carry forward indefinitely ##us
+            Retirement contribution deadlines :: 401(k) by December 31; IRA all the way to the April tax deadline ##us
+            When estimated tax payments are required? >> Quarterly, if you expect to owe more than $1,000 ##us
+            The estimated-tax safe harbor :: Pay 90% of this year's tax, or 100% of last year's (110% for higher incomes), to avoid penalties ##us
+    Estate Planning, Gifts + Trusts
+        Gift Tax Basics
+            Annual gift tax exclusion? >> $19,000 per donor, per recipient (as of 2026) ##volatile ##us
+            Annual gift exclusion reset :: It resets every year — use it or lose it ##us
+            Gift-splitting? >> A married couple treats gifts as if each spouse gave half — $38,000 per recipient, but electing it requires filing Form 709 (as of 2026) ##volatile ##us
+            Lifetime gift and estate tax exemption? >> $15 million per person, set by the 2025 tax law starting in 2026 and indexed after (as of 2026) ##volatile ##us
+            Estate tax rate above the exemption? >> Up to 40% ##us
+            When the lifetime exemption gets used? >> Only when a gift exceeds the annual exclusion, or at death ##us
+            Annual exclusion vs lifetime exemption :: Annual-exclusion gifts are completely separate — they never touch the lifetime exemption ##us
+            Gift over the exclusion — worked example? >> Give $50,000 to one person and $19,000 uses the annual exclusion while the remaining $31,000 chips away at the lifetime exemption (as of 2026) ##volatile ##us
+        Present vs Future Interest
+            Present interest gift :: A gift the recipient can use immediately
+            Future interest gift :: A gift where the recipient's access is delayed — most gifts into trusts
+            Which gifts qualify for the annual exclusion? >> Only present-interest gifts ##us
+            A direct cash gift — present or future interest? >> Present interest
+            A gift to a trust — present or future interest? >> Typically future interest, so no annual exclusion — unless a Crummey letter fixes it
+        The Crummey Mechanism
+            Crummey letter — where the name comes from? >> Crummey v. Commissioner (1968) ##us
+            Crummey letter — its purpose? >> It converts future-interest trust gifts into present-interest gifts, so the annual exclusion applies ##us
+            Crummey letter — what it notifies beneficiaries of? >> Their temporary right to withdraw the gift
+            Crummey withdrawal window? >> Typically 30-60 days
+            What is the answer on Crummey beneficiaries actually withdraw? >> No — — withdrawing would defeat the trust's purpose
+            Why the Crummey trick works? >> Having the OPTION to withdraw counts as present interest, even if never exercised ##us
+            The Crummey formula :: Gift to trust + withdrawal right + lapse = present interest = annual-exclusion eligible ##us
+        ILIT (Irrevocable Life Insurance Trust)
+            What is an ILIT? >> An irrevocable trust that owns a life insurance policy on you ##us
+            ILIT — the main benefit? >> The death benefit skips your estate entirely, avoiding estate tax ##us
+            Why ILITs need Crummey letters? >> The premium payments are gifts to the trust — future interest unless the letters convert them ##us
+            ILIT funding sequence? 1. >>> ##us
+                1. You gift cash to the trust
+                2. the trustee sends Crummey letters
+                3. the withdrawal rights lapse
+                4. the trustee pays the premium
+            Is an ILIT's insurance payout in your estate? >> Never — the trust owned the policy, not you ##us
+        Draining the Estate
+            The estate-draining pipeline :: Annual-exclusion gifts are a separate pipeline moving money out of your estate, tax-free, every single year ##us
+            How annual gifting reduces estate tax? >> It shrinks the estate, so less sits above the exemption at death ##us
+            Estate draining — the 20-year math? >> $38,000 a year to 4 people for 20 years moves $3.04 million out of the estate, all tax-free (as of 2026) ##volatile ##us
+        Portability
+            What is portability? >> A surviving spouse can inherit the deceased spouse's unused lifetime exemption ##us
+            Portability — who can receive the unused exemption? >> The surviving spouse only — never the children ##us
+            Maximum combined exemption with full portability? >> About $30 million for a couple (as of 2026) ##volatile ##us
+            How portability is elected? >> By filing an estate tax return — it is NOT automatic ##us
+        Gift Tax Filing
+            Gifts at or under the annual exclusion? >> Free — no forms, no tax, no impact ($19,000 as of 2026) ##volatile ##us
+            Gifts over the annual exclusion :: File Form 709; the excess chips away at the lifetime exemption, with no tax due until that is exhausted ##us
+            A trust gift withOUT a Crummey letter? >> No annual exclusion — the whole gift burns lifetime exemption ##us
+            A trust gift WITH a Crummey letter? >> The annual exclusion works ##us
+    Disability Insurance — Protecting the Income Everything Else Assumes
+        Why disability insurance ranks above life insurance for most working-age people? >> A disabling illness or injury before retirement is more likely than death, and it is financially worse — the income stops while the expenses continue and often rise. ##us
+            Every other card in this file silently assumes an income; this is the insurance on that assumption.
+        What disability insurance actually replaces? >> A percentage of your income while you cannot work ##volatile ##us
+            typically around 60% of gross, which is set that low deliberately so that a tax-free benefit lands near your actual take-home and you keep an incentive to return to work.
+        Own-occupation vs any-occupation — the single most important policy term? >> Own-occupation pays if you cannot do YOUR job. ##us
+            Any-occupation pays only if you cannot do ANY job you are reasonably suited for. Any-occupation is far cheaper and far weaker — a surgeon who cannot operate but could answer phones collects nothing under it.
+        Elimination period — what it is and how to choose it? >> The waiting time between disability and the first payment, commonly 90 days. ##us
+            It functions like a deductible: longer means cheaper, and your emergency fund is what has to cover the gap. Match the elimination period to the months of expenses you actually hold.
+        Benefit period — what it is and what to choose? >> How long payments continue once they start. To age 65 or 67 is the meaningful choice for a career-ending disability; a two-year benefit period covers an interruption, not a catastrophe. ##us
+        Group vs individual disability policy — the trade? >> Group coverage through an employer is cheap or free but usually any-occupation, capped, and gone when the job goes. An individual policy costs more, follows you, and can be own-occupation. ##us
+        Why disability benefits are sometimes taxed and sometimes not? >> The IRS taxes the premium or the benefit, never both. ##us
+            If the premiums were paid with money that was never taxed, the benefit is taxable; if you paid them with after-tax dollars, the benefit is tax-free.
+        Disability benefit taxability — the three common cases? >>> ##us
+            - Employer pays the premium and you were not taxed on it: benefits taxable
+            - You pay with after-tax dollars: benefits tax-free
+            - You pay through a pre-tax payroll deduction or cafeteria plan: benefits taxable, because that money was never taxed either
+        The split-premium case :: If employer and employee share the cost, the benefit is taxable in proportion to the share the employer paid. Paying your portion with after-tax dollars keeps that portion tax-free. ##us
+        Why the self-employed and variable-income earners need this most? >> There is no employer group policy, no sick leave, and no short-term disability program behind you — an individual policy is the only layer that exists. ##us
+        Why Social Security Disability Insurance is not a substitute? >> SSDI uses a strict any-occupation standard, requires the condition to last at least a year or be terminal, and most initial applications are denied. ##volatile ##us
+            It is a floor of last resort, not income replacement.
+        What to check on any policy before buying? >>> ##us
+            - Own-occupation or any-occupation
+            - elimination period
+            - benefit period
+            - whether it is non-cancelable and guaranteed renewable
+            - whether benefits rise with inflation
+            - whether residual or partial disability is covered
 
-- ## Death Administration — The Executor's Actual Job
-    - Beneficiary designations override the will::This is the single most consequential and least known fact in estate planning. Retirement accounts, life insurance, and payable-on-death accounts pass by beneficiary designation regardless of what any will says. A stale designation naming an ex-spouse defeats a perfectly drafted estate plan. #us
-    - What to do about the beneficiary rule while everyone is alive::Review every designation after any marriage, divorce, birth, or death, and name a contingent beneficiary on each. This is a fifteen-minute task with more financial consequence than most hours you will ever spend. #us
-    - Probate vs non-probate assets — the distinction that determines the work::Non-probate assets pass automatically by designation or joint ownership and never enter the court process. Everything else goes through probate, which is public, slow, and costs money. Most estate simplification is the work of moving assets out of probate. #us
-    - How many certified death certificates to order, and why::Order roughly 10 to 12 certified copies at the start. Nearly every institution requires an original certified copy and will not return it, and ordering more later is slower and costs more than ordering them at once. #us
-    - The first week after a death — what actually has to happen::1) Legal pronouncement and the funeral home, 2) locate the will and any funeral instructions, 3) order certified death certificates, 4) secure the home, pets, and vehicles, 5) notify immediate family and employer. Almost nothing financial must happen in week one. #us
-    - Who to notify, in rough order::Social Security (a funeral home often reports it, but confirm), the employer and any pension, life insurance carriers, banks and brokerages, the mortgage and other lenders, health insurers, and the three credit bureaus to prevent identity theft against the deceased. #us
-    - Why to notify the credit bureaus promptly after a death::Identities of the recently deceased are actively targeted for fraud, and a death notice on the credit file blocks new accounts. #safety #us
-    - What the executor is actually responsible for::Inventorying assets, paying valid debts and final taxes from the estate before distributing anything, then distributing what remains per the will. Distributing first and discovering debts later can make the executor personally liable. #us
-    - The document set every household should be able to find in an hour::Will and any trust, beneficiary designations, life and disability policies, deeds and titles, account list, tax returns, advance directive and healthcare proxy, and a password manager recovery method. If a survivor cannot find these, the plan does not exist yet. #us
-    - Why the digital estate now matters::Accounts, photos, and subscriptions are often inaccessible without credentials, and terms of service can block even a lawful executor. A password manager with a documented emergency access process solves in advance what is nearly unsolvable afterward. #us
+    Death Administration — The Executor's Actual Job
+        Beneficiary designations override the will :: This is the single most consequential and least known fact in estate planning. ##us
+            Retirement accounts, life insurance, and payable-on-death accounts pass by beneficiary designation regardless of what any will says. A stale designation naming an ex-spouse defeats a perfectly drafted estate plan.
+        What to do about the beneficiary rule while everyone is alive? >> Review every designation after any marriage, divorce, birth, or death, and name a contingent beneficiary on each. ##us
+            This is a fifteen-minute task with more financial consequence than most hours you will ever spend.
+        Probate vs non-probate assets — the distinction that determines the work? >> Non-probate assets pass automatically by designation or joint ownership and never enter the court process. ##us
+            Everything else goes through probate, which is public, slow, and costs money. Most estate simplification is the work of moving assets out of probate.
+        How many certified death certificates to order, and why? >> Order roughly 10 to 12 certified copies at the start. ##us
+            Nearly every institution requires an original certified copy and will not return it, and ordering more later is slower and costs more than ordering them at once.
+        The first week after a death — what actually has to happen? 1. >>> ##us
+            1. Legal pronouncement and the funeral home
+            2. locate the will and any funeral instructions
+            3. order certified death certificates
+            4. secure the home, pets, and vehicles
+            5. notify immediate family and employer. Almost nothing financial must happen in week one
+        Who to notify, in rough order? >> Social Security (a funeral home often reports it, but confirm), the employer and any pension, life insurance carriers, banks and brokerages, the mortgage and other lenders, health insurers, and the three credit bureaus to prevent identity theft against the deceased. ##us
+        Why to notify the credit bureaus promptly after a death? >> Identities of the recently deceased are actively targeted for fraud, and a death notice on the credit file blocks new accounts. ##safety ##us
+        What the executor is actually responsible for? >> Inventorying assets, paying valid debts and final taxes from the estate before distributing anything, then distributing what remains per the will. ##us
+            Distributing first and discovering debts later can make the executor personally liable.
+        The document set every household should be able to find in an hour? >> Will and any trust, beneficiary designations, life and disability policies, deeds and titles, account list, tax returns, advance directive and healthcare proxy, and a password manager recovery method. ##us
+            If a survivor cannot find these, the plan does not exist yet.
+        Why the digital estate now matters? >> Accounts, photos, and subscriptions are often inaccessible without credentials, and terms of service can block even a lawful executor. ##us
+            A password manager with a documented emergency access process solves in advance what is nearly unsolvable afterward.
 
-- ## Identity Theft and Fraud Response
-    - The first move when you discover fraud::Call the companies where the fraud occurred, close or freeze the compromised accounts, and change the passwords on them. Containment comes before reporting. #safety #us
-    - Where to report identity theft in the US, and why it matters::IdentityTheft.gov, the FTC's site. It generates an official Identity Theft Report plus a personalized recovery plan, and that report is what most institutions require in order to reverse fraudulent charges and remove accounts from your credit file. #us
-    - Fraud alert vs credit freeze — the difference::A fraud alert requires businesses to verify your identity before opening credit, is free, lasts one year, and you only have to contact one bureau because it notifies the others. A freeze blocks new credit entirely, is free, and must be placed at all three bureaus separately. #us
-    - The extended fraud alert::Available to confirmed identity-theft victims with an Identity Theft Report; it lasts seven years rather than one. #us
-    - The ordered identity-theft protocol::1) Contact the companies where fraud occurred, 2) place a fraud alert and pull all three credit reports, 3) report at IdentityTheft.gov and get the recovery plan, 4) file a police report if there is a known suspect or an institution requires one, 5) freeze all three bureaus, 6) dispute fraudulent items in writing. #safety #us
-    - What to do when a Social Security number is compromised::You generally cannot get a new one, and replacing it creates its own problems. The durable answer is a permanent freeze at all three bureaus, an IRS Identity Protection PIN to stop fraudulent tax filings, and monitoring your Social Security earnings record for income you did not earn. #us
-    - Why freezing credit is worth the minor inconvenience::It is free, it blocks the most damaging category of fraud (new accounts in your name), and thawing takes minutes online. The inconvenience is a few minutes per credit application; the alternative is months of unwinding. #us
+    Identity Theft and Fraud Response
+        The first move when you discover fraud? >> Call the companies where the fraud occurred, close or freeze the compromised accounts, and change the passwords on them. Containment comes before reporting. ##safety ##us
+        Where to report identity theft in the US, and why it matters? >> IdentityTheft.gov, the FTC's site. ##us
+            It generates an official Identity Theft Report plus a personalized recovery plan, and that report is what most institutions require in order to reverse fraudulent charges and remove accounts from your credit file.
+        Fraud alert vs credit freeze — the difference? >> A fraud alert requires businesses to verify your identity before opening credit, is free, lasts one year, and you only have to contact one bureau because it notifies the others. ##us
+            A freeze blocks new credit entirely, is free, and must be placed at all three bureaus separately.
+        The extended fraud alert :: Available to confirmed identity-theft victims with an Identity Theft Report; it lasts seven years rather than one. ##us
+        The ordered identity-theft protocol? 1. >>> ##safety ##us
+            1. Contact the companies where fraud occurred
+            2. place a fraud alert and pull all three credit reports
+            3. report at IdentityTheft.gov and get the recovery plan
+            4. file a police report if there is a known suspect or an institution requires one
+            5. freeze all three bureaus
+            6. dispute fraudulent items in writing
+        What to do when a Social Security number is compromised? >> You generally cannot get a new one, and replacing it creates its own problems. ##us
+            The durable answer is a permanent freeze at all three bureaus, an IRS Identity Protection PIN to stop fraudulent tax filings, and monitoring your Social Security earnings record for income you did not earn.
+        Why freezing credit is worth the minor inconvenience? >> It is free, it blocks the most damaging category of fraud (new accounts in your name), and thawing takes minutes online. ##us
+            The inconvenience is a few minutes per credit application; the alternative is months of unwinding.
 
-- ## Salary Negotiation
-    - Why salary negotiation is the highest-leverage financial event in a career::A raise compounds — it lifts every future raise, bonus, and retirement match computed off it, for the rest of your working life. A single successful negotiation is often worth more than years of expense optimization. #us
-    - BATNA applied to a job offer::Your Best Alternative To a Negotiated Agreement is the offer or situation you keep if this one falls through, and it is the only real source of leverage in the room. Establish it before the conversation; without one you are not negotiating, you are asking. #us
-    - Why you should avoid naming the first number when you can::The first number anchors the entire range regardless of its basis. Deflect politely to their range or to the market rate, and let the anchor come from the side with more information about the budget. #us
-    - What to do when you cannot avoid naming a number::Give a researched range with your target near the bottom of it, and state the basis out loud — market data, scope, and comparable roles. A number with a stated basis is much harder to counter than a number alone. #us
-    - Why to negotiate the whole package, not just base salary::Signing bonus, equity, title, start date, remote flexibility, professional development, and additional leave are frequently easier to move than base, because they come from different budgets. When base is genuinely capped, everything else is still live. #us
-    - The raise conversation — how it actually gets won::In the months before it, not in the meeting. Keep a written record of results with numbers attached, raise it well ahead of the review cycle when budgets are actually set, and ask what specifically would justify the number rather than making it a referendum on how you feel. #us
-    - The counteroffer trap::Accepting a counteroffer from your current employer after signaling you would leave often ends badly — you are now known to be looking, and the underlying reason you looked usually survives the raise. Take a counteroffer only if the actual problem was compensation and nothing else. #us
-    - Why silence is a negotiation tool::After a number is stated, the person who speaks first tends to concede. A few seconds of quiet is not rudeness, and filling it is how people negotiate against themselves. #us
+    Salary Negotiation
+        Why salary negotiation is the highest-leverage financial event in a career? >> A raise compounds — it lifts every future raise, bonus, and retirement match computed off it, for the rest of your working life. ##us
+            A single successful negotiation is often worth more than years of expense optimization.
+        BATNA applied to a job offer? >> Your Best Alternative To a Negotiated Agreement is the offer or situation you keep if this one falls through, and it is the only real source of leverage in the room. ##us
+            Establish it before the conversation; without one you are not negotiating, you are asking.
+        Why you should avoid naming the first number when you can? >> The first number anchors the entire range regardless of its basis. ##us
+            Deflect politely to their range or to the market rate, and let the anchor come from the side with more information about the budget.
+        What to do when you cannot avoid naming a number? >> Give a researched range with your target near the bottom of it, and state the basis out loud — market data, scope, and comparable roles. ##us
+            A number with a stated basis is much harder to counter than a number alone.
+        Why to negotiate the whole package, not just base salary? >> Signing bonus, equity, title, start date, remote flexibility, professional development, and additional leave are frequently easier to move than base, because they come from different budgets. ##us
+            When base is genuinely capped, everything else is still live.
+        The raise conversation — how it actually gets won? >> In the months before it, not in the meeting. ##us
+            Keep a written record of results with numbers attached, raise it well ahead of the review cycle when budgets are actually set, and ask what specifically would justify the number rather than making it a referendum on how you feel.
+        The counteroffer trap :: Accepting a counteroffer from your current employer after signaling you would leave often ends badly ##us
+            you are now known to be looking, and the underlying reason you looked usually survives the raise.
+            Take a counteroffer only if the actual problem was compensation and nothing else.
+        Why silence is a negotiation tool? >> After a number is stated, the person who speaks first tends to concede. A few seconds of quiet is not rudeness, and filling it is how people negotiate against themselves. ##us
 
-- ## Moved Topics (pointers)
-    - Health insurance (plan types, premium/deductible/coinsurance terms, HDHP vs low-deductible choice, cost-reduction tactics) now lives in "Life Skills v2 - Food & Health".
-    - Auto insurance (coverage types, 100/300/100 limits, premium-reduction strategies) now lives in "Life Skills v2 - Housing & Vehicles".
+    Moved Topics (pointers)
+        Health insurance (plan types, premium/deductible/coinsurance terms, HDHP vs low-deductible choice, cost-reduction tactics) now lives in "Life Skills v2 - Food & Health".
+        Auto insurance (coverage types, 100/300/100 limits, premium-reduction strategies) now lives in "Life Skills v2 - Housing & Vehicles".

@@ -1,6 +1,6 @@
 # Life 101 v2 — Import Guide
 
-A complete, audited rebuild of the **Answering Questions + Life 101** RemNote base, plus the connective **spine** deck that the original never had. Same intent, same voice, every known error fixed, every card checked to import cleanly. **2,505 cards across 14 files.**
+A complete, audited rebuild of the **Answering Questions + Life 101** RemNote base, plus the connective **spine** deck that the original never had. Same intent, same voice, every known error fixed, every card checked to import cleanly. **2,528 cards across 14 files.**
 
 Built and verified August 2026. The original export remains untouched at `life-101/source/`.
 
@@ -8,13 +8,26 @@ Built and verified August 2026. The original export remains untouched at `life-1
 
 ## How to import into RemNote
 
-1. In RemNote: **Import → Markdown**, one file at a time. Each file becomes one document; `::` lines become cards; `{{…}}` become clozes.
+These files are in **native RemNote format** — indentation-based hierarchy, no markdown bullets, and RemNote's six card delimiters. Import by **copy-paste**: open a file, select all, paste into an empty RemNote document. Hierarchy and card types are preserved automatically.
+
+The six card types in use:
+
+| Symbol | Type | Direction | Used for |
+|---|---|---|---|
+| `::` | Concept | bidirectional | core definitions |
+| `;;` | Descriptor | forward only | properties of a parent concept |
+| `>>` | Basic | forward only | why / how / application |
+| `{{ }}` | Cloze | — | formulas and verbatim only |
+| `>>>` | Set | — | unordered lists |
+| `1. >>>` | Sequence | — | ordered steps |
+
+1. Paste one file at a time into its own document.
 2. Import into a **fresh folder named "Life 101 v2"** so nothing collides with your existing rems.
 3. **Import the two spine files first** — see "What the spine deck is for" below. They are the smallest files and carry the most transferable value.
 4. **Archive, don't delete, the originals** until you've reviewed the new set for a few weeks.
 5. **Do not import the old `Answers for My Kids RemNote Flashcards`** (v1). It is fully superseded by Kids Questions v4 Part A, and it carries the wrong lunar period — importing it would reintroduce a contradiction.
 
-Every file has been verified free of: banned export delimiters (`↔ → ← ;; >>>`), unbalanced `{{ }}` braces, duplicate prompts (within *and* across files), and clozes whose answers leak into their own prompt.
+Every file is validated by `validate_cards.py` in this folder, which checks card-type distribution against the design targets and flags markdown bullets, legacy arrow delimiters, unbalanced braces, orphaned descriptors, duplicate prompts, answer-in-prompt leaks, yes/no recognition cards, and over-length answers. The set currently passes with zero critical issues.
 
 ---
 
@@ -34,7 +47,7 @@ They are about 6% of the cards and carry most of the transferable value. **Revie
 
 | File | Cards | Covers |
 |---|---:|---|
-| **Life 101 v2 — The Spine (Patterns and Identities)** | 70 | The unifying thesis, the seven patterns, the meta-pattern, the five identities |
+| **Life 101 v2 — The Spine (Patterns and Identities)** | 93 | The unifying thesis, the seven patterns, the meta-pattern, the five identities |
 | **Life 101 v2 — Transfer and Triggers** | 79 | Thinking tools carried into practice; situation-first retrieval cards |
 | Life 101 v2 — AI and Digital Literacy | 45 | What an LLM is, hallucination, verification, deepfakes and voice cloning, scams, kids and AI |
 | The Foundational 200 v2 — Part A (Cosmos, Earth, Body) | 112 | Physics and cosmology, Earth and biology, human physiology |
@@ -53,22 +66,24 @@ They are about 6% of the cards and carry most of the transferable value. **Revie
 
 ## Tag legend
 
-- **`#spine`** — the connective deck. Marks a card whose job is to hold other cards together rather than to teach a fact. Review these daily even when the domain decks are on a slower schedule.
-- **`#volatile`** — a number that expires. Verified current as of 2026; re-check yearly.
-- **`#us`** — United States–specific law, tax, or institution. Not portable to other countries.
-- **`#safety`** — verified against authoritative guidance (USDA, AHA/Red Cross, FEMA, EPA/AirNow, FTC, 988) in August 2026.
-- **`#theory`**, or an answer opening with `Theory:` / `Contested:` — the claim is a hypothesis or is actively disputed. The hedge is part of the card.
-- **`#high-frequency`** — your own tag, preserved: the cards you expect to actually need.
-- **`#verify-personally`** — depends on *your* home, vehicle, or family. Confirm against reality before trusting it.
+Tags use RemNote's double-hash form (`##tag`), which creates real tag properties rather than plain text. Priority tags from the card-design system — `##core-concept`, `##big-picture`, `##connection`, `##confusing`, `##prerequisite`, `##practical`, `##high-frequency` — mark the cards worth extra review attention.
+
+- **`##spine`** — the connective deck. Marks a card whose job is to hold other cards together rather than to teach a fact. Review these daily even when the domain decks are on a slower schedule.
+- **`##volatile`** — a number that expires. Verified current as of 2026; re-check yearly.
+- **`##us`** — United States–specific law, tax, or institution. Not portable to other countries.
+- **`##safety`** — verified against authoritative guidance (USDA, AHA/Red Cross, FEMA, EPA/AirNow, FTC, 988) in August 2026.
+- **`##theory`**, or an answer opening with `Theory:` / `Contested:` — the claim is a hypothesis or is actively disputed. The hedge is part of the card.
+- **`##high-frequency`** — your own tag, preserved: the cards you expect to actually need.
+- **`##verify-personally`** — depends on *your* home, vehicle, or family. Confirm against reality before trusting it.
 
 ---
 
 ## Maintenance schedule
 
-- **Every January:** review all `#volatile` cards. Contribution limits, tax brackets, care costs, and thresholds change annually.
+- **Every January:** review all `##volatile` cards. Contribution limits, tax brackets, care costs, and thresholds change annually.
 - **Every year:** actually drive one of the evacuation routes. A route that exists only on a card has never been tested.
-- **Every two years:** re-check `#safety` cards against current guidance. First-aid protocols and AQI recommendations do get revised.
-- **Whenever you move, change vehicles, or your household changes:** revisit every `#verify-personally` card.
+- **Every two years:** re-check `##safety` cards against current guidance. First-aid protocols and AQI recommendations do get revised.
+- **Whenever you move, change vehicles, or your household changes:** revisit every `##verify-personally` card.
 - **After any marriage, divorce, birth, or death:** review every beneficiary designation. They override the will.
 
 ---
