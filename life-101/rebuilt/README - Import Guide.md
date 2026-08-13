@@ -8,7 +8,20 @@ Built and verified August 2026. The original export remains untouched at `life-1
 
 ## How to import into RemNote
 
-1. In RemNote: **Import → Markdown**, one file at a time. Each file becomes one document; `::` lines become cards; `{{…}}` become clozes.
+These files are in **native RemNote format** — indentation-based hierarchy, no markdown bullets, and RemNote's six card delimiters. Import by **copy-paste**: open a file, select all, paste into an empty RemNote document. Hierarchy and card types are preserved automatically.
+
+The six card types in use:
+
+| Symbol | Type | Direction | Used for |
+|---|---|---|---|
+| `::` | Concept | bidirectional | core definitions |
+| `;;` | Descriptor | forward only | properties of a parent concept |
+| `>>` | Basic | forward only | why / how / application |
+| `{{ }}` | Cloze | — | formulas and verbatim only |
+| `>>>` | Set | — | unordered lists |
+| `1. >>>` | Sequence | — | ordered steps |
+
+1. Paste one file at a time into its own document.
 2. Import into a **fresh folder named "Life 101 v2"** so nothing collides with your existing rems.
 3. **Import the two spine files first** — see "What the spine deck is for" below. They are the smallest files and carry the most transferable value.
 4. **Archive, don't delete, the originals** until you've reviewed the new set for a few weeks.
@@ -53,13 +66,15 @@ They are about 6% of the cards and carry most of the transferable value. **Revie
 
 ## Tag legend
 
-- **`#spine`** — the connective deck. Marks a card whose job is to hold other cards together rather than to teach a fact. Review these daily even when the domain decks are on a slower schedule.
-- **`#volatile`** — a number that expires. Verified current as of 2026; re-check yearly.
-- **`#us`** — United States–specific law, tax, or institution. Not portable to other countries.
-- **`#safety`** — verified against authoritative guidance (USDA, AHA/Red Cross, FEMA, EPA/AirNow, FTC, 988) in August 2026.
-- **`#theory`**, or an answer opening with `Theory:` / `Contested:` — the claim is a hypothesis or is actively disputed. The hedge is part of the card.
-- **`#high-frequency`** — your own tag, preserved: the cards you expect to actually need.
-- **`#verify-personally`** — depends on *your* home, vehicle, or family. Confirm against reality before trusting it.
+Tags use RemNote's double-hash form (`##tag`), which creates real tag properties rather than plain text. Priority tags from the card-design system — `##core-concept`, `##big-picture`, `##connection`, `##confusing`, `##prerequisite`, `##practical`, `##high-frequency` — mark the cards worth extra review attention.
+
+- **`##spine`** — the connective deck. Marks a card whose job is to hold other cards together rather than to teach a fact. Review these daily even when the domain decks are on a slower schedule.
+- **`##volatile`** — a number that expires. Verified current as of 2026; re-check yearly.
+- **`##us`** — United States–specific law, tax, or institution. Not portable to other countries.
+- **`##safety`** — verified against authoritative guidance (USDA, AHA/Red Cross, FEMA, EPA/AirNow, FTC, 988) in August 2026.
+- **`##theory`**, or an answer opening with `Theory:` / `Contested:` — the claim is a hypothesis or is actively disputed. The hedge is part of the card.
+- **`##high-frequency`** — your own tag, preserved: the cards you expect to actually need.
+- **`##verify-personally`** — depends on *your* home, vehicle, or family. Confirm against reality before trusting it.
 
 ---
 

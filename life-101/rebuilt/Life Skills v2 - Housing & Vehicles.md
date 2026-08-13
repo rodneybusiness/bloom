@@ -1,319 +1,494 @@
-- ## Home Maintenance & Systems
-    - HVAC
-        - HVAC filter replacement frequency::Every {{30}} days for 1-inch filters, every {{90}} days for 4-inch filters — and monthly during heavy-use season.
-            - HVAC filter intervals — why thickness changes the number::A filter fails by loading up with particulate, and a 4-inch filter holds roughly four times the surface area of a 1-inch one, so it takes about three times as long to reach the same restriction. The interval tracks dust load, which is why heavy-use season and pets shorten it.
-        - Dirty HVAC filter — what it causes::1) System strain 2) higher energy bills 3) premature system failure. The cheapest part in the system protects the most expensive one.
-            - Dirty filter — the actual failure chain::Restricted airflow means less heat exchange, so the system runs longer for the same result, which raises the bill and the wear. In cooling, insufficient airflow can drop the coil below freezing and ice it, and in heating it can overheat the exchanger — both routes end at the most expensive component.
-        - HVAC filter MERV ratings::MERV {{8}} for basic filtration, MERV {{11}} for allergies, MERV {{13}} the residential maximum — higher ratings restrict airflow.
-            - MERV ratings — why higher is not simply better::A finer filter catches smaller particles by having tighter pores, which also means more resistance to airflow. Residential blowers are sized for a specific static pressure, so past roughly MERV 13 you starve the system and trade air quality for compressor strain.
-        - HVAC professional service schedule::Annually minimum — ideally twice: {{spring for AC, fall for heat}}.
-        - HVAC professional service — what a real visit includes::1) Clean coils 2) check refrigerant 3) test capacitors 4) verify airflow 5) check electrical connections.
-        - HVAC DIY maintenance tasks::1) Keep a 2-foot clearance around the outdoor unit 2) clean the condensate drain line quarterly 3) check thermostat batteries.
-        - HVAC system lifespan::{{15-20}} years average — longer with maintenance, shorter in extreme climates.
-        - HVAC repair or replace — the $5,000 rule::Multiply the system's {{age in years}} by the {{repair quote}}: over $5,000, replace; under, repair. Example: 12-year-old unit, $500 repair — 12 x 500 = $6,000, so replace.
-        - HVAC $5,000 rule — why multiply by age::Age is a proxy for how many more repairs are coming and how little life the repair buys. The same $500 repair is a good deal on a 4-year-old unit and a bad one on a 15-year-old unit.
-        - The 50% Rule (repair vs replace)::If a repair costs more than half of {{replacement cost}}, replace instead — the generic screen for any home system or appliance.
-            - The 50% Rule — why half is the break point::At half of replacement cost you are paying half price for a machine that already has most of its life spent and no warranty, while the full price buys a full lifespan and a warranty. The ratio is a proxy for cost-per-remaining-year, which is the quantity that actually matters.
-        - $5,000 rule vs 50% rule — when each applies::The 50% rule is the first-pass screen for any appliance or component; the $5,000 rule is the HVAC-specific refinement because it also prices in age. For HVAC, let the $5,000 rule decide; for everything else, use 50%.
-        - R-22 refrigerant — why it tips HVAC toward replace::R-22 production was phased out in the US in {{2020}}, so recharging a leaking R-22 system runs on expensive reclaimed supply — a major R-22 repair usually means replace. #us
-    - Plumbing
-        - Water heater annual flush procedure::1) Turn off power (electric) or set gas to pilot 2) attach a hose to the drain valve 3) open the valve and drain the tank 4) flush until the water runs clear.
-        - Water heater flush — why bother::Removes {{sediment buildup}} that reduces efficiency and shortens tank lifespan.
-        - Water heater temperature setting::{{120°F}} — the DOE-recommended setting: saves 6-10% on water heating vs 140°F, and 140°F water can cause a third-degree burn in about 5 seconds. #safety
-            - Water heater 120°F — why that specific number::It is the point where two curves cross: scald risk rises steeply above it (140°F burns skin in about five seconds) while Legionella suppression improves above it. 120 is the compromise, which is why the safer answer is to store hot and mix down at the tap.
-            - Water heater temperature — the Legionella counterpoint::CDC and ASHRAE favor storing at 135-140°F to suppress Legionella bacteria. If you store hotter, pair it with an anti-scald mixing valve at the outlets so the tap still delivers ~120°F. #safety
-        - Water heater anode rod::A sacrificial rod that corrodes so the tank doesn't — replace every {{3-5}} years to prevent tank corrosion.
-        - Water heater lifespan::Tank {{8-12}} years; tankless {{20+}} years.
-        - Drain maintenance routine::Monthly enzyme treatment, annual preventive snaking, and no chemical cleaners — they corrode pipes and rarely fix the real blockage.
-        - Toilet maintenance routine::New flapper every {{2-3}} years, check the fill valve annually, keep supply connections snug — a silent leak can waste hundreds of gallons a day.
-        - Home water pressure range::{{40-80}} PSI — above 80, install a pressure reducer; high pressure quietly destroys fixtures and appliances.
-        - Finding silent water leaks::1) Watch the water bill for unexplained increases 2) check the meter with all water off — movement means a leak 3) food coloring in the toilet tank — color in the bowl means a leaking flapper.
-    - Roof and gutters
-        - Gutter cleaning schedule::Twice yearly minimum ({{spring and fall}}); quarterly with many trees overhead.
-            - Gutter cleaning — why twice yearly and why it matters so much::Spring and fall bracket the two debris seasons. The stakes are outsized because a blocked gutter redirects the entire roof's water to the foundation, converting a $150 chore into grading, waterproofing, or structural repair — the classic asymmetric maintenance bet.
-        - Clogged gutters — the damage chain::1) Foundation damage 2) roof leaks 3) fascia rot 4) ice dams. Water always finds the most expensive path.
-        - Gutter cleaning — DIY vs professional::DIY saves {{$150-300}} per cleaning, but ladder work is genuinely dangerous without proper equipment.
-        - Roof inspection checklist::1) Missing or damaged shingles 2) flashing integrity 3) moss or algae growth 4) water stains in the attic.
-        - Roof lifespan by material::Asphalt {{20-30}} years, metal {{40-70}} years, tile {{50+}} years, slate 100+ years.
-        - Roof repair vs replace rule::Replace when the roof is past {{80% of its material's lifespan}} or has {{multiple leaks}}; otherwise repair. Sagging is a structural emergency — professional, now.
-        - Roof rule — why percent-of-lifespan beats a flat age::A flat "20 years = replace" rule scraps a slate roof in its infancy and keeps a dying asphalt roof too long. The material sets the clock: 20 years is old for asphalt, young for metal, barely started for slate.
-    - Electrical
-        - GFCI outlet testing::{{Monthly}}, using the test/reset buttons — bathroom, kitchen, and outdoor outlets.
-        - Circuit breaker::A safety device that automatically shuts off current when flow is too high, preventing wires from overheating and starting fires.
-        - Sticky circuit breaker problem::Years spent in one position let the mechanism corrode or seize; in a real overload it may {{fail to trip}} or fail to reset afterward — a breaker that won't trip is a fire extinguisher that doesn't work.
-        - Circuit breaker annual exercise::Flip each breaker off and back on once a year — the mechanical action keeps contacts clean and spring mechanisms limber. While you're at the panel, photograph the labels and label any unmarked breakers.
-        - Breaker replacement — signs and cost::1) Won't stay reset (keeps popping back to off) 2) trips frequently with no obvious overload. Electrician replacement: {{$50-150}}.
-        - Electrical warning signs::1) Flickering lights 2) warm outlets 3) burning smell 4) frequent breaker trips 5) buzzing sounds.
-        - When to call an electrician::Any electrical warning sign, adding circuits, aluminum wiring, or knob-and-tube wiring.
-        - Electrical panel lifespan::{{25-40}} years — replace regardless of age if it's a {{Federal Pacific or Zinsco}} brand (documented fire hazards) or shows rust or burn marks.
-    - Seasonal checklists
-        - Spring maintenance — outside::1) Inspect roof 2) clean gutters 3) power wash siding 4) check foundation for cracks 5) service AC 6) fertilize, prune, mulch, start irrigation.
-        - Spring maintenance — inside::1) Replace HVAC filters 2) test smoke and CO detectors 3) deep clean 4) check attic for pests and leaks.
-        - Summer maintenance — cooling optimization::1) Clean AC coils 2) check refrigerant 3) seal air leaks 4) add attic insulation.
-        - Summer maintenance — exterior protection::1) Seal pest entry points, trim vegetation off the house, eliminate standing water 2) touch up paint, seal deck and fence, caulk gaps.
-        - Fall winterization — the single checklist::1) Disconnect, drain, and store hoses 2) drain the irrigation system 3) insulate exposed pipes 4) clean gutters again 5) service the heating system.
-        - Fall safety checks::1) Clean chimney 2) test heating system 3) replace detector batteries 4) check fire extinguisher 5) add weatherstripping and seal drafts.
-        - Hard-freeze plumbing protocol::1) Keep heat at {{55°F}} minimum 2) open cabinet doors so warm air reaches pipes 3) drip faucets on exterior walls 4) know the main water shutoff location before you need it.
-        - Winter snow and ice prep::1) Stock ice melt 2) check snow-removal equipment 3) prevent ice dams with attic insulation and ventilation.
-        - Winter indoor air quality::Humidity {{30-50%}}, filters changed more often, humidifier cleaned.
-    - Repair vs replace framework
-        - Appliance repair-or-replace test::Replace when repair cost exceeds {{50% of new}} AND the appliance is past {{75%}} of expected lifespan — both conditions, not either. And count energy in the replace column: efficient replacements often pay for themselves in 5-10 years.
-        - Water heater replace triggers::A {{leaking tank}} (not fixable), or 10+ years old with recurring issues.
-        - DIY-appropriate home jobs::Painting, basic plumbing (faucets, flappers), filter changes, caulking, outlet and switch swaps with the breaker off.
-        - Always-hire-a-professional jobs::Electrical panel work, gas lines, structural changes, roofing, HVAC refrigerant.
-        - DIY cost-benefit rule::If DIY saves under {{$500}} and the risk is high (injury, code violations, consequential damage), hire the professional.
-- ## Owning: Insurance, Taxes, Selling & HOA
-    - Homeowners insurance
-        - Homeowners insurance — the three coverages::1) Dwelling (rebuild the structure) 2) personal property (your stuff) 3) liability (harm you're responsible for).
-        - Replacement cost vs actual cash value::Replacement cost pays what it takes to {{rebuild or buy new}}; actual cash value first subtracts {{depreciation}}. On a 10-year-old roof, the ACV check covers a fraction of the new roof — buy replacement cost; the premium difference is small next to the payout difference.
-        - Dwelling coverage amount — the common mistake::Insure the {{cost to rebuild}}, not the market price — land doesn't burn, and construction costs are what claims actually pay for.
-        - Umbrella policy::{{$1 million or more}} of extra liability that sits on top of your auto and home liability limits — it covers the lawsuit that blows past them.
-        - Umbrella policy cost::Roughly {{$150-300 per year}} for the first $1 million (about $50-75 per additional million) — the cheapest seven-figure protection there is. (as of 2026) #volatile
-    - Refinancing
-        - When to consider refinancing::A rate drop of about {{1 percentage point}} is the classic trigger (0.5-0.75 can work when closing costs are low) — AND you plan to stay past the break-even point.
-        - Refinance break-even formula::{{Closing costs divided by monthly savings}} = months to break even. Stay longer than that number or the refinance loses money.
-            - Refinance break-even — why the formula is just division::Closing costs are paid once and savings arrive monthly, so the only question is how many months of savings repay the one-time cost. Anything past that month is profit; anything before it is a loss you funded to feel like you were saving.
-        - Refinance closing costs::{{2-6%}} of the loan amount — the reason a small rate drop can still be a bad deal.
-        - Refinance term trap::Rolling 25 remaining years into a fresh 30-year loan can raise total interest even at a lower rate — match or shorten the term, or compare lifetime totals before signing.
-    - Property tax appeals
-        - Property tax appeal — the lever::Your bill is rate x assessed value; the rate is fixed, but the {{assessed value}} can be appealed. The evidence: 1) errors in the property record (square footage, room count) 2) comparable sales below your assessment 3) photos of condition problems. #us
-        - Property tax appeal window::Commonly {{30-60}} days after the assessment notice (up to 90 in some places, as short as 15 in others) — miss it and you wait a year. #us
-        - Property tax appeal odds::Only about 3-5% of homeowners appeal, but {{30-50%}} of appeals win a reduction — far more when documented — and filing is usually free or cheap. #us
-    - Selling
-        - Cost of selling a home::Roughly {{6-10%}} of the sale price all-in: agent commissions ~5-6%, plus closing costs, transfer taxes, repairs, concessions, and moving — the round trip is why buying needs 5-7 years to beat renting.
-        - Real estate commissions after the 2024 NAR settlement::Always negotiable and now explicitly decoupled — buyer-agent compensation can't be advertised on the MLS and is negotiated separately; totals still average roughly 4.9-5.4% (as of 2026). #us #volatile
-    - HOA
-        - HOA dues — what they cover::Common-area maintenance, amenities, master insurance on shared structures, and — ideally — reserve funds for future big repairs.
-        - HOA special assessment::A one-time levy on every owner when reserves can't cover a major expense (new roof, repaving) — thousands per unit, often with little warning.
-        - HOA due diligence before buying::1) Read the budget and reserve study — underfunded reserves mean future special assessments 2) read the rules and restrictions 3) skim meeting minutes for brewing disputes.
-        - Unpaid HOA dues — the enforcement teeth::The HOA can place a lien on the home and, in most states, even foreclose — dues are as mandatory as the mortgage. #us
-- ## Home Buying
-    - Are you ready
-        - Home-readiness — emergency fund test::{{3-6 months}} of expenses still intact AFTER the down payment and closing costs.
-        - Home-readiness — income test::{{2+}} years of employment history, ideally in the same field.
-        - Home-readiness — debt-to-income test::Total debt payments including the future mortgage under {{36%}} of gross income.
-        - Down payment benchmarks::{{20%}} avoids PMI; minimums {{3.5%}} FHA, 3-5% conventional programs. #us
-        - Buyer closing costs — how much to budget::An additional {{2-5%}} of purchase price on top of the down payment.
-        - Credit score targets for a mortgage::{{740+}} for the best rates; floors: {{580}} FHA, {{620}} conventional. #us
-    - Rent vs buy
-        - The 5% rule (rent vs buy)::If annual rent is under 5% of the {{home's purchase price}}, renting is generally the better deal.
-            - The 5% rule — where the 5% comes from::It is the rough annual cost of owning that is not building equity: about 1% maintenance, 1-2% property tax, and roughly 3-4% cost of capital, minus expected appreciation. If rent is below that burn rate, owning has no cost advantage — only the non-financial reasons remain.
-        - Buying break-even timeline::{{5-7}} years — how long appreciation and principal paydown typically take to overcome transaction costs.
-        - Hidden costs of ownership::Maintenance ~{{1%}} of home value per year, property tax {{1-2%}}, insurance {{0.5-1%}} — plus HOA and higher utilities. #high-frequency
-        - Down payment opportunity cost::The cash could earn {{7-10%}} in the market vs {{3-4%}} typical home appreciation — buying is a lifestyle-plus-leverage decision, not automatically the better investment.
-        - Rent vs buy — the non-financial column::Stability, customization, forced savings, community, schools — real factors the spreadsheet can't hold.
-    - Step 1 — Mortgage pre-approval
-        - Pre-qualification vs pre-approval::Pre-qualification is an {{estimate}} from stated numbers; pre-approval is a {{verified commitment}} after document review — sellers only respect the second.
-        - Pre-approval validity window::{{60-90}} days — refresh it if the search runs long, since an expired letter kills an offer's credibility.
-        - Pre-approval documents — the rule of 2s::{{2 years}} tax returns, {{2 months}} pay stubs, {{2 months}} bank statements — plus employment verification and ID.
-        - Mortgage rate shopping and your credit::All mortgage inquiries within a {{14-45 day}} window count as a single inquiry — so get {{3-5}} quotes inside two weeks.
-    - Step 2 — Finding the home
-        - Needs vs wants framework (house hunting)::Write must-haves vs nice-to-haves before touring; a house should cover at least {{80%}} of the needs list.
-        - Location research factors::1) Schools (resale value even without kids) 2) crime rates 3) commute 4) future development 5) flood zones.
-        - The 10-year rule (buying)::Buy as if you'll stay {{10 years}} even if you plan fewer — plans change faster than houses sell.
-            - The 10-year rule — why plan for longer than you intend::Transaction costs run roughly 8-10% round trip and are paid regardless of what happens to the price, so a short hold has to overcome a large fixed loss. Ten years is the horizon where ordinary appreciation reliably clears that hurdle.
-        - Competing in multiple offers::1) Escalation clause 2) larger earnest money 3) flexible closing date 4) cash if possible 5) waived contingencies — effective but transfers real risk to you. (Personal "love letters" to sellers are now widely discouraged: they invite fair-housing liability.) And price isn't the only lever: closing date, repairs, and included items move deals too.
-    - Step 3 — The offer
-        - Earnest money::A deposit of {{1-3%}} of offer price showing serious intent — applied to the down payment or closing at the end.
-        - Inspection contingency::The right to a professional inspection, then to negotiate or exit based on findings.
-        - Financing contingency::Lets you back out without losing earnest money if the mortgage is denied.
-        - Appraisal contingency::Lets you renegotiate or walk if the appraisal comes in below the offer.
-        - Sale contingency::Makes the offer conditional on selling your current home first — sometimes necessary, always weakens the offer.
-    - Step 4 — Inspection
-        - Home inspection — the big-ticket issues::1) Foundation problems 2) roof age or damage 3) HVAC age 4) electrical issues 5) plumbing problems 6) water damage and mold.
-        - Major-system replacement timelines (inspection lens)::Roof {{20-30}} years, HVAC {{15-20}} years, water heater {{8-12}} years, appliances 10-15 years — anything near the end of its window is a negotiating item.
-        - After a bad inspection — the four options::1) Seller repairs 2) credit at closing 3) price reduction 4) walk away.
-        - Specialty inspections worth considering::Termite, radon, sewer scope, chimney, pool/spa — the general inspection doesn't cover these.
-    - Step 5 — Closing
-        - Final walk-through — what you're verifying::1) Agreed repairs completed 2) no new damage 3) included items still present.
-        - Buyer closing costs — the breakdown::Lender fees 1-2%, title insurance 0.5-1%, escrow or attorney ~1%, transfer taxes (varies), recording fees.
-        - Closing documents you'll sign::Promissory note (the IOU), deed of trust or mortgage (the collateral pledge), closing disclosure, deed, various affidavits.
-        - Closing wire fraud — the defense::Never wire based on emailed instructions; call the title company at a {{known number}} to verify account details. This scam takes entire down payments.
-    - Mortgage deep dive
-        - Conventional loan profile::{{620+}} credit; 20% down avoids PMI; best rates go to the best credit. #us
-        - FHA loan profile::{{3.5%}} down with {{580+}} credit — but mortgage insurance for the life of the loan if under 10% down. #us
-        - VA and USDA loans — the 0% down programs::VA: no down payment and {{no PMI}}, for veterans and active military — the best deal going if eligible. USDA: no down payment in designated {{rural areas}}, income limits apply. #us
-        - Jumbo loan::A mortgage above the conforming limit — {{$832,750}} baseline in 2026, higher in high-cost areas — requiring excellent credit and a larger down payment. (as of 2026) #us #volatile
-        - 30-year vs 15-year fixed::30-year: lower payment, the most total interest. 15-year: ~{{25%}} higher payment, roughly {{half}} the total interest, equity built fast.
-        - 5/1 ARM::Rate fixed for {{5}} years, then adjusts {{annually}} — a cheaper start, real risk if you stay. It makes sense only if you're moving within ~7 years, can afford the adjusted payment, and expect income growth.
-        - Mortgage points::Prepaid interest — 1 point = {{1%}} of the loan, typically buying about {{0.25%}} off the rate.
-        - Points break-even::{{Point cost divided by monthly savings}} = months to break even. Buy points only if you'll stay longer than that — with cash that isn't the emergency fund.
-        - PMI::Private mortgage insurance on conventional loans under {{20%}} down — {{0.5-1.5%}} of the loan annually; it protects the lender, not you.
-        - PMI removal::By request at {{20%}} equity, automatic at {{22%}}. #us
-            - PMI removal — why 20% and 22% differ::Twenty percent is the equity level at which the lender's risk falls enough to drop the insurance, but you must request it. Twenty-two is where federal law forces automatic termination — the two-point gap exists because nobody removes it for you until they are required to. #us
-        - FHA MIP vs conventional PMI::FHA's mortgage insurance lasts the {{life of the loan}} if under 10% down ({{11 years}} at 10%+) — a standing reason to refinance out of FHA once you hit 20% equity. #us
-- ## Renting & Tenant Rights
-    - Finding and affording
-        - The 30% rule (rent)::Spend no more than 30% of {{gross income}} on rent — the traditional benchmark; the sharper test is under 30% of net including utilities, parking, and renter's insurance.
-            - The 30% rule — why 30 and why net is the better test::Thirty percent leaves enough of a typical income for the other fixed costs plus savings. It fails as a gross-income rule at high tax rates and in high-cost cities, which is why the sharper version uses take-home and includes the costs that ride along with the unit.
-        - 30% rule — high-cost-city reality::{{40-50%}} may be unavoidable in expensive metros — workable, but only with deliberate budget cuts elsewhere.
-        - True rental affordability::Rent + utilities + parking + required insurance under {{30% of net}} (take-home) income — and budget the one-time hits too: moving, deposits, utility setup, pet fees.
-        - Rental application package::Photo ID, {{3 months}} of pay stubs, 2-3 months of bank statements, employment letter, {{3}} references, previous landlord contact — prepared in advance.
-        - Strengthening a rental application::1) Know your credit score and explain issues upfront — surprises read worse than explanations 2) cover letter 3) extra references 4) offer a larger deposit 5) proof of renters insurance.
-        - Self-employed income proof (rental)::{{2 years}} tax returns, {{6 months}} bank statements, client contracts, accountant letter.
-        - Co-signer requirements (rental)::Typically income {{3x}} the rent and credit {{700+}}.
-    - The lease
-        - Lease — money terms to verify::Rent amount, due date, grace period, late fees, accepted payment methods, deposit amount and its return conditions.
-        - Lease — term clauses to verify::Start and end dates, renewal terms, month-to-month conversion, rent-increase limits — and the exact penalty and notice required to break the lease.
-        - Lease — living-rule clauses::Pet types, deposits, monthly fees and restrictions; subletting permission; guest duration limits.
-        - Lease — maintenance clauses::Who fixes what, required response times, emergency procedures.
-        - Lease red flags::1) Clauses waiving your legal rights 2) automatic renewal without notice 3) excessive fees 4) no landlord maintenance obligations. Illegal clauses are unenforceable — but they tell you who you're renting from.
-        - Negotiable lease items::Rent, move-in date, pet policy, parking, storage, painting permission, lease length.
-    - Move-in
-        - Move-in walk-through rule::Document {{every existing damage}} BEFORE moving anything in — this file is your deposit's bodyguard.
-        - Move-in documentation method::Date-stamped photos and a narrated video of walls, floors, appliances, fixtures, windows, doors, and every existing stain — plus a written list {{signed by the landlord}}.
-        - Move-in testing and utilities::Test every appliance, HVAC, plumbing, every outlet, locks, and smoke detectors; photograph the meter readings and set up all utilities immediately.
-    - Rights — who actually governs what
-        - Tenant rights — what's actually federal::Only the {{Fair Housing Act}} and disability-accommodation rules. Habitability, entry notice, deposits, and eviction procedure are all {{state law}}. #us
-        - Fair Housing Act protected classes::{{7}}: race, color, religion, sex, national origin, disability, familial status — landlords cannot discriminate on any of them. #us
-        - Disability accommodations (rental)::Landlords must allow reasonable accommodations — service and assistance animals even in no-pet buildings, grab bars, ramps. #us
-        - Implied warranty of habitability::State law in nearly every state (not federal): working plumbing, heat, electricity, weatherproofing, structurally safe premises. #us
-        - Landlord entry notice::State law — {{24-48 hours}} advance notice is the common range, emergencies excepted. #us
-    - Deposits
-        - Security deposit caps::State law — most states cap at {{1-2 months'}} rent, some have no cap at all. #us
-        - Security deposit return::State law — {{14-60}} days depending on state, with an {{itemized}} deduction list required; some states also require a separate account with interest paid to the tenant. #us
-        - Disputing deposit deductions::1) Written dispute by certified mail 2) small claims court if refused — the landlord bears the burden of proving damages. #us
-        - Wear and tear vs damage::Normal wear (not deductible): faded paint, worn carpet paths, minor scuffs, loose doorknobs. Damage (deductible): holes in walls, stains, broken fixtures, missing items, pet destruction.
-    - Repairs
-        - Landlord repair timelines::Habitability issues: a reasonable time, typically {{14-30}} days. Emergencies (no heat, no water, gas leak, broken locks): {{24-48}} hours. Both vary by state. #us
-        - Repair request protocol::Always in writing (email or text counts), keep copies, follow up — the paper trail is the leverage.
-        - Repair-and-deduct remedy::Some states let you fix a habitability issue and deduct the cost from rent — but only after written notice, a reasonable wait, and with the cost under a cap (often one month's rent). #us
-        - Rent withholding::Allowed in some states for serious habitability failures — but only by following the exact statutory process; done wrong, it's just nonpayment. #us
-    - Eviction
-        - Legal grounds for eviction::Nonpayment, lease violation, illegal activity, owner move-in, major renovation — exact grounds vary by state and city. #us
-        - Illegal self-help eviction tactics::Changing locks, shutting off utilities, removing belongings, harassment — illegal in every state; only a court order enforced by the {{sheriff}} can remove a tenant. #us
-        - Eviction timeline (California-typical)::1) 3-day pay-or-quit notice 2) unlawful detainer lawsuit filed 3) tenant response window ({{10}} court days in California as of 2026) 4) court hearing 5) sheriff lockout. About 5-8 weeks uncontested — and other states differ at every step. #us #volatile
-        - Tenant rights during eviction::Right to cure (fix the violation), right to a court hearing, right to remain until a court order. #us
-        - Eviction on a rental record::Stays about {{7}} years and makes renting much harder — future landlords may require co-signers or larger deposits. #us
-- ## Car Buying & Financing
-    - Depreciation and total cost
-        - New car depreciation curve::{{20%}} gone driving off the lot, {{40%}} by year 2, {{60%}} by year 5 — the steepest cost of new-car ownership is invisible.
-        - The used-car sweet spot::{{2-4}} years old — {{60-80%}} of the car's life remaining for {{40-60%}} of the new price. Someone else paid the cliff.
-            - The used-car sweet spot — why 2-4 years::Depreciation is steepest in the first two years and flattens after, while modern powertrains routinely last 200,000 miles. Buying after the cliff and before the wear captures the gap between how fast a car loses value and how slowly it loses function.
-        - Certified Pre-Owned value::Costs {{$1,000-3,000}} more than equivalent used, buying a manufacturer warranty and inspection.
-        - Total cost of ownership components::Purchase price + interest + insurance + gas + maintenance + repairs, minus resale value.
-        - 5-year TCO, new vs 3-year-old::Same model: new ~{{$40,000}} over five years vs ~{{$25,000}} for the 3-year-old — and new carries higher insurance and registration while used carries more repairs. Price the whole branch, not the sticker.
-        - When buying new makes sense::1) Keeping it 10+ years 2) needed features only in new 3) 0% financing available 4) reliability anxiety you'd genuinely pay to remove — then buy end of model year, unpopular colors, one trim below the top.
-    - Financing vs cash
-        - The 4% rule (car financing)::Loan rate under 4%: {{finance and keep the cash invested}}. Above: {{pay cash}}. The spread does the deciding.
-            - The 4% rule — why 4% and why it moves::It is a rate-spread test, not a magic number: finance when the loan costs less than your money reliably earns elsewhere, pay cash when it costs more. The threshold rises and falls with expected returns, so re-derive it rather than memorizing 4.
-        - Car financing opportunity cost — both branches::$30,000 cash can earn {{7-10%}} in the market while a cheap loan costs {{3-5%}} — at a low rate you're being paid to keep your money.
-        - Credit score and auto loan rates::{{750+}} gets the best rates; below {{650}} can add 5-10 points to the rate.
-        - Maximum auto loan terms::{{60}} months new, {{48}} months used, {{36}} months older used — longer is financing a depreciating asset into its repair years.
-        - Why long loan terms hurt::1) More total interest 2) underwater (owing more than the car's value) longer 3) still paying after the warranty ends.
-        - The monthly payment trap::Dealers negotiate the payment to hide the total. Settle the {{total price}} first — the payment is just arithmetic afterward.
-    - Leasing vs buying
-        - Leasing — what you're actually paying for::The car's {{depreciation}} during your term, plus interest (the money factor) and fees — at the end you hand back the keys owning nothing.
-        - Money factor::The lease's interest rate in disguise. Multiply by {{2400}} to get the APR — money factor 0.0025 = 6% APR. Always convert before comparing.
-        - Lease residual value::The contract's predicted end-of-lease value — a higher residual means a lower payment, because you're financing less depreciation.
-        - Lease mileage caps::Typically {{10,000-15,000}} miles per year; overage commonly {{$0.15-0.30}} per mile at turn-in — 5,000 extra miles can cost $1,500.
-        - When leasing wins::1) You'd get a new car every 2-3 years anyway 2) you reliably stay under the mileage cap 3) business-use deduction 4) fast-changing tech you don't want to own long term. Otherwise buying wins — leasing re-rents the steepest part of the depreciation curve forever.
-    - Negotiation
-        - Car pricing research tools::{{KBB, Edmunds, TrueCar}} for pricing; {{CarFax or AutoCheck}} for vehicle history.
-        - Fair new-car price::{{3-5%}} over invoice — not MSRP; for used, triangulate multiple comparable listings.
-        - Best times to buy a car::End of month, end of quarter, end of model year — and rainy days, when showrooms sit empty.
-        - Dealer negotiation sequence rule::Never discuss {{trade-in or financing}} until the price is settled — bundling is where the money hides.
-        - The four-square trap::A dealer worksheet juggling price, trade-in, down payment, and monthly payment to blur the true cost — refuse it and negotiate one number at a time.
-        - Walk-away power::Readiness to leave is the strongest negotiating tool in the room — there is always another car.
-        - Online quote strategy::Collect written quotes from multiple dealers and negotiate them against each other before setting foot in a showroom.
-    - Used-car diligence
-        - Pre-purchase inspection::Always — an independent mechanic's inspection costs {{$100-200}} and is the cheapest insurance in car buying.
-        - Used-car red flags::Salvage title, frame damage, flood damage, many owners, no maintenance records.
-        - Test drive checklist::1) Cold start 2) highway speeds 3) hard braking 4) every electronic 5) unusual noises and smells.
-    - Title and registration
-        - Title vs registration::Title is the {{ownership}} document; registration is the state's recurring {{permission to operate}} on public roads — plates, fees, and in some states an inspection. #us
-        - Lien on a car title::A financed car's title names the lender as lienholder — no clean title, and no sale, until the loan is paid off. #us
-        - Private-party purchase paperwork::1) Seller signs over the title (every listed owner) 2) bill of sale with price, date, VIN 3) buyer registers and pays sales tax by the state's deadline (commonly 10-30 days) 4) seller files a release of liability. #us
-        - Branded titles::Salvage (declared a total loss) and rebuilt (repaired and re-inspected) — both mean steep discounts, insurance complications, and a permanent resale penalty. #us
-- ## Car Maintenance & Troubleshooting
-    - Maintenance schedules
-        - Severe driving conditions::Stop-and-go traffic, trips under {{5 miles}}, dusty conditions, towing, temperature extremes.
-        - Severe schedule impact::Severe driving means maintenance at roughly {{half}} the normal interval in the manual.
-        - Severe driving — who it actually covers::About {{90%}} of drivers — "severe" is the normal American commute; the manual's "normal" schedule is the exception.
-    - Oil
-        - Modern oil change intervals::Conventional {{3,000-5,000}} miles; synthetic blend {{5,000-7,500}}; full synthetic {{7,500-15,000+}}. The owner's manual or oil life monitor overrides all of these — and the monitor is trustworthy, though changing a bit early is cheap insurance.
-        - Oil check procedure::1) Park level, engine warm but off about 5 minutes 2) pull the dipstick 3) wipe it clean 4) reinsert it fully 5) pull it again and read — the level belongs between the min and max marks.
-        - Oil color meanings::Amber = fresh; brown = normal; black = acceptable for diesels; {{milky}} = coolant in the oil — stop and diagnose.
-        - Synthetic vs conventional oil::Synthetic costs about {{2x}} but lasts {{2-3x}} longer and protects better at temperature extremes — usually cheaper per mile.
-    - Tires
-        - Tire pressure check frequency::{{Monthly}} minimum, plus before long trips.
-        - Correct tire pressure source::The {{driver door jamb}} sticker — NOT the sidewall number, which is the tire's maximum, not the car's spec.
-        - Tire pressure vs temperature::Pressure drops about {{1 PSI per 10°F}} of temperature drop — the first cold snap of fall lights up TPMS warnings everywhere.
-        - Tire pressure vs fuel economy::About {{0.2%}} lost per 1 PSI of under-inflation (DOE figure) — modest for fuel; the bigger stakes are tire wear and handling.
-            - Tire pressure — why under-inflation costs anything at all::A soft tire flexes more, and that flexing turns motion into heat instead of forward travel. The same flexing overheats the sidewall, which is why the wear and blowout risk are the larger consequence and the fuel penalty is modest.
-        - Tire rotation::Every {{5,000-7,500}} miles for even wear — front-to-back for same-size tires, X-pattern for non-directional, side-to-side for directional.
-        - The penny test::Penny in the groove, Lincoln's head down — if you can see his {{entire head}}, tread is at 2/32 inch or less: replace.
-        - Tread depth thresholds::New ~{{10/32 inch}}; replace at {{2/32}}; consider replacing at {{4/32}} if you drive in rain or snow.
-        - Uneven tire wear — what it tells you::1) Alignment issues 2) improper inflation 3) suspension problems — the tire is the printout of the car's health.
-        - Tire age limit::Replace at {{6 years}} regardless of tread — rubber degrades on the clock, not the odometer. Age check: last 4 digits of the DOT code = week and year (2419 = week 24 of 2019).
-    - Fluids
-        - Transmission fluid schedule::{{30,000-60,000}} miles for most; "lifetime" fills exist, but changing around 100k is the safer bet.
-        - Transmission fluid color::Red or pink = good; brown = time to change; black or burnt-smelling = damage already done.
-        - Coolant service::Every {{30,000 miles or 2 years}} — prevents corrosion, freezing, and boil-over.
-        - Coolant 50/50 mix — why::Pure antifreeze cools worse than the mix; pure water corrodes and freezes. The mixture is the design.
-        - Brake fluid service::Every {{2 years}} regardless of mileage — brake fluid is {{hygroscopic}}: it absorbs water from the air.
-        - Water in brake fluid — the failure mode::It lowers the boiling point; hard braking boils the fluid, vapor compresses, and the pedal goes soft — {{brake fade}} exactly when you need the brakes most.
-        - The forgotten fluids::Power steering: {{50,000-75,000}} miles or when dark. Differential: {{30,000-60,000}} miles — the most-skipped item on the schedule, and gears are expensive.
-    - Warning lights
-        - Red dashboard lights::Stop now: {{oil pressure}} (an engine without it destroys itself in minutes), {{temperature}} (overheating warps heads and blows gaskets), brake system, battery/charging. The tow is cheaper than the repair.
-        - Yellow dashboard lights::Service soon: check engine, ABS, tire pressure, service reminders.
-        - Check engine light — steady vs flashing::Steady means {{drive, but diagnose soon}}. Flashing means an {{active misfire}} dumping fuel into the catalytic converter — stop driving. Auto parts stores read the codes free, but a code names the symptom, not always the cause.
-    - Sounds and their meanings
-        - Brake squeal::Wear indicators touching the rotor by design — replace pads within about {{1,000 miles}}.
-        - Brake grinding::Metal on metal — pads are gone and the rotors are being machined away; stop driving.
-        - Pulsing brake pedal::Warped rotors — replacement needed; often follows repeated hard braking.
-        - Engine knock or ping::Pre-ignition — try {{higher octane}} fuel; persistent knock signals a serious problem.
-        - Engine ticking::Usually valve train — check the {{oil level}} first; may need adjustment.
-        - Squealing belt::Loose or worn belt — a {{$20 belt}} now beats a {{$500 alternator}} (and a roadside breakdown) later.
-        - Suspension clunks and pulls::Clunking over bumps: worn struts or shocks, ball joints, or bushings. Pulling to one side: alignment or uneven tire pressure — check pressure first, it's free.
-    - Preventable expensive repairs
-        - Timing belt economics::{{$500-1,000}} replacement prevents {{$3,000+}} engine damage when it snaps.
-        - Interference engine::An engine whose valves and pistons share the same space at different moments — a snapped timing belt lets them collide, destroying the engine.
-        - Timing belt interval::{{60,000-100,000}} miles per the manual — the one interval never to exceed.
-        - Cooling system flush economics::A {{$150}} coolant flush prevents a {{$3,000+}} head gasket failure.
-        - Transmission service economics::A {{$200}} service prevents a {{$3,000-5,000}} rebuild or replacement.
-    - After an accident
-        - Post-accident procedure::1) Check for injuries — call {{911}} if anyone is hurt 2) move to safety if drivable, hazard lights on 3) call police for a report 4) exchange information 5) photograph everything 6) collect witness contacts 7) notify your insurer promptly. #safety
-        - Post-accident — information to exchange::Names, phone numbers, insurance company and policy numbers, driver's license numbers, plate numbers — in both directions.
-        - Post-accident — what to photograph::Damage on all vehicles, positions before anything moves, the wider scene, plates, insurance cards, road conditions and signs.
-        - Post-accident — never admit fault::No blame talk at the scene — even a polite "I'm sorry" gets quoted. Fault is determined later by adjusters from the vehicles, photos, and reports, using facts you don't yet have. #safety
-        - Post-accident — reporting duties::Notify your insurer promptly regardless of fault; many states also require a DMV report above injury or damage thresholds — know your state's rule. #us
-- ## Fuel Economy & EV Basics
-    - Driving habits
-        - Speed vs fuel economy::Each {{5 mph over 50}} costs roughly {{7%}} — wind resistance grows with the square of speed.
-        - Acceleration technique::Gradual acceleration saves {{15-30%}} vs jackrabbit starts.
-        - Cruise control savings::{{7-14%}} on the highway, from holding constant speed.
-        - Idling waste::{{1/4 to 1/2 gallon}} per hour — shut off beyond about 10 seconds of standing (start-stop systems automate this).
-        - Air conditioning or open windows — which is more efficient::Below about {{45 mph}}, open windows win; above it, {{the air conditioner}} wins — open windows' drag beats the compressor at speed.
-    - Vehicle factors
-        - Air filter and fuel economy::A dirty filter costs up to {{10%}} in older cars, minimal in modern fuel-injected ones — still a cheap replacement.
-        - Oil viscosity and fuel economy::The wrong weight costs {{1-2%}} — use the manual's spec.
-        - Excess weight and fuel economy::Every {{100 pounds}} costs about 1% — the trunk is not a storage unit.
-        - Roof cargo and fuel economy::Costs {{10-25%}} at highway speed from aerodynamic drag — take the box off between trips.
-    - EV and hybrid basics
-        - Hybrid vs plug-in hybrid vs EV::Hybrid (HEV): gas engine plus a small self-charging battery, no plug. Plug-in hybrid (PHEV): roughly {{20-50}} miles electric, then gas. EV (BEV): battery only.
-        - EV charging Level 1::A standard {{120V}} outlet — about {{2-5 miles}} of range per hour; overnight covers short commutes only.
-        - EV charging Level 2::A {{240V}} circuit (dryer-style) — roughly {{10-45}} miles of range per hour depending on power; the standard home setup, full charge overnight.
-        - EV charging Level 3 (DC fast)::High-power DC straight into the battery — {{100+}} miles in about 30 minutes. Road-trip charging, not daily charging: frequent fast charging measurably accelerates battery degradation, so routine charging belongs on Level 1/2, often to an ~80% daily limit.
-        - EV battery degradation reality::About {{1.8-2.3%}} of capacity lost per year in large fleet studies (Geotab, as of 2026) — at that rate the battery usually outlives the car. #volatile
-        - EV battery warranty floor::At least {{8 years or 100,000 miles}} on essentially every EV sold in the US. #us
-        - EV total cost of ownership::Higher sticker, lower running costs — home electricity runs about half or less of gasoline's per-mile cost, there are no oil changes, and regenerative braking stretches brake life. Over a long hold, TCO often favors the EV; run the numbers on your own mileage.
-        - Federal EV tax credit status::Ended {{September 30, 2025}} — up to $7,500 new and $4,000 used before that date; later purchases get no federal credit, though some states still offer incentives. (as of 2026) #us #volatile
-- ## Auto Insurance
-    - Coverage types
-        - Bodily injury liability::Covers {{medical costs of others}} you injure — the coverage that stands between a bad day and your assets.
-        - Property damage liability::Covers {{damage to others' property}} — cars, fences, buildings.
-        - Reading 100/300/100 auto liability limits::{{$100k bodily injury per person}}, {{$300k bodily injury per accident}}, {{$100k property damage}} — the commonly recommended minimums.
-        - Why state minimum liability isn't enough::Typical 25/50/25 minimums are exhausted by one serious injury or one expensive car — everything above the limit comes out of {{your assets}}. #us
-        - Collision coverage::Pays for {{your own car's damage}} regardless of fault.
-        - When to drop collision::When the car's value falls below about {{10x}} the annual collision premium — you're insuring value that isn't there.
-        - Comprehensive coverage::Non-collision damage — theft, vandalism, weather, animal strikes.
-        - Auto deductible sweet spot::{{$500-1,000}} — balances premium savings against out-of-pocket risk; pair a higher deductible with a real emergency fund.
-        - Uninsured/underinsured motorist coverage::Protects you when the at-fault driver can't pay — about {{1 in 7}} US drivers (15.4%) were uninsured in 2023, and 1 in 3 were uninsured or underinsured (IRC). (as of 2026) #us #volatile
-    - Premium reduction
-        - Credit score and auto premiums::Poor credit can roughly {{double}} premiums in most states (a few states ban credit-based pricing). #us
-        - Multi-policy bundling::Save {{5-25%}} combining auto with home or renters.
-        - Defensive driving course discount::{{5-10%}} for completing an approved course.
-        - Usage-based insurance::App- or device-monitored driving saves {{10-30%}} — worth it only if you actually drive gently.
-        - Annual payment discount::{{5-10%}} for paying the premium annually instead of monthly.
-        - Auto insurance shopping cadence::Re-shop every {{2-3}} years — loyalty doesn't pay, and rates for identical coverage vary widely.
+Life Skills v2 - Housing & Vehicles
+    Home Maintenance & Systems
+        HVAC
+            HVAC filter replacement frequency :: Every 30 days for 1-inch filters, every 90 days for 4-inch filters — and monthly during heavy-use season.
+                HVAC filter intervals — why thickness changes the number? >> A filter fails by loading up with particulate, and a 4-inch filter holds roughly four times the surface area of a 1-inch one, so it takes about three times as long to reach the same restriction. The interval tracks dust load, which is why heavy-use season and pets shorten it.
+            Dirty HVAC filter — what it causes? >>>
+                - System strain
+                - higher energy bills
+                - premature system failure. The cheapest part in the system protects the most expensive one
+                Dirty filter — the actual failure chain? >> Restricted airflow means less heat exchange, so the system runs longer for the same result, which raises the bill and the wear.
+                    In cooling, insufficient airflow can drop the coil below freezing and ice it, and in heating it can overheat the exchanger — both routes end at the most expensive component.
+            HVAC filter MERV ratings :: MERV 8 for basic filtration, MERV 11 for allergies, MERV 13 the residential maximum — higher ratings restrict airflow.
+                MERV ratings — why higher is not simply better? >> A finer filter catches smaller particles by having tighter pores, which also means more resistance to airflow.
+                    Residential blowers are sized for a specific static pressure, so past roughly MERV 13 you starve the system and trade air quality for compressor strain.
+            HVAC professional service schedule :: Annually minimum — ideally twice: spring for AC, fall for heat.
+            HVAC professional service — what a real visit includes? >>>
+                - Clean coils
+                - check refrigerant
+                - test capacitors
+                - verify airflow
+                - check electrical connections
+            HVAC DIY maintenance tasks? >>>
+                - Keep a 2-foot clearance around the outdoor unit
+                - clean the condensate drain line quarterly
+                - check thermostat batteries
+            HVAC system lifespan? >> 15-20 years average — longer with maintenance, shorter in extreme climates.
+            HVAC repair or replace — the $5,000 rule: Multiply the system's {{age in years}} by the {{repair quote}}: over $5,000, replace; under, repair. Example: 12-year-old unit, $500 repair — 12 x 500 = $6,000, so replace.
+            HVAC $5,000 rule — why multiply by age? >> Age is a proxy for how many more repairs are coming and how little life the repair buys.
+                The same $500 repair is a good deal on a 4-year-old unit and a bad one on a 15-year-old unit.
+            The 50% Rule (repair vs replace)? >> If a repair costs more than half of replacement cost, replace instead — the generic screen for any home system or appliance.
+                The 50% Rule — why half is the break point? >> At half of replacement cost you are paying half price for a machine that already has most of its life spent and no warranty, while the full price buys a full lifespan and a warranty. The ratio is a proxy for cost-per-remaining-year, which is the quantity that actually matters.
+            $5,000 rule vs 50% rule — when each applies? >> The 50% rule is the first-pass screen for any appliance or component; the $5,000 rule is the HVAC-specific refinement because it also prices in age.
+                For HVAC, let the $5,000 rule decide; for everything else, use 50%.
+            R-22 refrigerant — why it tips HVAC toward replace? >> R-22 production was phased out in the US in 2020, so recharging a leaking R-22 system runs on expensive reclaimed supply — a major R-22 repair usually means replace. ##us
+        Plumbing
+            Water heater annual flush procedure? 1. >>>
+                1. Turn off power (electric) or set gas to pilot
+                2. attach a hose to the drain valve
+                3. open the valve and drain the tank
+                4. flush until the water runs clear
+            Water heater flush — why bother? >> Removes sediment buildup that reduces efficiency and shortens tank lifespan.
+            Water heater temperature setting? >> 120°F — the DOE-recommended setting: saves 6-10% on water heating vs 140°F, and 140°F water can cause a third-degree burn in about 5 seconds. ##safety
+                Water heater 120°F — why that specific number? >> It is the point where two curves cross: scald risk rises steeply above it (140°F burns skin in about five seconds) while Legionella suppression improves above it.
+                    120 is the compromise, which is why the safer answer is to store hot and mix down at the tap.
+                Water heater temperature — the Legionella counterpoint? >> CDC and ASHRAE favor storing at 135-140°F to suppress Legionella bacteria. ##safety
+                    If you store hotter, pair it with an anti-scald mixing valve at the outlets so the tap still delivers ~120°F.
+            Water heater anode rod? >> A sacrificial rod that corrodes so the tank doesn't — replace every 3-5 years to prevent tank corrosion.
+            Water heater lifespan? >> Tank 8-12 years; tankless 20+ years.
+            Drain maintenance routine :: Monthly enzyme treatment, annual preventive snaking, and no chemical cleaners — they corrode pipes and rarely fix the real blockage.
+            Toilet maintenance routine? >> New flapper every 2-3 years, check the fill valve annually, keep supply connections snug — a silent leak can waste hundreds of gallons a day.
+            Home water pressure range? >> 40-80 PSI — above 80, install a pressure reducer; high pressure quietly destroys fixtures and appliances.
+            Finding silent water leaks? >>>
+                - Watch the water bill for unexplained increases
+                - check the meter with all water off — movement means a leak
+                - food coloring in the toilet tank — color in the bowl means a leaking flapper
+        Roof and gutters
+            Gutter cleaning schedule :: Twice yearly minimum (spring and fall); quarterly with many trees overhead.
+                Gutter cleaning — why twice yearly and why it matters so much ;; Spring and fall bracket the two debris seasons.
+                    The stakes are outsized because a blocked gutter redirects the entire roof's water to the foundation, converting a $150 chore into grading, waterproofing, or structural repair — the classic asymmetric maintenance bet.
+            Clogged gutters — the damage chain? >>>
+                - Foundation damage
+                - roof leaks
+                - fascia rot
+                - ice dams. Water always finds the most expensive path
+            Gutter cleaning — DIY vs professional? >> DIY saves $150-300 per cleaning, but ladder work is genuinely dangerous without proper equipment.
+            Roof inspection checklist? >>>
+                - Missing or damaged shingles
+                - flashing integrity
+                - moss or algae growth
+                - water stains in the attic
+            Roof lifespan by material? >> Asphalt 20-30 years, metal 40-70 years, tile 50+ years, slate 100+ years.
+            Roof repair vs replace rule :: Replace when the roof is past 80% of its material's lifespan or has multiple leaks; otherwise repair. Sagging is a structural emergency — professional, now.
+            Roof rule — why percent-of-lifespan beats a flat age? >> A flat "20 years = replace" rule scraps a slate roof in its infancy and keeps a dying asphalt roof too long.
+                The material sets the clock: 20 years is old for asphalt, young for metal, barely started for slate.
+        Electrical
+            GFCI outlet testing :: Monthly, using the test/reset buttons — bathroom, kitchen, and outdoor outlets.
+            Circuit breaker :: A safety device that automatically shuts off current when flow is too high, preventing wires from overheating and starting fires.
+            Sticky circuit breaker problem? >> Years spent in one position let the mechanism corrode or seize
+                in a real overload it may fail to trip or fail to reset afterward — a breaker that won't trip is a fire extinguisher that doesn't work.
+            Circuit breaker annual exercise :: Flip each breaker off and back on once a year — the mechanical action keeps contacts clean and spring mechanisms limber.
+                While you're at the panel, photograph the labels and label any unmarked breakers.
+            Breaker replacement — signs and cost? >> 1) Won't stay reset (keeps popping back to off) 2) trips frequently with no obvious overload. Electrician replacement: $50-150.
+            Electrical warning signs? >>>
+                - Flickering lights
+                - warm outlets
+                - burning smell
+                - frequent breaker trips
+                - buzzing sounds
+            When to call an electrician? >> Any electrical warning sign, adding circuits, aluminum wiring, or knob-and-tube wiring.
+            Electrical panel lifespan? >> 25-40 years — replace regardless of age if it's a Federal Pacific or Zinsco brand (documented fire hazards) or shows rust or burn marks.
+        Seasonal checklists
+            Spring maintenance — outside? >>>
+                - Inspect roof
+                - clean gutters
+                - power wash siding
+                - check foundation for cracks
+                - service AC
+                - fertilize, prune, mulch, start irrigation
+            Spring maintenance — inside? >>>
+                - Replace HVAC filters
+                - test smoke and CO detectors
+                - deep clean
+                - check attic for pests and leaks
+            Summer maintenance — cooling optimization? >>>
+                - Clean AC coils
+                - check refrigerant
+                - seal air leaks
+                - add attic insulation
+            Summer maintenance — exterior protection? >> 1) Seal pest entry points, trim vegetation off the house, eliminate standing water 2) touch up paint, seal deck and fence, caulk gaps.
+            Fall winterization — the single checklist? >>>
+                - Disconnect, drain, and store hoses
+                - drain the irrigation system
+                - insulate exposed pipes
+                - clean gutters again
+                - service the heating system
+            Fall safety checks? >>>
+                - Clean chimney
+                - test heating system
+                - replace detector batteries
+                - check fire extinguisher
+                - add weatherstripping and seal drafts
+            Hard-freeze plumbing protocol? 1. >>>
+                1. Keep heat at 55°F minimum
+                2. open cabinet doors so warm air reaches pipes
+                3. drip faucets on exterior walls
+                4. know the main water shutoff location before you need it
+            Winter snow and ice prep? >>>
+                - Stock ice melt
+                - check snow-removal equipment
+                - prevent ice dams with attic insulation and ventilation
+            Winter indoor air quality? >> Humidity 30-50%, filters changed more often, humidifier cleaned.
+        Repair vs replace framework
+            Appliance repair-or-replace test? >> Replace when repair cost exceeds 50% of new AND the appliance is past 75% of expected lifespan — both conditions, not either.
+                And count energy in the replace column: efficient replacements often pay for themselves in 5-10 years.
+            Water heater replace triggers :: A leaking tank (not fixable), or 10+ years old with recurring issues.
+            DIY-appropriate home jobs :: Painting, basic plumbing (faucets, flappers), filter changes, caulking, outlet and switch swaps with the breaker off.
+            Always-hire-a-professional jobs :: Electrical panel work, gas lines, structural changes, roofing, HVAC refrigerant.
+            DIY cost-benefit rule? >> If DIY saves under $500 and the risk is high (injury, code violations, consequential damage), hire the professional.
+    Owning: Insurance, Taxes, Selling & HOA
+        Homeowners insurance
+            Homeowners insurance — the three coverages? >>>
+                - Dwelling (rebuild the structure)
+                - personal property (your stuff)
+                - liability (harm you're responsible for)
+            Replacement cost vs actual cash value? >> Replacement cost pays what it takes to rebuild or buy new; actual cash value first subtracts depreciation.
+                On a 10-year-old roof, the ACV check covers a fraction of the new roof — buy replacement cost; the premium difference is small next to the payout difference.
+            Dwelling coverage amount — the common mistake? >> Insure the cost to rebuild, not the market price — land doesn't burn, and construction costs are what claims actually pay for.
+            Umbrella policy? >> $1 million or more of extra liability that sits on top of your auto and home liability limits — it covers the lawsuit that blows past them.
+            Umbrella policy cost? >> Roughly $150-300 per year for the first $1 million (about $50-75 per additional million) — the cheapest seven-figure protection there is. (as of 2026) ##volatile
+        Refinancing
+            When to consider refinancing? >> A rate drop of about 1 percentage point is the classic trigger (0.5-0.75 can work when closing costs are low) — AND you plan to stay past the break-even point.
+            Refinance break-even formula: {{Closing costs divided by monthly savings}} = months to break even. Stay longer than that number or the refinance loses money.
+                Refinance break-even — why the formula is just division? >> Closing costs are paid once and savings arrive monthly, so the only question is how many months of savings repay the one-time cost.
+                    Anything past that month is profit; anything before it is a loss you funded to feel like you were saving.
+            Refinance closing costs? >> 2-6% of the loan amount — the reason a small rate drop can still be a bad deal.
+            Refinance term trap :: Rolling 25 remaining years into a fresh 30-year loan can raise total interest even at a lower rate — match or shorten the term, or compare lifetime totals before signing.
+        Property tax appeals
+            Property tax appeal — the lever? >>> ##us
+                - errors in the property record (square footage, room count)
+                - comparable sales below your assessment
+                - photos of condition problems
+            Property tax appeal window? >> Commonly 30-60 days after the assessment notice (up to 90 in some places, as short as 15 in others) — miss it and you wait a year. ##us
+            Property tax appeal odds? >> Only about 3-5% of homeowners appeal, but 30-50% of appeals win a reduction — far more when documented — and filing is usually free or cheap. ##us
+        Selling
+            Cost of selling a home? >> Roughly 6-10% of the sale price all-in: agent commissions ~5-6%, plus closing costs, transfer taxes, repairs, concessions, and moving
+                the round trip is why buying needs 5-7 years to beat renting.
+            Real estate commissions after the 2024 NAR settlement? >> Always negotiable and now explicitly decoupled — buyer-agent compensation can't be advertised on the MLS and is negotiated separately; totals still average roughly 4.9-5.4% (as of 2026). ##us ##volatile
+        HOA
+            HOA dues — what they cover? >> Common-area maintenance, amenities, master insurance on shared structures, and — ideally — reserve funds for future big repairs.
+            HOA special assessment :: A one-time levy on every owner when reserves can't cover a major expense (new roof, repaving) — thousands per unit, often with little warning.
+            HOA due diligence before buying? >>>
+                - Read the budget and reserve study — underfunded reserves mean future special assessments
+                - read the rules and restrictions
+                - skim meeting minutes for brewing disputes
+            Unpaid HOA dues — the enforcement teeth? >> The HOA can place a lien on the home and, in most states, even foreclose — dues are as mandatory as the mortgage. ##us
+    Home Buying
+        Are you ready
+            Home-readiness — emergency fund test? >> 3-6 months of expenses still intact AFTER the down payment and closing costs.
+            Home-readiness — income test? >> 2+ years of employment history, ideally in the same field.
+            Home-readiness — debt-to-income test? >> Total debt payments including the future mortgage under 36% of gross income.
+            Down payment benchmarks? >> 20% avoids PMI; minimums 3.5% FHA, 3-5% conventional programs. ##us
+            Buyer closing costs — how much to budget? >> An additional 2-5% of purchase price on top of the down payment.
+            Credit score targets for a mortgage? >> 740+ for the best rates; floors: 580 FHA, 620 conventional. ##us
+        Rent vs buy
+            The 5% rule (rent vs buy)? >> If annual rent is under 5% of the home's purchase price, renting is generally the better deal.
+                The 5% rule — where the 5% comes from? >> It is the rough annual cost of owning that is not building equity: about 1% maintenance, 1-2% property tax, and roughly 3-4% cost of capital, minus expected appreciation.
+                    If rent is below that burn rate, owning has no cost advantage — only the non-financial reasons remain.
+            Buying break-even timeline? >> 5-7 years — how long appreciation and principal paydown typically take to overcome transaction costs.
+            Hidden costs of ownership? >> Maintenance ~1% of home value per year, property tax 1-2%, insurance 0.5-1% — plus HOA and higher utilities. ##high-frequency
+            Down payment opportunity cost? >> The cash could earn 7-10% in the market vs 3-4% typical home appreciation — buying is a lifestyle-plus-leverage decision, not automatically the better investment.
+            Rent vs buy — the non-financial column? >> Stability, customization, forced savings, community, schools — real factors the spreadsheet can't hold.
+        Step 1 — Mortgage pre-approval
+            Pre-qualification vs pre-approval :: Pre-qualification is an estimate from stated numbers; pre-approval is a verified commitment after document review — sellers only respect the second.
+            Pre-approval validity window? >> 60-90 days — refresh it if the search runs long, since an expired letter kills an offer's credibility.
+            Pre-approval documents — the rule of 2s? >> 2 years tax returns, 2 months pay stubs, 2 months bank statements — plus employment verification and ID.
+            Mortgage rate shopping and your credit? >> All mortgage inquiries within a 14-45 day window count as a single inquiry — so get 3-5 quotes inside two weeks.
+        Step 2 — Finding the home
+            Needs vs wants framework (house hunting)? >> Write must-haves vs nice-to-haves before touring; a house should cover at least 80% of the needs list.
+            Location research factors? >>>
+                - Schools (resale value even without kids)
+                - crime rates
+                - commute
+                - future development
+                - flood zones
+            The 10-year rule (buying) :: Buy as if you'll stay 10 years even if you plan fewer — plans change faster than houses sell.
+                The 10-year rule — why plan for longer than you intend? >> Transaction costs run roughly 8-10% round trip and are paid regardless of what happens to the price, so a short hold has to overcome a large fixed loss.
+                    Ten years is the horizon where ordinary appreciation reliably clears that hurdle.
+            Competing in multiple offers? >>>
+                - Escalation clause
+                - larger earnest money
+                - flexible closing date
+                - cash if possible
+                - waived contingencies — effective but transfers real risk to you. (Personal "love letters" to sellers are now widely discouraged: they invite fair-housing liability.) And price isn't the only lever: closing date, repairs, and included items move deals too
+        Step 3 — The offer
+            Earnest money? >> A deposit of 1-3% of offer price showing serious intent — applied to the down payment or closing at the end.
+            Inspection contingency :: The right to a professional inspection, then to negotiate or exit based on findings.
+            Financing contingency :: Lets you back out without losing earnest money if the mortgage is denied.
+            Appraisal contingency :: Lets you renegotiate or walk if the appraisal comes in below the offer.
+            Sale contingency :: Makes the offer conditional on selling your current home first — sometimes necessary, always weakens the offer.
+        Step 4 — Inspection
+            Home inspection — the big-ticket issues? >>>
+                - Foundation problems
+                - roof age or damage
+                - HVAC age
+                - electrical issues
+                - plumbing problems
+                - water damage and mold
+            Major-system replacement timelines (inspection lens)? >> Roof 20-30 years, HVAC 15-20 years, water heater 8-12 years, appliances 10-15 years — anything near the end of its window is a negotiating item.
+            After a bad inspection — the four options? >>>
+                - Seller repairs
+                - credit at closing
+                - price reduction
+                - walk away
+            Specialty inspections worth considering :: Termite, radon, sewer scope, chimney, pool/spa — the general inspection doesn't cover these.
+        Step 5 — Closing
+            Final walk-through — what you're verifying? >>>
+                - Agreed repairs completed
+                - no new damage
+                - included items still present
+            Buyer closing costs — the breakdown? >> Lender fees 1-2%, title insurance 0.5-1%, escrow or attorney ~1%, transfer taxes (varies), recording fees.
+            Closing documents you'll sign :: Promissory note (the IOU), deed of trust or mortgage (the collateral pledge), closing disclosure, deed, various affidavits.
+            Closing wire fraud — the defense? >> Never wire based on emailed instructions; call the title company at a known number to verify account details. This scam takes entire down payments.
+        Mortgage deep dive
+            Conventional loan profile :: 620+ credit; 20% down avoids PMI; best rates go to the best credit. ##us
+            FHA loan profile :: 3.5% down with 580+ credit — but mortgage insurance for the life of the loan if under 10% down. ##us
+            VA and USDA loans — the 0% down programs? >> VA: no down payment and no PMI, for veterans and active military — the best deal going if eligible. USDA: no down payment in designated rural areas, income limits apply. ##us
+            Jumbo loan? >> A mortgage above the conforming limit — $832,750 baseline in 2026, higher in high-cost areas — requiring excellent credit and a larger down payment. (as of 2026) ##us ##volatile
+            30-year vs 15-year fixed :: 30-year: lower payment, the most total interest. 15-year: ~25% higher payment, roughly half the total interest, equity built fast.
+            5/1 ARM :: Rate fixed for 5 years, then adjusts annually — a cheaper start, real risk if you stay.
+                It makes sense only if you're moving within ~7 years, can afford the adjusted payment, and expect income growth.
+            Mortgage points: Prepaid interest — 1 point = {{1%}} of the loan, typically buying about {{0.25%}} off the rate.
+            Points break-even: {{Point cost divided by monthly savings}} = months to break even. Buy points only if you'll stay longer than that — with cash that isn't the emergency fund.
+            PMI? >> Private mortgage insurance on conventional loans under 20% down — 0.5-1.5% of the loan annually; it protects the lender, not you.
+            PMI removal :: By request at 20% equity, automatic at 22%. ##us
+                PMI removal — why 20% and 22% differ? >> Twenty percent is the equity level at which the lender's risk falls enough to drop the insurance, but you must request it. ##us
+                    Twenty-two is where federal law forces automatic termination — the two-point gap exists because nobody removes it for you until they are required to.
+            FHA MIP vs conventional PMI :: FHA's mortgage insurance lasts the life of the loan if under 10% down (11 years at 10%+) ##us
+                a standing reason to refinance out of FHA once you hit 20% equity.
+    Renting & Tenant Rights
+        Finding and affording
+            The 30% rule (rent) :: Spend no more than 30% of gross income on rent — the traditional benchmark; the sharper test is under 30% of net including utilities, parking, and renter's insurance.
+                The 30% rule — why 30 and why net is the better test ;; Thirty percent leaves enough of a typical income for the other fixed costs plus savings.
+                    It fails as a gross-income rule at high tax rates and in high-cost cities, which is why the sharper version uses take-home and includes the costs that ride along with the unit.
+            30% rule — high-cost-city reality? >> 40-50% may be unavoidable in expensive metros — workable, but only with deliberate budget cuts elsewhere.
+            True rental affordability :: Rent + utilities + parking + required insurance under 30% of net (take-home) income — and budget the one-time hits too: moving, deposits, utility setup, pet fees.
+            Rental application package? >> Photo ID, 3 months of pay stubs, 2-3 months of bank statements, employment letter, 3 references, previous landlord contact — prepared in advance.
+            Strengthening a rental application? >>>
+                - Know your credit score and explain issues upfront — surprises read worse than explanations
+                - cover letter
+                - extra references
+                - offer a larger deposit
+                - proof of renters insurance
+            Self-employed income proof (rental) :: 2 years tax returns, 6 months bank statements, client contracts, accountant letter.
+            Co-signer requirements (rental) :: Typically income 3x the rent and credit 700+.
+        The lease
+            Lease — money terms to verify? >> Rent amount, due date, grace period, late fees, accepted payment methods, deposit amount and its return conditions.
+            Lease — term clauses to verify? >> Start and end dates, renewal terms, month-to-month conversion, rent-increase limits — and the exact penalty and notice required to break the lease.
+            Lease — living-rule clauses? >> Pet types, deposits, monthly fees and restrictions; subletting permission; guest duration limits.
+            Lease — maintenance clauses? >> Who fixes what, required response times, emergency procedures.
+            Lease red flags? >>>
+                - Clauses waiving your legal rights
+                - automatic renewal without notice
+                - excessive fees
+                - no landlord maintenance obligations. Illegal clauses are unenforceable — but they tell you who you're renting from
+            Negotiable lease items :: Rent, move-in date, pet policy, parking, storage, painting permission, lease length.
+        Move-in
+            Move-in walk-through rule :: Document every existing damage BEFORE moving anything in — this file is your deposit's bodyguard.
+            Move-in documentation method :: Date-stamped photos and a narrated video of walls, floors, appliances, fixtures, windows, doors, and every existing stain — plus a written list signed by the landlord.
+            Move-in testing and utilities :: Test every appliance, HVAC, plumbing, every outlet, locks, and smoke detectors; photograph the meter readings and set up all utilities immediately.
+        Rights — who actually governs what
+            Tenant rights — what's actually federal? >> Only the Fair Housing Act and disability-accommodation rules. Habitability, entry notice, deposits, and eviction procedure are all state law. ##us
+            Fair Housing Act protected classes :: 7: race, color, religion, sex, national origin, disability, familial status — landlords cannot discriminate on any of them. ##us
+            Disability accommodations (rental) :: Landlords must allow reasonable accommodations — service and assistance animals even in no-pet buildings, grab bars, ramps. ##us
+            Implied warranty of habitability :: State law in nearly every state (not federal): working plumbing, heat, electricity, weatherproofing, structurally safe premises. ##us
+                Landlord entry notice ;; State law — 24-48 hours advance notice is the common range, emergencies excepted. ##us
+        Deposits
+            Security deposit caps? >> State law — most states cap at 1-2 months' rent, some have no cap at all. ##us
+            Security deposit return? >> State law — 14-60 days depending on state, with an itemized deduction list required; some states also require a separate account with interest paid to the tenant. ##us
+            Disputing deposit deductions :: 1) Written dispute by certified mail 2) small claims court if refused — the landlord bears the burden of proving damages. ##us
+            Wear and tear vs damage :: Normal wear (not deductible): faded paint, worn carpet paths, minor scuffs, loose doorknobs. Damage (deductible): holes in walls, stains, broken fixtures, missing items, pet destruction.
+        Repairs
+            Landlord repair timelines? >> Habitability issues: a reasonable time, typically 14-30 days. Emergencies (no heat, no water, gas leak, broken locks): 24-48 hours. Both vary by state. ##us
+            Repair request protocol :: Always in writing (email or text counts), keep copies, follow up — the paper trail is the leverage.
+            Repair-and-deduct remedy :: Some states let you fix a habitability issue and deduct the cost from rent ##us
+                but only after written notice, a reasonable wait, and with the cost under a cap (often one month's rent).
+            Rent withholding :: Allowed in some states for serious habitability failures — but only by following the exact statutory process; done wrong, it's just nonpayment. ##us
+        Eviction
+            Legal grounds for eviction :: Nonpayment, lease violation, illegal activity, owner move-in, major renovation — exact grounds vary by state and city. ##us
+            Illegal self-help eviction tactics :: Changing locks, shutting off utilities, removing belongings, harassment — illegal in every state; only a court order enforced by the sheriff can remove a tenant. ##us
+            Eviction timeline (California-typical)? 1. >>> ##us ##volatile
+                1. 3-day pay-or-quit notice
+                2. unlawful detainer lawsuit filed
+                3. tenant response window (10 court days in California as of 2026)
+                4. court hearing
+                5. sheriff lockout. About 5-8 weeks uncontested — and other states differ at every step
+            Tenant rights during eviction :: Right to cure (fix the violation), right to a court hearing, right to remain until a court order. ##us
+            Eviction on a rental record :: Stays about 7 years and makes renting much harder — future landlords may require co-signers or larger deposits. ##us
+    Car Buying & Financing
+        Depreciation and total cost
+            New car depreciation curve :: 20% gone driving off the lot, 40% by year 2, 60% by year 5 — the steepest cost of new-car ownership is invisible.
+            The used-car sweet spot? >> 2-4 years old — 60-80% of the car's life remaining for 40-60% of the new price. Someone else paid the cliff.
+                The used-car sweet spot — why 2-4 years? >> Depreciation is steepest in the first two years and flattens after, while modern powertrains routinely last 200,000 miles.
+                    Buying after the cliff and before the wear captures the gap between how fast a car loses value and how slowly it loses function.
+            Certified Pre-Owned value? >> Costs $1,000-3,000 more than equivalent used, buying a manufacturer warranty and inspection.
+            Total cost of ownership components :: Purchase price + interest + insurance + gas + maintenance + repairs, minus resale value.
+            5-year TCO, new vs 3-year-old? >> Same model: new ~$40,000 over five years vs ~$25,000 for the 3-year-old — and new carries higher insurance and registration while used carries more repairs.
+                Price the whole branch, not the sticker.
+            When buying new makes sense? >>>
+                - Keeping it 10+ years
+                - needed features only in new
+                - 0% financing available
+                - reliability anxiety you'd genuinely pay to remove — then buy end of model year, unpopular colors, one trim below the top
+        Financing vs cash
+            The 4% rule (car financing) :: Loan rate under 4%: finance and keep the cash invested. Above: pay cash. The spread does the deciding.
+                The 4% rule — why 4% and why it moves? >> It is a rate-spread test, not a magic number: finance when the loan costs less than your money reliably earns elsewhere, pay cash when it costs more.
+                    The threshold rises and falls with expected returns, so re-derive it rather than memorizing 4.
+            Car financing opportunity cost — both branches? >> $30,000 cash can earn 7-10% in the market while a cheap loan costs 3-5% — at a low rate you're being paid to keep your money.
+            Credit score and auto loan rates? >> 750+ gets the best rates; below 650 can add 5-10 points to the rate.
+            Maximum auto loan terms :: 60 months new, 48 months used, 36 months older used — longer is financing a depreciating asset into its repair years.
+            Why long loan terms hurt? >>>
+                - More total interest
+                - underwater (owing more than the car's value) longer
+                - still paying after the warranty ends
+            The monthly payment trap :: Dealers negotiate the payment to hide the total. Settle the total price first — the payment is just arithmetic afterward.
+        Leasing vs buying
+            Leasing — what you're actually paying for? >> The car's depreciation during your term, plus interest (the money factor) and fees — at the end you hand back the keys owning nothing.
+            Money factor: The lease's interest rate in disguise. Multiply by {{2400}} to get the APR — money factor 0.0025 = 6% APR. Always convert before comparing.
+            Lease residual value :: The contract's predicted end-of-lease value — a higher residual means a lower payment, because you're financing less depreciation.
+            Lease mileage caps? >> Typically 10,000-15,000 miles per year; overage commonly $0.15-0.30 per mile at turn-in — 5,000 extra miles can cost $1,500.
+            When leasing wins? >>>
+                - You'd get a new car every 2-3 years anyway
+                - you reliably stay under the mileage cap
+                - business-use deduction
+                - fast-changing tech you don't want to own long term. Otherwise buying wins — leasing re-rents the steepest part of the depreciation curve forever
+        Negotiation
+            Car pricing research tools :: KBB, Edmunds, TrueCar for pricing; CarFax or AutoCheck for vehicle history.
+                Fair new-car price ;; 3-5% over invoice — not MSRP; for used, triangulate multiple comparable listings.
+            Best times to buy a car? >> End of month, end of quarter, end of model year — and rainy days, when showrooms sit empty.
+            Dealer negotiation sequence rule :: Never discuss trade-in or financing until the price is settled — bundling is where the money hides.
+            The four-square trap :: A dealer worksheet juggling price, trade-in, down payment, and monthly payment to blur the true cost — refuse it and negotiate one number at a time.
+            Walk-away power :: Readiness to leave is the strongest negotiating tool in the room — there is always another car.
+            Online quote strategy :: Collect written quotes from multiple dealers and negotiate them against each other before setting foot in a showroom.
+        Used-car diligence
+            Pre-purchase inspection? >> Always — an independent mechanic's inspection costs $100-200 and is the cheapest insurance in car buying.
+            Used-car red flags :: Salvage title, frame damage, flood damage, many owners, no maintenance records.
+            Test drive checklist? >>>
+                - Cold start
+                - highway speeds
+                - hard braking
+                - every electronic
+                - unusual noises and smells
+        Title and registration
+            Title vs registration :: Title is the ownership document; registration is the state's recurring permission to operate on public roads — plates, fees, and in some states an inspection. ##us
+            Lien on a car title :: A financed car's title names the lender as lienholder — no clean title, and no sale, until the loan is paid off. ##us
+            Private-party purchase paperwork? >>> ##us
+                - Seller signs over the title (every listed owner)
+                - bill of sale with price, date, VIN
+                - buyer registers and pays sales tax by the state's deadline (commonly 10-30 days)
+                - seller files a release of liability
+            Branded titles :: Salvage (declared a total loss) and rebuilt (repaired and re-inspected) — both mean steep discounts, insurance complications, and a permanent resale penalty. ##us
+    Car Maintenance & Troubleshooting
+        Maintenance schedules
+            Severe driving conditions :: Stop-and-go traffic, trips under 5 miles, dusty conditions, towing, temperature extremes.
+            Severe schedule impact :: Severe driving means maintenance at roughly half the normal interval in the manual.
+            Severe driving — who it actually covers? >> About 90% of drivers — "severe" is the normal American commute; the manual's "normal" schedule is the exception.
+        Oil
+            Modern oil change intervals? >> Conventional 3,000-5,000 miles; synthetic blend 5,000-7,500; full synthetic 7,500-15,000+.
+                The owner's manual or oil life monitor overrides all of these — and the monitor is trustworthy, though changing a bit early is cheap insurance.
+            Oil check procedure? 1. >>>
+                1. Park level, engine warm but off about 5 minutes
+                2. pull the dipstick
+                3. wipe it clean
+                4. reinsert it fully
+                5. pull it again and read — the level belongs between the min and max marks
+            Oil color meanings: Amber = fresh; brown = normal; black = acceptable for diesels; {{milky}} = coolant in the oil — stop and diagnose.
+            Synthetic vs conventional oil? >> Synthetic costs about 2x but lasts 2-3x longer and protects better at temperature extremes — usually cheaper per mile.
+        Tires
+            Tire pressure check frequency :: Monthly minimum, plus before long trips.
+            Correct tire pressure source :: The driver door jamb sticker — NOT the sidewall number, which is the tire's maximum, not the car's spec.
+            Tire pressure vs temperature? >> Pressure drops about 1 PSI per 10°F of temperature drop — the first cold snap of fall lights up TPMS warnings everywhere.
+            Tire pressure vs fuel economy :: About 0.2% lost per 1 PSI of under-inflation (DOE figure) — modest for fuel; the bigger stakes are tire wear and handling.
+                Tire pressure — why under-inflation costs anything at all? >> A soft tire flexes more, and that flexing turns motion into heat instead of forward travel.
+                    The same flexing overheats the sidewall, which is why the wear and blowout risk are the larger consequence and the fuel penalty is modest.
+            Tire rotation? >> Every 5,000-7,500 miles for even wear — front-to-back for same-size tires, X-pattern for non-directional, side-to-side for directional.
+            The penny test? >> Penny in the groove, Lincoln's head down — if you can see his entire head, tread is at 2/32 inch or less: replace.
+            Tread depth thresholds? >> New ~10/32 inch; replace at 2/32; consider replacing at 4/32 if you drive in rain or snow.
+            Uneven tire wear — what it tells you? >>>
+                - Alignment issues
+                - improper inflation
+                - suspension problems — the tire is the printout of the car's health
+            Tire age limit: Replace at {{6 years}} regardless of tread — rubber degrades on the clock, not the odometer. Age check: last 4 digits of the DOT code = week and year (2419 = week 24 of 2019).
+        Fluids
+            Transmission fluid schedule? >> 30,000-60,000 miles for most; "lifetime" fills exist, but changing around 100k is the safer bet.
+            Transmission fluid color :: Red or pink = good; brown = time to change; black or burnt-smelling = damage already done.
+            Coolant service :: Every 30,000 miles or 2 years — prevents corrosion, freezing, and boil-over.
+            Coolant 50/50 mix — why? >> Pure antifreeze cools worse than the mix; pure water corrodes and freezes. The mixture is the design.
+            Brake fluid service :: Every 2 years regardless of mileage — brake fluid is hygroscopic: it absorbs water from the air.
+            Water in brake fluid — the failure mode? >> It lowers the boiling point; hard braking boils the fluid, vapor compresses, and the pedal goes soft — brake fade exactly when you need the brakes most.
+            The forgotten fluids? >> Power steering: 50,000-75,000 miles or when dark. Differential: 30,000-60,000 miles — the most-skipped item on the schedule, and gears are expensive.
+        Warning lights
+            Red dashboard lights :: Stop now: oil pressure (an engine without it destroys itself in minutes), temperature (overheating warps heads and blows gaskets), brake system, battery/charging. The tow is cheaper than the repair.
+            Yellow dashboard lights :: Service soon: check engine, ABS, tire pressure, service reminders.
+            Check engine light — steady vs flashing? >> Steady means drive, but diagnose soon.
+                Flashing means an active misfire dumping fuel into the catalytic converter — stop driving. Auto parts stores read the codes free, but a code names the symptom, not always the cause.
+        Sounds and their meanings
+            Brake squeal :: Wear indicators touching the rotor by design — replace pads within about 1,000 miles.
+            Brake grinding :: Metal on metal — pads are gone and the rotors are being machined away; stop driving.
+            Pulsing brake pedal :: Warped rotors — replacement needed; often follows repeated hard braking.
+            Engine knock or ping :: Pre-ignition — try higher octane fuel; persistent knock signals a serious problem.
+            Engine ticking :: Usually valve train — check the oil level first; may need adjustment.
+            Squealing belt? >> Loose or worn belt — a $20 belt now beats a $500 alternator (and a roadside breakdown) later.
+            Suspension clunks and pulls :: Clunking over bumps: worn struts or shocks, ball joints, or bushings. Pulling to one side: alignment or uneven tire pressure — check pressure first, it's free.
+        Preventable expensive repairs
+            Timing belt economics? >> $500-1,000 replacement prevents $3,000+ engine damage when it snaps.
+            Interference engine :: An engine whose valves and pistons share the same space at different moments — a snapped timing belt lets them collide, destroying the engine.
+                Timing belt interval ;; 60,000-100,000 miles per the manual — the one interval never to exceed.
+                Cooling system flush economics ;; A $150 coolant flush prevents a $3,000+ head gasket failure.
+                Transmission service economics ;; A $200 service prevents a $3,000-5,000 rebuild or replacement.
+        After an accident
+            Post-accident procedure? 1. >>> ##safety
+                1. Check for injuries — call 911 if anyone is hurt
+                2. move to safety if drivable, hazard lights on
+                3. call police for a report
+                4. exchange information
+                5. photograph everything
+                6. collect witness contacts
+                7. notify your insurer promptly
+            Post-accident — information to exchange? >> Names, phone numbers, insurance company and policy numbers, driver's license numbers, plate numbers — in both directions.
+            Post-accident — what to photograph? >> Damage on all vehicles, positions before anything moves, the wider scene, plates, insurance cards, road conditions and signs.
+            Post-accident — never admit fault? >> No blame talk at the scene — even a polite "I'm sorry" gets quoted. ##safety
+                Fault is determined later by adjusters from the vehicles, photos, and reports, using facts you don't yet have.
+            Post-accident — reporting duties? >> Notify your insurer promptly regardless of fault; many states also require a DMV report above injury or damage thresholds — know your state's rule. ##us
+    Fuel Economy & EV Basics
+        Driving habits
+            Speed vs fuel economy :: Each 5 mph over 50 costs roughly 7% — wind resistance grows with the square of speed.
+                Acceleration technique ;; Gradual acceleration saves 15-30% vs jackrabbit starts.
+                Cruise control savings ;; 7-14% on the highway, from holding constant speed.
+            Idling waste? >> 1/4 to 1/2 gallon per hour — shut off beyond about 10 seconds of standing (start-stop systems automate this).
+            Air conditioning or open windows — which is more efficient? >> Below about 45 mph, open windows win; above it, the air conditioner wins — open windows' drag beats the compressor at speed.
+        Vehicle factors
+            Air filter and fuel economy :: A dirty filter costs up to 10% in older cars, minimal in modern fuel-injected ones — still a cheap replacement.
+                Oil viscosity and fuel economy ;; The wrong weight costs 1-2% — use the manual's spec.
+            Excess weight and fuel economy :: Every 100 pounds costs about 1% — the trunk is not a storage unit.
+                Roof cargo and fuel economy ;; Costs 10-25% at highway speed from aerodynamic drag — take the box off between trips.
+        EV and hybrid basics
+            Hybrid vs plug-in hybrid vs EV? >> Hybrid (HEV): gas engine plus a small self-charging battery, no plug. Plug-in hybrid (PHEV): roughly 20-50 miles electric, then gas. EV (BEV): battery only.
+            EV charging Level 1? >> A standard 120V outlet — about 2-5 miles of range per hour; overnight covers short commutes only.
+            EV charging Level 2? >> A 240V circuit (dryer-style) — roughly 10-45 miles of range per hour depending on power; the standard home setup, full charge overnight.
+            EV charging Level 3 (DC fast)? >> High-power DC straight into the battery — 100+ miles in about 30 minutes.
+                Road-trip charging, not daily charging: frequent fast charging measurably accelerates battery degradation, so routine charging belongs on Level 1/2, often to an ~80% daily limit.
+            EV battery degradation reality? >> About 1.8-2.3% of capacity lost per year in large fleet studies (Geotab, as of 2026) — at that rate the battery usually outlives the car. ##volatile
+            EV battery warranty floor :: At least 8 years or 100,000 miles on essentially every EV sold in the US. ##us
+            EV total cost of ownership :: Higher sticker, lower running costs — home electricity runs about half or less of gasoline's per-mile cost, there are no oil changes, and regenerative braking stretches brake life.
+                Over a long hold, TCO often favors the EV; run the numbers on your own mileage.
+            Federal EV tax credit status? >> Ended September 30, 2025 — up to $7,500 new and $4,000 used before that date; later purchases get no federal credit, though some states still offer incentives. (as of 2026) ##us ##volatile
+    Auto Insurance
+        Coverage types
+            Bodily injury liability :: Covers medical costs of others you injure — the coverage that stands between a bad day and your assets.
+            Property damage liability :: Covers damage to others' property — cars, fences, buildings.
+            Reading 100/300/100 auto liability limits? >> $100k bodily injury per person, $300k bodily injury per accident, $100k property damage — the commonly recommended minimums.
+            Why state minimum liability isn't enough? >> Typical 25/50/25 minimums are exhausted by one serious injury or one expensive car — everything above the limit comes out of your assets. ##us
+            Collision coverage :: Pays for your own car's damage regardless of fault.
+            When to drop collision? >> When the car's value falls below about 10x the annual collision premium — you're insuring value that isn't there.
+            Comprehensive coverage :: Non-collision damage — theft, vandalism, weather, animal strikes.
+            Auto deductible sweet spot? >> $500-1,000 — balances premium savings against out-of-pocket risk; pair a higher deductible with a real emergency fund.
+            Uninsured/underinsured motorist coverage :: Protects you when the at-fault driver can't pay — about 1 in 7 US drivers (15.4%) were uninsured in 2023, and 1 in 3 were uninsured or underinsured (IRC). ##us ##volatile
+                (as of 2026)
+        Premium reduction
+            Credit score and auto premiums :: Poor credit can roughly double premiums in most states (a few states ban credit-based pricing). ##us
+                Multi-policy bundling ;; Save 5-25% combining auto with home or renters.
+                Defensive driving course discount ;; 5-10% for completing an approved course.
+                Usage-based insurance ;; App- or device-monitored driving saves 10-30% — worth it only if you actually drive gently.
+                Annual payment discount ;; 5-10% for paying the premium annually instead of monthly.
+                Auto insurance shopping cadence ;; Re-shop every 2-3 years — loyalty doesn't pay, and rates for identical coverage vary widely.

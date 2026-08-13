@@ -1,176 +1,296 @@
-- ## Growing Up: Body and Mind
-    - Puberty::The process of physical changes through which a child's body matures into an adult body capable of sexual reproduction — initiated and controlled by hormones.
-        - What are secondary sexual characteristics?::Physical features that develop during puberty but aren't directly part of reproduction — body hair, breast development, voice changes — alongside the growth spurt in height and weight.
-        - Follow-up — when does puberty typically start?::Usually between ages {{8 and 13}} for girls and {{9 and 14}} for boys. The range is wide, and everyone develops at their own pace — early or late within it is still normal.
-        - Dig Deeper — where in the body does puberty actually start?::In the brain, not the body: 1) the hypothalamus signals 2) the pituitary gland, which signals 3) the ovaries or testes to start producing sex hormones.
-    - Hormones::Chemical messengers produced by glands of the endocrine system — they travel through the bloodstream to tissues and organs, regulating growth, metabolism, reproduction, and mood.
-        - Which two hormones drive most of puberty's physical changes?::Testosterone and estrogen. (Everyone makes both — the proportions differ.)
-        - Endocrine system::The body's network of hormone-producing glands (hypothalamus, pituitary, thyroid, adrenals, ovaries or testes). The nervous system sends fast electrical messages; the endocrine system sends slower, longer-lasting chemical ones.
-    - Why do teenagers feel so moody and emotional?::Not a character flaw — biology plus load: fluctuating hormone levels change brain chemistry, the brain's emotion circuits are maturing ahead of its impulse-control circuits, and stress, poor sleep, and social pressure amplify everything.
-        - Limbic system::The brain's emotion-and-reward circuitry — it matures relatively early in adolescence.
-        - Prefrontal cortex::The front region of the brain that handles reasoning, planning, and impulse control — among the last brain regions to mature.
-        - Why do teens often feel strongly before thinking things through?::The limbic system (emotion, reward) is running at full power while the prefrontal cortex (reasoning, brakes) is still maturing — the accelerator develops ahead of the brakes.
-        - Is it true the brain "finishes developing at 25"?::No — that's a pop-science myth. Brain maturation is gradual and region-specific: different regions mature at different times, the prefrontal cortex among the last, and some wiring (white matter) keeps changing into the 30s. There is no cliff at 25 where development stops.
-        - Dig Deeper — where did the "brain matures at 25" claim come from?::Some studies found prefrontal changes leveling off around the mid-20s on average; "average plateau in one region" got compressed into "the whole brain finishes at 25." The brain also keeps rewiring itself lifelong — that's neuroplasticity.
-    - Why do we get pimples (acne)?::Not because your skin is dirty. Puberty hormones make the skin's oil glands produce extra oil (sebum); sebum plus dead skin cells clogs a pore, bacteria grow inside it, and the body's inflammation response makes the red bump. Very common, and it usually improves after puberty.
-        - Sebum::The skin's natural oil. Hormone surges during puberty ramp up its production — the first step in the chain that causes acne.
-    - What is a crush?::An intense feeling of attraction and infatuation toward someone — idealizing them, feeling nervous or excited around them, thinking about them constantly. A completely normal part of development: practice for learning what romantic attraction is.
-        - Dig Deeper — what happens in the brain during a crush?::The brain's reward system activates and releases dopamine, the chemical of pleasure and anticipation — which is why a crush feels simultaneously thrilling and a little obsessive.
-    - Peer pressure::The influence a peer group exerts pushing members to change attitudes, values, or behaviors to match group norms — powered by the fundamental human desire to fit in and be accepted.
-        - Follow-up — is peer pressure always bad?::No. Positive peer pressure pushes good behavior (studying, kindness, showing up); negative peer pressure pushes risky or harmful behavior. The mechanism is identical — only the direction differs.
-        - Dig Deeper — how do you resist negative peer pressure?::Decide before the moment arrives: 1) know your own values in advance 2) practice actual words for saying no 3) choose friends whose values match yours 4) build the self-confidence to stand apart. Pre-planned responses beat in-the-moment willpower.
-    - What is stress?::The body's reaction to any change that demands adjustment or response (a stressor) — a survival mechanism, fight or flight, that mobilizes you to meet a challenge.
-        - Which two hormones does the stress response release?::Cortisol and adrenaline.
-        - Follow-up — is all stress harmful?::No. Short-term stress can sharpen and motivate you. It's chronic stress — weeks to years without relief — that damages physical and mental health.
-        - Follow-up — what actually helps manage stress?::Exercise, adequate sleep, relaxation techniques (like slow breathing), and talking about problems with someone. Boring, proven, effective.
-    - Anxiety (vs. an anxiety disorder)::Anxiety itself is a normal feeling of worry, nervousness, or unease — everyone has it, and it is often useful.
-        - When does normal anxiety become an anxiety disorder?::When the worry is 1) excessive 2) persistent and 3) interferes with daily life.
-    - Depression::A mood disorder marked by persistent sadness, loss of interest in things once enjoyed, and changes in sleep, appetite, and energy — a medical condition, not ordinary sadness and not something you "snap out of."
-        - Are anxiety and depression weaknesses?::No — they are mental health conditions arising from a complex interplay of genetic, biological, environmental, and psychological factors. Nobody chooses them, and nobody is "too strong" to get them.
-        - What should you do if you feel anxious or depressed?::Talk to a trusted adult — a parent, teacher, school counselor, or doctor. These conditions are treatable, and treatment works better the earlier it starts. You do not have to handle it alone. #safety
-        - US crisis line — what number do you call or text in a mental health crisis?::988 — the Suicide and Crisis Lifeline: free, confidential, staffed by trained counselors 24/7 (online chat at 988lifeline.org). It's for any emotional distress, yours or someone else's — you do not need to be suicidal to reach out. #safety #us
-        - When do you call 911 instead of 988?::When there is immediate physical danger — someone has hurt themselves, is about to, or needs urgent medical help. 988 is for mental health crisis support and someone to talk to; 911 is for emergencies happening right now. #safety #us
-- ## Consent and Body Autonomy
-    - Whose body is it?::Yours. You get to decide who touches it and how, and that is true even for people who love you and even for people who are older than you. #safety
-    - Do you have to hug a relative if you don't want to?::No. A wave, a high five, or a "no thanks" is a complete answer. Adults who care about you would rather have your honest no than a hug you didn't want to give. #safety
-    - What does consent mean, in the simplest version?::Asking first, and accepting the answer — including when the answer is no, and including when the answer changes partway through. #safety
-    - Does consent apply to tickling and roughhousing?::Yes, and this is where it matters most for kids. "Stop" means stop immediately, every time, even in the middle of a game, even if everyone was laughing a second ago. A game that continues after stop is not a game anymore. #safety
-    - What is the difference between a secret and a surprise?::A surprise is something fun that everyone finds out soon — a birthday present, a party. A secret is something you are told to keep hidden forever. Surprises are fine; an adult asking you to keep a permanent secret from your parents is a warning sign. #safety
-    - What should you do if an adult asks you to keep a secret from your parents?::Tell a parent or another trusted adult, even though you were asked not to. This is the one promise you are allowed to break, and you will never be in trouble for breaking it. #safety
-    - Could you ever be in trouble for telling?::No. Not for telling, not for waiting to tell, not for having gone along with something at the time. Anyone who says you'll be in trouble for telling is saying it to keep you quiet. #safety
-    - What are the trusted adults?::Pick three, in advance, and make sure you know how to reach each one — usually a parent, plus one other family member, plus one adult outside the family like a teacher or coach. Having the list before you need it is the whole point. #safety
-    - What if the person making you uncomfortable is someone you like?::It still counts, and you still tell. Most people who hurt kids are people the kid knows and likes — that is exactly why the rule is about the behavior, not about whether the person seems nice. #safety
-    - What does respecting someone else's body autonomy look like?::Ask before you touch, stop when they say stop, and don't argue with a no or try to talk someone out of it. The rule runs in both directions.
+Kids Questions v4 - Part C (Growing Up, Genetics, Justice, Money, Thinking)
+    Growing Up: Body and Mind
+        Puberty :: The process of physical changes through which a child's body matures into an adult body capable of sexual reproduction — initiated and controlled by hormones.
+            What are secondary sexual characteristics? >> Physical features that develop during puberty but aren't directly part of reproduction — body hair, breast development, voice changes — alongside the growth spurt in height and weight.
+            Follow-up — when does puberty typically start? >> Usually between ages 8 and 13 for girls and 9 and 14 for boys.
+                The range is wide, and everyone develops at their own pace — early or late within it is still normal.
+            Dig Deeper — where in the body does puberty actually start? >>>
+                - the hypothalamus signals
+                - the pituitary gland, which signals
+                - the ovaries or testes to start producing sex hormones
+        Hormones :: Chemical messengers produced by glands of the endocrine system — they travel through the bloodstream to tissues and organs, regulating growth, metabolism, reproduction, and mood.
+            Which two hormones drive most of puberty's physical changes? >> Testosterone and estrogen. (Everyone makes both — the proportions differ.)
+            Endocrine system :: The body's network of hormone-producing glands (hypothalamus, pituitary, thyroid, adrenals, ovaries or testes). The nervous system sends fast electrical messages; the endocrine system sends slower, longer-lasting chemical ones.
+        Why do teenagers feel so moody and emotional? >> Not a character flaw — biology plus load: fluctuating hormone levels change brain chemistry, the brain's emotion circuits are maturing ahead of its impulse-control circuits, and stress, poor sleep, and social pressure amplify everything.
+            Limbic system :: The brain's emotion-and-reward circuitry — it matures relatively early in adolescence.
+            Prefrontal cortex :: The front region of the brain that handles reasoning, planning, and impulse control — among the last brain regions to mature.
+            Why do teens often feel strongly before thinking things through? >> The limbic system (emotion, reward) is running at full power while the prefrontal cortex (reasoning, brakes) is still maturing — the accelerator develops ahead of the brakes.
+            What is the answer on it true the brain "finishes developing at 25"? >> No — — that's a pop-science myth.
+                Brain maturation is gradual and region-specific: different regions mature at different times, the prefrontal cortex among the last, and some wiring (white matter) keeps changing into the 30s. There is no cliff at 25 where development stops.
+            Dig Deeper — where did the "brain matures at 25" claim come from? >> Some studies found prefrontal changes leveling off around the mid-20s on average
+                "average plateau in one region" got compressed into "the whole brain finishes at 25." The brain also keeps rewiring itself lifelong — that's neuroplasticity.
+        Why do we get pimples (acne)? >> Not because your skin is dirty.
+            Puberty hormones make the skin's oil glands produce extra oil (sebum); sebum plus dead skin cells clogs a pore, bacteria grow inside it, and the body's inflammation response makes the red bump. Very common, and it usually improves after puberty.
+            Sebum :: The skin's natural oil. Hormone surges during puberty ramp up its production — the first step in the chain that causes acne.
+        What is a crush? >> An intense feeling of attraction and infatuation toward someone — idealizing them, feeling nervous or excited around them, thinking about them constantly.
+            A completely normal part of development: practice for learning what romantic attraction is.
+            Dig Deeper — what happens in the brain during a crush? >> The brain's reward system activates and releases dopamine, the chemical of pleasure and anticipation — which is why a crush feels simultaneously thrilling and a little obsessive.
+        Peer pressure :: The influence a peer group exerts pushing members to change attitudes, values, or behaviors to match group norms
+            powered by the fundamental human desire to fit in and be accepted.
+            Follow-up — is peer pressure always bad? >> No. Positive peer pressure pushes good behavior (studying, kindness, showing up); negative peer pressure pushes risky or harmful behavior. The mechanism is identical — only the direction differs.
+            Dig Deeper — how do you resist negative peer pressure? >>>
+                - know your own values in advance
+                - practice actual words for saying no
+                - choose friends whose values match yours
+                - build the self-confidence to stand apart. Pre-planned responses beat in-the-moment willpower
+        What is stress? >> The body's reaction to any change that demands adjustment or response (a stressor) — a survival mechanism, fight or flight, that mobilizes you to meet a challenge.
+            Which two hormones does the stress response release? >> Cortisol and adrenaline.
+            Follow-up — is all stress harmful? >> No. Short-term stress can sharpen and motivate you. It's chronic stress — weeks to years without relief — that damages physical and mental health.
+            Follow-up — what actually helps manage stress? >> Exercise, adequate sleep, relaxation techniques (like slow breathing), and talking about problems with someone. Boring, proven, effective.
+        Anxiety (vs. an anxiety disorder) :: Anxiety itself is a normal feeling of worry, nervousness, or unease — everyone has it, and it is often useful.
+            When does normal anxiety become an anxiety disorder? >>>
+                - excessive
+                - persistent and
+                - interferes with daily life
+        Depression? >> A mood disorder marked by persistent sadness, loss of interest in things once enjoyed, and changes in sleep, appetite, and energy
+            a medical condition, not ordinary sadness and not something you "snap out of."
+            What is the answer on anxiety and depression weaknesses? >> No — — they are mental health conditions arising from a complex interplay of genetic, biological, environmental, and psychological factors. Nobody chooses them, and nobody is "too strong" to get them.
+            What should you do if you feel anxious or depressed? >> Talk to a trusted adult — a parent, teacher, school counselor, or doctor. ##safety
+                These conditions are treatable, and treatment works better the earlier it starts. You do not have to handle it alone.
+            US crisis line — what number do you call or text in a mental health crisis? >> 988 — the Suicide and Crisis Lifeline: free, confidential, staffed by trained counselors 24/7 (online chat at 988lifeline.org). ##safety ##us
+                It's for any emotional distress, yours or someone else's — you do not need to be suicidal to reach out.
+            When do you call 911 instead of 988? >> When there is immediate physical danger — someone has hurt themselves, is about to, or needs urgent medical help. ##safety ##us
+                988 is for mental health crisis support and someone to talk to; 911 is for emergencies happening right now.
+    Consent and Body Autonomy
+        Whose body is it? >> Yours. You get to decide who touches it and how, and that is true even for people who love you and even for people who are older than you. ##safety
+        What is the answer on you have to hug a relative if you don't want to? >> No — A wave, a high five, or a "no thanks" is a complete answer. Adults who care about you would rather have your honest no than a hug you didn't want to give. ##safety
+        What does consent mean, in the simplest version? >> Asking first, and accepting the answer — including when the answer is no, and including when the answer changes partway through. ##safety
+        What is the answer on consent apply to tickling and roughhousing? >> Yes — and this is where it matters most for kids. ##safety
+            "Stop" means stop immediately, every time, even in the middle of a game, even if everyone was laughing a second ago. A game that continues after stop is not a game anymore.
+        What is the difference between a secret and a surprise? >> A surprise is something fun that everyone finds out soon — a birthday present, a party. ##safety
+            A secret is something you are told to keep hidden forever. Surprises are fine; an adult asking you to keep a permanent secret from your parents is a warning sign.
+        What should you do if an adult asks you to keep a secret from your parents? >> Tell a parent or another trusted adult, even though you were asked not to. ##safety
+            This is the one promise you are allowed to break, and you will never be in trouble for breaking it.
+        Could you ever be in trouble for telling? >> No. Not for telling, not for waiting to tell, not for having gone along with something at the time. Anyone who says you'll be in trouble for telling is saying it to keep you quiet. ##safety
+        What are the trusted adults? >> Pick three, in advance, and make sure you know how to reach each one ##safety
+            usually a parent, plus one other family member, plus one adult outside the family like a teacher or coach.
+            Having the list before you need it is the whole point.
+        What if the person making you uncomfortable is someone you like? >> It still counts, and you still tell. ##safety
+            Most people who hurt kids are people the kid knows and likes — that is exactly why the rule is about the behavior, not about whether the person seems nice.
+        What does respecting someone else's body autonomy look like? >> Ask before you touch, stop when they say stop, and don't argue with a no or try to talk someone out of it. The rule runs in both directions.
 
-- ## Bullying
-    - What makes something bullying rather than ordinary conflict?::Three things together: it repeats, there is a power imbalance (size, status, numbers), and it is meant to hurt. A one-time fight between equals is a conflict; the same thing over and over from someone with more power is bullying.
-    - Why does the difference between conflict and bullying matter?::They need different responses. A conflict between equals can often be worked out directly. Bullying involves a power gap, which is exactly why "just work it out between yourselves" fails and why it becomes an adult's job.
-    - What actually helps if you are being bullied?::1) Tell an adult, and keep telling until someone acts. 2) Stay near other people — bullying happens where there are no witnesses. 3) Keep a record of what happened and when. 4) Do not fight back physically unless you have to protect yourself.
-    - Why does "just ignore it" often not work?::It sometimes works for one-off teasing, but persistent bullying is about power and an audience, and being ignored rarely removes either. Telling an adult is not tattling; tattling is trying to get someone in trouble, telling is trying to get someone out of trouble.
-    - What is the most powerful thing a bystander can do?::Not stay silent. You do not have to confront anyone — inviting the target to sit with you, telling an adult, or simply saying "that's not okay" changes the situation, because bullying depends on the audience going along with it.
-    - Why is cyberbullying different?::It follows you home, so there is no safe place to retreat to; it can be anonymous; and it leaves a permanent record that can spread far beyond the original group. The one advantage is that the record cuts both ways — screenshot everything before blocking.
-    - When does bullying stop being a kid's problem to solve?::When it involves threats, physical harm, or anything sexual, when it keeps happening after being reported, or when a kid is afraid to go to school. Those are adult problems, and needing an adult is not failing. #safety
+    Bullying
+        What makes something bullying rather than ordinary conflict? >> Three things together: it repeats, there is a power imbalance (size, status, numbers), and it is meant to hurt.
+            A one-time fight between equals is a conflict; the same thing over and over from someone with more power is bullying.
+        Why does the difference between conflict and bullying matter? >> They need different responses.
+            A conflict between equals can often be worked out directly. Bullying involves a power gap, which is exactly why "just work it out between yourselves" fails and why it becomes an adult's job.
+        What actually helps if you are being bullied? >>>
+            - Tell an adult, and keep telling until someone acts
+            - Stay near other people — bullying happens where there are no witnesses
+            - Keep a record of what happened and when
+            - Do not fight back physically unless you have to protect yourself
+        Why does "just ignore it" often not work? >> It sometimes works for one-off teasing, but persistent bullying is about power and an audience, and being ignored rarely removes either.
+            Telling an adult is not tattling; tattling is trying to get someone in trouble, telling is trying to get someone out of trouble.
+        What is the most powerful thing a bystander can do? >> Not stay silent. You do not have to confront anyone
+            inviting the target to sit with you, telling an adult, or simply saying "that's not okay" changes the situation, because bullying depends on the audience going along with it.
+        Why is cyberbullying different? >> It follows you home, so there is no safe place to retreat to
+            it can be anonymous; and it leaves a permanent record that can spread far beyond the original group.
+            The one advantage is that the record cuts both ways — screenshot everything before blocking.
+        When does bullying stop being a kid's problem to solve? >> When it involves threats, physical harm, or anything sexual, when it keeps happening after being reported, or when a kid is afraid to go to school. ##safety
+            Those are adult problems, and needing an adult is not failing.
 
-- ## Drugs, Alcohol, and Vaping
-    - Why do these conversations usually use scare tactics, and why does that backfire?::Because fear is easy to reach for. It backfires because the first time a kid sees a claim was exaggerated, they discount everything else they were told — including the parts that were true and important. Accuracy is the safer long-run strategy.
-    - Why are teenage brains more vulnerable to addiction than adult brains?::The brain's reward and emotion systems mature earlier than the systems that handle impulse control and long-range planning, so for several years the accelerator is developed and the brakes are still being built. Substances act on exactly the system that is furthest ahead.
-    - Is it true that the brain "finishes developing at 25"?::Not exactly — that number is a rough marker, not a finish line. Development is gradual and different regions mature on different schedules, continuing into the mid-twenties and beyond. The honest claim is not "done at 25," it is "the control systems arrive late."
-    - What does nicotine actually do?::It reaches the brain in seconds and triggers a dopamine release, and the brain adapts by expecting it — which is why the wanting shows up fast. It is among the most addictive substances there is, and starting younger makes dependence more likely and harder to reverse. #safety
-    - Why is vaping not the safe version?::A vape can deliver as much nicotine as a pack of cigarettes, in a form that is easier to use constantly and easier to hide. The absence of smoke removes some risks and none of the addiction. #safety
-    - What does alcohol actually do?::It slows the parts of the brain that handle judgment and coordination first, which is why people make decisions while drunk that they would not make sober — and why the danger is often in what happens next rather than in the drink itself. #safety
-    - Why is drinking riskier for teenagers specifically?::Earlier first use is associated with substantially higher rates of later dependence, and the same amount affects a developing brain more. Contested: exactly how much of that association is causal is still debated. #theory
-    - The rule that matters most and is easiest to forget::Never get into a car with a driver who has been drinking or using, and have a no-questions-tonight way to call for a ride. Agree on that arrangement in advance, because the moment you need it is the moment it is hardest to arrange. #safety
-    - How should a parent answer "did you ever?"::Honestly, briefly, without glamorizing it, and then pivot to what you learned and what you would do differently. A dodge teaches them the topic is not really open; a lecture teaches them not to ask again.
-    - Why do people use substances at all, if the risks are known?::Because they work in the short run — they relieve anxiety, quiet self-consciousness, or make a hard feeling smaller for a while. Understanding that they solve a real problem badly explains more than pretending they solve nothing.
+    Drugs, Alcohol, and Vaping
+        Why do these conversations usually use scare tactics, and why does that backfire? >> Because fear is easy to reach for.
+            It backfires because the first time a kid sees a claim was exaggerated, they discount everything else they were told — including the parts that were true and important. Accuracy is the safer long-run strategy.
+        Why are teenage brains more vulnerable to addiction than adult brains? >> The brain's reward and emotion systems mature earlier than the systems that handle impulse control and long-range planning, so for several years the accelerator is developed and the brakes are still being built.
+            Substances act on exactly the system that is furthest ahead.
+        What is the answer on it true that the brain "finishes developing at 25"? >> No — t exactly — that number is a rough marker, not a finish line.
+            Development is gradual and different regions mature on different schedules, continuing into the mid-twenties and beyond. The honest claim is not "done at 25," it is "the control systems arrive late."
+        What does nicotine actually do? >> It reaches the brain in seconds and triggers a dopamine release, and the brain adapts by expecting it — which is why the wanting shows up fast. ##safety
+            It is among the most addictive substances there is, and starting younger makes dependence more likely and harder to reverse.
+        Why is vaping not the safe version? >> A vape can deliver as much nicotine as a pack of cigarettes, in a form that is easier to use constantly and easier to hide. ##safety
+            The absence of smoke removes some risks and none of the addiction.
+        What does alcohol actually do? >> It slows the parts of the brain that handle judgment and coordination first, which is why people make decisions while drunk that they would not make sober ##safety
+            and why the danger is often in what happens next rather than in the drink itself.
+        Why is drinking riskier for teenagers specifically? >> Earlier first use is associated with substantially higher rates of later dependence, and the same amount affects a developing brain more. ##theory
+            Contested: exactly how much of that association is causal is still debated.
+        The rule that matters most and is easiest to forget? >> Never get into a car with a driver who has been drinking or using, and have a no-questions-tonight way to call for a ride. ##safety
+            Agree on that arrangement in advance, because the moment you need it is the moment it is hardest to arrange.
+        How should a parent answer "did you ever?"? >> Honestly, briefly, without glamorizing it, and then pivot to what you learned and what you would do differently.
+            A dodge teaches them the topic is not really open; a lecture teaches them not to ask again.
+        Why do people use substances at all, if the risks are known? >> Because they work in the short run — they relieve anxiety, quiet self-consciousness, or make a hard feeling smaller for a while.
+            Understanding that they solve a real problem badly explains more than pretending they solve nothing.
 
-- ## Genetics and Evolution
-    - DNA (deoxyribonucleic acid)::The molecule carrying the genetic instructions for the development, functioning, growth, and reproduction of every known organism — the closest thing there is to a literal "blueprint of life."
-        - What shape is DNA, and what are its four letters?::A double helix — a twisted ladder — whose rungs spell out a code in four bases: {{A, T, C, and G}}. The sequence of those letters is the genetic code.
-    - Gene::A specific segment of DNA containing the instructions for building a protein. Proteins do the actual work of the body, which is how genes end up shaping traits like eye color.
-    - Chromosome::A long DNA molecule coiled tightly around proteins and stored in the cell's nucleus — DNA's packaging format.
-        - How many chromosomes do humans typically have?::46, arranged in 23 pairs — one member of each pair inherited from each parent.
-        - Dig Deeper — what do the sex chromosomes do?::The 23rd pair typically determines biological sex: XX usually leads to female development, XY to male. "Typically" is doing real work in that sentence — natural variations exist.
-    - Why do you look like your parents?::You inherit half your genes from each parent, and that particular combination — new in you — shapes your traits.
-        - Dominant gene::A gene variant that shows up in you even if you inherited only one copy, from one parent.
-        - Recessive gene::A gene variant that only shows up if you inherited a copy from both parents — which is how a trait can hide for a generation and then reappear.
-        - Follow-up — why might you look more like a grandparent than a parent?::A recessive trait can pass invisibly through a parent (one copy) and surface in you (two copies) — and with thousands of genes reshuffled every generation, you can land as a blend, or a throwback.
-        - Polygenic trait::A trait influenced by many genes interacting together, plus environment — height is the classic example. Most human traits are polygenic, not controlled by a single gene.
-    - What is evolution?::The change in the characteristics of a species over generations — driven primarily by natural selection.
-        - How does natural selection work, step by step?::1) Individuals in a species vary (genetic diversity) 2) individuals whose traits suit the environment survive and reproduce more 3) they pass those traits to their offspring 4) over generations those traits become more common in the population.
-        - "Survival of the fittest" — what does "fittest" actually mean?::Not strongest or most athletic — best fitted to the current environment. The same trait can be an advantage in one environment and a handicap in another.
-        - Follow-up — is evolution "just a theory"?::In science, "theory" doesn't mean guess — it means a well-substantiated explanation backed by vast evidence (fossils, DNA, directly observed change in living populations). Evolution is both a fact (populations change) and a theory (natural selection explains how).
-    - Did humans evolve from monkeys?::No — not from any monkey or ape alive today. Humans and modern apes like chimpanzees evolved separately from a common ancestor that lived millions of years ago. We are evolutionary cousins, not descendants.
-        - Common ancestor::A species from which two or more later species descend — the shared fork point on the family tree of life.
-        - Dig Deeper — where did Homo sapiens evolve?::In Africa — then spread across the world, coexisting along the way with other human species, such as Neanderthals, until those went extinct.
-        - Dig Deeper — do people today carry Neanderthal DNA?::Yes. Homo sapiens interbred with Neanderthals, and most people with ancestry from outside sub-Saharan Africa carry a small trace — roughly 1 to 2 percent — of Neanderthal DNA.
-- ## Society, Justice, and Ethics
-    - Prejudice::A preconceived, usually negative, opinion about a person based on the group they belong to — race, religion, gender — rather than their individual qualities. It is an attitude.
-    - Discrimination::Unjust treatment of people based on their group membership. Prejudice is the attitude; discrimination is the action taken on it.
-        - Follow-up — what is a stereotype?::An oversimplified, widely held, and often inaccurate belief about a group of people — the mental shortcut that prejudice runs on.
-    - Racism::Prejudice, discrimination, or antagonism against people of a different race, built on the belief that one's own race is superior — it involves power and systems, not just individual attitudes.
-        - Individual racism::Racist beliefs and actions held or committed by a person.
-        - Systemic (institutional) racism::Policies and practices embedded in institutions — education, housing, the justice system — that produce unequal outcomes across racial groups, even without any single individual intending harm.
-        - Dig Deeper — is race biologically real?::No — biologically, "race" is not a meaningful way to categorize humans; there is more genetic variation within so-called racial groups than between them. Race is a social construct, historically used to justify inequality.
-        - Social construct::Something that exists because a society collectively treats it as real — money, borders, race. Constructed does not mean consequence-free: the effects are entirely real.
-    - Why are some people rich and others poor?::No single cause — wealth inequality results from a combination of systemic factors, individual choices, and luck.
-        - Wealth inequality — the four key factors::1) Generational wealth passed down through families 2) unequal access to quality education and jobs 3) systemic barriers such as discrimination 4) how a society's economic system and taxes distribute gains.
-        - Follow-up — is being poor someone's own fault?::A values question; the honest answer is a distinction, not a verdict. Individual choices matter, AND poverty is often driven by factors outside a person's control. The skill is holding personal responsibility and systemic circumstance in view at once — collapsing to either extreme is the error.
-    - Privilege::Unearned advantages that come with belonging to a particular group, often invisible to those who have them — best understood as the absence of obstacles that others face.
-        - Follow-up — does having privilege mean you didn't work hard?::No. It means that while you worked hard, there were certain hurdles you never had to clear. Analogy: everyone runs the same race, but some lanes have hurdles and some don't.
-    - Why do we have police?::To maintain public order, enforce laws, prevent crime, and protect citizens — the enforcement side of the social contract, in which people accept rules in exchange for protection by the government.
-        - Dig Deeper — the hard open problems in policing::1) Ensuring policing is fair and unbiased 2) real accountability for misuse of force 3) maintaining trust between police and the communities they serve. These are live societal debates, not settled questions.
-    - Is it ever okay to lie? — the map::A genuine ethical debate, so here is the map, not a verdict: one position holds that lying is always wrong because it breaks a duty and corrodes trust (the deontological view); another holds that a lie preventing serious harm can be justified by its outcome (the consequentialist view). 
-        - Lying — what do people actually weigh in practice?::Intention, consequences, and context — rather than applying either rule absolutely.
-        - Lying — the one point of near-universal agreement::Lying to exploit or harm others is wrong.
-        - White lie (prosocial lying)::A lie told to protect someone's feelings or avoid needless conflict. Whether even these are acceptable is part of the ethics debate — they trade a little truth for a little kindness.
-    - The Trolley Problem::A famous ethical thought experiment: a runaway trolley is heading toward five people; you can pull a lever to divert it onto a side track, where it will kill one person. Do you pull it?
-        - Trolley Problem — what tension does it expose?::Maximizing good outcomes (five lives against one) versus honoring moral duties ("do not kill" — pulling the lever makes the death your act). Both intuitions are strong, and the thought experiment shows they conflict.
-- ## Grief
-    - What does grief actually feel like?::Not one feeling but many, often contradictory and in the same hour — sadness, numbness, anger, guilt, and sometimes relief. Feeling something you did not expect to feel does not mean you loved the person less.
-    - Does grief come in stages you finish one at a time?::No. The famous five stages were originally observations about dying people, not a schedule for mourners, and the evidence does not support an orderly sequence. Grief arrives in waves — it recedes and then returns without warning, often triggered by something small. #theory
-    - How long is grief supposed to last?::There is no correct duration, and being "still sad" after any particular amount of time is not a failure. What usually changes is not the size of the grief but the size of the life around it.
-    - What is the ambush?::Grief returning suddenly, months or years later, over something ordinary — a song, a smell, their handwriting on an old note. It is normal and it is not a setback.
-    - What should you say to a friend whose person died?::"I'm so sorry. I don't know what to say." Then be there. The exact words matter far less than not disappearing, and most people who say nothing do so out of fear of saying it wrong.
-    - What should you not say to someone grieving?::Anything that starts an explanation for the death, anything comparing it to your own loss, and anything telling them how to feel or when to be finished. "At least" is almost never the beginning of a helpful sentence.
-    - What actually helps a grieving friend, in practice?::Specific offers rather than "let me know if you need anything" — bring a meal on Tuesday, drive them somewhere, sit with them. And keep showing up after the first two weeks, when everyone else has gone back to normal and the grief has not.
-    - Is grief over a pet real grief?::Yes. It is a real attachment and a real loss, and for many kids it is the first death they experience directly. Treating it as small teaches a child that their feelings need to be justified before they count.
-    - Why do people sometimes feel guilty after someone dies?::Because the mind searches for what it could have controlled — it is the same instinct that makes us look for causes everywhere. Almost everyone finds something to feel guilty about, and almost none of it is a fair verdict.
+    Genetics and Evolution
+        DNA (deoxyribonucleic acid) :: The molecule carrying the genetic instructions for the development, functioning, growth, and reproduction of every known organism — the closest thing there is to a literal "blueprint of life."
+            What shape is DNA, and what are its four letters? >> A double helix — a twisted ladder — whose rungs spell out a code in four bases: A, T, C, and G.
+                The sequence of those letters is the genetic code.
+        Gene :: A specific segment of DNA containing the instructions for building a protein.
+            Proteins do the actual work of the body, which is how genes end up shaping traits like eye color.
+        Chromosome :: A long DNA molecule coiled tightly around proteins and stored in the cell's nucleus — DNA's packaging format.
+            How many chromosomes do humans typically have? >> 46, arranged in 23 pairs — one member of each pair inherited from each parent.
+            Dig Deeper — what do the sex chromosomes do? >> The 23rd pair typically determines biological sex: XX usually leads to female development, XY to male. "Typically" is doing real work in that sentence — natural variations exist.
+        Why do you look like your parents? >> You inherit half your genes from each parent, and that particular combination — new in you — shapes your traits.
+            Dominant gene :: A gene variant that shows up in you even if you inherited only one copy, from one parent.
+            Recessive gene :: A gene variant that only shows up if you inherited a copy from both parents — which is how a trait can hide for a generation and then reappear.
+            Follow-up — why might you look more like a grandparent than a parent? >> A recessive trait can pass invisibly through a parent (one copy) and surface in you (two copies)
+                and with thousands of genes reshuffled every generation, you can land as a blend, or a throwback.
+            Polygenic trait :: A trait influenced by many genes interacting together, plus environment — height is the classic example. Most human traits are polygenic, not controlled by a single gene.
+        What is evolution? >> The change in the characteristics of a species over generations — driven primarily by natural selection.
+            How does natural selection work, step by step? 1. >>>
+                1. Individuals in a species vary (genetic diversity)
+                2. individuals whose traits suit the environment survive and reproduce more
+                3. they pass those traits to their offspring
+                4. over generations those traits become more common in the population
+            "Survival of the fittest" — what does "fittest" actually mean? >> Not strongest or most athletic — best fitted to the current environment. The same trait can be an advantage in one environment and a handicap in another.
+            Follow-up — is evolution "just a theory"? >> In science, "theory" doesn't mean guess — it means a well-substantiated explanation backed by vast evidence (fossils, DNA, directly observed change in living populations).
+                Evolution is both a fact (populations change) and a theory (natural selection explains how).
+        What is the answer on humans evolve from monkeys? >> No — — not from any monkey or ape alive today.
+            Humans and modern apes like chimpanzees evolved separately from a common ancestor that lived millions of years ago. We are evolutionary cousins, not descendants.
+            Common ancestor :: A species from which two or more later species descend — the shared fork point on the family tree of life.
+            Dig Deeper — where did Homo sapiens evolve? >> In Africa — then spread across the world, coexisting along the way with other human species, such as Neanderthals, until those went extinct.
+            Dig Deeper — do people today carry Neanderthal DNA? >> Yes. Homo sapiens interbred with Neanderthals, and most people with ancestry from outside sub-Saharan Africa carry a small trace — roughly 1 to 2 percent — of Neanderthal DNA.
+    Society, Justice, and Ethics
+        Prejudice :: A preconceived, usually negative, opinion about a person based on the group they belong to — race, religion, gender — rather than their individual qualities. It is an attitude.
+        Discrimination :: Unjust treatment of people based on their group membership. Prejudice is the attitude; discrimination is the action taken on it.
+            Follow-up — what is a stereotype? >> An oversimplified, widely held, and often inaccurate belief about a group of people — the mental shortcut that prejudice runs on.
+        Racism :: Prejudice, discrimination, or antagonism against people of a different race, built on the belief that one's own race is superior — it involves power and systems, not just individual attitudes.
+            Individual racism :: Racist beliefs and actions held or committed by a person.
+            Systemic (institutional) racism :: Policies and practices embedded in institutions — education, housing, the justice system — that produce unequal outcomes across racial groups, even without any single individual intending harm.
+            Dig Deeper — is race biologically real? >> No — biologically, "race" is not a meaningful way to categorize humans; there is more genetic variation within so-called racial groups than between them.
+                Race is a social construct, historically used to justify inequality.
+            Social construct :: Something that exists because a society collectively treats it as real — money, borders, race. Constructed does not mean consequence-free: the effects are entirely real.
+        Why are some people rich and others poor? >> No single cause — wealth inequality results from a combination of systemic factors, individual choices, and luck.
+            Wealth inequality — the four key factors? >>>
+                - Generational wealth passed down through families
+                - unequal access to quality education and jobs
+                - systemic barriers such as discrimination
+                - how a society's economic system and taxes distribute gains
+            Follow-up — is being poor someone's own fault? >> A values question; the honest answer is a distinction, not a verdict.
+                Individual choices matter, AND poverty is often driven by factors outside a person's control. The skill is holding personal responsibility and systemic circumstance in view at once — collapsing to either extreme is the error.
+        Privilege :: Unearned advantages that come with belonging to a particular group, often invisible to those who have them — best understood as the absence of obstacles that others face.
+            Follow-up — does having privilege mean you didn't work hard? >> No. It means that while you worked hard, there were certain hurdles you never had to clear. Analogy: everyone runs the same race, but some lanes have hurdles and some don't.
+        Why do we have police? >> To maintain public order, enforce laws, prevent crime, and protect citizens
+            the enforcement side of the social contract, in which people accept rules in exchange for protection by the government.
+            Dig Deeper — the hard open problems in policing? >>>
+                - Ensuring policing is fair and unbiased
+                - real accountability for misuse of force
+                - maintaining trust between police and the communities they serve. These are live societal debates, not settled questions
+        Is it ever okay to lie? — the map? >> A genuine ethical debate, so here is the map, not a verdict: one position holds that lying is always wrong because it breaks a duty and corrodes trust (the deontological view); another holds that a lie preventing serious harm can be justified by its outcome (the consequentialist view).
+            Lying — what do people actually weigh in practice? >> Intention, consequences, and context — rather than applying either rule absolutely.
+            Lying — the one point of near-universal agreement? >> Lying to exploit or harm others is wrong.
+            White lie (prosocial lying) :: A lie told to protect someone's feelings or avoid needless conflict.
+                Whether even these are acceptable is part of the ethics debate — they trade a little truth for a little kindness.
+        The Trolley Problem :: A famous ethical thought experiment: a runaway trolley is heading toward five people
+            you can pull a lever to divert it onto a side track, where it will kill one person.
+            Do you pull it?
+            Trolley Problem — what tension does it expose? >> Maximizing good outcomes (five lives against one) versus honoring moral duties ("do not kill" — pulling the lever makes the death your act).
+                Both intuitions are strong, and the thought experiment shows they conflict.
+    Grief
+        What does grief actually feel like? >> Not one feeling but many, often contradictory and in the same hour — sadness, numbness, anger, guilt, and sometimes relief.
+            Feeling something you did not expect to feel does not mean you loved the person less.
+        What is the answer on grief come in stages you finish one at a time? >> No — The famous five stages were originally observations about dying people, not a schedule for mourners, and the evidence does not support an orderly sequence. Grief arrives in waves — it recedes and then returns without warning, often triggered by something small. ##theory
+        How long is grief supposed to last? >> There is no correct duration, and being "still sad" after any particular amount of time is not a failure.
+            What usually changes is not the size of the grief but the size of the life around it.
+        What is the ambush? >> Grief returning suddenly, months or years later, over something ordinary — a song, a smell, their handwriting on an old note. It is normal and it is not a setback.
+        What should you say to a friend whose person died? >> "I'm so sorry. I don't know what to say." Then be there. The exact words matter far less than not disappearing, and most people who say nothing do so out of fear of saying it wrong.
+        What should you not say to someone grieving? >> Anything that starts an explanation for the death, anything comparing it to your own loss, and anything telling them how to feel or when to be finished.
+            "At least" is almost never the beginning of a helpful sentence.
+        What actually helps a grieving friend, in practice? >> Specific offers rather than "let me know if you need anything" — bring a meal on Tuesday, drive them somewhere, sit with them.
+            And keep showing up after the first two weeks, when everyone else has gone back to normal and the grief has not.
+        What is the answer on grief over a pet real grief? >> Yes — It is a real attachment and a real loss, and for many kids it is the first death they experience directly. Treating it as small teaches a child that their feelings need to be justified before they count.
+        Why do people sometimes feel guilty after someone dies? >> Because the mind searches for what it could have controlled — it is the same instinct that makes us look for causes everywhere.
+            Almost everyone finds something to feel guilty about, and almost none of it is a fair verdict.
 
-- ## Economics and Finance
-    - How do banks make money?::The spread: they charge borrowers higher interest on loans than they pay depositors on savings. The gap — minus losses and costs — is the profit.
-    - How do banks create money when they lend? (modern view)::The loan creates the deposit: when a bank approves a loan, it types a brand-new deposit into the borrower's account — new money. Banks don't gather deposits first and lend them out; they lend where lending is profitable, then arrange the reserves they need afterward.
-        - Follow-up — the "money multiplier" story in older textbooks::The older story: you deposit cash, the bank holds a fraction in reserve and lends the rest, the loan gets re-deposited and re-lent, "multiplying" money outward. Central banks now describe this as backwards (Bank of England, 2014): lending creates deposits first, and reserves follow. Treat the multiplier as a historical teaching tale, not a description of how modern banks operate.
-        - Follow-up — if banks create money by lending, why can't they create infinite money?::Three brakes: 1) loans must be repaid — bad loans destroy the bank's own capital 2) regulation limits how much risk banks may carry 3) the central bank's interest rate sets the cost of the reserves banks must settle with, making excess lending unprofitable.
-    - What is interest?::The cost of borrowing money — or, from the lender's side, the income earned by lending it. Borrow and you repay the principal plus interest; save and the bank pays you interest for the use of your money.
-        - Principal (of a loan or deposit)::The original amount borrowed or saved, before any interest.
-        - Dig Deeper — why does money grow faster the longer you leave it saved?::Because interest gets added to the balance and then itself earns interest — "interest on interest," compounding. The same mechanism makes unpaid debt grow faster and faster too.
-    - What is debt?::Money owed. It lets you make large purchases now — a house, an education — that you could not afford immediately, in exchange for paying interest.
-        - Follow-up — is debt bad?::Debt is a tool, not a sin. Useful when it buys something durable or growing (education, a home) at a manageable rate; dangerous when it's excessive or carries high interest, like carried credit card balances.
-    - What is a credit card?::A card that lets you buy with borrowed money — every purchase is a small short-term loan from the card's issuing bank.
-        - How do you use a credit card without ever paying interest?::Pay the full balance every month. Interest applies only to balances carried past the due date — at high rates.
-        - Follow-up — credit card vs. debit card?::A credit card borrows the bank's money (a loan you must repay). A debit card pulls money directly out of your own checking account — no borrowing involved.
-    - What is the stock market?::The marketplace where shares of publicly held companies are bought and sold.
-        - Share (of stock)::A unit of partial ownership — equity — in a company. Owning a share means owning a tiny slice of the business.
-        - Why do companies sell stock?::To raise money (capital) for the business. In exchange, investors get partial ownership and a stake in the company's future success.
-        - Follow-up — why do stock prices go up and down?::Supply and demand among investors — moved by company performance, economic conditions, and investor sentiment: expectations and mood, not just facts.
-    - What is inflation?::The rate at which the general level of prices rises — equivalently, the rate at which money's purchasing power falls. Same dollars, fewer goods.
-        - What actually causes inflation?::Spending outrunning the economy's capacity to produce — too much money and demand chasing too few goods. It can start from the demand side, from the supply side (costlier inputs), or from expectations feeding on themselves.
-        - Demand-pull inflation::Inflation from the demand side: total spending exceeds what the economy can supply, and buyers bid prices up — too much money chasing too few goods.
-        - Cost-push inflation::Inflation from the supply side: when inputs — energy, materials, wages — get more expensive, businesses raise their own prices to cover costs.
-        - Why do inflation expectations matter so much?::They are self-fulfilling: businesses that expect rising costs raise prices preemptively, and workers who expect rising prices demand higher wages — and those very moves produce the inflation everyone expected.
-        - Follow-up — is all inflation bad?::No. A small, steady rate is considered normal and healthy — many central banks, including the US Federal Reserve, target about 2% a year (as of 2026). What damages an economy is high or unpredictable inflation. #volatile #us
-        - Follow-up — does "printing money" cause inflation?::It can — but through a mechanism, not magic: new money raises prices only when it becomes spending that outruns the supply of goods. Money growth far beyond the economy's output is the classic route to "too much money chasing too few goods."
-- ## Critical Thinking and Media Literacy
-    - How do we know what is true?::Through converging methods: 1) evidence — facts, data, observations 2) logic — valid reasoning from that evidence 3) the scientific method — systematic testing 4) skepticism — demanding evidence before belief. No single method is enough alone.
-        - Follow-up — why is truth "provisional"?::Because we update our understanding as new evidence emerges. Provisional isn't weak — it's honest: hold each claim exactly as strongly as the current evidence warrants, and stay ready to revise.
-    - What is the scientific method?::A process for systematically investigating the world: 1) observe and question 2) form a testable hypothesis 3) experiment 4) analyze the data 5) conclude whether the hypothesis survived — then revise and repeat.
-        - Hypothesis (in the scientific method)::A proposed explanation you can test — specific enough that some possible result would prove it wrong.
-    - What is a cognitive bias?::A systematic error in how the mind processes and interprets information — a mental shortcut that is fast but predictably wrong in certain situations. Knowing biases by name is the first step to catching them in yourself.
-        - Which cognitive bias: noticing only the evidence that supports what you already believe?::Confirmation bias — agreeable information feels true; disagreeable information feels suspect. Both feelings are unreliable.
-        - Which cognitive bias: the first number you hear drags your whole estimate toward it?::Anchoring bias — the first piece of information sets an anchor, and later judgments adjust away from it far too little.
-    - What is a logical fallacy?::An error in reasoning that makes an argument invalid — the argument can feel persuasive while proving nothing.
-        - Which fallacy: "You can't trust her argument — she's just a kid"?::Ad hominem — attacking the person instead of the argument. Whether an argument is sound doesn't depend on who makes it.
-        - Which fallacy: replying "So you think rules don't matter at all?" to someone who only said one rule seems unfair?::Straw man — swapping someone's actual argument for a weaker caricature that is easier to knock down.
-        - Which fallacy: "Either you're with us or you're against us"?::False dichotomy — presenting exactly two options when more exist.
-    - What is "fake news"?::False or misleading information dressed up as real news.
-        - Misinformation vs. disinformation::Misinformation is false information spread {{unintentionally}} — someone honestly wrong. Disinformation is false information spread {{deliberately to deceive}}. Same falsehood, different intent.
-        - How do you spot fake news — the five checks::1) Consider the source — is it reputable? 2) read beyond the headline 3) check the supporting evidence — do they link to credible sources? 4) check your own bias — do you believe it because you want to? 5) consult fact-checkers.
-        - Clickbait::A headline engineered to be clicked — sensational, emotional, often misleading about the article underneath. If a headline makes you furious or amazed, that is the design working, not the news.
-    - What is an algorithm?::A set of rules or instructions for performing a task or solving a problem — a recipe precise enough that a machine can follow it. In computing, algorithms process data and make decisions automatically: search results, feeds, recommendations.
-        - Follow-up — how do social media algorithms know what you like?::They analyze your past behavior — what you watch, click, linger on, search — plus the behavior of users similar to you, and predict what you will engage with next.
-        - Follow-up — what is a recommendation algorithm actually optimizing for?::Your engagement — time and clicks — not your wellbeing and not the truth. What keeps you watching is not the same as what is good for you or accurate.
-        - Dig Deeper — algorithmic bias::If the data used to train an algorithm reflects human biases, the algorithm's decisions inherit those biases — automatically, at scale, and wearing a false costume of objectivity.
-- ## Meta-Skills: Not Knowing, Asking, and Checking
-    - How do you say "I don't know" well?::Say it plainly, then make it the start of something: "I don't know — let's find out together." Never bluff an answer, never treat the question as a burden.
-        - Why does admitting "I don't know" make you MORE trustworthy?::Because it protects the value of everything else you say. A person who never bluffs has answers worth believing; a person who always has an answer has answers worth checking.
-        - The two failure modes of not knowing an answer::1) Bluffing — inventing a confident answer, which teaches that confidence beats truth 2) deflecting — "go ask someone else," which teaches that questions are a burden. The fix for both is the same script: "I don't know — let's find out."
-        - Follow-up — what do you do right after saying "I don't know"?::Look it up together, out loud, showing the method: where you searched, which source you trusted and why, what you concluded. The search is the lesson; the answer is just the payoff.
-    - What makes a question a good question?::Three marks: 1) it is specific enough that you would recognize an answer if you found one 2) the answer would actually change what you believe or do 3) it aims at mechanism — how and why — not just labels.
-        - How do you sharpen a vague question into a good one?::Two moves: 1) name the exact thing that surprised you ("why is the sky blue at noon but red at sunset?" beats "what's up with the sky?") 2) ask what evidence would settle it. If no possible observation could answer it, it is not yet a question — it is a mood.
-        - Why are "how" and "why" questions worth more than "what" questions?::"What" buys you a label; "how" and "why" buy you the mechanism — and mechanisms transfer to new cases. Naming the Moon's phases is trivia; knowing what causes them explains every phase forever.
-    - How do you look something up and actually check it?::1) Guess first, so you notice when the answer surprises you 2) search for the claim AND its opposite 3) require two independent sources 4) prefer primary sources over retellings 5) ask who is telling you this and what they want.
-        - The two-independent-sources rule::Before trusting a surprising claim, find two sources that confirm it AND that did not copy it from the same place. Ten sites quoting one tweet is still one source.
-        - Follow-up — how do you check that two sources are truly independent?::Trace where each got the claim. If both cite the same study, tweet, or press release, they are one source wearing two hats. Independent means separate lines of evidence.
-        - Primary vs. secondary source::A primary source is {{the original}} — the study, the document, the eyewitness, the raw data. A secondary source is {{a retelling}} — and every retelling can add errors and spin. When it matters, walk the chain back to the original.
-        - The wish-it-were-true check::Before believing or sharing a claim, ask: "Do I believe this because the evidence is good, or because I want it to be true?" The claims that flatter your side are exactly the ones to verify hardest — from the inside, being wrong feels the same as being right.
-        - What do you do when good sources disagree?::Prefer, in order: 1) primary over secondary 2) expert consensus over lone dissenters 3) sources that show their evidence over sources that merely assert. If it still isn't settled, say so — "the sources disagree" is itself an honest answer.
+    Economics and Finance
+        How do banks make money? >> The spread: they charge borrowers higher interest on loans than they pay depositors on savings. The gap — minus losses and costs — is the profit.
+        How do banks create money when they lend? (modern view)? >> The loan creates the deposit: when a bank approves a loan, it types a brand-new deposit into the borrower's account — new money.
+            Banks don't gather deposits first and lend them out; they lend where lending is profitable, then arrange the reserves they need afterward.
+            Follow-up — the "money multiplier" story in older textbooks? >> The older story: you deposit cash, the bank holds a fraction in reserve and lends the rest, the loan gets re-deposited and re-lent, "multiplying" money outward.
+                Central banks now describe this as backwards (Bank of England, 2014): lending creates deposits first, and reserves follow. Treat the multiplier as a historical teaching tale, not a description of how modern banks operate.
+            Follow-up — if banks create money by lending, why can't they create infinite money? >>>
+                - loans must be repaid — bad loans destroy the bank's own capital
+                - regulation limits how much risk banks may carry
+                - the central bank's interest rate sets the cost of the reserves banks must settle with, making excess lending unprofitable
+        What is interest? >> The cost of borrowing money — or, from the lender's side, the income earned by lending it.
+            Borrow and you repay the principal plus interest; save and the bank pays you interest for the use of your money.
+            Principal (of a loan or deposit)? >> The original amount borrowed or saved, before any interest.
+            Dig Deeper — why does money grow faster the longer you leave it saved? >> Because interest gets added to the balance and then itself earns interest — "interest on interest," compounding. The same mechanism makes unpaid debt grow faster and faster too.
+        What is debt? >> Money owed. It lets you make large purchases now — a house, an education — that you could not afford immediately, in exchange for paying interest.
+            Follow-up — is debt bad? >> Debt is a tool, not a sin.
+                Useful when it buys something durable or growing (education, a home) at a manageable rate; dangerous when it's excessive or carries high interest, like carried credit card balances.
+        What is a credit card? >> A card that lets you buy with borrowed money — every purchase is a small short-term loan from the card's issuing bank.
+            How do you use a credit card without ever paying interest? >> Pay the full balance every month. Interest applies only to balances carried past the due date — at high rates.
+            Follow-up — credit card vs. debit card? >> A credit card borrows the bank's money (a loan you must repay). A debit card pulls money directly out of your own checking account — no borrowing involved.
+        What is the stock market? >> The marketplace where shares of publicly held companies are bought and sold.
+            Share (of stock) :: A unit of partial ownership — equity — in a company. Owning a share means owning a tiny slice of the business.
+            Why do companies sell stock? >> To raise money (capital) for the business. In exchange, investors get partial ownership and a stake in the company's future success.
+            Follow-up — why do stock prices go up and down? >> Supply and demand among investors — moved by company performance, economic conditions, and investor sentiment: expectations and mood, not just facts.
+        What is inflation? >> The rate at which the general level of prices rises — equivalently, the rate at which money's purchasing power falls. Same dollars, fewer goods.
+            What actually causes inflation? >> Spending outrunning the economy's capacity to produce — too much money and demand chasing too few goods.
+                It can start from the demand side, from the supply side (costlier inputs), or from expectations feeding on themselves.
+            Demand-pull inflation :: Inflation from the demand side: total spending exceeds what the economy can supply, and buyers bid prices up — too much money chasing too few goods.
+            Cost-push inflation :: Inflation from the supply side: when inputs — energy, materials, wages — get more expensive, businesses raise their own prices to cover costs.
+            Why do inflation expectations matter so much? >> They are self-fulfilling: businesses that expect rising costs raise prices preemptively, and workers who expect rising prices demand higher wages — and those very moves produce the inflation everyone expected.
+            Follow-up — is all inflation bad? >> No. A small, steady rate is considered normal and healthy ##volatile ##us
+                many central banks, including the US Federal Reserve, target about 2% a year (as of 2026). What damages an economy is high or unpredictable inflation.
+            Follow-up — does "printing money" cause inflation? >> It can — but through a mechanism, not magic: new money raises prices only when it becomes spending that outruns the supply of goods.
+                Money growth far beyond the economy's output is the classic route to "too much money chasing too few goods."
+    Critical Thinking and Media Literacy
+        How do we know what is true? >>>
+            - evidence — facts, data, observations
+            - logic — valid reasoning from that evidence
+            - the scientific method — systematic testing
+            - skepticism — demanding evidence before belief. No single method is enough alone
+            Follow-up — why is truth "provisional"? >> Because we update our understanding as new evidence emerges.
+                Provisional isn't weak — it's honest: hold each claim exactly as strongly as the current evidence warrants, and stay ready to revise.
+        What is the scientific method? 1. >>>
+            1. observe and question
+            2. form a testable hypothesis
+            3. experiment
+            4. analyze the data
+            5. conclude whether the hypothesis survived — then revise and repeat
+            Hypothesis (in the scientific method) :: A proposed explanation you can test — specific enough that some possible result would prove it wrong.
+        What is a cognitive bias? >> A systematic error in how the mind processes and interprets information — a mental shortcut that is fast but predictably wrong in certain situations.
+            Knowing biases by name is the first step to catching them in yourself.
+            Which cognitive bias: noticing only the evidence that supports what you already believe? >> Confirmation bias — agreeable information feels true; disagreeable information feels suspect. Both feelings are unreliable.
+            Which cognitive bias: the first number you hear drags your whole estimate toward it? >> Anchoring bias — the first piece of information sets an anchor, and later judgments adjust away from it far too little.
+        What is a logical fallacy? >> An error in reasoning that makes an argument invalid — the argument can feel persuasive while proving nothing.
+            Which fallacy: "You can't trust her argument — she's just a kid"? >> Ad hominem — attacking the person instead of the argument. Whether an argument is sound doesn't depend on who makes it.
+            Which fallacy: replying "So you think rules don't matter at all?" to someone who only said one rule seems unfair? >> Straw man — swapping someone's actual argument for a weaker caricature that is easier to knock down.
+            Which fallacy: "Either you're with us or you're against us"? >> False dichotomy — presenting exactly two options when more exist.
+        What is "fake news"? >> False or misleading information dressed up as real news.
+            Misinformation vs. disinformation :: Misinformation is false information spread unintentionally — someone honestly wrong. Disinformation is false information spread deliberately to deceive. Same falsehood, different intent.
+            How do you spot fake news — the five checks? >>>
+                - Consider the source — is it reputable?
+                - read beyond the headline
+                - check the supporting evidence — do they link to credible sources?
+                - check your own bias — do you believe it because you want to?
+                - consult fact-checkers
+            Clickbait :: A headline engineered to be clicked — sensational, emotional, often misleading about the article underneath.
+                If a headline makes you furious or amazed, that is the design working, not the news.
+        What is an algorithm? >> A set of rules or instructions for performing a task or solving a problem — a recipe precise enough that a machine can follow it.
+            In computing, algorithms process data and make decisions automatically: search results, feeds, recommendations.
+            Follow-up — how do social media algorithms know what you like? >> They analyze your past behavior — what you watch, click, linger on, search — plus the behavior of users similar to you, and predict what you will engage with next.
+            Follow-up — what is a recommendation algorithm actually optimizing for? >> Your engagement — time and clicks — not your wellbeing and not the truth. What keeps you watching is not the same as what is good for you or accurate.
+            Dig Deeper — algorithmic bias? >> If the data used to train an algorithm reflects human biases, the algorithm's decisions inherit those biases — automatically, at scale, and wearing a false costume of objectivity.
+    Meta-Skills: Not Knowing, Asking, and Checking
+        How do you say "I don't know" well? >> Say it plainly, then make it the start of something: "I don't know — let's find out together." Never bluff an answer, never treat the question as a burden.
+            Why does admitting "I don't know" make you MORE trustworthy? >> Because it protects the value of everything else you say. A person who never bluffs has answers worth believing; a person who always has an answer has answers worth checking.
+            The two failure modes of not knowing an answer? >> 1) Bluffing — inventing a confident answer, which teaches that confidence beats truth 2) deflecting — "go ask someone else," which teaches that questions are a burden.
+                The fix for both is the same script: "I don't know — let's find out."
+            Follow-up — what do you do right after saying "I don't know"? >> Look it up together, out loud, showing the method: where you searched, which source you trusted and why, what you concluded.
+                The search is the lesson; the answer is just the payoff.
+        What makes a question a good question? >>>
+            - it is specific enough that you would recognize an answer if you found one
+            - the answer would actually change what you believe or do
+            - it aims at mechanism — how and why — not just labels
+            How do you sharpen a vague question into a good one? >> Two moves: 1) name the exact thing that surprised you ("why is the sky blue at noon but red at sunset?" beats "what's up with the sky?") 2) ask what evidence would settle it.
+                If no possible observation could answer it, it is not yet a question — it is a mood.
+            Why are "how" and "why" questions worth more than "what" questions? >> "What" buys you a label; "how" and "why" buy you the mechanism — and mechanisms transfer to new cases.
+                Naming the Moon's phases is trivia; knowing what causes them explains every phase forever.
+        How do you look something up and actually check it? 1. >>>
+            1. Guess first, so you notice when the answer surprises you
+            2. search for the claim AND its opposite
+            3. require two independent sources
+            4. prefer primary sources over retellings
+            5. ask who is telling you this and what they want
+            The two-independent-sources rule :: Before trusting a surprising claim, find two sources that confirm it AND that did not copy it from the same place. Ten sites quoting one tweet is still one source.
+            Follow-up — how do you check that two sources are truly independent? >> Trace where each got the claim. If both cite the same study, tweet, or press release, they are one source wearing two hats. Independent means separate lines of evidence.
+            Primary vs. secondary source :: A primary source is the original — the study, the document, the eyewitness, the raw data.
+                A secondary source is a retelling — and every retelling can add errors and spin. When it matters, walk the chain back to the original.
+            The wish-it-were-true check? >> Before believing or sharing a claim, ask: "Do I believe this because the evidence is good, or because I want it to be true?" The claims that flatter your side are exactly the ones to verify hardest — from the inside, being wrong feels the same as being right.
+            What do you do when good sources disagree? 1. >>>
+                1. primary over secondary
+                2. expert consensus over lone dissenters
+                3. sources that show their evidence over sources that merely assert. If it still isn't settled, say so — "the sources disagree" is itself an honest answer

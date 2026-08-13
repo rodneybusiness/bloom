@@ -1,279 +1,332 @@
-- ## Los Angeles Evacuation (Westchester Personal Plan)
-    - Scope note (not a card) — this section is the owner's personal plan: routes, distances, and the reunification point depend on the owner's home base (Westchester), vehicle, and family. Route-dependent cards are tagged #verify-personally. Two historical rationales from v1 were corrected against the record (I-105 opened October 1993, before the January 1994 Northridge quake; the 405/10 interchange did not collapse in Northridge). The named rules and the reunification plan are kept verbatim.
-    - The Direction Rule and First Actions
-        - LA evacuation — simple evacuation direction rule::"Ground shook go east; air is bad go south; Santa Ana hazmat go north" #verify-personally #high-frequency
-        - First action in any hazmat scenario, before choosing a direction::Check wind direction on weather.gov for 30 seconds #safety
-    - Freeway Selection (LA Evacuation)
-        - Why the 105 is the primary eastward escape freeway::It is the newest major LA freeway (opened October 1993), built to far more modern seismic standards than the 1960s-era 10 and 405 #verify-personally
-        - I-105 (Century Freeway) — opening date vs the Northridge earthquake::Opened October 1993, BEFORE the January 1994 Northridge quake — its honest advantage is being the newest major freeway, not "post-Northridge codes"
-        - Northridge 1994 — what actually collapsed on the 10::The I-10 Santa Monica Freeway collapsed at La Cienega/Fairfax (and at Washington Blvd) — mid-city, not at the 405 interchange
-        - Northridge 1994 — which freeway interchange collapsed::The I-5/SR-14 connectors at Newhall Pass — the 405/10 interchange did NOT collapse
-        - Why avoid La Cienega directly to the 10 during earthquakes::That stretch of the 10 has the highest concentration of older pre-modern-code overpasses — and the 10 at La Cienega is exactly where it failed in Northridge 1994 #verify-personally
-        - Why the 60 is the backup to the 10::It runs parallel through Pomona and the Inland Empire and merges back with the 10 near Beaumont #verify-personally
-        - Why avoid the 405 in emergencies::Universal evacuation instinct creates instant gridlock, and its elevated interchanges are inherent seismic risk points — 1960s-era construction, older design than the 105 (note: the 405/10 interchange did not actually collapse in Northridge) #verify-personally
-        - When the 405 is acceptable::Going south to San Diego — it is the only real freeway option that direction, and southbound traffic is lighter during most emergencies #verify-personally
-        - Why the 15 north from Ontario is the Vegas connector::It is the connection point between the 10 corridor and the Vegas route, and serves as the key decision point #verify-personally
-    - Earthquake Evacuation Route
-        - Primary earthquake evacuation route (from Westchester)::Centinela south, then 105 east, then 605 north, then 10 east, to Palm Springs #verify-personally
-        - Why the earthquake route starts with Centinela south::It avoids the 405 entirely from the first turn #verify-personally
-        - Earthquake route — if the 105 eastbound is blocked::Surface streets: Centinela south, Imperial east, La Cienega south, then try a 105 on-ramp further east — or continue to the 110 south briefly and take the 105 east #verify-personally
-        - Earthquake route — if the 10 is blocked east of downtown::At the 605 interchange take the 605 south instead of north, to the 60 east, which runs parallel through Pomona (adds 15-20 minutes) #verify-personally
-        - Earthquake route — if both the 10 and the 60 are blocked::Surface-street escape via Valley Blvd or Garvey Ave, parallel to the 10 through the San Gabriel Valley, rejoining east of the damage zone #verify-personally
-        - Why not 405-to-10 during an earthquake::Universal instinct gridlocks the 405 instantly, and any elevated interchange is a seismic weak point — but note the actual Northridge collapses were the 10 at La Cienega/Fairfax and the 5/14 connectors, not the 405/10 #verify-personally
-    - Tsunami Evacuation Route
-        - Primary tsunami evacuation route (from Westchester)::La Cienega north to the 10 east, toward Palm Springs #verify-personally
-        - Why the tsunami route differs from the earthquake route::Time is the asset, not infrastructure integrity — La Cienega to the 10 is the most direct path with the fewest turns #verify-personally
-        - Why going east works for a tsunami::Coastal evacuation panic concentrates on PCH and the 405 south; going perpendicular to the coast means less competition #verify-personally
-        - Tsunami — if caught without a car::Go directly east on any street (Venice Blvd, Washington Blvd) and do NOT go home first — warning time is the gift #safety #verify-personally
-        - Tsunami departure math::Departing within 30 minutes = Palm Springs before the wave; departing at 2 hours = stuck in traffic #verify-personally
-    - The Compound Scenario — Earthquake AND Tsunami
-        - What a large LOCAL tsunami implies::A preceding major earthquake — a near-source tsunami is generated by a quake you just felt, so you are always planning for both hazards at once #safety
-        - Natural tsunami warning signs (no official alert needed)::Strong or unusually LONG shaking near the coast, a roar from the ocean, or the water receding — evacuate on those signs alone; near-source waves can arrive in 10-30 minutes, faster than official alerts #safety
-        - Compound earthquake-plus-tsunami — the first move::Get inland/east and to elevation immediately, on foot if the car is not instantly available — do not wait for an official warning #safety
-        - Compound earthquake-plus-tsunami — route assumption::A quake big enough to make a tsunami has damaged freeways: expect closures, and prefer known surface-street corridors east (Venice, Washington, Imperial) over elevated freeway structures until past the inundation zone #verify-personally
-        - Compound earthquake-plus-tsunami — which plan wins when the two routes conflict::The tsunami clock wins first — get east and uphill out of the inundation zone within minutes; then the earthquake routing logic (avoid old overpasses, surface-street fallbacks) governs the long haul east #safety
-    - Smoke Evacuation Route
-        - Primary smoke or normal-wind hazmat route (from Westchester)::Sepulveda south, then 405 south, then 5 south, to San Diego #verify-personally
-        - Smoke route — if the 405/5 merge at the El Toro Y is gridlocked::Take the 405 to the 133 south through Laguna Canyon to PCH south, rejoining the 5 south at San Clemente #verify-personally
-        - Smoke route — avoiding freeways entirely going south::Sepulveda south through El Segundo to PCH south through the beach cities, to the 5 south at San Clemente (adds 60-90 minutes) #verify-personally
-        - Hazmat event at LAX (not the port) — routing change::Do not start south on Sepulveda; go east on La Cienega first, then take the 405 south, entering it south of LAX #verify-personally
-    - Santa Ana Hazmat Route
-        - Primary Santa Ana wind hazmat route (from Westchester)::Lincoln north, then 90 west, then PCH north, then 101 north, to Ventura #verify-personally
-        - Why the Santa Ana route starts with Lincoln north::It gets you toward the coast immediately — maximum distance from the inland plume source #verify-personally
-        - Santa Ana hazmat — if PCH is jammed::Lincoln north, 90 east, 405 north, 101 north — the northbound 405 stays relatively clear when everyone flees south or east #verify-personally
-        - How to identify Santa Ana conditions::The wind is hot, dry, and coming FROM the east — from the mountains, not the ocean
-        - When northward evacuation is the correct choice::Only during Santa Ana wind hazmat scenarios, when plumes push west toward Westchester #verify-personally
-    - Grid Collapse Evacuation Route
-        - Primary grid-collapse route to Vegas (from Westchester)::Centinela south, 105 east, 605 north, 10 east, 15 north at Ontario, to Las Vegas #verify-personally
-        - Grid collapse — if the 15 north to Vegas is gridlocked::Continue on the 10 east past Ontario to Barstow, then 40 east briefly to 95 north — the back door to Vegas #verify-personally
-        - Why Barstow is the minimum viable waypoint::At 150 miles it has gas, food, and hotels, and it sits outside the LA infrastructure-collapse zone #verify-personally
-    - Evacuation Decision Points
-        - Ontario decision point (LA evacuation)::60 miles east — where you choose to continue to Palm Springs on the 10 or pivot north on the 15 toward Vegas #verify-personally
-        - Barstow decision point (LA evacuation)::150 miles east — where you can refuel and choose the 15 north to Vegas or the 40 east to the 95 back door #verify-personally
-        - 605 interchange decision point (LA evacuation)::Where you choose 605 north to the 10 east, or 605 south to the 60 east if the 10 is blocked #verify-personally
-        - El Toro Y decision point (LA evacuation)::Where the 405 and the 5 merge — bail to the 133 if it is gridlocked #verify-personally
-        - San Clemente decision point (LA evacuation)::Where the PCH coastal route reconnects with the 5 south to San Diego #verify-personally
-    - Evacuation Fuel Math
-        - Half a tank from Westchester reaches::Palm Springs, at 107 miles #verify-personally
-        - A full tank from Westchester reaches::Las Vegas, at 270 miles #verify-personally
-        - The marginal fuel scenario (LA evacuation)::Half a tank to Barstow at 150 miles — depends on vehicle efficiency #verify-personally
-        - Why the half-tank policy matters for a Vegas evacuation::You need to reach Barstow minimum on current fuel, because gas stations cannot pump when the grid is down #verify-personally
-    - Evacuation Rules (LA)
-        - The 405 rule::Avoid the 405 in any emergency because universal instinct creates gridlock and interchanges are collapse risks — except going south to San Diego #verify-personally
-        - The 60% rule::Leave when 60% sure, not 95% sure — early departure is the single biggest predictor of good outcomes
-        - The wind-check rule::Check wind direction before moving in any hazmat scenario — 30 seconds prevents driving into the plume #safety
-        - The half-tank rule::Never let the tank drop below half, as a non-negotiable daily practice
-        - The Ontario reunification rule::Family meets at the Ontario Mills parking structure if separated — it marks successful basin escape and is an easy landmark #verify-personally
-    - Evacuation Physical Preparedness
-        - What stays in the car for evacuation, always::1) a physical SoCal map (phones fail), 2) $500 cash in small bills (ATMs fail), 3) 1 gallon of water per person, 4) phone chargers and a battery pack #verify-personally
-        - Why the car cash is in small bills::When card readers and ATMs are down, nobody can make change — small bills spend at face value
-    - LA Evacuation Strategy Rationale
-        - Why 105-to-605-to-10 bypasses the danger zone::It routes around downtown LA, where the older pre-modern-code overpasses concentrate, and enters the 10 corridor east of the vulnerable stretch #verify-personally
-        - Why east is the universal earthquake and tsunami response::East is perpendicular to the coast (away from coastal panic) and into a different seismic zone where infrastructure is undamaged
-        - Why smoke scenarios go south while hazmat might go north::Smoke evacuations assume normal westerly winds pushing plumes east; Santa Ana conditions reverse this, requiring northward escape
-        - What makes Ontario the key strategic waypoint::At 60 miles east you have definitively escaped the LA basin and gained optionality — Palm Springs, Vegas, or shelter in place #verify-personally
-- ## Wildfire and Smoke (The LA Household Chapter)
-    - Fire Weather and Alert Vocabulary
-        - Red Flag Warning::A National Weather Service warning that critical fire weather is imminent or occurring — strong winds plus very low humidity over dry fuels (criteria vary by region — about 15% relative humidity in coastal Southern California); treat it as "a fire ignited today will run" #safety
-        - Red Flag Warning — household response::Car above half a tank, go-bags staged by the door, phones and battery packs charged, evacuation-zone name known — it is a pre-commitment day, not a watch-and-wait day #safety
-        - Fire Weather Watch vs Red Flag Warning::Watch = critical fire weather is possible in the next 1-3 days; Warning = it is imminent or happening now
-        - Evacuation Warning (California terminology)::Potential threat to life or property — prepare to leave; go NOW if you need extra time or have pets or livestock, and assume an Order may follow #safety
-        - Evacuation Order (California terminology)::Immediate threat to life — a lawful order to leave now, not a suggestion to start packing #safety
-        - Evacuation Warning vs Order — the memory hook::Warning = get set (some should already go); Order = go, immediately #safety
-    - Fire Information Tools
-        - Watch Duty app::Nonprofit real-time wildfire app — verified fire perimeters, spread, cameras, and firefighting radio intel; it tells you where the fire IS and where it is moving
-        - Genasys Protect app::The official evacuation-zone app used by LA County — look up your zone name now, and during a fire it shows your zone's current status (Warning or Order)
-        - Watch Duty vs Genasys Protect — division of labor::Watch Duty shows where the fire is moving; Genasys Protect shows your zone's official evacuation status — run both
-        - Wildfire go-time triggers (leave without waiting for an Order)::1) fire visible from the house, 2) ember fall or ash on your street, 3) your single road out is threatened, 4) active fire nearby as night falls — this is the 60% rule applied to fire #safety
-        - Why leave before the official order in a wind-driven fire::Alerts lag fire behavior — wind-driven LA fires have outrun the notification system, and early departure is the single biggest predictor of good outcomes #safety
-    - Smoke and Air Quality
-        - Why wildfire smoke is a health event::Its PM2.5 — particles fine enough to pass into the bloodstream — drives heart and lung harm; this is what AQI, N95s, and recirculate mode all defend against #safety
-        - The only masks that work for wildfire smoke::N95 or P100 respirators with two head straps and a tight face seal — cloth masks, surgical masks, and bandanas do NOT filter PM2.5 #safety
-        - P100 respirator — when it earns its place::Ash cleanup and prolonged heavy smoke — it filters 99.97% of particles vs the N95's 95% #safety
-        - AQI thresholds where action starts::{{101}} = sensitive groups act, {{151}} = everyone acts, {{201}} = everyone avoids being outdoors #safety
-        - AQI 101-150 (Unhealthy for Sensitive Groups) — required action::People with asthma or heart/lung disease, children, older adults, and pregnant people limit prolonged outdoor exertion #safety
-        - AQI 151-200 (Unhealthy) — required action::EVERYONE limits prolonged outdoor exertion; sensitive groups avoid it entirely #safety
-        - AQI 201-300 (Very Unhealthy) — required action::Sensitive groups avoid ALL outdoor activity; everyone else avoids prolonged or heavy exertion and moves activity indoors — stay inside with filtered air #safety
-        - Where to check live AQI::AirNow.gov (EPA) or the fire apps — always live numbers, because smoke AQI swings hour to hour with the wind
-        - Indoor air protocol during a smoke event::Windows and doors closed, HVAC off or on recirculate, run a HEPA purifier or MERV-13 filter — one sealed, filtered "clean room" beats half-protecting the whole house #safety
-        - Car protocol in smoke::Windows up, A/C on recirculate, and turn OFF the "Auto" climate setting (it may pull outside air); replace the cabin filter after the event #safety
-        - If trapped by fire in your car::Park in a clearing away from vegetation, close windows and vents, get below window level under a wool or cotton cover, call 911 — the car shields you from radiant heat better than running #safety
-    - Home Hardening
-        - The ember insight (home hardening)::Most homes ignite from EMBERS landing on or near the house — not the flame front — which is why vents, gutters, and the first five feet matter more than distance from the hills #safety
-        - Ember-resistant vents::Cover every vent opening with 1/16- to 1/8-inch METAL mesh, or install WUI-rated vents — never fiberglass or plastic mesh, which melt #safety
-        - Defensible space Zone 0 (0-5 ft)::The ember-resistant zone — nothing combustible touching the house: no bark mulch, no woodpile, no brooms or doormats that can catch; hardscape and well-watered fire-resistant plants only #safety
-        - Defensible space Zone 1 (5-30 ft)::"Lean, clean, and green" — spaced plantings, dead vegetation removed, tree limbs raised, nothing stored under decks
-        - Defensible space Zone 2 (30-100 ft)::The reduced-fuel zone — annual grass mowed to 4 inches or less, horizontal and vertical spacing between shrubs and trees
-        - Class A roof::The highest fire-resistance rating (composition shingle, metal, tile) — the roof is the largest ember-catching surface, so wood shake goes first when upgrading
-        - Rain gutters as fire risk::Dry leaves and needles in gutters are an ember bed at the roofline — clean them, or fit noncombustible gutter covers
-        - Santa Ana winds — the fire connection::LA's most dangerous fire weather — hot, dry east winds that drive fire toward the coast at speed; red-flag conditions cluster in the October-January wind season
-- ## Earthquake — The First 60 Seconds and After
-    - During the Shaking
-        - Earthquake first move (indoors)::Drop, Cover, and Hold On — drop to hands and knees, take cover under a sturdy table protecting head and neck, hold on until the shaking stops #safety
-        - Why Drop-Cover-Hold-On beats running outside::Most quake injuries come from falling objects and glass hitting people who are moving — and doorways are NOT stronger than the rest of a modern house #safety
-        - Earthquake while in bed::Stay in bed and cover your head and neck with a pillow — floors around beds fill with broken glass, and moving barefoot in the dark is a classic injury source #safety
-        - Earthquake early warning (LA)::ShakeAlert-powered apps (MyShake; built into Android) give seconds of warning — enough time to Drop, Cover, and Hold On, never enough to evacuate
-    - Immediately After
-        - What to expect after the mainshock::Aftershocks — be ready to Drop, Cover, and Hold On again; they can finish off what the mainshock weakened #safety
-        - The shoes rule (after an earthquake)::Put on sturdy shoes BEFORE walking anywhere — broken glass underfoot is the classic post-quake injury #safety
-        - The gas decision (after an earthquake)::Shut off the gas ONLY if you smell gas, hear hissing, or see a broken line — a needless shutoff means days without service #safety
-        - Who turns the gas back on after a shutoff::Only the utility (SoCalGas) — once off, leave it off; inspection and pilot relight are professional-only #safety
-        - First human check (after an earthquake)::Check yourself for injuries, then the people around you — first aid before property assessment #safety
-        - The communication rule (after an earthquake)::Text, don't call — texts squeeze through jammed networks; save voice calls for life-threatening emergencies #safety
-        - If trapped in debris::Send a text, bang on a pipe or wall, use a whistle — shout only as a last resort, because shouting inhales dust and burns energy #safety
-        - Damaged building rule (after an earthquake)::Once the shaking stops, get out of a visibly damaged building and stay out until it is inspected — aftershocks finish damaged buildings #safety
-- ## Home Fire Response
-    - Alarms and the Escape Plan
-        - Smoke alarm testing cadence::1) test every alarm monthly 2) replace 9-volt batteries yearly 3) replace the whole unit every 10 years #safety
-        - Where smoke alarms belong::Inside every bedroom, outside each sleeping area, and on every level including the basement #safety
-        - Home escape plan requirements::Two ways out of every room, plus one outside meeting point (mailbox, neighbor's tree) — practiced twice a year #safety
-        - Why the outside meeting point matters::It answers "is everyone out?" in seconds — the unanswered version of that question is what sends people back into burning buildings
-    - Fight or Flee
-        - The fight-vs-flee rule (home fire)::Fire bigger than a wastebasket = leave — beyond that size it doubles too fast to fight; and everyone must be out and 911 called BEFORE any extinguisher attempt #safety
-        - The PASS technique (fire extinguisher)::1) Pull the pin, 2) Aim at the BASE of the fire, 3) Squeeze the handle, 4) Sweep side to side #safety
-        - Fire extinguisher stance::Fight with your back to a clear exit, so the moment the fire is not shrinking you can retreat #safety
-        - Home fire extinguisher choice::An ABC (multi-purpose) unit — covers ordinary combustibles, flammable liquids, and electrical fires #safety
-        - Grease fire response::Slide a lid over the pan and kill the heat — NEVER water, which flash-boils and sprays burning oil #safety
-    - Escaping
-        - Escaping through smoke::Crawl low — heat and toxic gases rise, and the cleanest air is at the floor #safety
-        - Door test before opening (fire)::Feel the door and knob with the back of your hand — hot means fire behind it; use your second way out #safety
-        - Doors during a fire escape::Close every door behind you — a closed door holds back fire and smoke for minutes, which is why "close before you doze" applies at bedtime too #safety
-        - If your clothes catch fire::Stop, Drop, and Roll — running feeds the flames air #safety
-        - Once you are out of a burning building::STAY out — never re-enter for anything; tell firefighters who or what is still inside #safety
-- ## Shelter-in-Place (Airborne Hazards)
-    - Shelter-in-place — when it beats evacuating::When the plume will pass before you could drive clear — sealing a room beats driving through a chemical release; officials announce which response applies #safety
-    - Shelter-in-place room choice::An interior room with few or no windows, above the ground floor for chemical events — many toxic vapors are heavier than air #safety
-    - Shelter-in-place sequence::1) everyone inside, doors and windows shut, 2) HVAC off, vents and fireplace damper closed, 3) seal the room's door, window, and vent gaps with plastic sheeting and duct tape, 4) radio or phone on for the official all-clear #safety
-    - Why HVAC goes off in shelter-in-place::Any system pulling outside air pipes the contaminant straight into the house — kill the intake before sealing the room #safety
-    - Shelter-in-place duration reality::A sealed room only holds for about 2-3 hours as outside air seeps in — which is fine, because plumes pass; leave only on the official all-clear #safety
-    - The pre-cut plastic trick (shelter room)::Cut and label plastic sheeting for each opening of your chosen room in advance — taping pre-cut sheets takes minutes; measuring and cutting in a crisis takes the hour you don't have
-    - How the wind-check rule and shelter-in-place interlock::The wind-check rule picks your evacuation direction — but if the plume is already overhead, shelter-in-place beats driving through it #safety
-- ## First Aid Core
-    - Cardiac Arrest and CPR
-        - When to start Hands-Only CPR::Adult or teen suddenly collapses, is unresponsive, and is not breathing normally — gasping counts as not breathing; call 911 and push #safety
-        - Hands-Only CPR compression rate::100-120 compressions per minute — the tempo of "Stayin' Alive" #safety
-        - Hands-Only CPR compression depth::At least 2 inches on an adult (not more than 2.4), letting the chest fully recoil between pushes #safety
-        - Hands-Only CPR hand position::Heel of one hand on the center of the chest (lower half of the breastbone), other hand stacked on top #safety
-        - Hands-Only vs conventional CPR::Compression-only is the recommendation for untrained bystanders with a collapsed adult — uninterrupted compressions beat badly executed breaths #safety
-        - How long CPR continues::Until EMS takes over, an AED orders you clear, or the person breathes — swap rescuers every 2 minutes if help is available, because quality decays fast #safety
-        - Heart attack vs cardiac arrest::Heart attack = blocked artery, person usually conscious (911 plus aspirin); cardiac arrest = heart stops, person unresponsive (CPR plus AED) — the first can trigger the second #safety
-    - AED
-        - Who can use an AED::Anyone — it speaks every step aloud and will not shock a heart that does not need it #safety
-        - AED sequence::1) turn it on and follow the voice prompts, 2) bare the chest and attach the pads as pictured, 3) let it analyze with nobody touching the person, 4) press shock if told, standing clear, 5) resume compressions immediately #safety
-        - Why CPR and the AED are one system::Compressions buy time by moving oxygenated blood; only the shock resets a fibrillating heart — so send someone for the AED in the same breath that starts CPR #safety
-    - Choking
-        - First question to a choking person::"Are you choking — can you speak?" If they can cough or talk, encourage coughing and do not intervene yet #safety
-        - Choking adult — the protocol::Cycles of 5 back blows then 5 abdominal thrusts (inward and upward, just above the navel) until the object clears or they go limp #safety
-        - Choking infant (under 1 year)::Cycles of 5 back blows then 5 chest thrusts about 1.5 inches deep — NEVER abdominal thrusts on an infant #safety
-        - If a choking person becomes unresponsive::Lower them to the floor and start CPR — compressions can dislodge the object; check the mouth between cycles #safety
-        - Choking while alone::Call 911 (even if you cannot speak, leave the line open), then self-administer abdominal thrusts against a chair back #safety
-    - Severe Bleeding
-        - Severe bleeding — first response::Direct pressure — both hands, pushing hard, directly on the wound, cloth if available; do not lift to peek #safety
-        - When a tourniquet is justified::Life-threatening limb bleeding that direct pressure cannot control — spurting, pooling, or amputation #safety
-        - Tourniquet placement — high and tight::2-3 inches above the wound, never on a joint; tighten until the bleeding STOPS, then leave it — only medical professionals remove a tourniquet #safety
-        - Tourniquet time note::Write the application time on the tourniquet or the person's forehead — treatment decisions downstream depend on it #safety
-        - Junctional bleeding (neck, armpit, groin)::No tourniquet is possible there — pack the wound and hold relentless direct pressure until EMS arrives #safety
-    - Stroke and Heart Attack
-        - Stroke recognition — FAST::{{Face}} drooping, {{Arm}} weakness, {{Speech}} difficulty, Time to call 911 #safety
-        - Why the T in FAST matters::Note the exact time symptoms started — clot-busting stroke treatment is only given within a window from onset; minutes are brain #safety
-        - Stroke — what NOT to do::No aspirin (the stroke may be a bleed, and aspirin worsens it), no driving them yourself, no "wait and see" — call 911 #safety
-        - Heart attack response::Call 911 FIRST, then chew one regular 325 mg aspirin (or four 81 mg low-dose) unless allergic or told otherwise by the dispatcher #safety
-        - Heart attack aspirin — why chewed, and which kind::Chewed non-enteric-coated aspirin reaches the blood in minutes; swallowed whole coated tablets take an hour you may not have #safety
-    - Moving, Positioning, and Crisis
-        - When NOT to move an injured person::Suspected head, neck, or spine injury (fall, crash, dive) — movement can turn a fracture into paralysis; move only to escape immediate danger like fire #safety
-        - If you MUST move someone with a possible spinal injury::Keep head, neck, and spine in one straight line — two rescuers minimum, one dedicated solely to the head #safety
-        - Recovery position — when and why::Unresponsive but breathing normally, with no suspected spine injury: roll them onto their side so the airway stays clear of tongue and vomit #safety
-        - 988::The Suicide & Crisis Lifeline — call or text 988, free and 24/7, for any mental-health, substance, or emotional crisis, yours or someone else's; you do not need to be suicidal to use it #safety #us
-- ## Go-Bag Documents
-    - Go-bag document list::1) passports and IDs, 2) deeds and vehicle titles, 3) insurance policies, 4) prescription list and copies, 5) pet vaccination and vet records, 6) cash in small bills — copies, in a waterproof pouch
-    - Where the go-bag documents come from::They are COPIES from the master financial documents file (account numbers, beneficiaries, insurance policies, tax returns — see Financial Emergency Planning); the originals stay in the fireproof box or safe deposit
-    - The three homes of every critical document::1) originals in a fireproof/waterproof box or safe deposit, 2) paper copies in the go-bag, 3) encrypted digital copies in cloud plus USB — the 3-2-1 rule applied to paper
-    - Prescriptions in the go-bag::A current medication list with doses and prescribers, plus several days of the medications themselves, rotated before expiry #safety
-    - Pet records in the go-bag::Vaccination and vet records plus a current photo of you WITH the pet — proves ownership at shelters and helps a search if separated
-    - Go-bag cash guideline::Roughly five days of expenses in small bills — outages kill card readers and ATMs, and this stash is separate from the $500 that lives in the car
-- ## Financial Emergency Planning
-    - Building Financial Resilience
-        - Emergency fund Tier 1 — Immediate ($1,000)::Covers {{deductibles, minor repairs, urgent travel}}
-        - Emergency fund Tier 2 — Short-term (1 month of expenses)::Buys time to {{access other resources}}
-        - Emergency fund Tier 3 — Standard (3-6 months)::Covers {{job loss, medical leave, major repairs}}
-        - Emergency fund Tier 4 — Extended (9-12 months)::For {{freelancers, single incomes, volatile industries}}
-    - Credit Access Strategy
-        - HELOC setup timing::Establish it {{before you need it}}; setup costs {{$0-500}} #us
-        - Why credit access must be set up in advance::Banks won't lend {{when you're unemployed}} — the window closes exactly when you need it open
-        - Credit card optimization (emergency access)::Keep 2-3 cards active, with available credit covering 3-6 months of expenses and low overall utilization
-        - Personal line of credit (emergency tool)::{{Lower rate than credit cards}}, with {{flexible access}}
-    - Documentation Preparation
-        - Financial documents file — contents::{{Account numbers, beneficiaries, insurance policies, tax returns}}
-        - Financial documents — digital copies::Store in {{cloud AND a USB drive}}, with sensitive information encrypted
-        - Financial documents — access sharing::One trusted person knows the {{location and passwords}}
-        - Financial documents — update cadence::Review every {{6 months}} and after {{major life changes}}
-- ## Natural Disaster Preparedness (72-Hour Kit)
-    - Water and Food
-        - Emergency water calculation::{{1 gallon}} per person per day, for a minimum of {{3 days}} — two weeks if space allows #safety
-        - Water purification backup::{{Purification tablets, a filter, or plain unscented household bleach}} #safety
-        - Bleach water-purification ratio::{{8 drops (1/8 teaspoon) per gallon}} of clear water for standard 5-6% bleach ({{6 drops}} for 8.25% concentrated); stir and let stand {{30 minutes}} #safety
-        - Emergency food selection::{{Non-perishable, no cooking required, familiar}} foods
-        - Emergency calorie target::{{2,000 calories}} per person per day
-        - Emergency kit — the forgettables::{{Pet food, baby formula, special dietary needs}}
-    - Emergency Supplies Priority
-        - Emergency supplies Tier 1 (Survival)::{{Water, food, first aid kit, medications, flashlight, radio, whistle}} #safety
-        - Emergency supplies Tier 2 (Safety/Comfort)::{{Blankets, change of clothes, cash, phone charger, tools}}
-        - Emergency supplies Tier 3 (Recovery)::{{Documents, extended-stay supplies, entertainment, comfort items}}
-        - Emergency kit storage strategy::{{Waterproof container, accessible location, rotate perishables}}
-    - Communication Plan
-        - The out-of-state contact rule::Local lines jam in a disaster but {{long-distance often works}} — everyone checks in through the same out-of-state person #safety
-        - Family emergency meeting places (three levels)::{{Primary at home}}, {{neighborhood backup}}, {{regional if evacuated}} — this family's regional point is Ontario Mills #verify-personally
-        - School and work emergency plans::Learn their {{emergency procedures}} and {{reunification sites}} before anything happens
-        - Why important numbers go on paper::A written list survives a {{dead phone}}
-- ## Home Security Fundamentals
-    - Perimeter Security
-        - Security lighting strategy::Motion lights at {{all entry points}}, photocell dusk-to-dawn lights for {{constant illumination}}
-        - Landscaping for security::Bushes trimmed below {{3 feet}}, tree canopies above {{6 feet}}, thorny plants under windows — no hiding spots, clear sightlines
-        - Fence design for security::{{See-through beats solid}} (solid fences hide the burglar at work), {{locked gates}}, {{anti-climb measures}}
-    - Entry Point Hardening
-        - Deadbolt requirements::{{1-inch throw}} minimum, {{Grade 1 or 2}}, with a {{reinforced strike plate}}
-        - Door reinforcement::{{3-inch screws}} in hinges and strike plate — long enough to bite the stud, not just the jamb; door armor kit {{$70-150}}
-        - Sliding door security::{{Charlie bar}}, {{pin lock}}, {{security film}}
-        - Window lock types::{{Pin locks}} for double-hung windows, {{sliding locks}} for horizontal sliders
-        - Window security film::{{8-14 mil}} thickness makes breaking glass {{loud and slow}} — burglars abandon noisy, slow entries
-        - Window sensors::Part of the alarm system, or {{standalone glass-break detectors}}
-    - Security System Options
-        - DIY vs professional security systems::DIY saves {{$20-40 per month}}, but you handle {{installation and issues}}
-        - Alarm monitoring types::{{Professional 24/7}}, {{self-monitoring}}, {{local alarm only}}
-        - Professional monitoring response time::The security industry cites a {{7-10 minute}} police average after a monitored alarm, but real response to unverified burglar alarms is often far longer and varies widely by city and verification policy
-        - Smart security integration::Modern systems bundle {{cameras, smart locks, environmental monitoring}}
-- ## Digital Security and Privacy
-    - Password and Account Security
-        - Modern password requirements::{{12+ characters}}, {{unique per account}}, {{no personal information}}
-        - Password manager architecture::One master password plus {{2FA}} protects all the others
-        - Master password creation::The {{passphrase method}} — 4+ random words, easier to remember than symbol soup and just as strong
-        - Password manager backup access::{{Emergency kit}}, {{trusted contact}}, {{printed recovery codes}}
-    - Two-Factor Authentication
-        - Critical accounts needing 2FA first::{{Email, banking, password manager, phone carrier, primary social}} — email first, because email resets everything else
-        - 2FA methods ranked strongest to weakest::1) hardware security key, 2) authenticator app, 3) SMS
-        - Why a hardware key is the strongest 2FA::It is {{phishing-resistant}} — it only answers to the genuine domain, so a fake login page gets nothing
-        - Why SMS is the weakest 2FA::The code goes to whoever controls the phone number — and {{SIM-swap}} attacks steal the number
-        - 2FA backup codes::Print and store them {{securely}}; regenerate {{after any use}}
-        - SIM-swap protection::Add a {{carrier security PIN}} to block unauthorized {{number porting}}
-    - Data Protection Strategy
-        - The 3-2-1 backup rule::{{3 copies total}}, {{2 different media types}}, {{1 offsite}}
-        - What to back up::{{Documents, photos, financial records, passwords, important emails}}
-        - Backup frequency::{{Critical files daily}}, {{photos weekly}}, {{full system monthly}}
-        - The restore-test rule::Actually restore a file {{quarterly}} — an untested backup is a hope, not a backup
-    - Privacy Protection Basics
-        - Information-sharing minimization::Provide only {{required information}}, and use {{aliases}} where possible
-        - Public WiFi safety::{{Use a VPN}}, {{never access banking}}, {{assume everything is visible}}
-        - Social media privacy::{{Maximum privacy settings}}, {{limit personal info}}, {{review tags}}
-    - Phishing Defense
-        - Phishing red flag — manufactured urgency::"Account closed in 24 hours" exists to make you act before you think — the urgency itself is the tell
-        - Phishing red flag — generic greeting::"Dear Customer" or "Dear User" — an institution that really holds your money knows your name
-        - Phishing red flag — sender mismatch::The display name says your bank; the actual address is a look-alike or random domain — always check the real address, not the display name
-        - The phishing link check::Hover (or long-press on mobile) to reveal the REAL destination before clicking — the visible link text proves nothing
-        - Phishing red flag — payment by gift card::No legitimate business or government agency demands gift cards, wire transfers, or crypto — that request alone ends the conversation
-        - The phishing counter-move::Verify through a separate channel you already trust — type the site address yourself or call the number on your card, never the contact info inside the message
-    - Breach Response
-        - Data breach response — step order::1) change that password and everywhere it was reused, 2) enable 2FA, 3) freeze credit at all three bureaus, 4) monitor accounts and statements #us
-        - The three credit bureaus to freeze::{{Equifax, Experian, TransUnion}} — freeze all three, or the freeze is a screen door #us
-        - Credit freeze cost and speed::Free at all three bureaus by federal law (since 2018; as of 2026) #volatile; placed within one business day of an online or phone request; thaw temporarily when you apply for credit #us
-        - Credit freeze vs fraud alert::A freeze blocks new-account credit pulls outright; a fraud alert merely asks lenders to verify identity — after a breach, freeze #us
-        - Where breach recovery is coordinated::IdentityTheft.gov (FTC) — generates a personal recovery plan and the affidavit used to dispute fraudulent accounts #us
+Life Skills v2 - Emergency Preparedness & First Aid
+    Los Angeles Evacuation (Westchester Personal Plan)
+        Scope note (not a card) — this section is the owner's personal plan: routes, distances, and the reunification point depend on the owner's home base (Westchester), vehicle, and family. Route-dependent cards are tagged #verify-personally. Two historical rationales from v1 were corrected against the record (I-105 opened October 1993, before the January 1994 Northridge quake; the 405/10 interchange did not collapse in Northridge). The named rules and the reunification plan are kept verbatim.
+        The Direction Rule and First Actions
+            LA evacuation — simple evacuation direction rule? >> "Ground shook go east; air is bad go south; Santa Ana hazmat go north" ##verify-personally ##high-frequency
+            First action in any hazmat scenario, before choosing a direction? >> Check wind direction on weather.gov for 30 seconds ##safety
+        Freeway Selection (LA Evacuation)
+            Why the 105 is the primary eastward escape freeway? >> It is the newest major LA freeway (opened October 1993), built to far more modern seismic standards than the 1960s-era 10 and 405 ##verify-personally
+            I-105 (Century Freeway) — opening date vs the Northridge earthquake? >> Opened October 1993, BEFORE the January 1994 Northridge quake — its honest advantage is being the newest major freeway, not "post-Northridge codes"
+            Northridge 1994 — what actually collapsed on the 10? >> The I-10 Santa Monica Freeway collapsed at La Cienega/Fairfax (and at Washington Blvd) — mid-city, not at the 405 interchange
+            Northridge 1994 — which freeway interchange collapsed? >> The I-5/SR-14 connectors at Newhall Pass — the 405/10 interchange did NOT collapse
+            Why avoid La Cienega directly to the 10 during earthquakes? >> That stretch of the 10 has the highest concentration of older pre-modern-code overpasses — and the 10 at La Cienega is exactly where it failed in Northridge 1994 ##verify-personally
+            Why the 60 is the backup to the 10? >> It runs parallel through Pomona and the Inland Empire and merges back with the 10 near Beaumont ##verify-personally
+            Why avoid the 405 in emergencies? >> Universal evacuation instinct creates instant gridlock, and its elevated interchanges are inherent seismic risk points ##verify-personally
+                1960s-era construction, older design than the 105 (note: the 405/10 interchange did not actually collapse in Northridge)
+            When the 405 is acceptable? >> Going south to San Diego — it is the only real freeway option that direction, and southbound traffic is lighter during most emergencies ##verify-personally
+            Why the 15 north from Ontario is the Vegas connector? >> It is the connection point between the 10 corridor and the Vegas route, and serves as the key decision point ##verify-personally
+        Earthquake Evacuation Route
+            Primary earthquake evacuation route (from Westchester)? >> Centinela south, then 105 east, then 605 north, then 10 east, to Palm Springs ##verify-personally
+            Why the earthquake route starts with Centinela south? >> It avoids the 405 entirely from the first turn ##verify-personally
+            Earthquake route — if the 105 eastbound is blocked? >> Surface streets: Centinela south, Imperial east, La Cienega south, then try a 105 on-ramp further east — or continue to the 110 south briefly and take the 105 east ##verify-personally
+            Earthquake route — if the 10 is blocked east of downtown? >> At the 605 interchange take the 605 south instead of north, to the 60 east, which runs parallel through Pomona (adds 15-20 minutes) ##verify-personally
+            Earthquake route — if both the 10 and the 60 are blocked? >> Surface-street escape via Valley Blvd or Garvey Ave, parallel to the 10 through the San Gabriel Valley, rejoining east of the damage zone ##verify-personally
+            Why not 405-to-10 during an earthquake? >> Universal instinct gridlocks the 405 instantly, and any elevated interchange is a seismic weak point ##verify-personally
+                but note the actual Northridge collapses were the 10 at La Cienega/Fairfax and the 5/14 connectors, not the 405/10
+        Tsunami Evacuation Route
+            Primary tsunami evacuation route (from Westchester)? >> La Cienega north to the 10 east, toward Palm Springs ##verify-personally
+            Why the tsunami route differs from the earthquake route? >> Time is the asset, not infrastructure integrity — La Cienega to the 10 is the most direct path with the fewest turns ##verify-personally
+            Why going east works for a tsunami? >> Coastal evacuation panic concentrates on PCH and the 405 south; going perpendicular to the coast means less competition ##verify-personally
+            Tsunami — if caught without a car? >> Go directly east on any street (Venice Blvd, Washington Blvd) and do NOT go home first — warning time is the gift ##safety ##verify-personally
+            Tsunami departure math :: Departing within 30 minutes = Palm Springs before the wave; departing at 2 hours = stuck in traffic ##verify-personally
+        The Compound Scenario — Earthquake AND Tsunami
+            What a large LOCAL tsunami implies? >> A preceding major earthquake — a near-source tsunami is generated by a quake you just felt, so you are always planning for both hazards at once ##safety
+            Natural tsunami warning signs (no official alert needed)? >> Strong or unusually LONG shaking near the coast, a roar from the ocean, or the water receding — evacuate on those signs alone ##safety
+                near-source waves can arrive in 10-30 minutes, faster than official alerts
+            Compound earthquake-plus-tsunami — the first move? >> Get inland/east and to elevation immediately, on foot if the car is not instantly available — do not wait for an official warning ##safety
+            Compound earthquake-plus-tsunami — route assumption? >> A quake big enough to make a tsunami has damaged freeways: expect closures, and prefer known surface-street corridors east (Venice, Washington, Imperial) over elevated freeway structures until past the inundation zone ##verify-personally
+            Compound earthquake-plus-tsunami — which plan wins when the two routes conflict? >> The tsunami clock wins first — get east and uphill out of the inundation zone within minutes ##safety
+                then the earthquake routing logic (avoid old overpasses, surface-street fallbacks) governs the long haul east
+        Smoke Evacuation Route
+            Primary smoke or normal-wind hazmat route (from Westchester)? >> Sepulveda south, then 405 south, then 5 south, to San Diego ##verify-personally
+            Smoke route — if the 405/5 merge at the El Toro Y is gridlocked? >> Take the 405 to the 133 south through Laguna Canyon to PCH south, rejoining the 5 south at San Clemente ##verify-personally
+            Smoke route — avoiding freeways entirely going south? >> Sepulveda south through El Segundo to PCH south through the beach cities, to the 5 south at San Clemente (adds 60-90 minutes) ##verify-personally
+            Hazmat event at LAX (not the port) — routing change? >> Do not start south on Sepulveda; go east on La Cienega first, then take the 405 south, entering it south of LAX ##verify-personally
+        Santa Ana Hazmat Route
+            Primary Santa Ana wind hazmat route (from Westchester)? >> Lincoln north, then 90 west, then PCH north, then 101 north, to Ventura ##verify-personally
+            Why the Santa Ana route starts with Lincoln north? >> It gets you toward the coast immediately — maximum distance from the inland plume source ##verify-personally
+            Santa Ana hazmat — if PCH is jammed? >> Lincoln north, 90 east, 405 north, 101 north — the northbound 405 stays relatively clear when everyone flees south or east ##verify-personally
+            How to identify Santa Ana conditions? >> The wind is hot, dry, and coming FROM the east — from the mountains, not the ocean
+            When northward evacuation is the correct choice? >> Only during Santa Ana wind hazmat scenarios, when plumes push west toward Westchester ##verify-personally
+        Grid Collapse Evacuation Route
+            Primary grid-collapse route to Vegas (from Westchester)? >> Centinela south, 105 east, 605 north, 10 east, 15 north at Ontario, to Las Vegas ##verify-personally
+            Grid collapse — if the 15 north to Vegas is gridlocked? >> Continue on the 10 east past Ontario to Barstow, then 40 east briefly to 95 north — the back door to Vegas ##verify-personally
+            Why Barstow is the minimum viable waypoint? >> At 150 miles it has gas, food, and hotels, and it sits outside the LA infrastructure-collapse zone ##verify-personally
+        Evacuation Decision Points
+            Ontario decision point (LA evacuation) :: 60 miles east — where you choose to continue to Palm Springs on the 10 or pivot north on the 15 toward Vegas ##verify-personally
+            Barstow decision point (LA evacuation) :: 150 miles east — where you can refuel and choose the 15 north to Vegas or the 40 east to the 95 back door ##verify-personally
+            605 interchange decision point (LA evacuation)? >> Where you choose 605 north to the 10 east, or 605 south to the 60 east if the 10 is blocked ##verify-personally
+            El Toro Y decision point (LA evacuation)? >> Where the 405 and the 5 merge — bail to the 133 if it is gridlocked ##verify-personally
+            San Clemente decision point (LA evacuation)? >> Where the PCH coastal route reconnects with the 5 south to San Diego ##verify-personally
+        Evacuation Fuel Math
+            Half a tank from Westchester reaches? >> Palm Springs, at 107 miles ##verify-personally
+            A full tank from Westchester reaches? >> Las Vegas, at 270 miles ##verify-personally
+            The marginal fuel scenario (LA evacuation)? >> Half a tank to Barstow at 150 miles — depends on vehicle efficiency ##verify-personally
+            Why the half-tank policy matters for a Vegas evacuation? >> You need to reach Barstow minimum on current fuel, because gas stations cannot pump when the grid is down ##verify-personally
+        Evacuation Rules (LA)
+            The 405 rule :: Avoid the 405 in any emergency because universal instinct creates gridlock and interchanges are collapse risks — except going south to San Diego ##verify-personally
+            The 60% rule :: Leave when 60% sure, not 95% sure — early departure is the single biggest predictor of good outcomes
+            The wind-check rule :: Check wind direction before moving in any hazmat scenario — 30 seconds prevents driving into the plume ##safety
+            The half-tank rule :: Never let the tank drop below half, as a non-negotiable daily practice
+            The Ontario reunification rule :: Family meets at the Ontario Mills parking structure if separated — it marks successful basin escape and is an easy landmark ##verify-personally
+        Evacuation Physical Preparedness
+            What stays in the car for evacuation, always? >>> ##verify-personally
+                - a physical SoCal map (phones fail)
+                - $500 cash in small bills (ATMs fail)
+                - 1 gallon of water per person
+                - phone chargers and a battery pack
+            Why the car cash is in small bills? >> When card readers and ATMs are down, nobody can make change — small bills spend at face value
+        LA Evacuation Strategy Rationale
+            Why 105-to-605-to-10 bypasses the danger zone? >> It routes around downtown LA, where the older pre-modern-code overpasses concentrate, and enters the 10 corridor east of the vulnerable stretch ##verify-personally
+            Why east is the universal earthquake and tsunami response? >> East is perpendicular to the coast (away from coastal panic) and into a different seismic zone where infrastructure is undamaged
+            Why smoke scenarios go south while hazmat might go north? >> Smoke evacuations assume normal westerly winds pushing plumes east; Santa Ana conditions reverse this, requiring northward escape
+            What makes Ontario the key strategic waypoint? >> At 60 miles east you have definitively escaped the LA basin and gained optionality — Palm Springs, Vegas, or shelter in place ##verify-personally
+    Wildfire and Smoke (The LA Household Chapter)
+        Fire Weather and Alert Vocabulary
+            Red Flag Warning? >> A National Weather Service warning that critical fire weather is imminent or occurring ##safety
+                strong winds plus very low humidity over dry fuels (criteria vary by region — about 15% relative humidity in coastal Southern California); treat it as "a fire ignited today will run"
+            Red Flag Warning — household response? >> Car above half a tank, go-bags staged by the door, phones and battery packs charged, evacuation-zone name known — it is a pre-commitment day, not a watch-and-wait day ##safety
+            Fire Weather Watch vs Red Flag Warning? >> Watch = critical fire weather is possible in the next 1-3 days; Warning = it is imminent or happening now
+            Evacuation Warning (California terminology) :: Potential threat to life or property — prepare to leave; go NOW if you need extra time or have pets or livestock, and assume an Order may follow ##safety
+            Evacuation Order (California terminology) :: Immediate threat to life — a lawful order to leave now, not a suggestion to start packing ##safety
+            Evacuation Warning vs Order — the memory hook? >> Warning = get set (some should already go); Order = go, immediately ##safety
+        Fire Information Tools
+            Watch Duty app :: Nonprofit real-time wildfire app — verified fire perimeters, spread, cameras, and firefighting radio intel; it tells you where the fire IS and where it is moving
+            Genasys Protect app :: The official evacuation-zone app used by LA County — look up your zone name now, and during a fire it shows your zone's current status (Warning or Order)
+            Watch Duty vs Genasys Protect — division of labor? >> Watch Duty shows where the fire is moving; Genasys Protect shows your zone's official evacuation status — run both
+            Wildfire go-time triggers (leave without waiting for an Order)? 1. >>> ##safety
+                1. fire visible from the house
+                2. ember fall or ash on your street
+                3. your single road out is threatened
+                4. active fire nearby as night falls — this is the 60% rule applied to fire
+            Why leave before the official order in a wind-driven fire? >> Alerts lag fire behavior — wind-driven LA fires have outrun the notification system, and early departure is the single biggest predictor of good outcomes ##safety
+        Smoke and Air Quality
+            Why wildfire smoke is a health event? >> Its PM2.5 — particles fine enough to pass into the bloodstream — drives heart and lung harm; this is what AQI, N95s, and recirculate mode all defend against ##safety
+            The only masks that work for wildfire smoke? >> N95 or P100 respirators with two head straps and a tight face seal — cloth masks, surgical masks, and bandanas do NOT filter PM2.5 ##safety
+            P100 respirator — when it earns its place? >> Ash cleanup and prolonged heavy smoke — it filters 99.97% of particles vs the N95's 95% ##safety
+            AQI thresholds where action starts: {{101}} = sensitive groups act, {{151}} = everyone acts, {{201}} = everyone avoids being outdoors ##safety
+            AQI 101-150 (Unhealthy for Sensitive Groups) — required action? >> People with asthma or heart/lung disease, children, older adults, and pregnant people limit prolonged outdoor exertion ##safety
+            AQI 151-200 (Unhealthy) — required action? >> EVERYONE limits prolonged outdoor exertion; sensitive groups avoid it entirely ##safety
+            AQI 201-300 (Very Unhealthy) — required action? >> Sensitive groups avoid ALL outdoor activity; everyone else avoids prolonged or heavy exertion and moves activity indoors — stay inside with filtered air ##safety
+            Where to check live AQI? >> AirNow.gov (EPA) or the fire apps — always live numbers, because smoke AQI swings hour to hour with the wind
+            Indoor air protocol during a smoke event? >> Windows and doors closed, HVAC off or on recirculate, run a HEPA purifier or MERV-13 filter — one sealed, filtered "clean room" beats half-protecting the whole house ##safety
+            Car protocol in smoke :: Windows up, A/C on recirculate, and turn OFF the "Auto" climate setting (it may pull outside air); replace the cabin filter after the event ##safety
+            If trapped by fire in your car? >> Park in a clearing away from vegetation, close windows and vents, get below window level under a wool or cotton cover, call 911 ##safety
+                the car shields you from radiant heat better than running
+        Home Hardening
+            The ember insight (home hardening) :: Most homes ignite from EMBERS landing on or near the house ##safety
+                not the flame front — which is why vents, gutters, and the first five feet matter more than distance from the hills
+            Ember-resistant vents :: Cover every vent opening with 1/16- to 1/8-inch METAL mesh, or install WUI-rated vents — never fiberglass or plastic mesh, which melt ##safety
+            Defensible space Zone 0 (0-5 ft)? >> The ember-resistant zone — nothing combustible touching the house: no bark mulch, no woodpile, no brooms or doormats that can catch; hardscape and well-watered fire-resistant plants only ##safety
+            Defensible space Zone 1 (5-30 ft)? >> "Lean, clean, and green" — spaced plantings, dead vegetation removed, tree limbs raised, nothing stored under decks
+            Defensible space Zone 2 (30-100 ft)? >> The reduced-fuel zone — annual grass mowed to 4 inches or less, horizontal and vertical spacing between shrubs and trees
+            Class A roof :: The highest fire-resistance rating (composition shingle, metal, tile) — the roof is the largest ember-catching surface, so wood shake goes first when upgrading
+            Rain gutters as fire risk :: Dry leaves and needles in gutters are an ember bed at the roofline — clean them, or fit noncombustible gutter covers
+            Santa Ana winds — the fire connection? >> LA's most dangerous fire weather — hot, dry east winds that drive fire toward the coast at speed; red-flag conditions cluster in the October-January wind season
+    Earthquake — The First 60 Seconds and After
+        During the Shaking
+            Earthquake first move (indoors) :: Drop, Cover, and Hold On — drop to hands and knees, take cover under a sturdy table protecting head and neck, hold on until the shaking stops ##safety
+            Why Drop-Cover-Hold-On beats running outside? >> Most quake injuries come from falling objects and glass hitting people who are moving — and doorways are NOT stronger than the rest of a modern house ##safety
+            Earthquake while in bed :: Stay in bed and cover your head and neck with a pillow ##safety
+                floors around beds fill with broken glass, and moving barefoot in the dark is a classic injury source
+            Earthquake early warning (LA) :: ShakeAlert-powered apps (MyShake; built into Android) give seconds of warning — enough time to Drop, Cover, and Hold On, never enough to evacuate
+        Immediately After
+            What to expect after the mainshock? >> Aftershocks — be ready to Drop, Cover, and Hold On again; they can finish off what the mainshock weakened ##safety
+            The shoes rule (after an earthquake)? >> Put on sturdy shoes BEFORE walking anywhere — broken glass underfoot is the classic post-quake injury ##safety
+            The gas decision (after an earthquake)? >> Shut off the gas ONLY if you smell gas, hear hissing, or see a broken line — a needless shutoff means days without service ##safety
+            Who turns the gas back on after a shutoff? >> Only the utility (SoCalGas) — once off, leave it off; inspection and pilot relight are professional-only ##safety
+            First human check (after an earthquake)? >> Check yourself for injuries, then the people around you — first aid before property assessment ##safety
+            The communication rule (after an earthquake)? >> Text, don't call — texts squeeze through jammed networks; save voice calls for life-threatening emergencies ##safety
+            If trapped in debris :: Send a text, bang on a pipe or wall, use a whistle — shout only as a last resort, because shouting inhales dust and burns energy ##safety
+            Damaged building rule (after an earthquake)? >> Once the shaking stops, get out of a visibly damaged building and stay out until it is inspected — aftershocks finish damaged buildings ##safety
+    Home Fire Response
+        Alarms and the Escape Plan
+            Smoke alarm testing cadence? >>> ##safety
+                - test every alarm monthly
+                - replace 9-volt batteries yearly
+                - replace the whole unit every 10 years
+            Where smoke alarms belong? >> Inside every bedroom, outside each sleeping area, and on every level including the basement ##safety
+            Home escape plan requirements :: Two ways out of every room, plus one outside meeting point (mailbox, neighbor's tree) — practiced twice a year ##safety
+            Why the outside meeting point matters? >> It answers "is everyone out?" in seconds — the unanswered version of that question is what sends people back into burning buildings
+        Fight or Flee
+            The fight-vs-flee rule (home fire) :: Fire bigger than a wastebasket = leave — beyond that size it doubles too fast to fight; and everyone must be out and 911 called BEFORE any extinguisher attempt ##safety
+            The PASS technique (fire extinguisher)? >>> ##safety
+                - Pull the pin
+                - Aim at the BASE of the fire
+                - Squeeze the handle
+                - Sweep side to side
+            Fire extinguisher stance :: Fight with your back to a clear exit, so the moment the fire is not shrinking you can retreat ##safety
+            Home fire extinguisher choice :: An ABC (multi-purpose) unit — covers ordinary combustibles, flammable liquids, and electrical fires ##safety
+            Grease fire response :: Slide a lid over the pan and kill the heat — NEVER water, which flash-boils and sprays burning oil ##safety
+        Escaping
+            Escaping through smoke :: Crawl low — heat and toxic gases rise, and the cleanest air is at the floor ##safety
+            Door test before opening (fire) :: Feel the door and knob with the back of your hand — hot means fire behind it; use your second way out ##safety
+            Doors during a fire escape :: Close every door behind you — a closed door holds back fire and smoke for minutes, which is why "close before you doze" applies at bedtime too ##safety
+            If your clothes catch fire :: Stop, Drop, and Roll — running feeds the flames air ##safety
+            Once you are out of a burning building? >> STAY out — never re-enter for anything; tell firefighters who or what is still inside ##safety
+    Shelter-in-Place (Airborne Hazards)
+        Shelter-in-place — when it beats evacuating? >> When the plume will pass before you could drive clear — sealing a room beats driving through a chemical release; officials announce which response applies ##safety
+        Shelter-in-place room choice :: An interior room with few or no windows, above the ground floor for chemical events — many toxic vapors are heavier than air ##safety
+        Shelter-in-place sequence? 1. >>> ##safety
+            1. everyone inside, doors and windows shut
+            2. HVAC off, vents and fireplace damper closed
+            3. seal the room's door, window, and vent gaps with plastic sheeting and duct tape
+            4. radio or phone on for the official all-clear
+        Why HVAC goes off in shelter-in-place? >> Any system pulling outside air pipes the contaminant straight into the house — kill the intake before sealing the room ##safety
+        Shelter-in-place duration reality :: A sealed room only holds for about 2-3 hours as outside air seeps in — which is fine, because plumes pass; leave only on the official all-clear ##safety
+        The pre-cut plastic trick (shelter room)? >> Cut and label plastic sheeting for each opening of your chosen room in advance — taping pre-cut sheets takes minutes
+            measuring and cutting in a crisis takes the hour you don't have
+        How the wind-check rule and shelter-in-place interlock? >> The wind-check rule picks your evacuation direction — but if the plume is already overhead, shelter-in-place beats driving through it ##safety
+    First Aid Core
+        Cardiac Arrest and CPR
+            When to start Hands-Only CPR? >> Adult or teen suddenly collapses, is unresponsive, and is not breathing normally — gasping counts as not breathing; call 911 and push ##safety
+            Hands-Only CPR compression rate :: 100-120 compressions per minute — the tempo of "Stayin' Alive" ##safety
+            Hands-Only CPR compression depth :: At least 2 inches on an adult (not more than 2.4), letting the chest fully recoil between pushes ##safety
+            Hands-Only CPR hand position :: Heel of one hand on the center of the chest (lower half of the breastbone), other hand stacked on top ##safety
+            Hands-Only vs conventional CPR :: Compression-only is the recommendation for untrained bystanders with a collapsed adult — uninterrupted compressions beat badly executed breaths ##safety
+            How long CPR continues? >> Until EMS takes over, an AED orders you clear, or the person breathes — swap rescuers every 2 minutes if help is available, because quality decays fast ##safety
+            Heart attack vs cardiac arrest :: Heart attack = blocked artery, person usually conscious (911 plus aspirin); cardiac arrest = heart stops, person unresponsive (CPR plus AED) — the first can trigger the second ##safety
+        AED
+            Who can use an AED? >> Anyone — it speaks every step aloud and will not shock a heart that does not need it ##safety
+            AED sequence? 1. >>> ##safety
+                1. turn it on and follow the voice prompts
+                2. bare the chest and attach the pads as pictured
+                3. let it analyze with nobody touching the person
+                4. press shock if told, standing clear
+                5. resume compressions immediately
+            Why CPR and the AED are one system? >> Compressions buy time by moving oxygenated blood; only the shock resets a fibrillating heart — so send someone for the AED in the same breath that starts CPR ##safety
+        Choking
+            First question to a choking person? >> "Are you choking — can you speak?" If they can cough or talk, encourage coughing and do not intervene yet ##safety
+            Choking adult — the protocol? >> Cycles of 5 back blows then 5 abdominal thrusts (inward and upward, just above the navel) until the object clears or they go limp ##safety
+            Choking infant (under 1 year) :: Cycles of 5 back blows then 5 chest thrusts about 1.5 inches deep — NEVER abdominal thrusts on an infant ##safety
+            If a choking person becomes unresponsive? >> Lower them to the floor and start CPR — compressions can dislodge the object; check the mouth between cycles ##safety
+            Choking while alone :: Call 911 (even if you cannot speak, leave the line open), then self-administer abdominal thrusts against a chair back ##safety
+        Severe Bleeding
+            Severe bleeding — first response? >> Direct pressure — both hands, pushing hard, directly on the wound, cloth if available; do not lift to peek ##safety
+            When a tourniquet is justified? >> Life-threatening limb bleeding that direct pressure cannot control — spurting, pooling, or amputation ##safety
+            Tourniquet placement — high and tight? >> 2-3 inches above the wound, never on a joint; tighten until the bleeding STOPS, then leave it — only medical professionals remove a tourniquet ##safety
+            Tourniquet time note :: Write the application time on the tourniquet or the person's forehead — treatment decisions downstream depend on it ##safety
+            Junctional bleeding (neck, armpit, groin) :: No tourniquet is possible there — pack the wound and hold relentless direct pressure until EMS arrives ##safety
+        Stroke and Heart Attack
+            Stroke recognition — FAST? >> Face drooping, Arm weakness, Speech difficulty, Time to call 911 ##safety
+            Why the T in FAST matters? >> Note the exact time symptoms started — clot-busting stroke treatment is only given within a window from onset; minutes are brain ##safety
+            Stroke — what NOT to do? >> No aspirin (the stroke may be a bleed, and aspirin worsens it), no driving them yourself, no "wait and see" — call 911 ##safety
+            Heart attack response :: Call 911 FIRST, then chew one regular 325 mg aspirin (or four 81 mg low-dose) unless allergic or told otherwise by the dispatcher ##safety
+            Heart attack aspirin — why chewed, and which kind? >> Chewed non-enteric-coated aspirin reaches the blood in minutes; swallowed whole coated tablets take an hour you may not have ##safety
+        Moving, Positioning, and Crisis
+            When NOT to move an injured person? >> Suspected head, neck, or spine injury (fall, crash, dive) — movement can turn a fracture into paralysis; move only to escape immediate danger like fire ##safety
+            If you MUST move someone with a possible spinal injury? >> Keep head, neck, and spine in one straight line — two rescuers minimum, one dedicated solely to the head ##safety
+            Recovery position — when and why? >> Unresponsive but breathing normally, with no suspected spine injury: roll them onto their side so the airway stays clear of tongue and vomit ##safety
+            988 :: The Suicide & Crisis Lifeline — call or text 988, free and 24/7, for any mental-health, substance, or emotional crisis, yours or someone else's ##safety ##us
+                you do not need to be suicidal to use it
+    Go-Bag Documents
+        Go-bag document list? >>>
+            - passports and IDs
+            - deeds and vehicle titles
+            - insurance policies
+            - prescription list and copies
+            - pet vaccination and vet records
+            - cash in small bills — copies, in a waterproof pouch
+        Where the go-bag documents come from? >> They are COPIES from the master financial documents file (account numbers, beneficiaries, insurance policies, tax returns — see Financial Emergency Planning)
+            the originals stay in the fireproof box or safe deposit
+        The three homes of every critical document? >>>
+            - originals in a fireproof/waterproof box or safe deposit
+            - paper copies in the go-bag
+            - encrypted digital copies in cloud plus USB — the 3-2-1 rule applied to paper
+        Prescriptions in the go-bag :: A current medication list with doses and prescribers, plus several days of the medications themselves, rotated before expiry ##safety
+        Pet records in the go-bag :: Vaccination and vet records plus a current photo of you WITH the pet — proves ownership at shelters and helps a search if separated
+        Go-bag cash guideline :: Roughly five days of expenses in small bills — outages kill card readers and ATMs, and this stash is separate from the $500 that lives in the car
+    Financial Emergency Planning
+        Building Financial Resilience
+            Emergency fund Tier 1 — Immediate ($1,000)? >> Covers deductibles, minor repairs, urgent travel
+            Emergency fund Tier 2 — Short-term (1 month of expenses)? >> Buys time to access other resources
+            Emergency fund Tier 3 — Standard (3-6 months)? >> Covers job loss, medical leave, major repairs
+            Emergency fund Tier 4 — Extended (9-12 months)? >> For freelancers, single incomes, volatile industries
+        Credit Access Strategy
+            HELOC setup timing? >> Establish it before you need it; setup costs $0-500 ##us
+            Why credit access must be set up in advance? >> Banks won't lend when you're unemployed — the window closes exactly when you need it open
+            Credit card optimization (emergency access) :: Keep 2-3 cards active, with available credit covering 3-6 months of expenses and low overall utilization
+                Personal line of credit (emergency tool) ;; Lower rate than credit cards, with flexible access
+        Documentation Preparation
+            Financial documents file — contents? >> Account numbers, beneficiaries, insurance policies, tax returns
+            Financial documents — digital copies? >> Store in cloud AND a USB drive, with sensitive information encrypted
+            Financial documents — access sharing? >> One trusted person knows the location and passwords
+            Financial documents — update cadence? >> Review every 6 months and after major life changes
+    Natural Disaster Preparedness (72-Hour Kit)
+        Water and Food
+            Emergency water calculation :: 1 gallon per person per day, for a minimum of 3 days — two weeks if space allows ##safety
+            Water purification backup :: Purification tablets, a filter, or plain unscented household bleach ##safety
+            Bleach water-purification ratio? >> 8 drops (1/8 teaspoon) per gallon of clear water for standard 5-6% bleach (6 drops for 8.25% concentrated); stir and let stand 30 minutes ##safety
+            Emergency food selection :: Non-perishable, no cooking required, familiar foods
+            Emergency calorie target :: 2,000 calories per person per day
+                Emergency kit — the forgettables ;; Pet food, baby formula, special dietary needs
+        Emergency Supplies Priority
+            Emergency supplies Tier 1 (Survival) :: Water, food, first aid kit, medications, flashlight, radio, whistle ##safety
+            Emergency supplies Tier 2 (Safety/Comfort) :: Blankets, change of clothes, cash, phone charger, tools
+            Emergency supplies Tier 3 (Recovery) :: Documents, extended-stay supplies, entertainment, comfort items
+            Emergency kit storage strategy :: Waterproof container, accessible location, rotate perishables
+        Communication Plan
+            The out-of-state contact rule :: Local lines jam in a disaster but long-distance often works — everyone checks in through the same out-of-state person ##safety
+            Family emergency meeting places (three levels)? >> Primary at home, neighborhood backup, regional if evacuated — this family's regional point is Ontario Mills ##verify-personally
+            School and work emergency plans :: Learn their emergency procedures and reunification sites before anything happens
+            Why important numbers go on paper? >> A written list survives a dead phone
+    Home Security Fundamentals
+        Perimeter Security
+            Security lighting strategy :: Motion lights at all entry points, photocell dusk-to-dawn lights for constant illumination
+            Landscaping for security :: Bushes trimmed below 3 feet, tree canopies above 6 feet, thorny plants under windows — no hiding spots, clear sightlines
+            Fence design for security :: See-through beats solid (solid fences hide the burglar at work), locked gates, anti-climb measures
+        Entry Point Hardening
+            Deadbolt requirements :: 1-inch throw minimum, Grade 1 or 2, with a reinforced strike plate
+            Door reinforcement? >> 3-inch screws in hinges and strike plate — long enough to bite the stud, not just the jamb; door armor kit $70-150
+            Sliding door security :: Charlie bar, pin lock, security film
+            Window lock types :: Pin locks for double-hung windows, sliding locks for horizontal sliders
+                Window security film ;; 8-14 mil thickness makes breaking glass loud and slow — burglars abandon noisy, slow entries
+            Window sensors :: Part of the alarm system, or standalone glass-break detectors
+        Security System Options
+            DIY vs professional security systems? >> DIY saves $20-40 per month, but you handle installation and issues
+            Alarm monitoring types? >> Professional 24/7, self-monitoring, local alarm only
+            Professional monitoring response time? >> The security industry cites a 7-10 minute police average after a monitored alarm, but real response to unverified burglar alarms is often far longer and varies widely by city and verification policy
+            Smart security integration :: Modern systems bundle cameras, smart locks, environmental monitoring
+    Digital Security and Privacy
+        Password and Account Security
+            Modern password requirements :: 12+ characters, unique per account, no personal information
+            Password manager architecture :: One master password plus 2FA protects all the others
+            Master password creation :: The passphrase method — 4+ random words, easier to remember than symbol soup and just as strong
+            Password manager backup access :: Emergency kit, trusted contact, printed recovery codes
+        Two-Factor Authentication
+            Critical accounts needing 2FA first :: Email, banking, password manager, phone carrier, primary social — email first, because email resets everything else
+            2FA methods ranked strongest to weakest? >>>
+                - hardware security key
+                - authenticator app
+                - SMS
+            Why a hardware key is the strongest 2FA? >> It is phishing-resistant — it only answers to the genuine domain, so a fake login page gets nothing
+            Why SMS is the weakest 2FA? >> The code goes to whoever controls the phone number — and SIM-swap attacks steal the number
+            2FA backup codes :: Print and store them securely; regenerate after any use
+            SIM-swap protection :: Add a carrier security PIN to block unauthorized number porting
+        Data Protection Strategy
+            The 3-2-1 backup rule :: 3 copies total, 2 different media types, 1 offsite
+            What to back up? >> Documents, photos, financial records, passwords, important emails
+            Backup frequency :: Critical files daily, photos weekly, full system monthly
+            The restore-test rule :: Actually restore a file quarterly — an untested backup is a hope, not a backup
+        Privacy Protection Basics
+            Information-sharing minimization :: Provide only required information, and use aliases where possible
+            Public WiFi safety :: Use a VPN, never access banking, assume everything is visible
+            Social media privacy :: Maximum privacy settings, limit personal info, review tags
+        Phishing Defense
+            Phishing red flag — manufactured urgency? >> "Account closed in 24 hours" exists to make you act before you think — the urgency itself is the tell
+            Phishing red flag — generic greeting? >> "Dear Customer" or "Dear User" — an institution that really holds your money knows your name
+            Phishing red flag — sender mismatch? >> The display name says your bank; the actual address is a look-alike or random domain — always check the real address, not the display name
+            The phishing link check :: Hover (or long-press on mobile) to reveal the REAL destination before clicking — the visible link text proves nothing
+            Phishing red flag — payment by gift card? >> No legitimate business or government agency demands gift cards, wire transfers, or crypto — that request alone ends the conversation
+            The phishing counter-move :: Verify through a separate channel you already trust — type the site address yourself or call the number on your card, never the contact info inside the message
+        Breach Response
+            Data breach response — step order? 1. >>> ##us
+                1. change that password and everywhere it was reused
+                2. enable 2FA
+                3. freeze credit at all three bureaus
+                4. monitor accounts and statements
+            The three credit bureaus to freeze? >> Equifax, Experian, TransUnion — freeze all three, or the freeze is a screen door ##us
+            Credit freeze cost and speed :: Free at all three bureaus by federal law (since 2018 ##volatile ##us
+                as of 2026); placed within one business day of an online or phone request; thaw temporarily when you apply for credit
+            Credit freeze vs fraud alert :: A freeze blocks new-account credit pulls outright; a fraud alert merely asks lenders to verify identity — after a breach, freeze ##us
+            Where breach recovery is coordinated? >> IdentityTheft.gov (FTC) — generates a personal recovery plan and the affidavit used to dispute fraudulent accounts ##us

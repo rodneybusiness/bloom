@@ -1,227 +1,316 @@
-- ## The Cosmos
-    - Rayleigh Scattering::The scattering of sunlight by the gas molecules of Earth's atmosphere — the reason the sky looks blue.
-        - Why does blue light scatter more in the atmosphere than red or yellow light?::Blue light has shorter, choppier waves, so it bounces around more, like a pinball hitting more bumpers — longer red and yellow waves travel more directly.
-        - Why isn't the sky violet, even though violet light scatters more than blue?::1) The Sun emits less violet light than blue 2) our eyes are more sensitive to blue than violet 3) some violet is absorbed high in the atmosphere.
-        - What color is the Martian daytime sky?::Reddish or butterscotch — fine dust in the thin atmosphere scatters red light more effectively.
-        - What color are Martian sunsets?::Blue — the exact reverse of Earth's, because the dust scatters red forward and lets blue linger around the Sun.
-    - Sunsets::The reddish-orange appearance of the sky when the Sun is low on the horizon.
-        - Why do sunsets appear red and orange?::Low sunlight travels through much more atmosphere — up to about 40 times more than at noon — which scatters away the blue light and leaves the reds, oranges, and yellows.
-        - What four things can make sunsets more colorful?::1) Dust 2) pollution 3) smoke 4) water vapor (clouds) — extra particles that scatter away even more blue, intensifying the reds and oranges.
-    - Black Holes::Regions of space where gravity is so strong that nothing, not even light, can escape — typically formed when a very massive star runs out of fuel and collapses inward on itself.
-        - Black hole anatomy::The {{singularity}} is the center, where mass is crushed into a point of (theoretically) infinite density; the {{event horizon}} is the "point of no return" boundary around it.
-        - How do we detect black holes if we can't see them directly?::1) Their gravity's effects on nearby objects 2) stars orbiting something massive but invisible 3) radiation from gas heating up as it falls toward the event horizon.
-        - What are the two main types of black holes?::Stellar-mass black holes and supermassive black holes (SMBHs) — the supermassive kind sit at the centers of galaxies.
-        - Spaghettification::Being stretched out and torn apart by a black hole's tidal forces — "the gravity at your feet would be so much stronger than at your head that you'd be stretched like taffy."
-        - How would an outside observer see someone falling into a black hole?::They would appear to slow down, turn red, and fade away, seemingly frozen at the event horizon — because time runs slower near strong gravity, the observer never sees them cross.
-        - Why could you cross a supermassive black hole's event horizon without being torn apart right away?::Tidal forces at a supermassive black hole's horizon are far weaker, potentially allowing crossing without immediate spaghettification.
-    - Moon Phases::The apparent changes in the Moon's shape as seen from Earth — the Moon doesn't actually change shape; it's always a sphere, shining only by reflected sunlight, and what changes is how much of its sunlit half we see as it orbits Earth.
-        - Moon phase alignments::At {{New Moon}} the Moon sits between Earth and the Sun; at {{Full Moon}} Earth sits between the Sun and the Moon.
-        - Waxing vs. waning Moon::Waxing means the illuminated portion is {{increasing}}; waning means it is {{decreasing}}.
-        - Moon's sidereal period::About 27.3 days — one full orbit of Earth measured against the background stars (and also exactly how long the Moon takes to rotate once).
-        - Moon's synodic period::About 29.5 days — one full cycle of phases, new Moon to new Moon.
-        - Why is the Moon's phase cycle (29.5 days) longer than its orbit (27.3 days)?::While the Moon completes one orbit, Earth has moved along its own path around the Sun, so the Moon needs about 2 extra days to catch up to the same Earth-Sun alignment.
-    - Tidal Locking::When a body's rotation period matches its orbital period, so the same face always points at its partner.
-        - Why do we only ever see one side of the Moon?::It is tidally locked — Earth's gravity tugged on the Moon for billions of years, slowing its rotation until one spin exactly matched one orbit.
-        - What is the "dark side" of the Moon more accurately called?::The far side — it receives just as much sunlight as the near side.
-        - What percentage of the Moon's surface can we see over time, thanks to librations?::About 59% — the Moon's slight wobbles let us peek around its edges.
-    - Stars::Luminous spheres of plasma held together by their own gravity.
-        - Why do stars appear to twinkle?::Stars don't twinkle in space — turbulence in Earth's atmosphere bends their light on the way down. The real word for it: astronomical scintillation.
-        - Why don't planets twinkle as much as stars?::Planets appear as tiny disks rather than points of light, so atmospheric distortions average out.
-        - What is the color sequence of stars by temperature?::1) Blue 2) White 3) Yellow 4) Orange 5) Red hottest to coolest — a star's color is a readout of its surface temperature.
-        - Why are stars different temperatures?::Mostly mass — bigger stars burn hotter and bluer but die faster; smaller stars are cooler and redder but live far longer.
-    - Meteors::Small pieces of rock or dust that enter Earth's atmosphere and burn up.
-        - What is a shooting star?::Not a star at all — a meteor: a bit of rock or dust burning up as it slams into the atmosphere.
-        - How big is a typical shooting star?::Usually about the size of a grain of sand — the spectacle comes from speed, not size.
-        - What is the streak of a shooting star actually made of?::A trail of hot, glowing air — compression ahead of the meteor heats the air, which is what you see, not the rock itself.
-        - Meteorite::A meteoroid that survives the journey through the atmosphere and lands on Earth.
-        - What causes a meteor shower?::Earth passes through a trail of debris left behind by a comet or asteroid.
-    - Pluto::A dwarf planet in the Kuiper Belt, formerly classified as the ninth planet — alongside fellow dwarf planets Eris, Ceres, Makemake, and Haumea.
-        - When and why was Pluto reclassified as a dwarf planet?::In 2006, by the International Astronomical Union (IAU), because it fails one planet criterion: it has not cleared its orbital neighborhood.
-        - What are the IAU's three criteria for a planet?::1) It orbits the Sun 2) it is nearly round from its own gravity 3) it has "cleared its orbital neighborhood" of other objects.
-    - Gravity::The force of attraction between any two objects that have mass.
-        - Gravity's two dials::More {{mass}} makes gravity stronger; more {{distance}} makes it weaker — falling off with the square of the distance.
-        - Why don't we feel the gravity of the person next to us?::Humans have very little mass compared to Earth, so Earth's gravity overwhelms the tiny pull between people.
-        - According to Einstein, what do massive objects do to spacetime?::They bend the fabric of space-time, like a bowling ball on a trampoline — and objects follow these curves.
-    - Dark Energy::The mysterious something that drives the universe's accelerating expansion — it seems to be a property of empty space itself.
-        - Gravity vs. dark energy — which wins at which scale?::Gravity wins at {{smaller scales}}, holding galaxies together; dark energy wins across {{vast cosmic scales}}, pushing the space between galaxy clusters apart faster than gravity can pull it together.
-        - What percentage of the universe is dark energy?::About 68%.
-    - The Big Bang::The beginning of our universe about 13.8 billion years ago — everything we can see was once an unimaginably hot, dense state that has been expanding and cooling ever since.
-        - Was the Big Bang an explosion in space?::No — it was an expansion OF space itself; there was no empty space sitting there waiting to be filled.
-        - What came "before" the Big Bang?::Honestly unanswered — time itself may have begun with the Big Bang, so "before" may not even make sense; ideas exist (quantum cosmology, a multiverse) but none are tested.
-        - What is the universe expanding into?::Nothing — it isn't expanding "into" anything; space itself is stretching, so distances between galaxies grow without any outside container.
-        - What is the evidence for the Big Bang?::1) Distant galaxies are receding — space is expanding 2) the cosmic microwave background, the leftover glow from when the universe was about 380,000 years old 3) the universe's mix of hydrogen and helium matches the model's predictions.
-        - Olbers' paradox — why is the night sky dark?::If the universe were infinite, eternal, and unchanging, every sightline would end on a star and the night sky would blaze. It's dark because the universe has a finite age — the most distant light hasn't reached us yet — and expansion stretches (redshifts) the oldest light out of the visible range.
-- ## Matter, Forces & Energy
-    - Matter::Anything that has mass and takes up space (volume) — all ordinary matter is made of atoms, and it comes in four states: solid, liquid, gas, and plasma.
-        - What equation says matter and energy are interchangeable?::E = mc², Einstein's mass-energy equivalence.
-    - Atom (kid-level definition)::The smallest unit of a chemical element that still keeps that element's properties.
-        - Atom structure::The nucleus holds {{protons (positive charge)}} and {{neutrons (no charge)}}; {{electrons (negative charge)}} orbit around it.
-        - What defines which element an atom is?::The number of protons — hydrogen has exactly 1, and that one proton is what makes it hydrogen.
-    - Molecule (kid-level definition)::Two or more atoms bonded together — the smallest unit of a compound (water is H2O: two hydrogens and one oxygen).
-        - Chemical bond (kid-level definition)::Atoms sticking together by sharing or transferring electrons — the electrons do all the gluing; the nuclei never touch.
-        - Covalent vs. ionic bonds::Covalent bonds {{share electron pairs}} (water, sugar, most molecules); ionic bonds form when one atom {{donates an electron}} and the resulting charged ions attract (table salt).
-        - Why doesn't a compound behave like its ingredients?::Bonding rearranges the electrons into something new — sodium (an explosive metal) plus chlorine (a toxic gas) makes table salt, safe on your fries.
-        - Why do things have color?::An object's molecules absorb some wavelengths of light and reflect the rest — the reflected wavelengths are the color you see; a red apple absorbs blue and green and bounces back red.
-    - Electromagnetic Force::The force between electric charges — it holds atoms together, runs all of chemistry, and is why solid things feel solid.
-        - Why can't we walk through walls?::Electromagnetic forces — the electrons in your hand's atoms repel the electrons in the wall's atoms; you never actually "touch" anything.
-        - What creates the outward pressure that keeps matter from collapsing?::Electromagnetic forces and thermal pressure (and in extreme objects, degeneracy pressure, related to the Pauli Exclusion Principle).
-    - Electricity::A form of energy resulting from the presence and motion of electric charge (usually electrons).
-        - Static vs. current electricity::Static electricity is a {{buildup of charge}} on an object; current electricity is the {{flow of electrons}} through a conductor.
-        - Voltage vs. current::Voltage is the {{electrical pressure}} that pushes electrons; current is the {{rate of electron flow}}.
-    - Magnetism::A force caused by the motion of electric charges (electrons) within atoms — in most materials the atoms' magnetic fields point in random directions and cancel out.
-        - Magnetic domains::Regions in magnetic materials where the atoms' magnetic fields align — when the domains themselves align, the material acts as a magnet with north and south poles.
-        - Why do opposite magnetic poles attract?::Their magnetic field lines connect, pulling them together.
-    - Fire::The visible result of combustion — a rapid chemical reaction, usually between oxygen and a fuel.
-        - What does combustion release, and in what two forms?::A large amount of stored chemical energy, released as heat and light — the glow is incandescent particles heated until they shine, and the flame itself is often plasma.
-    - Sound::Vibrations traveling through a medium (air, water, or solids) as pressure waves — traveling compressions and rarefactions that our ears detect and convert into electrical signals.
-        - Pitch vs. volume (sound)::{{Frequency}} determines pitch; {{amplitude}} determines volume.
-        - Why is there no sound in space?::Space is essentially a vacuum — no medium, so nothing to carry the pressure waves — which is why astronauts talk by radio: radio waves are electromagnetic radiation and need no medium.
-    - Density::Mass packed per unit of volume — floating or sinking depends on an object's density relative to the fluid it is in.
-        - Archimedes' Principle::A fluid exerts an upward buoyant force on an object equal to the weight of the fluid the object displaces.
-        - Why does a heavy steel ship float?::The ship's overall density — steel plus all the air inside — is less than the density of water.
-    - Friction::The force that resists motion when two surfaces rub against each other — it converts kinetic energy into heat, and we depend on it for walking (grip) and braking.
-        - The two fundamental requirements for friction::{{Surface roughness at the microscopic scale}} and {{atomic attraction between materials}}.
-        - How much of the apparent contact area between two surfaces actually touches?::Less than 1% — even polished surfaces are all peaks and valleys, and only the highest peaks (asperities) make contact.
-        - What happens when surface atoms from two objects get close enough?::Electromagnetic forces create bonds — van der Waals forces, sometimes actual chemical bonds — the same forces that hold solids together internally.
-        - What three things must continuously happen for sliding motion to continue?::1) Break adhesive bonds at existing contact points 2) deform or shear off mechanically interlocked peaks 3) form new bonds as fresh surfaces come into contact.
-        - Why does friction always oppose motion?::Thermodynamics — breaking bonds and deforming material requires energy input, always drawn from the motion: ordered kinetic energy becomes random thermal vibrations (heat), scattered into microscopic chaos.
-        - Can we predict friction coefficients from first principles?::No — knowing only the materials involved, we cannot reliably predict them; friction is a multi-scale phenomenon where atomic-level interactions produce macroscopic effects through statistical mechanics too complex to fully solve.
-        - What are friction laws like F = μN?::{{Empirical approximations}} that work reasonably well but are not fundamental truths.
-    - Energy::The capacity to do work or cause change.
-        - Law of Conservation of Energy::Energy cannot be created or destroyed — only converted from one form to another.
-    - Why is ice slippery?::Its surface carries a thin liquid-like layer of loosely bound water molecules even below freezing, and pressure plus friction from a shoe or skate melt a little more — together they form a lubricating film of water.
-        - Why is extremely cold ice NOT slippery?::At very low temperatures the surface liquid-like layer diminishes and friction can't melt enough water — the lubricating film disappears, so the same ice grips instead of slides.
-        - Dig Deeper — Why does ice have a liquid-like surface layer at all?::Surface molecules have no neighbors above to lock them in place, so they stay loose and mobile ("premelting") — the layer exists even before anything presses on the ice.
-    - Satellite Orbit::Satellites stay up because they are constantly falling toward Earth while moving sideways so fast that they keep missing it — continuous freefall; though not forever, since atmospheric drag slowly lowers them and they need occasional boosts.
-        - Orbital velocity::The speed at which, as an object falls, the curve of the Earth drops away beneath it at exactly the same rate.
-- ## Light & Heat
-    - Light::Electromagnetic waves — the same family as radio waves and X-rays — of which our eyes see one narrow band of wavelengths; unlike sound, light needs no medium, crossing empty space at about 300,000 km per second, nature's speed limit.
-        - Photon::The particle of light — the smallest possible packet of light energy.
-        - Wave-particle duality (kid-level explanation)::Light behaves as both a wave (it spreads, bends, and interferes) and a stream of particles (photons arrive one at a time) — which face it shows depends on the experiment; light is a quantum thing that fits neither everyday category.
-    - Temperature (kid-level definition)::A measure of the average jiggling speed (kinetic energy) of a substance's particles.
-        - Heat::Energy in transfer from a hotter object to a colder one — nothing "contains cold"; cold is just less jiggling.
-        - Which holds more thermal energy — a bathtub of warm water or a red-hot nail?::The bathtub — it has vastly more particles, so more total energy, even though the nail's temperature is far higher.
-        - Why does metal feel colder than wood at the same temperature?::It isn't colder — metal conducts heat away from your hand faster, and your skin senses heat flow, not temperature.
-    - Do mirrors flip left and right?::No — a mirror flips front-to-back, along the axis pointing into the mirror. Your reflection's "left hand" faces your right hand only because you imagine walking around to face yourself; the mirror never swapped your sides.
-        - Why does writing look backwards in a mirror?::Because you turned the paper around to face the mirror — that turn is what swapped left and right; the mirror just shows the front-to-back view faithfully.
-- ## Earth, Weather & Sky Optics
-    - Wind::The movement of air from high-pressure areas to low-pressure areas, caused by uneven heating of the Earth by the Sun.
-        - Warm vs. cool air and pressure::Warm air expands and rises, creating {{low}} pressure; cool air is denser and sinks, creating {{high}} pressure.
-    - Coriolis Effect::The apparent curving of winds (and anything else traveling far across the planet) caused by Earth's rotation — it shapes global wind patterns and the spin of storms.
-        - Why does Earth's rotation curve the winds (Coriolis effect)?::Different latitudes move east at different speeds — the equator races along at about 1,000 mph while the poles barely move — so traveling air keeps the speed of where it started and drifts sideways relative to the ground beneath it.
-        - Which way does the Coriolis effect deflect winds in each hemisphere?::To the {{right}} in the Northern Hemisphere and to the {{left}} in the Southern — which is why hurricanes spin counterclockwise north of the equator and clockwise south of it.
-        - Does the Coriolis effect make drains and toilets swirl the other way in Australia?::No — that's a myth; at sink scale the effect is about one ten-millionth the force of gravity, so basin shape and leftover water motion decide the swirl. It only matters over large distances and times: storms, ocean currents, long-range artillery.
-    - Rain::One loop of the water cycle — water endlessly changing form, never being used up.
-        - Water cycle stages::1) {{Evaporation}} — the Sun heats water into invisible vapor that rises 2) {{condensation}} — the vapor cools into droplets around tiny dust particles, forming clouds 3) {{precipitation}} — droplets combine until heavy enough to fall as rain, snow, or hail.
-    - Why do clouds float?::Their water droplets and ice crystals are so tiny that air resistance nearly cancels their fall, and rising currents of warm air push them back up — rain begins when droplets merge and grow too heavy.
-    - Lightning::A massive electrical discharge — a giant spark — caused by static electricity built up inside storm clouds.
-        - How do storm clouds build up electric charge?::Ice crystals and slushy graupel pellets collide in the cloud's updrafts and swap electrons — lighter, positively charged ice gets swept toward the cloud top while heavier, negatively charged graupel sinks — turning the cloud into a giant charged battery.
-        - Stepped leader::The invisible channel of charge that zigzags down from the cloud in short jumps; when it connects with a spark reaching up from the ground, the brilliant return stroke flashes up the channel — that's the bolt you see.
-    - Thunder::The sound caused by lightning — the bolt heats the air in its channel to roughly 30,000 kelvin, about five times the Sun's surface temperature, in a millionth of a second; the air expands explosively, and the shock wave rolls out as the boom and rumble.
-        - Why do we see lightning before we hear thunder?::Light travels much faster than sound — count the seconds between flash and boom and divide by five to get the storm's distance in miles.
-    - Ocean Salinity::Ocean salt comes primarily from minerals dissolved out of rocks on land, plus a second source: underwater volcanic (hydrothermal) vents — and it concentrates because evaporation takes only the water, leaving the salt behind.
-        - How do rain and rivers salt the ocean?::Rain is slightly acidic and dissolves salts out of rocks; rivers then carry those dissolved minerals to the sea.
-    - Lake Salinity::Most lakes stay fresh because they have outlets — rivers flow out, carrying dissolved minerals away before they can concentrate; lakes without outlets become very salty, since water leaves only by evaporation, which leaves the salt behind.
-    - Earthquake::Caused by the movement of tectonic plates — the large pieces of Earth's outer shell — which grind against each other at boundaries called faults.
-        - What happens when friction sticks two tectonic plates together?::Stress builds up at the stuck edges until it overcomes the friction; then the plates suddenly slip, releasing the stored energy as seismic waves — the earthquake.
-        - How much more energy does a magnitude 7 earthquake release than a magnitude 6?::About 32 times more — magnitude scales (like the Richter scale) are logarithmic.
-    - Rainbow::Caused by the reflection and refraction of sunlight inside raindrops — to see one you need the Sun behind you and rain in front of you.
-        - How does a raindrop turn sunlight into a rainbow?::The light bends (refracts) and splits into its colors (dispersion) on entry, reflects off the back of the droplet, then bends again on the way out — each droplet acts like a tiny prism.
-    - Double Rainbow::Appears when sunlight reflects twice inside the raindrops — the second bow is fainter, sits above the primary, and its colors run in reverse (red on the bottom, violet on top).
-    - Alexander's Dark Band::The noticeably darker strip of sky between the two bows of a double rainbow.
-        - Why is the sky darker between a double rainbow's two bows?::Raindrops in that band redirect sunlight away from your eyes — single-reflection light exits below the primary bow and double-reflection light exits above the secondary — so that strip sends you the least light.
-        - Who is Alexander's Dark Band named after?::Alexander of Aphrodisias, the Greek philosopher who first described it around 200 AD.
-    - Leaf Color Change::In fall, trees stop producing chlorophyll — the green photosynthesis pigment — in response to shorter days and cooler temperatures; the tree then seals the leaf's base and lets it fall.
-        - What happens as a leaf's green chlorophyll breaks down?::Other pigments that were there all along become visible.
-        - Autumn leaf pigments::{{Carotenoids}} are the yellows and oranges — always present, hidden by chlorophyll; {{anthocyanins}} are the reds and purples — actively produced in the fall.
-    - Volcano::An opening (vent) in the Earth's crust where molten rock, gas, and ash escape from below — most form at tectonic plate boundaries.
-        - Magma vs. lava::Magma is molten rock {{underground}}; lava is molten rock {{on the surface}} — same material, different address.
-        - Why do volcanoes erupt?::As magma rises, pressure drops, letting its dissolved gases expand rapidly — the expanding gas drives the eruption, like an opened bottle of shaken soda.
-    - Tides::Primarily caused by the Moon's gravitational pull on Earth's oceans — the Moon pulls the nearest water toward itself, raising a bulge (high tide).
-        - Why is there a second high-tide bulge on the opposite side of Earth?::The Moon pulls the solid Earth away from the water there, leaving that water bulging behind.
-        - Why are there two high and two low tides each day?::Earth rotates through the two tidal bulges daily.
-        - Spring vs. neap tides::Spring tides are {{higher}}, when the Sun and Moon {{align}} (full or new Moon); neap tides are lower, when they pull at {{right angles}} (quarter Moons).
-    - Altitude and temperature::Air gets colder as you climb mainly because rising air expands into lower pressure and cools (adiabatic expansion) — not because mountaintops are meaningfully farther from the Sun.
-        - Adiabatic cooling::As air rises, pressure drops, so the air expands — and expanding uses up its thermal energy, cooling it.
-        - Where is the atmosphere heated from?::The ground up — Earth's surface absorbs sunlight and radiates heat into the air above, which is why the lowest air is warmest.
-        - Does the air keep cooling forever as you climb?::No — above the tropopause (roughly 10-12 km at mid-latitudes — as low as 8 km at the poles, up to about 18 km at the equator) the trend reverses: the stratosphere warms with altitude because its ozone absorbs the Sun's ultraviolet light directly.
-- ## The Human Body
-    - Sleep::Essential for physical restoration and mental organization — deprivation impairs judgment, reaction time, mood, and physical health.
-        - What body-repair work happens during sleep?::Tissue repair, muscle growth, and immune system strengthening.
-        - What brain-maintenance work happens during sleep?::Memory consolidation and waste removal — the glymphatic system flushes metabolic waste and toxins from the brain.
-    - Dreams::Vivid experiences that occur primarily during REM (Rapid Eye Movement) sleep — and are mostly forgotten, because the brain chemicals needed for memory formation are less active during REM.
-        - What is dreaming for?::Theory: candidate purposes include emotional processing, memory consolidation, and problem-solving/creativity — none is established as the answer. #theory
-    - Lucid Dreaming::Becoming aware that you are dreaming while still asleep — often with some control over the dream's content; people learn it by keeping a dream journal or doing reality checks during the day.
-    - Yawning::A deep involuntary inhalation with a jaw stretch (it stretches lung tissue too) — seen in humans and most vertebrates; why we do it is not settled science.
-        - Why do we yawn?::Theory: the leading candidate is brain cooling — the deep inhalation and jaw stretch increase blood flow that may cool the brain slightly, promoting alertness. Supported by experiments, but not universally accepted. #theory
-        - What is contagious yawning linked to?::Empathy and social bonding.
-    - Sickness::What happens when pathogens (germs — bacteria or viruses) invade the body and multiply faster than the immune system's white blood cells and antibodies can eliminate them.
-        - Why do we get fevers?::Fever is a weapon, not a malfunction — the higher temperature enhances the immune response and makes the body less hospitable to some pathogens.
-    - Vaccines::Training for the immune system that doesn't cause the actual disease — they introduce a harmless form of the pathogen: weakened, dead, or just recognizable parts (antigens).
-        - What happens after vaccination when the real pathogen shows up?::The antibodies and memory cells produced in response to the vaccine mount a rapid defense, preventing or blunting the illness.
-    - Herd immunity (kid-level definition)::When enough of a population is immune, a disease can't find new hosts fast enough to keep spreading — protecting even those who cannot be vaccinated (newborns, the immunocompromised).
-        - Why do different diseases need different herd-immunity thresholds?::The more contagious the disease, the more people must be immune — measles, one of the most contagious diseases known, needs about 95% coverage.
-        - What happens when vaccination rates fall below the herd-immunity threshold?::Outbreaks return — measles resurges in undervaccinated communities even in countries that had eliminated it.
-    - Vaccine Hesitancy::Delay or refusal of vaccines despite their availability — driven by fear of side effects, misinformation, mistrust of institutions, and belief in "natural" immunity.
-        - Where did the vaccines-cause-autism claim come from?::A 1998 Lancet paper by Andrew Wakefield that was exposed as fraudulent and retracted — Wakefield lost his medical license, and large studies of millions of children have found no vaccine-autism link.
-        - Why does vaccine hesitancy persist when the science is settled?::Vaccines are victims of their own success — once a disease disappears, the vaccine's tiny risks feel larger than the now-invisible disease; misinformation and institutional mistrust fill the gap.
-    - Bones::Living tissue, not dead scaffolding — constantly remodeling (breaking down and rebuilding) throughout life.
-        - What jobs does the skeleton do?::1) Structural support 2) protection 3) movement 4) mineral storage 5) blood cell production.
-    - Brain::The control center for thought, emotion, memory, and action — it processes sensory information and regulates body functions like breathing and heart rate, using electrical and chemical signals passed between billions of neurons.
-    - Brain Plasticity::The brain's ability to change and adapt throughout life, rewiring its connections based on experience and learning.
-        - How does the brain change when you learn something?::Connections (synapses) between neurons strengthen with use and weaken with neglect — neurons that fire together, wire together.
-        - Is the brain "fully developed" at age 25?::Contested: the age-25 cutoff is a popular oversimplification — maturation (especially prefrontal) is gradual, varies by person, continues into the early 30s by some measures, and the brain keeps rewiring for life. #theory
-        - What does brain plasticity look like after an injury?::Surviving regions can take over lost functions — stroke patients relearn speech and movement as other areas rewire.
-    - Vegetables::Provide essential vitamins, minerals, and fiber (crucial for digestive health and the gut microbiome) — regular consumption reduces the risk of chronic diseases like heart disease and cancer.
-        - What do vegetables contain that protects cells from damage?::Phytochemicals and antioxidants.
-    - Goosebumps::Caused by tiny muscles (arrector pili) contracting and pulling hair follicles upright.
-        - Why do humans still get goosebumps if we're not furry?::They're vestigial — a leftover from furrier ancestors, where raised hair trapped insulating air and made the body look bigger to threats — which is why fear and awe still trigger them.
-    - Baby Development::Begins with fertilization, forming a zygote, which divides and implants in the uterus — development then follows a genetic program influenced by environmental factors.
-        - What does the placenta provide a developing baby?::Nutrients and oxygen, delivered through the umbilical cord.
-    - Obstetric Dilemma::Theory: the proposed evolutionary conflict between big brains (favoring a wide pelvis) and efficient upright walking (favoring a narrow one) — actively contested today. #theory
-        - What compromise does the obstetric dilemma propose?::Theory: human babies are born earlier in their development so the head can fit through the birth canal — with the upside that much brain growth happens outside the womb, shaped by environment and social learning. #theory
-        - Why is the obstetric dilemma contested?::The rival EGG hypothesis (energetics of gestation and growth) argues birth timing is set by the mother's metabolic ceiling, not her hips — and studies find hip width doesn't measurably reduce walking efficiency.
-    - Blood Type::Determined by antigens — specific molecules on the surface of red blood cells; the variations may have evolved as adaptations to different infectious diseases.
-        - Why do blood transfusions require matching types?::A mismatch makes the immune system attack the new blood as foreign — an antigen is any substance the immune system recognizes as foreign and reacts against.
-    - Fingerprints::Friction ridges with two main jobs: improved grip and enhanced touch sensitivity — they form uniquely in the womb through a mix of genetics and random environmental factors, so even identical twins have different prints.
-    - Hunger::The body's signal that it needs energy and nutrients — the brain reads low blood sugar (glucose) as one hunger cue.
-        - Hunger hormones::{{Ghrelin}} stimulates appetite; {{leptin and peptide YY}} signal fullness.
-    - Tears::Humans make three types: 1) basal (lubrication) 2) reflex (flushing irritants) 3) emotional — the emotional kind carry higher levels of stress hormones and likely serve social signaling and stress release.
-    - Belly Button::A scar from the umbilical cord, which connected you to the placenta in the womb — whether it's an "innie" or an "outie" depends on how the scar tissue formed.
-    - Aging::The accumulation of cellular damage over time — through mechanisms like telomere shortening, DNA damage, and mitochondrial dysfunction.
-        - Why didn't evolution build bodies that last forever?::Evolution prioritizes reproduction over indefinite maintenance — genes that help you reproduce young win even if you wear out later.
-    - Binocular Vision::Seeing with two eyes at once — giving depth perception, a wider field of view, and a backup eye.
-        - Predator vs. prey eye placement::{{Forward-facing}} eyes give predators depth perception for hunting; {{side-placed}} eyes give prey a wider field of view for spotting danger.
-    - Ear Wax::Protects the ear canal and eardrum — cleaning, protection, and lubrication; jaw movements naturally carry old wax out of the ear.
-- ## Animals & Life
-    - Why do cats purr?::For contentment, communication (between mothers and kittens, and with humans), and self-soothing — cats also purr when injured or stressed, not only when happy.
-        - How do cats purr?::A neural oscillator in the brain rhythmically drives the laryngeal (voice box) muscles, making the vocal folds vibrate 25 to 150 times per second during both inhalation and exhalation.
-        - Do purr frequencies heal bones?::Contested: the claim that 25-150 Hz purring promotes bone density and healing is a hypothesis — vibration at similar frequencies shows mixed results in trials, and no study has shown a purr healing bone. #theory
-    - Why do dogs wag their tails?::It's a complex form of communication, not simply happiness — wags can signal excitement, uncertainty, fear, or aggression.
-        - Dog tail-wag asymmetry::Wagging more to the dog's {{right}} often signals positive emotions; more to its {{left}}, negative emotions or anxiety.
-    - How do bird (and airplane) wings generate lift?::Two views of one fact: the wing deflects air downward, so the air pushes the wing up (Newton's third law), and the airflow leaves lower pressure above the wing than below (Bernoulli's principle) — both descriptions are correct accounts of the same physics.
-        - What is the "equal transit time" story of lift, and what's wrong with it?::The common claim that air over the wing's curved top must travel farther "in the same time" and so speeds up — a common oversimplification: air on top actually arrives ahead of air below, and flat wings and upside-down planes fly fine. What matters is the angle of attack and deflecting air downward.
-        - Name three bird adaptations for efficient flight::1) Hollow bones 2) powerful flight muscles 3) adjustable feathers — with thrust coming from flapping.
-    - How do birds know where to migrate?::A combination of navigational tools: 1) Earth's magnetic field 2) celestial cues (the Sun's position by day, star patterns by night) 3) landmarks 4) smell and sound.
-        - Magnetoreception::Sensing Earth's magnetic field and using it like a compass.
-    - Why do bees make honey?::As a food storage system for the colony — and thanks to its low water content and acidity, which prevent bacterial growth, it has an extremely long shelf life.
-        - What are the steps of honey-making?::1) Collect nectar from flowers 2) mix it with enzymes that break down complex sugars 3) deposit it in honeycomb and fan it with wings to evaporate water.
-    - How do fish breathe underwater?::They extract dissolved oxygen from the water using gills — thin structures with a large surface area, rich in blood vessels.
-        - Counter-current exchange::Blood in a fish's gills flows opposite to the water passing over them, maximizing the oxygen extracted.
-    - Ecdysis::Snake skin-shedding — the outer layer doesn't grow with the snake and shedding also removes parasites; the snake slithers out of the old skin, usually turning it inside out in one piece.
-    - Camouflage::Any adaptation that helps an organism avoid detection — four types: 1) concealing coloration 2) disruptive coloration 3) disguise 4) mimicry.
-        - Chromatophores::Specialized cells that let some animals actively change color.
-    - Photosynthesis (kid-level definition)::How plants make food from sunlight — converting light energy into chemical energy (glucose), inside chloroplasts, using the green pigment chlorophyll to absorb the light.
-        - What goes into photosynthesis and what comes out?::In: water and carbon dioxide, powered by sunlight. Out: glucose (food), with oxygen released as a byproduct.
-    - Hibernation::An energy-saving strategy for surviving food scarcity and cold — body temperature, heart rate, breathing, and metabolic rate all drop drastically.
-    - Torpor::Contested label: the lighter winter dormancy bears enter — body temperature drops only slightly and they wake easily. Older sources call this torpor rather than true hibernation; many bear physiologists now count it as genuine hibernation. #theory
-    - Are viruses alive?::They exist in a gray area between living and non-living.
-        - What makes viruses seem alive, and what makes them not?::Alive-ish: they carry genetic material (DNA/RNA) and they evolve. Not alive: they aren't made of cells, can't reproduce independently, and have no metabolism of their own.
-        - What are viruses, essentially?::Genetic programs in protein shells that hijack cellular machinery to replicate.
-    - Why do flowers smell good?::To attract pollinators — the volatile organic compounds they release signal the presence of rewards.
-        - Flower scent targeting::{{Sweet}} scents attract bees; {{foul}} smells attract flies — some flowers mimic rotting meat.
-    - Bioluminescence::The production of light by a living organism through a chemical reaction — used for attracting mates, luring prey, defense, and camouflage.
-        - What two molecules drive bioluminescence?::Luciferin (the light-emitting molecule) and luciferase (the enzyme).
-    - What are the five purposes of spider silk?::1) Trapping prey (webs) 2) safety lines (draglines) 3) protecting eggs (egg sacs) 4) shelter 5) transportation (ballooning).
-    - Why do whales sing?::For long-distance communication in the ocean — likely serving mating, territory defense, and coordination.
-        - What do male humpback whales sing?::Elaborate songs that change gradually over a season — increasingly drowned out by ocean noise pollution.
+Kids Questions v4 - Part A (The Physical World, repaired)
+    The Cosmos
+        Rayleigh Scattering :: The scattering of sunlight by the gas molecules of Earth's atmosphere — the reason the sky looks blue.
+            Why does blue light scatter more in the atmosphere than red or yellow light? >> Blue light has shorter, choppier waves, so it bounces around more, like a pinball hitting more bumpers — longer red and yellow waves travel more directly.
+            Why isn't the sky violet, even though violet light scatters more than blue? >>>
+                - The Sun emits less violet light than blue
+                - our eyes are more sensitive to blue than violet
+                - some violet is absorbed high in the atmosphere
+            What color is the Martian daytime sky? >> Reddish or butterscotch — fine dust in the thin atmosphere scatters red light more effectively.
+            What color are Martian sunsets? >> Blue — the exact reverse of Earth's, because the dust scatters red forward and lets blue linger around the Sun.
+        Sunsets :: The reddish-orange appearance of the sky when the Sun is low on the horizon.
+            Why do sunsets appear red and orange? >> Low sunlight travels through much more atmosphere — up to about 40 times more than at noon — which scatters away the blue light and leaves the reds, oranges, and yellows.
+            What four things can make sunsets more colorful? >>>
+                - Dust
+                - pollution
+                - smoke
+                - water vapor (clouds) — extra particles that scatter away even more blue, intensifying the reds and oranges
+        Black Holes :: Regions of space where gravity is so strong that nothing, not even light, can escape
+            typically formed when a very massive star runs out of fuel and collapses inward on itself.
+            Black hole anatomy :: The singularity is the center, where mass is crushed into a point of (theoretically) infinite density; the event horizon is the "point of no return" boundary around it.
+            How do we detect black holes if we can't see them directly? >>>
+                - Their gravity's effects on nearby objects
+                - stars orbiting something massive but invisible
+                - radiation from gas heating up as it falls toward the event horizon
+            What are the two main types of black holes? >> Stellar-mass black holes and supermassive black holes (SMBHs) — the supermassive kind sit at the centers of galaxies.
+            Spaghettification :: Being stretched out and torn apart by a black hole's tidal forces
+                "the gravity at your feet would be so much stronger than at your head that you'd be stretched like taffy."
+            How would an outside observer see someone falling into a black hole? >> They would appear to slow down, turn red, and fade away, seemingly frozen at the event horizon
+                because time runs slower near strong gravity, the observer never sees them cross.
+            Why could you cross a supermassive black hole's event horizon without being torn apart right away? >> Tidal forces at a supermassive black hole's horizon are far weaker, potentially allowing crossing without immediate spaghettification.
+        Moon Phases? >> The apparent changes in the Moon's shape as seen from Earth — the Moon doesn't actually change shape
+            it's always a sphere, shining only by reflected sunlight, and what changes is how much of its sunlit half we see as it orbits Earth.
+            Moon phase alignments :: At New Moon the Moon sits between Earth and the Sun; at Full Moon Earth sits between the Sun and the Moon.
+            Waxing vs. waning Moon :: Waxing means the illuminated portion is increasing; waning means it is decreasing.
+            Moon's sidereal period :: About 27.3 days — one full orbit of Earth measured against the background stars (and also exactly how long the Moon takes to rotate once).
+            Moon's synodic period :: About 29.5 days — one full cycle of phases, new Moon to new Moon.
+            Why is the Moon's phase cycle (29.5 days) longer than its orbit (27.3 days)? >> While the Moon completes one orbit, Earth has moved along its own path around the Sun, so the Moon needs about 2 extra days to catch up to the same Earth-Sun alignment.
+        Tidal Locking :: When a body's rotation period matches its orbital period, so the same face always points at its partner.
+            Why do we only ever see one side of the Moon? >> It is tidally locked — Earth's gravity tugged on the Moon for billions of years, slowing its rotation until one spin exactly matched one orbit.
+            What is the "dark side" of the Moon more accurately called? >> The far side — it receives just as much sunlight as the near side.
+            What percentage of the Moon's surface can we see over time, thanks to librations? >> About 59% — the Moon's slight wobbles let us peek around its edges.
+        Stars :: Luminous spheres of plasma held together by their own gravity.
+            Why do stars appear to twinkle? >> Stars don't twinkle in space — turbulence in Earth's atmosphere bends their light on the way down. The real word for it: astronomical scintillation.
+            Why don't planets twinkle as much as stars? >> Planets appear as tiny disks rather than points of light, so atmospheric distortions average out.
+            What is the color sequence of stars by temperature? 1. >>>
+                1. Blue
+                2. White
+                3. Yellow
+                4. Orange
+                5. Red hottest to coolest — a star's color is a readout of its surface temperature
+            Why are stars different temperatures? >> Mostly mass — bigger stars burn hotter and bluer but die faster; smaller stars are cooler and redder but live far longer.
+        Meteors :: Small pieces of rock or dust that enter Earth's atmosphere and burn up.
+            What is a shooting star? >> Not a star at all — a meteor: a bit of rock or dust burning up as it slams into the atmosphere.
+            How big is a typical shooting star? >> Usually about the size of a grain of sand — the spectacle comes from speed, not size.
+            What is the streak of a shooting star actually made of? >> A trail of hot, glowing air — compression ahead of the meteor heats the air, which is what you see, not the rock itself.
+            Meteorite :: A meteoroid that survives the journey through the atmosphere and lands on Earth.
+            What causes a meteor shower? >> Earth passes through a trail of debris left behind by a comet or asteroid.
+        Pluto :: A dwarf planet in the Kuiper Belt, formerly classified as the ninth planet — alongside fellow dwarf planets Eris, Ceres, Makemake, and Haumea.
+            When and why was Pluto reclassified as a dwarf planet? >> In 2006, by the International Astronomical Union (IAU), because it fails one planet criterion: it has not cleared its orbital neighborhood.
+            What are the IAU's three criteria for a planet? >>>
+                - It orbits the Sun
+                - it is nearly round from its own gravity
+                - it has "cleared its orbital neighborhood" of other objects
+        Gravity :: The force of attraction between any two objects that have mass.
+            Gravity's two dials :: More mass makes gravity stronger; more distance makes it weaker — falling off with the square of the distance.
+            Why don't we feel the gravity of the person next to us? >> Humans have very little mass compared to Earth, so Earth's gravity overwhelms the tiny pull between people.
+            According to Einstein, what do massive objects do to spacetime? >> They bend the fabric of space-time, like a bowling ball on a trampoline — and objects follow these curves.
+        Dark Energy :: The mysterious something that drives the universe's accelerating expansion — it seems to be a property of empty space itself.
+            Gravity vs. dark energy — which wins at which scale? >> Gravity wins at smaller scales, holding galaxies together; dark energy wins across vast cosmic scales, pushing the space between galaxy clusters apart faster than gravity can pull it together.
+            What percentage of the universe is dark energy? >> About 68%.
+        The Big Bang :: The beginning of our universe about 13.8 billion years ago — everything we can see was once an unimaginably hot, dense state that has been expanding and cooling ever since.
+            Was the Big Bang an explosion in space? >> No — it was an expansion OF space itself; there was no empty space sitting there waiting to be filled.
+            What came "before" the Big Bang? >> Honestly unanswered — time itself may have begun with the Big Bang, so "before" may not even make sense; ideas exist (quantum cosmology, a multiverse) but none are tested.
+            What is the universe expanding into? >> Nothing — it isn't expanding "into" anything; space itself is stretching, so distances between galaxies grow without any outside container.
+            What is the evidence for the Big Bang? >>>
+                - Distant galaxies are receding — space is expanding
+                - the cosmic microwave background, the leftover glow from when the universe was about 380,000 years old
+                - the universe's mix of hydrogen and helium matches the model's predictions
+            Olbers' paradox — why is the night sky dark? >> If the universe were infinite, eternal, and unchanging, every sightline would end on a star and the night sky would blaze.
+                It's dark because the universe has a finite age — the most distant light hasn't reached us yet — and expansion stretches (redshifts) the oldest light out of the visible range.
+    Matter, Forces & Energy
+        Matter :: Anything that has mass and takes up space (volume) — all ordinary matter is made of atoms, and it comes in four states: solid, liquid, gas, and plasma.
+            What equation says matter and energy are interchangeable? >> E = mc², Einstein's mass-energy equivalence.
+        Atom (kid-level definition) :: The smallest unit of a chemical element that still keeps that element's properties.
+            Atom structure :: The nucleus holds protons (positive charge) and neutrons (no charge); electrons (negative charge) orbit around it.
+            What defines which element an atom is? >> The number of protons — hydrogen has exactly 1, and that one proton is what makes it hydrogen.
+        Molecule (kid-level definition) :: Two or more atoms bonded together — the smallest unit of a compound (water is H2O: two hydrogens and one oxygen).
+            Chemical bond (kid-level definition) :: Atoms sticking together by sharing or transferring electrons — the electrons do all the gluing; the nuclei never touch.
+            Covalent vs. ionic bonds :: Covalent bonds share electron pairs (water, sugar, most molecules); ionic bonds form when one atom donates an electron and the resulting charged ions attract (table salt).
+            Why doesn't a compound behave like its ingredients? >> Bonding rearranges the electrons into something new — sodium (an explosive metal) plus chlorine (a toxic gas) makes table salt, safe on your fries.
+            Why do things have color? >> An object's molecules absorb some wavelengths of light and reflect the rest — the reflected wavelengths are the color you see
+                a red apple absorbs blue and green and bounces back red.
+        Electromagnetic Force :: The force between electric charges — it holds atoms together, runs all of chemistry, and is why solid things feel solid.
+            Why can't we walk through walls? >> Electromagnetic forces — the electrons in your hand's atoms repel the electrons in the wall's atoms; you never actually "touch" anything.
+            What creates the outward pressure that keeps matter from collapsing? >> Electromagnetic forces and thermal pressure (and in extreme objects, degeneracy pressure, related to the Pauli Exclusion Principle).
+        Electricity :: A form of energy resulting from the presence and motion of electric charge (usually electrons).
+            Static vs. current electricity :: Static electricity is a buildup of charge on an object; current electricity is the flow of electrons through a conductor.
+            Voltage vs. current :: Voltage is the electrical pressure that pushes electrons; current is the rate of electron flow.
+        Magnetism :: A force caused by the motion of electric charges (electrons) within atoms — in most materials the atoms' magnetic fields point in random directions and cancel out.
+            Magnetic domains :: Regions in magnetic materials where the atoms' magnetic fields align — when the domains themselves align, the material acts as a magnet with north and south poles.
+            Why do opposite magnetic poles attract? >> Their magnetic field lines connect, pulling them together.
+        Fire :: The visible result of combustion — a rapid chemical reaction, usually between oxygen and a fuel.
+            What does combustion release, and in what two forms? >> A large amount of stored chemical energy, released as heat and light — the glow is incandescent particles heated until they shine, and the flame itself is often plasma.
+        Sound :: Vibrations traveling through a medium (air, water, or solids) as pressure waves — traveling compressions and rarefactions that our ears detect and convert into electrical signals.
+            Pitch vs. volume (sound) :: Frequency determines pitch; amplitude determines volume.
+            Why is there no sound in space? >> Space is essentially a vacuum — no medium, so nothing to carry the pressure waves — which is why astronauts talk by radio: radio waves are electromagnetic radiation and need no medium.
+        Density :: Mass packed per unit of volume — floating or sinking depends on an object's density relative to the fluid it is in.
+            Archimedes' Principle :: A fluid exerts an upward buoyant force on an object equal to the weight of the fluid the object displaces.
+            Why does a heavy steel ship float? >> The ship's overall density — steel plus all the air inside — is less than the density of water.
+        Friction :: The force that resists motion when two surfaces rub against each other — it converts kinetic energy into heat, and we depend on it for walking (grip) and braking.
+            The two fundamental requirements for friction ;; Surface roughness at the microscopic scale and atomic attraction between materials.
+            How much of the apparent contact area between two surfaces actually touches? >> Less than 1% — even polished surfaces are all peaks and valleys, and only the highest peaks (asperities) make contact.
+            What happens when surface atoms from two objects get close enough? >> Electromagnetic forces create bonds — van der Waals forces, sometimes actual chemical bonds — the same forces that hold solids together internally.
+            What three things must continuously happen for sliding motion to continue? >>>
+                - Break adhesive bonds at existing contact points
+                - deform or shear off mechanically interlocked peaks
+                - form new bonds as fresh surfaces come into contact
+            Why does friction always oppose motion? >> Thermodynamics — breaking bonds and deforming material requires energy input, always drawn from the motion: ordered kinetic energy becomes random thermal vibrations (heat), scattered into microscopic chaos.
+            What is the answer on we predict friction coefficients from first principles? >> No — — knowing only the materials involved, we cannot reliably predict them
+                friction is a multi-scale phenomenon where atomic-level interactions produce macroscopic effects through statistical mechanics too complex to fully solve.
+            What are friction laws like F = μN? >> Empirical approximations that work reasonably well but are not fundamental truths.
+        Energy :: The capacity to do work or cause change.
+            Law of Conservation of Energy :: Energy cannot be created or destroyed — only converted from one form to another.
+        Why is ice slippery? >> Its surface carries a thin liquid-like layer of loosely bound water molecules even below freezing, and pressure plus friction from a shoe or skate melt a little more
+            together they form a lubricating film of water.
+            Why is extremely cold ice NOT slippery? >> At very low temperatures the surface liquid-like layer diminishes and friction can't melt enough water — the lubricating film disappears, so the same ice grips instead of slides.
+            Dig Deeper — Why does ice have a liquid-like surface layer at all? >> Surface molecules have no neighbors above to lock them in place, so they stay loose and mobile ("premelting") — the layer exists even before anything presses on the ice.
+        Satellite Orbit? >> Satellites stay up because they are constantly falling toward Earth while moving sideways so fast that they keep missing it — continuous freefall
+            though not forever, since atmospheric drag slowly lowers them and they need occasional boosts.
+            Orbital velocity :: The speed at which, as an object falls, the curve of the Earth drops away beneath it at exactly the same rate.
+    Light & Heat
+        Light? >> Electromagnetic waves — the same family as radio waves and X-rays — of which our eyes see one narrow band of wavelengths
+            unlike sound, light needs no medium, crossing empty space at about 300,000 km per second, nature's speed limit.
+            Photon :: The particle of light — the smallest possible packet of light energy.
+            Wave-particle duality (kid-level explanation)? >> Light behaves as both a wave (it spreads, bends, and interferes) and a stream of particles (photons arrive one at a time)
+                which face it shows depends on the experiment; light is a quantum thing that fits neither everyday category.
+        Temperature (kid-level definition) :: A measure of the average jiggling speed (kinetic energy) of a substance's particles.
+            Heat :: Energy in transfer from a hotter object to a colder one — nothing "contains cold"; cold is just less jiggling.
+            Which holds more thermal energy — a bathtub of warm water or a red-hot nail? >> The bathtub — it has vastly more particles, so more total energy, even though the nail's temperature is far higher.
+            Why does metal feel colder than wood at the same temperature? >> It isn't colder — metal conducts heat away from your hand faster, and your skin senses heat flow, not temperature.
+        What is the answer on mirrors flip left and right? >> No — — a mirror flips front-to-back, along the axis pointing into the mirror.
+            Your reflection's "left hand" faces your right hand only because you imagine walking around to face yourself; the mirror never swapped your sides.
+            Why does writing look backwards in a mirror? >> Because you turned the paper around to face the mirror — that turn is what swapped left and right; the mirror just shows the front-to-back view faithfully.
+    Earth, Weather & Sky Optics
+        Wind :: The movement of air from high-pressure areas to low-pressure areas, caused by uneven heating of the Earth by the Sun.
+            Warm vs. cool air and pressure? >> Warm air expands and rises, creating low pressure; cool air is denser and sinks, creating high pressure.
+        Coriolis Effect :: The apparent curving of winds (and anything else traveling far across the planet) caused by Earth's rotation — it shapes global wind patterns and the spin of storms.
+            Why does Earth's rotation curve the winds (Coriolis effect)? >> Different latitudes move east at different speeds — the equator races along at about 1,000 mph while the poles barely move — so traveling air keeps the speed of where it started and drifts sideways relative to the ground beneath it.
+            Which way does the Coriolis effect deflect winds in each hemisphere? >> To the right in the Northern Hemisphere and to the left in the Southern — which is why hurricanes spin counterclockwise north of the equator and clockwise south of it.
+            What is the answer on the Coriolis effect make drains and toilets swirl the other way in Australia? >> No — — that's a myth; at sink scale the effect is about one ten-millionth the force of gravity, so basin shape and leftover water motion decide the swirl.
+                It only matters over large distances and times: storms, ocean currents, long-range artillery.
+        Rain :: One loop of the water cycle — water endlessly changing form, never being used up.
+            Water cycle stages? >>>
+                - Evaporation — the Sun heats water into invisible vapor that rises
+                - condensation — the vapor cools into droplets around tiny dust particles, forming clouds
+                - precipitation — droplets combine until heavy enough to fall as rain, snow, or hail
+        Why do clouds float? >> Their water droplets and ice crystals are so tiny that air resistance nearly cancels their fall, and rising currents of warm air push them back up
+            rain begins when droplets merge and grow too heavy.
+        Lightning :: A massive electrical discharge — a giant spark — caused by static electricity built up inside storm clouds.
+            How do storm clouds build up electric charge? >> Ice crystals and slushy graupel pellets collide in the cloud's updrafts and swap electrons
+                lighter, positively charged ice gets swept toward the cloud top while heavier, negatively charged graupel sinks — turning the cloud into a giant charged battery.
+            Stepped leader? >> The invisible channel of charge that zigzags down from the cloud in short jumps
+                when it connects with a spark reaching up from the ground, the brilliant return stroke flashes up the channel — that's the bolt you see.
+        Thunder? >> The sound caused by lightning — the bolt heats the air in its channel to roughly 30,000 kelvin, about five times the Sun's surface temperature, in a millionth of a second; the air expands explosively, and the shock wave rolls out as the boom and rumble.
+            Why do we see lightning before we hear thunder? >> Light travels much faster than sound — count the seconds between flash and boom and divide by five to get the storm's distance in miles.
+        Ocean Salinity :: Ocean salt comes primarily from minerals dissolved out of rocks on land, plus a second source: underwater volcanic (hydrothermal) vents
+            and it concentrates because evaporation takes only the water, leaving the salt behind.
+            How do rain and rivers salt the ocean? >> Rain is slightly acidic and dissolves salts out of rocks; rivers then carry those dissolved minerals to the sea.
+        Lake Salinity? >> Most lakes stay fresh because they have outlets — rivers flow out, carrying dissolved minerals away before they can concentrate
+            lakes without outlets become very salty, since water leaves only by evaporation, which leaves the salt behind.
+        Earthquake :: Caused by the movement of tectonic plates — the large pieces of Earth's outer shell — which grind against each other at boundaries called faults.
+            What happens when friction sticks two tectonic plates together? >> Stress builds up at the stuck edges until it overcomes the friction; then the plates suddenly slip, releasing the stored energy as seismic waves — the earthquake.
+            How much more energy does a magnitude 7 earthquake release than a magnitude 6? >> About 32 times more — magnitude scales (like the Richter scale) are logarithmic.
+        Rainbow :: Caused by the reflection and refraction of sunlight inside raindrops — to see one you need the Sun behind you and rain in front of you.
+            How does a raindrop turn sunlight into a rainbow? >> The light bends (refracts) and splits into its colors (dispersion) on entry, reflects off the back of the droplet, then bends again on the way out
+                each droplet acts like a tiny prism.
+        Double Rainbow :: Appears when sunlight reflects twice inside the raindrops
+            the second bow is fainter, sits above the primary, and its colors run in reverse (red on the bottom, violet on top).
+        Alexander's Dark Band :: The noticeably darker strip of sky between the two bows of a double rainbow.
+            Why is the sky darker between a double rainbow's two bows? >> Raindrops in that band redirect sunlight away from your eyes
+                single-reflection light exits below the primary bow and double-reflection light exits above the secondary — so that strip sends you the least light.
+            Who is Alexander's Dark Band named after? >> Alexander of Aphrodisias, the Greek philosopher who first described it around 200 AD.
+        Leaf Color Change :: In fall, trees stop producing chlorophyll — the green photosynthesis pigment — in response to shorter days and cooler temperatures
+            the tree then seals the leaf's base and lets it fall.
+            What happens as a leaf's green chlorophyll breaks down? >> Other pigments that were there all along become visible.
+            Autumn leaf pigments :: Carotenoids are the yellows and oranges — always present, hidden by chlorophyll; anthocyanins are the reds and purples — actively produced in the fall.
+        Volcano :: An opening (vent) in the Earth's crust where molten rock, gas, and ash escape from below — most form at tectonic plate boundaries.
+            Magma vs. lava :: Magma is molten rock underground; lava is molten rock on the surface — same material, different address.
+            Why do volcanoes erupt? >> As magma rises, pressure drops, letting its dissolved gases expand rapidly — the expanding gas drives the eruption, like an opened bottle of shaken soda.
+        Tides :: Primarily caused by the Moon's gravitational pull on Earth's oceans — the Moon pulls the nearest water toward itself, raising a bulge (high tide).
+            Why is there a second high-tide bulge on the opposite side of Earth? >> The Moon pulls the solid Earth away from the water there, leaving that water bulging behind.
+            Why are there two high and two low tides each day? >> Earth rotates through the two tidal bulges daily.
+            Spring vs. neap tides :: Spring tides are higher, when the Sun and Moon align (full or new Moon); neap tides are lower, when they pull at right angles (quarter Moons).
+        Altitude and temperature :: Air gets colder as you climb mainly because rising air expands into lower pressure and cools (adiabatic expansion) — not because mountaintops are meaningfully farther from the Sun.
+            Adiabatic cooling :: As air rises, pressure drops, so the air expands — and expanding uses up its thermal energy, cooling it.
+            Where is the atmosphere heated from? >> The ground up — Earth's surface absorbs sunlight and radiates heat into the air above, which is why the lowest air is warmest.
+            What is the answer on the air keep cooling forever as you climb? >> No — — above the tropopause (roughly 10-12 km at mid-latitudes — as low as 8 km at the poles, up to about 18 km at the equator) the trend reverses: the stratosphere warms with altitude because its ozone absorbs the Sun's ultraviolet light directly.
+    The Human Body
+        Sleep :: Essential for physical restoration and mental organization — deprivation impairs judgment, reaction time, mood, and physical health.
+            What body-repair work happens during sleep? >> Tissue repair, muscle growth, and immune system strengthening.
+            What brain-maintenance work happens during sleep? >> Memory consolidation and waste removal — the glymphatic system flushes metabolic waste and toxins from the brain.
+        Dreams :: Vivid experiences that occur primarily during REM (Rapid Eye Movement) sleep — and are mostly forgotten, because the brain chemicals needed for memory formation are less active during REM.
+            What is dreaming for? >> Theory: candidate purposes include emotional processing, memory consolidation, and problem-solving/creativity — none is established as the answer. ##theory
+        Lucid Dreaming :: Becoming aware that you are dreaming while still asleep — often with some control over the dream's content
+            people learn it by keeping a dream journal or doing reality checks during the day.
+        Yawning :: A deep involuntary inhalation with a jaw stretch (it stretches lung tissue too) — seen in humans and most vertebrates; why we do it is not settled science.
+            Why do we yawn? >> Theory: the leading candidate is brain cooling — the deep inhalation and jaw stretch increase blood flow that may cool the brain slightly, promoting alertness. ##theory
+                Supported by experiments, but not universally accepted.
+            What is contagious yawning linked to? >> Empathy and social bonding.
+        Sickness :: What happens when pathogens (germs — bacteria or viruses) invade the body and multiply faster than the immune system's white blood cells and antibodies can eliminate them.
+            Why do we get fevers? >> Fever is a weapon, not a malfunction — the higher temperature enhances the immune response and makes the body less hospitable to some pathogens.
+        Vaccines :: Training for the immune system that doesn't cause the actual disease — they introduce a harmless form of the pathogen: weakened, dead, or just recognizable parts (antigens).
+            What happens after vaccination when the real pathogen shows up? >> The antibodies and memory cells produced in response to the vaccine mount a rapid defense, preventing or blunting the illness.
+        Herd immunity (kid-level definition) :: When enough of a population is immune, a disease can't find new hosts fast enough to keep spreading — protecting even those who cannot be vaccinated (newborns, the immunocompromised).
+            Why do different diseases need different herd-immunity thresholds? >> The more contagious the disease, the more people must be immune — measles, one of the most contagious diseases known, needs about 95% coverage.
+            What happens when vaccination rates fall below the herd-immunity threshold? >> Outbreaks return — measles resurges in undervaccinated communities even in countries that had eliminated it.
+        Vaccine Hesitancy :: Delay or refusal of vaccines despite their availability — driven by fear of side effects, misinformation, mistrust of institutions, and belief in "natural" immunity.
+            Where did the vaccines-cause-autism claim come from? >> A 1998 Lancet paper by Andrew Wakefield that was exposed as fraudulent and retracted
+                Wakefield lost his medical license, and large studies of millions of children have found no vaccine-autism link.
+            Why does vaccine hesitancy persist when the science is settled? >> Vaccines are victims of their own success — once a disease disappears, the vaccine's tiny risks feel larger than the now-invisible disease; misinformation and institutional mistrust fill the gap.
+        Bones :: Living tissue, not dead scaffolding — constantly remodeling (breaking down and rebuilding) throughout life.
+            What jobs does the skeleton do? >>>
+                - Structural support
+                - protection
+                - movement
+                - mineral storage
+                - blood cell production
+        Brain :: The control center for thought, emotion, memory, and action
+            it processes sensory information and regulates body functions like breathing and heart rate, using electrical and chemical signals passed between billions of neurons.
+        Brain Plasticity :: The brain's ability to change and adapt throughout life, rewiring its connections based on experience and learning.
+            How does the brain change when you learn something? >> Connections (synapses) between neurons strengthen with use and weaken with neglect — neurons that fire together, wire together.
+            Is the brain "fully developed" at age 25? >> Contested: the age-25 cutoff is a popular oversimplification ##theory
+                maturation (especially prefrontal) is gradual, varies by person, continues into the early 30s by some measures, and the brain keeps rewiring for life.
+            What does brain plasticity look like after an injury? >> Surviving regions can take over lost functions — stroke patients relearn speech and movement as other areas rewire.
+        Vegetables :: Provide essential vitamins, minerals, and fiber (crucial for digestive health and the gut microbiome) — regular consumption reduces the risk of chronic diseases like heart disease and cancer.
+            What do vegetables contain that protects cells from damage? >> Phytochemicals and antioxidants.
+        Goosebumps :: Caused by tiny muscles (arrector pili) contracting and pulling hair follicles upright.
+            Why do humans still get goosebumps if we're not furry? >> They're vestigial — a leftover from furrier ancestors, where raised hair trapped insulating air and made the body look bigger to threats — which is why fear and awe still trigger them.
+        Baby Development :: Begins with fertilization, forming a zygote, which divides and implants in the uterus — development then follows a genetic program influenced by environmental factors.
+            What does the placenta provide a developing baby? >> Nutrients and oxygen, delivered through the umbilical cord.
+        Obstetric Dilemma :: Theory: the proposed evolutionary conflict between big brains (favoring a wide pelvis) and efficient upright walking (favoring a narrow one) — actively contested today. ##theory
+            What compromise does the obstetric dilemma propose? >> Theory: human babies are born earlier in their development so the head can fit through the birth canal ##theory
+                with the upside that much brain growth happens outside the womb, shaped by environment and social learning.
+            Why is the obstetric dilemma contested? >> The rival EGG hypothesis (energetics of gestation and growth) argues birth timing is set by the mother's metabolic ceiling, not her hips
+                and studies find hip width doesn't measurably reduce walking efficiency.
+        Blood Type :: Determined by antigens — specific molecules on the surface of red blood cells; the variations may have evolved as adaptations to different infectious diseases.
+            Why do blood transfusions require matching types? >> A mismatch makes the immune system attack the new blood as foreign — an antigen is any substance the immune system recognizes as foreign and reacts against.
+        Fingerprints? >> Friction ridges with two main jobs: improved grip and enhanced touch sensitivity
+            they form uniquely in the womb through a mix of genetics and random environmental factors, so even identical twins have different prints.
+        Hunger :: The body's signal that it needs energy and nutrients — the brain reads low blood sugar (glucose) as one hunger cue.
+            Hunger hormones :: Ghrelin stimulates appetite; leptin and peptide YY signal fullness.
+        Tears? >>>
+            - basal (lubrication)
+            - reflex (flushing irritants)
+            - emotional — the emotional kind carry higher levels of stress hormones and likely serve social signaling and stress release
+        Belly Button :: A scar from the umbilical cord, which connected you to the placenta in the womb — whether it's an "innie" or an "outie" depends on how the scar tissue formed.
+        Aging :: The accumulation of cellular damage over time — through mechanisms like telomere shortening, DNA damage, and mitochondrial dysfunction.
+            Why didn't evolution build bodies that last forever? >> Evolution prioritizes reproduction over indefinite maintenance — genes that help you reproduce young win even if you wear out later.
+        Binocular Vision :: Seeing with two eyes at once — giving depth perception, a wider field of view, and a backup eye.
+            Predator vs. prey eye placement :: Forward-facing eyes give predators depth perception for hunting; side-placed eyes give prey a wider field of view for spotting danger.
+        Ear Wax :: Protects the ear canal and eardrum — cleaning, protection, and lubrication; jaw movements naturally carry old wax out of the ear.
+    Animals & Life
+        Why do cats purr? >> For contentment, communication (between mothers and kittens, and with humans), and self-soothing — cats also purr when injured or stressed, not only when happy.
+            How do cats purr? >> A neural oscillator in the brain rhythmically drives the laryngeal (voice box) muscles, making the vocal folds vibrate 25 to 150 times per second during both inhalation and exhalation.
+            Do purr frequencies heal bones? >> Contested: the claim that 25-150 Hz purring promotes bone density and healing is a hypothesis ##theory
+                vibration at similar frequencies shows mixed results in trials, and no study has shown a purr healing bone.
+        Why do dogs wag their tails? >> It's a complex form of communication, not simply happiness — wags can signal excitement, uncertainty, fear, or aggression.
+            Dog tail-wag asymmetry :: Wagging more to the dog's right often signals positive emotions; more to its left, negative emotions or anxiety.
+        How do bird (and airplane) wings generate lift? >> Two views of one fact: the wing deflects air downward, so the air pushes the wing up (Newton's third law), and the airflow leaves lower pressure above the wing than below (Bernoulli's principle) — both descriptions are correct accounts of the same physics.
+            What is the "equal transit time" story of lift, and what's wrong with it? >> The common claim that air over the wing's curved top must travel farther "in the same time" and so speeds up
+                a common oversimplification: air on top actually arrives ahead of air below, and flat wings and upside-down planes fly fine. What matters is the angle of attack and deflecting air downward.
+            Name three bird adaptations for efficient flight? >>>
+                - Hollow bones
+                - powerful flight muscles
+                - adjustable feathers — with thrust coming from flapping
+        How do birds know where to migrate? >>>
+            - Earth's magnetic field
+            - celestial cues (the Sun's position by day, star patterns by night)
+            - landmarks
+            - smell and sound
+            Magnetoreception :: Sensing Earth's magnetic field and using it like a compass.
+        Why do bees make honey? >> As a food storage system for the colony — and thanks to its low water content and acidity, which prevent bacterial growth, it has an extremely long shelf life.
+            What are the steps of honey-making? >>>
+                - Collect nectar from flowers
+                - mix it with enzymes that break down complex sugars
+                - deposit it in honeycomb and fan it with wings to evaporate water
+        How do fish breathe underwater? >> They extract dissolved oxygen from the water using gills — thin structures with a large surface area, rich in blood vessels.
+            Counter-current exchange :: Blood in a fish's gills flows opposite to the water passing over them, maximizing the oxygen extracted.
+        Ecdysis :: Snake skin-shedding — the outer layer doesn't grow with the snake and shedding also removes parasites
+            the snake slithers out of the old skin, usually turning it inside out in one piece.
+        Camouflage? >>>
+            - concealing coloration
+            - disruptive coloration
+            - disguise
+            - mimicry
+            Chromatophores :: Specialized cells that let some animals actively change color.
+        Photosynthesis (kid-level definition) :: How plants make food from sunlight — converting light energy into chemical energy (glucose), inside chloroplasts, using the green pigment chlorophyll to absorb the light.
+            What goes into photosynthesis and what comes out? >> In: water and carbon dioxide, powered by sunlight. Out: glucose (food), with oxygen released as a byproduct.
+        Hibernation :: An energy-saving strategy for surviving food scarcity and cold — body temperature, heart rate, breathing, and metabolic rate all drop drastically.
+        Torpor :: Contested label: the lighter winter dormancy bears enter — body temperature drops only slightly and they wake easily. ##theory
+            Older sources call this torpor rather than true hibernation; many bear physiologists now count it as genuine hibernation.
+        Are viruses alive? >> They exist in a gray area between living and non-living.
+            What makes viruses seem alive, and what makes them not? >> Alive-ish: they carry genetic material (DNA/RNA) and they evolve. Not alive: they aren't made of cells, can't reproduce independently, and have no metabolism of their own.
+            What are viruses, essentially? >> Genetic programs in protein shells that hijack cellular machinery to replicate.
+        Why do flowers smell good? >> To attract pollinators — the volatile organic compounds they release signal the presence of rewards.
+            Flower scent targeting :: Sweet scents attract bees; foul smells attract flies — some flowers mimic rotting meat.
+        Bioluminescence :: The production of light by a living organism through a chemical reaction — used for attracting mates, luring prey, defense, and camouflage.
+            What two molecules drive bioluminescence? >> Luciferin (the light-emitting molecule) and luciferase (the enzyme).
+        What are the five purposes of spider silk? >>>
+            - Trapping prey (webs)
+            - safety lines (draglines)
+            - protecting eggs (egg sacs)
+            - shelter
+            - transportation (ballooning)
+        Why do whales sing? >> For long-distance communication in the ocean — likely serving mating, territory defense, and coordination.
+            What do male humpback whales sing? >> Elaborate songs that change gradually over a season — increasingly drowned out by ocean noise pollution.
